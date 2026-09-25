@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-09-24T17:10:21+00:00`
-- checked_at: `2026-09-24T17:10:21+00:00`
-- last_modified: `Thu, 24 Sep 2026 15:30:47 GMT`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- last_modified: `Thu, 24 Sep 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-24T17:10:21+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2d855bec918ee8a76b645dc18f9287aade07142b",
+      "title": "What A Time To Be Alive! - Marina Hyde [EXCLUSIVE EXTRACT]",
+      "published_at": "2026-09-24T23:00:00+00:00",
+      "link": null,
+      "description": "The Rest Is Entertainment presents an exclusive chapter from Marina Hyde’s new book ‘What A Time To Be Alive!’ which is out now. Welcome to the dystopian soap opera of modern times. Travel to space with Lauren Sanchez and Katy Perry, let the waters close over you as Bear Grylls baptises Russell Brand in the Thames, and experience the full body impact of the Gwyneth Paltrow ski massacre trial. Lettuce also remember Liz Truss, meet – and bid farewell to – the guy they called ‘No-Drama Starmer’, and celebrate the inaugural winner of the Fifa Peace Prize as he threatens to annex countries and follows all the way through on starting wars. Experience the magic of Donald Trump’s cavalcade of henchmen, watch with nothing but optimism as our Silicon Valley overlords hit their imperial phase – and let your jaw drop as Brooklyn secedes from the Beckhams. Truly, these are times that make you want to put your hands over your eyes, even when your hands are already over your eyes. The only thing to do is read Marina Hyde’s Guardian columns and howl with laughter. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5657241938.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3369",
+      "speakers": [
+        "Marina Hyde",
+        "Richard Osman"
+      ],
+      "topics": [
+        "time",
+        "marina",
+        "hyde",
+        "exclusive",
+        "extract"
+      ]
+    },
     {
       "key": "79c73bffc4965c3c0062ed9606194b8690bd621a",
       "title": "Richard’s Top 3 Music Videos Of All Time",
@@ -6775,6 +6798,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — What A Time To Be Alive! - Marina Hyde [EXCLUSIVE EXTRACT] — speakers: Marina Hyde, Richard Osman
 - 2026-09-23 — Richard’s Top 3 Music Videos Of All Time — speakers: Richard’s Top, Sydney Sweeney, Richard Osman, Marina Hyde
 - 2026-09-22 — Inside Big Brother: Nasty Nick (Ep 1) — speakers: Nasty Nick, Tim Hincks, Kate Lawler, Richard Osman, Marina Hyde
 - 2026-09-21 — Ed Sheeran: The Fallout — speakers: Ed Sheeran, Richard Osman, Marina Hyde

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"djEuMi4wOjE3OTAxMzIyNTkzNTk="`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- etag: `"djEuMi4wOjE3OTAzMDUwNTkzNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fb1913ce86e1c8e6c113baa4e11740231e342799",
+      "title": "Charlie Higson on King Zero - Book Club",
+      "published_at": "2026-09-25T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club 195 - King Zero - Rich is at the Podcast Room talking to the multi-talented Charlie Higson about his new James Bond novel, King Zero. They talk about how this is Richard’s first Bond book and how his expectations were confounded, how Higson is so knowledgeable about the deserts of Saudi Arabie, whether Bond is now woke and the difficulties of placing him in a different era, whilst still acknowledging his past, why Charlie wanted to resurrect the Sado-masochism of the original novels and was able to indulge some horrible thoughts in the mouths of his more despicable characters. Is he worried that he’s come up with a plot that will destroy the world? Plus a brief side bar about his work on the Fighting Fantasy franchise. Buy the book here - https://uk.bookshop.org/p/books/king-zero-charlie-higson/2d0aab29c6683403 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789578184179-e3fc5137-e9b2-4ce3-b177-919d0e02c415.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aaacbe5fca3d5c77bc3d3bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20251167",
+      "itunes_duration": "42:11",
+      "speakers": [
+        "Charlie Higson",
+        "Richard Herring"
+      ],
+      "topics": [
+        "charlie",
+        "higson",
+        "king",
+        "zero",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "0eb50a6edd6f34b9cd7c5634dfdada52bd927304",
       "title": "Paddy Young - \"Ultrasound Tester\"",
@@ -23982,6 +24006,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Charlie Higson on King Zero - Book Club — speakers: Charlie Higson, Richard Herring
 - 2026-09-23 — Paddy Young - "Ultrasound Tester" — speakers: Edinburgh Fringe, Richard Herring
 - 2026-09-21 — Mike Bubbins (Retro) - "Podcast Teeth" — speakers: Mike Bubbins, Richard Herring
 - 2026-09-19 — Rich and Ally's Craven Newsround Compilation - No Immediate Protocol — speakers: Craven Newsround Compilation, No Immediate Protocol Wednesday, No Immediate Protocol, Richard Herring

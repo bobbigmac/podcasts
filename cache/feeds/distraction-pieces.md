@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"djEuMi4wOjE3OTAxMzM2MzkzNjg="`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- etag: `"djEuMi4wOjE3OTAzMDY0MzkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a6139946f5f1cc13ff6139b8e1f74d92ec3b6d2c",
+      "title": "JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind",
+      "published_at": "2026-09-25T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with JAMES BUCKLEY , originally episode 144 from 2017-03-29. A fun one from way back in the day now, which Inbetweeners heads will love and newcomers (if such a thing is possible) will enjoy equally. Tons of goodness and fun in this one, which at time of publishing is almost 10 years old! PIP'S PATREON PAGE if you're of a supporting nature IMDB PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1790001495982-d71cb841-597d-48bc-8552-c32dd4402f19.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ab1426b683c10f2d10500dd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "211994172",
+      "itunes_duration": "1:28:14",
+      "speakers": [
+        "James Buckley"
+      ],
+      "topics": [
+        "james",
+        "buckley",
+        "inbetweeners",
+        "white",
+        "gold",
+        "mother",
+        "pride",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "e4624c9f01cfe06e0c592491a25788bb108b8206",
       "title": "RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688",
@@ -19644,6 +19670,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind — speakers: James Buckley
 - 2026-09-23 — RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688 — speakers: Royle Family
 - 2026-09-18 — RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind
 - 2026-09-16 — THE CATCH UP • ...with Buddy & Pip! #687

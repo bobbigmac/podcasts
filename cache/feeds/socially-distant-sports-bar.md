@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-22T23:37:24+00:00`
-- checked_at: `2026-09-22T23:37:24+00:00`
-- etag: `"djEuMi4wOjE3OTAxMTg0NTkzMzQ="`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- etag: `"djEuMi4wOjE3OTAyOTQzNzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-22T23:37:24+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "d9dadafe0bae111c67893013b534d8ec2e5adcd7",
+      "title": "The Special One",
+      "published_at": "2026-09-24T23:59:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-special-one",
+      "description": "The Special One In this week’s The Socially Distant Sports Bar , Elis James, Mike Bubbins and Steff Garrero have a documentary and book which take us into two very different stories of coaching, leadership and sporting history. Documentary of the Week Elis: Mourinho Elis chooses Part 1 of the new Netflix documentary about José Mourinho , tracing his journey from working alongside Bobby Robson at Barcelona to announcing himself to English football with that extraordinary first spell at Chelsea. Before the fallouts, sackings and rather more complicated chapters that would follow, there was the young Mourinho: ambitious, charismatic, tactically obsessive and rapidly becoming The Special One . https://www.netflix.com/title/81762073 Book of the Week Mike: Rugby’s Forgotten Black Leader by Tony Collins Mike brings in Tony Collins’ fascinating account of Roy Francis , one of the great overlooked figures in British sporting history. Born in Cardiff and raised in Brynmawr, Francis went on to play rugby league for Wigan in the late 1930s before moving into coaching. At Hull, he became the first Black professional head coach in British sport , pioneering new approaches to coaching and training while confronting the racism of the era. It’s a remarkable Welsh story, a rugby league story and an important piece of British sporting history that deserves to be far better known. https://link.amazon/B0azGPvXt Two very different coaches. Two very different eras. And plenty for Elis, Mike and Steff to get stuck into. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ab10cc9010fc0f7a3fe8a64/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110120640",
+      "itunes_duration": "45:52",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "special"
+      ]
+    },
     {
       "key": "ef2a36495754c4e9b86b64003ff9ac3921554db8",
       "title": "Vivacious Vicar",
@@ -16031,6 +16051,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — The Special One — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-22 — Vivacious Vicar — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-19 — Mike Wants Free Shirts: Pint Size — speakers: Mike Wants Free Shirts, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-17 — Raygun & Sammy Sex — speakers: Elis James, Mike Bubbins, Steff Garrero

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-24T04:48:57+00:00`
-- checked_at: `2026-09-24T04:48:57+00:00`
-- last_modified: `Wed, 23 Sep 2026 23:00:00 GMT`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- last_modified: `Thu, 24 Sep 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-24T04:48:57+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "86ab08f7b048a290ba08e211118f10bf0a36ba8d",
+      "title": "Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli)",
+      "published_at": "2026-09-24T22:55:00+00:00",
+      "link": null,
+      "description": "Why have we stopped talking about the risk of nuclear war when the risk is greater than ever? What is a ‘nuclear winter’ and why are nuclear exchanges such extreme risks for the future of humanity? And should the UK be investing in nuclear weapons – or could this make the country more vulnerable? Rory is joined this week by physicist and philosopher, Carlo Rovelli for the next episode in his series on Existential Risk. Catch up on episode one with Yuval Noah Harari ⁠here.⁠ To hear the whole epiosde, sign up at therestispolitics.com Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/faa0a2ea-b821-11f1-83ce-b3fd13556486/image/c5b30f0a32b6c9259bb5ea1ebb393641.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9537500677.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1096",
+      "speakers": [
+        "Carlo Rovelli"
+      ],
+      "topics": [
+        "nuclear",
+        "carlo",
+        "rovelli"
+      ]
+    },
     {
       "key": "301f31384437bf26d84e4fb1ce8a17fc5581646e",
       "title": "574. Germany’s Political Disaster and Can the Lib Dems Fight Back?",
@@ -70,7 +90,7 @@
       "published_at": "2026-09-17T23:00:00+00:00",
       "link": null,
       "description": "Episode 2 is available right now for TRIP Plus members. Sign up at therestispolitics.com What can the Aztec Empire's catastrophic failure to understand Cortés and the Spanish conquistadors teach us about the threat AI poses today? Why does Yuval Noah Harari believe our gut refuses to accept an \"alien intelligence\" our brains already understand to be a threat? And can Britain avoid becoming an \"AI vassal state\" - or has that moment already passed? Rory is joined by Professor Yuval Noah Harari for Part 1 of their conversation on existential threats. Part 2 is available now for TRIP Plus members. Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/3154b0a0-b12a-11f1-b9ef-e720abc2d09d/image/e00ca4f81fd84a4709164f1bbf52d246.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/3154b0a0-b12a-11f1-b9ef-e720abc2d09d/image/d37d1a91c744df03eea6e0298defb2b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9593153845.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -13047,6 +13067,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli) — speakers: Carlo Rovelli
 - 2026-09-23 — 574. Germany’s Political Disaster and Can the Lib Dems Fight Back?
 - 2026-09-22 — 573. Burnham and Carney vs. Trump, and the Diana Dispute
 - 2026-09-17 — The Greatest Threat Humans Just Can’t Stomach with Yuval Noah Harari — speakers: Yuval Noah Harari

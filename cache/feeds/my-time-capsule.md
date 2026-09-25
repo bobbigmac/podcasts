@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-20T23:15:51+00:00`
-- checked_at: `2026-09-20T23:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODk5NDUzNTkzMTI="`
+- fetched_at: `2026-09-25T04:56:44+00:00`
+- checked_at: `2026-09-25T04:56:44+00:00`
+- etag: `"djEuMi4wOjE3OTAyOTA5NjA1MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-20T23:15:51+00:00",
+  "fetched_at": "2026-09-25T04:56:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ba9d388e47d2fffe5e4255773f3dea911961b790",
+      "title": "My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood)",
+      "published_at": "2026-09-24T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-19-with-karl-howman-brush-strokes",
+      "description": "Karl Howman was our guest in episode 439 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Karl Howman is best known for playing Jacko in the hit BBC sitcom Brush Strokes . His other major credits include Mulberry , Bad Boys , Babes in the Wood and, more recently, Buster Briggs in EastEnders . On film, he appeared in The Long Good Friday , That’ll Be the Day , Stardust and Porridge . Also, Mike and his producer and son John chat about this weeks episode and answer listener's emails and voice notes . Listen to David Karl Howman's original episode - https://mytimecapsulepodcast.com/episodes?q=439 . Follow Karl Howman on Instagram : @karlhowman13 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1790276092177-3d7dc4a8-32f2-4d21-9823-d9db515aebb5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ab572ad432e34fa45f12986/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46237696",
+      "itunes_duration": "38:31",
+      "speakers": [
+        "Karl Howman"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "karl",
+        "howman",
+        "brush",
+        "strokes",
+        "eastenders",
+        "mulberry",
+        "babes",
+        "wood"
+      ]
+    },
     {
       "key": "2026f9791e92478cc5d20c1367b5931dc3cd9273",
       "title": "Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It",
@@ -13529,6 +13556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood) — speakers: Karl Howman
 - 2026-09-20 — Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It — speakers: Quantick Returns Emmy, Brass Eye, David Quantick
 - 2026-09-17 — My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It) — speakers: David Quantick, Brass Eye
 - 2026-09-13 — Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert — speakers: Mark Stuckey Bbc, Mark Stuckey
