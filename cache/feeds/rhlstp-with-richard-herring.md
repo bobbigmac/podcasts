@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-25T04:56:44+00:00`
-- checked_at: `2026-09-25T04:56:44+00:00`
-- etag: `"djEuMi4wOjE3OTAzMDUwNTkzNjc="`
+- fetched_at: `2026-09-26T16:22:56+00:00`
+- checked_at: `2026-09-26T16:22:56+00:00`
+- etag: `"djEuMi4wOjE3OTA0MjU1NTU4Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-25T04:56:44+00:00",
+  "fetched_at": "2026-09-26T16:22:56+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0fdebdc493b0ccb0b20928b758b52963d9834808",
+      "title": "Rich and Ally's Craven Newsround Compilation - Shrinkflaktion",
+      "published_at": "2026-09-26T12:25:56+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Wednesday 23rd September 2026 - Shrinkflaktion - After a brief personal spat Rich and Ally look at Ebola and chocolate bars, but not at the same time. Has chocolate got smaller? Did it get bigger under Tony Blair’s leadership? Why didn’t Ally sing “Twix can only get bigger” at that point? Is brand curator a job that you can be proud of? And a special report from inside a chocolate factory, but by which character? Thursday 24th September 2026 - News 101 - The latest opinion polls are out and it’s bad news for Nigel Farage, but not particularly good news for any of the parties, though Andy Burnham seems particularly happy. We visit Farage in his natural surroundings to find out how he feels about it all and Rich hedges his bets so he won’t be first up against the wall if people fail to vote to keep him out. Friday 25th September 2026 - Beetroot Fairytale Palaces - Reporting the stories you won’t see in the Lamestream media, Rich and Ally give a full report on this year’s massive vegetable competition. With some warnings to those of you intending to make some cumpkins this year. I would write more but I need to pick my won up from school. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790425347359-e6ab73d1-d55f-4775-b1a2-c663256f4e56.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ab7b9d3c2f996ec75e112d9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34998912",
+      "itunes_duration": "1:12:54",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "shrinkflaktion"
+      ]
+    },
     {
       "key": "fb1913ce86e1c8e6c113baa4e11740231e342799",
       "title": "Charlie Higson on King Zero - Book Club",
@@ -24006,6 +24028,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-26 — Rich and Ally's Craven Newsround Compilation - Shrinkflaktion — speakers: Richard Herring
 - 2026-09-25 — Charlie Higson on King Zero - Book Club — speakers: Charlie Higson, Richard Herring
 - 2026-09-23 — Paddy Young - "Ultrasound Tester" — speakers: Edinburgh Fringe, Richard Herring
 - 2026-09-21 — Mike Bubbins (Retro) - "Podcast Teeth" — speakers: Mike Bubbins, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-25T17:10:03+00:00`
-- checked_at: `2026-09-25T17:10:03+00:00`
-- etag: `"djEuMi4wOjE3OTAzMzE4OTM2ODQ="`
+- fetched_at: `2026-09-26T16:22:56+00:00`
+- checked_at: `2026-09-26T16:22:56+00:00`
+- etag: `"djEuMi4wOjE3OTA0Mzg0MzkzMjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-25T17:10:03+00:00",
+  "fetched_at": "2026-09-26T16:22:56+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4b4a27dec438bee431709f39b128432de68fafc3",
+      "title": "Is Ed Davey too nice?",
+      "published_at": "2026-09-26T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/is-ed-davey-too-nice",
+      "description": "The rise of balaclava Britain, Kemi Badenoch’s billionaire baloney and Donald Trump’s AI rebrand. Anoosh Chakelian and Will Dunn discuss the stories of the week. 📚 READ: https://www.newstatesman.com/politics/uk-politics/2026/09/ed-davey-has-a-superpower-immunity-from-embarrassment https://www.newstatesman.com/politics/bursting-the-bubble/2026/09/the-rise-of-balaclava-britain https://www.newstatesman.com/business/economics/2026/09/kemi-badenochs-billionaire-baloney LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1790331427547-da63dc32-ef89-405d-adb2-50a6cb5398e1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ab64a1154456ff81f606e9b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65073116",
+      "itunes_duration": "33:39",
+      "speakers": [
+        "Donald Trump’s AI",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "davey"
+      ]
+    },
     {
       "key": "fd302dc1a4d4c6ebf57095af045cbb799f1ea82f",
       "title": "Has power changed Andy Burnham?",
@@ -32440,6 +32460,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-26 — Is Ed Davey too nice? — speakers: Donald Trump’s AI, Anoosh Chakelian, Oli Dugmore
 - 2026-09-24 — Has power changed Andy Burnham? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-19 — Will AI kill us all? — speakers: Will AI, Anoosh Chakelian, Oli Dugmore
 - 2026-09-17 — Burnham's political donations headache — speakers: Ben Delo, Anoosh Chakelian, Oli Dugmore
