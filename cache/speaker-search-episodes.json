@@ -13325,6 +13325,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:51109e33027e",
+        "feed_title": "Wrong Turns with Jameela Jamil",
+        "source_rss_url": "https://rss.art19.com/wrong-turns-jameela-jamil",
+        "dedupe_key": "ff063630b9a2198b31bbeb7cc2fd219fa88a99d5",
+        "episode_key": "ff063630b9a2198b31bbeb7cc2fd219fa88a99d5",
+        "title": "Simon Pegg and Richard Herring [ReTurn]",
+        "published_at": "2026-09-24T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jameela's back in London to hang out with comedy legends Simon Pegg (Star Trek, Shaun of the Dead, Only What We Carry) and Richard Herring (Taskmaster, Can I Have My Ball Back?, RHLSTP with Richard Herring).\nPublic nudity tales abound, we get into the risks of accidentally seeing nudes when someone else shows you somet",
+        "audio_url": "https://pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/18/rss.art19.com/episodes/170b8ea5-5fd7-4268-9a60-86b222c5f03d.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/simon-pegg-and-richard-herring-return/id1498855031?i=1000791399218&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
@@ -13603,6 +13625,28 @@
         "feed_image_url": null,
         "description": "Jameela’s back in London to hang out with comedy legends Simon Pegg (Mission: Impossible - The Final Reckoning, Star Trek, Shaun of the Dead) and Richard Herring (Task Master, Richard Herring’s Leicester Square Theatre Podcast, Edinburgh Fringe). \nEveryone shares tales of public nudity, we get into the risks of seeing ",
         "audio_url": "https://sphinx.acast.com/p/open/s/686302e79951fac41b1d2418/e/688a72a16bbbf6afc7188eed/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/simon-pegg-and-richard-herring/id1498855031?i=1000719947581&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:51109e33027e",
+        "feed_title": "Wrong Turns with Jameela Jamil",
+        "source_rss_url": "https://rss.art19.com/wrong-turns-jameela-jamil",
+        "dedupe_key": "dd6baa45b465621179bcdc44954b9c6a6b6b6d6a",
+        "episode_key": "dd6baa45b465621179bcdc44954b9c6a6b6b6d6a",
+        "title": "Simon Pegg and Richard Herring",
+        "published_at": "2025-07-31T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jameela’s back in London to hang out with comedy legends Simon Pegg (Mission: Impossible - The Final Reckoning, Star Trek, Shaun of the Dead) and Richard Herring (Task Master, Richard Herring’s Leicester Square Theatre Podcast, Edinburgh Fringe). \nEveryone shares tales of public nudity, we get into the risks of seeing ",
+        "audio_url": "https://pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/18/rss.art19.com/episodes/c1660548-60b7-4276-9a52-53349398933e.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
         "link_url": "https://podcasts.apple.com/gb/podcast/simon-pegg-and-richard-herring/id1498855031?i=1000719947581&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
