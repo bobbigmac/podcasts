@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-09-27T05:17:26+00:00`
-- checked_at: `2026-09-27T05:17:26+00:00`
+- fetched_at: `2026-09-27T12:00:55+00:00`
+- checked_at: `2026-09-27T12:00:55+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-09-27T05:17:26+00:00",
+  "fetched_at": "2026-09-27T12:00:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0127ec5ea869a342082b6929972f733f364bd62b",
+      "guid": "17b1745f-3995-4157-9bba-61efbdb06691",
+      "title": "The Ellie Taylor Show (27th September)",
+      "published_at": "2026-09-27T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-27th-september/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1790492425-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=17b1745f-3995-4157-9bba-61efbdb06691&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "e701a4d61cd27e98516d6644444db4dc1f5dea6a",
       "guid": "9334da6a-e0b2-484c-a710-5f83557578d2",
@@ -1656,6 +1669,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — The Ellie Taylor Show (27th September)
 - 2026-09-20 — The Ellie Taylor Show (20th September)
 - 2026-09-13 — The Ellie Taylor Show (13th September)
 - 2026-09-06 — The Ellie Taylor Show (6th September)
