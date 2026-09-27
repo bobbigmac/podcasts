@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"djEuMi4wOjE3OTAxMzI0Mzk3Nzk="`
+- fetched_at: `2026-09-27T05:17:26+00:00`
+- checked_at: `2026-09-27T05:17:26+00:00`
+- etag: `"djEuMi4wOjE3OTA0NzQ0MzkzNzk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-27T05:17:26+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d536c17ac441d143b45d21a4b9163c523c4e9eed",
+      "title": "S6 EP3: Paul Foot",
+      "published_at": "2026-09-27T02:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s6-ep3-paul-foot",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Paul Foot. We asked Paul what he did yesterday? He told us. That's it... enjoy! Paul Foot has announced extra dates for The Future , his brand-new live show touring across the UK after it’s critically acclaimed premiere at the Edinburgh Festival Fringe this August. The UK tour will begin in Bristol on 13thSeptember before taking in towns and cities nationwide and ending in Bridport in May next year. The pioneering alt-comedy favourite and star of 8 Out of 10 Cats Does Countdown blew audiences away during the Fringe and secured his second co-win at the ISH Edinburgh Comedy Awards. He will now tour venues across the UK including two weeks at London’s Soho Theatre. Tickets are on sale now and available from www.www.paulfoot.tv . Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ab84c8759a98735e1d76fbb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "219204701",
+      "itunes_duration": "1:31:20",
+      "speakers": [
+        "Paul Foot",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "paul",
+        "foot"
+      ]
+    },
     {
       "key": "427d8f3d7018bc8c6a82c01910f25acf6062a04f",
       "title": "WDWDY #88.1: Prestige Broadcasting (David's Yesterday)",
@@ -4144,6 +4165,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — S6 EP3: Paul Foot — speakers: Paul Foot, Max Rushden, David O'Doherty
 - 2026-09-23 — WDWDY #88.1: Prestige Broadcasting (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-09-20 — S6 EP2: Chris Lintott — speakers: Chris Lintott, Max Rushden, David O'Doherty
 - 2026-09-16 — WDWDY #87.1: The Redemption of Michael Suriname (Max's Yesterday) — speakers: Michael Suriname, Max Rushden, David O'Doherty

@@ -24948,6 +24948,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:7ab64334a67c",
+        "feed_title": "The Green Man Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
+        "dedupe_key": "2a5fc32634c632a525eb1717fe225b18fed76b2e",
+        "episode_key": "2a5fc32634c632a525eb1717fe225b18fed76b2e",
+        "title": "Josie Long & Stewart Lee",
+        "published_at": "2026-09-25T13:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Two of our comedy heroes putting the world to rights? Oh, go on then.  \n\nStew and Josie talk political activism in comedy, and pessimism of the intellect vs optimism of the will. How does one engage revolutionary optimism, and when did Josie come to realise that her comedy shows have been doing just that? They discuss ",
+        "audio_url": "https://traffic.megaphone.fm/KILM6671976575.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josie-long-stewart-lee/id1701170588?i=1000791626971&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",

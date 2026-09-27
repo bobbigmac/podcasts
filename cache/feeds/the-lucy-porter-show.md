@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-09-20T04:53:02+00:00`
-- checked_at: `2026-09-20T04:53:02+00:00`
+- fetched_at: `2026-09-27T05:17:26+00:00`
+- checked_at: `2026-09-27T05:17:26+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-09-20T04:53:02+00:00",
+  "fetched_at": "2026-09-27T05:17:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cfcf03463aeaf6e5f1f564189f9af750946ecc26",
+      "guid": "7f24590d-e673-4e92-ba11-d8b23b039967",
+      "title": "The Lucy Porter Show (27th September)",
+      "published_at": "2026-09-27T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-27th-september/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1790481638-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7f24590d-e673-4e92-ba11-d8b23b039967&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "7b5dcf9c03c79f97b6aea043794aa2bf48e5c467",
       "guid": "b2190f29-3562-4ec4-b6ba-42bd9703a4a6",
@@ -1656,6 +1669,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — The Lucy Porter Show (27th September)
 - 2026-09-20 — The Lucy Porter Show (20th September)
 - 2026-09-13 — The Lucy Porter Show (13th September)
 - 2026-09-06 — The Lucy Porter Show (6th September)

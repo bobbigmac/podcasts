@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/?page=5",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/?page=5",
-  "fetched_at": "2026-09-20T04:53:02+00:00",
+  "fetched_at": "2026-09-27T05:17:26+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "708e4bc75f4fac019b5db27286c8bfefdc5cfc70",
+      "guid": "36159b6c-840e-4fde-864d-b1b68e16dec9",
+      "title": "The Lucy Porter Show (9th June)",
+      "published_at": "2024-06-09T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-9th-june1/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1717909811-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=36159b6c-840e-4fde-864d-b1b68e16dec9&awCollectionId=fubar_radio-standalone&providerId=fubar_",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "9bdf54aa93b61818214ac4b1fdd6dd320f05a75b",
       "guid": "0ccf97c3-7ea2-488a-9be9-5bf4d2cc4a67",

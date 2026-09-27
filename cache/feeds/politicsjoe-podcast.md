@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-26T16:22:56+00:00`
-- checked_at: `2026-09-26T16:22:56+00:00`
-- etag: `"djEuMi4wOjE3OTAzNTA3NjgwNjY="`
+- fetched_at: `2026-09-27T05:17:26+00:00`
+- checked_at: `2026-09-27T05:17:26+00:00`
+- etag: `"djEuMi4wOjE3OTA0ODUyMzk0NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-26T16:22:56+00:00",
+  "fetched_at": "2026-09-27T05:17:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cfa1fd445931dade819011f0eac27a11d19bc195",
+      "title": "Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview",
+      "published_at": "2026-09-27T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ab695af59a98735e19a9314",
+      "description": "Daron Acemoglu is a Nobel Prize-winning economist and author of What Happened to Liberal Democracy. He joined Ava to explain why liberal democracy is facing one of its biggest crises in generations — and what needs to change to save it. Acemoglu argues that the problems facing democracies go much deeper than individual politicians. Across the UK, US and Europe, trust in political institutions has eroded as economic growth has become less widely shared, communities have weakened and the relationship between political elites and working-class voters has fractured. Buy Daron's book here: https://profilebooks.com/work/what-happened-to-liberal-democracy/ Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ab695af59a98735e19a9314/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73007007",
+      "itunes_duration": "38:00",
+      "speakers": [
+        "Daron Acemoglu"
+      ],
+      "topics": [
+        "nobel",
+        "economist",
+        "democracy",
+        "daron",
+        "acemoglu"
+      ]
+    },
     {
       "key": "b7b224ef2cdd769a12a3d5305154057d012da441",
       "title": "Trump will lead to America's downfall | Owen Jones Interview",
@@ -13707,6 +13729,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview — speakers: Daron Acemoglu
 - 2026-09-25 — Trump will lead to America's downfall | Owen Jones Interview — speakers: Owen Jones
 - 2026-09-23 — Trump's Greenland Deal Isn't What You Think | Scott Lucas interview — speakers: Scott Lucas
 - 2026-09-22 — Going deep on Ed Sheeran's Palestine downfall — speakers: Ed Sheeran
