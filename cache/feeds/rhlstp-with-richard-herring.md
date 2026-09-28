@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-26T16:22:56+00:00`
-- checked_at: `2026-09-26T16:22:56+00:00`
-- etag: `"djEuMi4wOjE3OTA0MjU1NTU4Njg="`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"djEuMi4wOjE3OTA1NjQyNTkzMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-26T16:22:56+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2b5a057fc20b6b46d9da5e08161f878c308bb2ce",
+      "title": "Catherine Tate (Retro) - \"Am 'I' Bovvered?\"",
+      "published_at": "2026-09-28T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#450 Am “I” Bovvered? - Richard is now wax free, but contemplating a career change, His guest is actor, writer, stand up and phenomenon Catherine Tate. They discuss whether Catherine and Tom Cruise are friends now, crying in Twickenham station, how Mcfly were the launchpad for Lauren, whether Noel Edmonds is a monster, doing sketches with war criminals and Brexiteers, not being told your series has been cancelled, why the Queen of Oz is NOT based on any ginger prince. Plus find out if Catherine would rather date a man who was a six foot penis or a man with a tiny man instead of a penis. Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790172142070-8b076363-263e-41b6-8c24-018c9df55a0a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ab3db4e62a47b6bec635adf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29051924",
+      "itunes_duration": "1:00:31",
+      "speakers": [
+        "Catherine Tate",
+        "Richard Herring"
+      ],
+      "topics": [
+        "catherine",
+        "tate",
+        "retro"
+      ]
+    },
     {
       "key": "0fdebdc493b0ccb0b20928b758b52963d9834808",
       "title": "Rich and Ally's Craven Newsround Compilation - Shrinkflaktion",
@@ -24028,6 +24049,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Catherine Tate (Retro) - "Am 'I' Bovvered?" — speakers: Catherine Tate, Richard Herring
 - 2026-09-26 — Rich and Ally's Craven Newsround Compilation - Shrinkflaktion — speakers: Richard Herring
 - 2026-09-25 — Charlie Higson on King Zero - Book Club — speakers: Charlie Higson, Richard Herring
 - 2026-09-23 — Paddy Young - "Ultrasound Tester" — speakers: Edinburgh Fringe, Richard Herring

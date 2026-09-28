@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-24T17:10:21+00:00`
-- checked_at: `2026-09-24T17:10:21+00:00`
-- etag: `"djEuMi4wOjE3OTAyNTY2MzkzNDI="`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"djEuMi4wOjE3OTA1Njk4Mzk0NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-24T17:10:21+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ba9f80234e2a0204d1eb41f8ff320b8c4d9a6d25",
+      "title": "642 Coyote vs. ACME",
+      "published_at": "2026-09-28T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/642-coyote-vs-acme",
+      "description": "Welcome and hello! This week we discuss the long delayed and previously cancelld Coyote vs. ACME. We also take a look at the first image from the next Lord of the Rings movie, trailers for Ray Gunn, Clayface and Gremlins 3, a delay on Dynamic Duo and hot quick news covering Robert Pattinson's Batman entering the DCU, Godzilla Minus Zero being R rated, Daredevil cancelled and more! Thaks for listening Maso on new-ish episode of the Do Go On podcast! Episode 568: https://dogoonpod.com/podcasts/do-go-on/ New bonus for 'Big Sandwich' members out now! It's a special Green Lantern episode of Booque Clubbe looking at the comic FAR SECTOR! It's also in both audio and video form over at bigsandwich.co and patreon.com/mrsundaymovies - you can also watch with YouTube Memberships over youtube.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 07:26 New Look at Hunt for Gollum 13:40 Ray Gunn Trailer 19:23 Clayface Final Trailer 21:48 Gremlins 3 Teaser 27:02 Dynamic Duo Delays but Don't Dismays 32:14 Hot Quick News! 34:11 Pattinson Talks Batman in DCU 35:28 Godzilla Minus Zero's R-Rated Record 36:11 Spider-Man: Brand New Day Director's New Deal 37:23 Daredevil: Born Again Ending at Season 3 38:53 Coyote vs. ACME Movie Review 56:00 Coyote vs. ACME Spoiler Segment 01:00:20 What We Reading, What We Gonna Read 01:07:30 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ab7eed816ca37c5a0ed8780/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142044295",
+      "itunes_duration": "1:38:38",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "coyote",
+        "acme"
+      ]
+    },
     {
       "key": "a80796dd55ca4d8258795715365d9fd533a5df03",
       "title": "Blade Runner - Caravan Of Garbage",
@@ -23163,6 +23183,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — 642 Coyote vs. ACME — speakers: James Clement, Nick Mason
 - 2026-09-24 — Blade Runner - Caravan Of Garbage — speakers: Blade Runner Caravan, Blade Runner, James Clement, Nick Mason
 - 2026-09-21 — 641 Resident Evil 2026 — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-09-17 — Resident Evil: The Final Chapter - Caravan Of Garbage — speakers: James Clement, Nick Mason

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T04:54:18+00:00`
-- etag: `"e678cde15d822a3df6f0dbd1941c855e"`
-- last_modified: `Mon, 21 Sep 2026 04:00:06 GMT`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"fb41feab965a36ec26b0b3eba16462a4"`
+- last_modified: `Mon, 28 Sep 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "6c32422f0b5bffd3c43d43f2ccf1d4cc39a54d43",
+      "title": "Your Mum",
+      "published_at": "2026-09-28T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pcb81m",
+      "description": "Laura Smyth speaks to celebrity guests to find out about the mothers who made them. This week Laura is joined by comedians Sara Barron and Nish Kumar and boy is it the battle of the big personality mums! We hear all about Sara’s mum’s main character energy and her mantra ‘we’re not like other girls’. We learn about Nish’s mum leading her entire family to England aged just 15, and the mic drop way in which she introduces herself to strangers. And we conclude that maybe it makes total sense for all mothers to be a little bit mad? Producer: Sasha Bobak Assistant Producer: Eve Delaney Executive Producer: Pete Strauss Production Co-ordinator: Asha Osborne-Grinter A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcb40l.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
+      "itunes_duration": "1706",
+      "speakers": [
+        "Laura Smyth"
+      ],
+      "topics": []
+    },
     {
       "key": "8c215447d63e81bbe8bb504bf62567ddd8985701",
       "title": "Omid Djalili: Namaste",
@@ -990,27 +1006,6 @@
       ]
     },
     {
-      "key": "1129e9c761bd4e5f2f5619861118caa9fd12cf3d",
-      "title": "Glenn Moore's Almanac",
-      "published_at": "2025-09-22T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0m2gvw4",
-      "description": "Comedian Glenn Moore looks in his almanac at world events and what he was doing at the time. In this episode, a deadly spy operation causes Glenn to suspect his completely innocent Russian flatmate who just happens to have a novelty cigarette lighter in the shape of a gun. And not a novelty gun in the shape of a cigarette lighter. Perhaps best-known for his outrageously brilliant one-liners on Mock The Week , Glenn delivers a tale of comic mishaps and extraordinary scenes interwoven with a big event in history – and looks back through his almanac to find out other strange connections to the day as well. This is the first episode of the Second series of Glenn Moore's Almanac. To hear more episodes, search \"Stand-Up Specials\" on BBC Sounds. Written by Glenn with additional material by Katie Storey (Have I Got News For You, Mock The Week, The Last Leg) and produced and directed by David Tyler (Cabin Pressure, Armando Iannucci’s Charm Offensive, etc) A Pozzitive production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m2gtl6.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27616000",
-      "itunes_duration": "1726",
-      "speakers": [
-        "Glenn Moore",
-        "Comedian Glenn Moore"
-      ],
-      "topics": [
-        "glenn",
-        "moore",
-        "almanac"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1039,6 +1034,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Your Mum — speakers: Laura Smyth
 - 2026-09-21 — Omid Djalili: Namaste — speakers: Omid Djalili, Namaste Omid Djalili
 - 2026-09-14 — Unspeakable — speakers: Jessie Cave
 - 2026-09-07 — The Skewer — speakers: Jon Holmes
@@ -1089,5 +1085,4 @@
 - 2025-10-13 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
 - 2025-10-06 — Do Gooders — speakers: Gooders Ken
 - 2025-09-29 — Ria Lina Gets Forensic: Microneedling — speakers: Ria Lina Gets Forensic, Microneedling Former, Ria Lina
-- 2025-09-22 — Glenn Moore's Almanac — speakers: Glenn Moore, Comedian Glenn Moore
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore

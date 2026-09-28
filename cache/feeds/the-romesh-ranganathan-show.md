@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-24T04:48:57+00:00`
-- checked_at: `2026-09-24T04:48:57+00:00`
-- last_modified: `Wed, 23 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- last_modified: `Sun, 27 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-24T04:48:57+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9cd810d4fe42e86f34ccf4af2c0cc40385eae8e7",
+      "title": "Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up",
+      "published_at": "2026-09-27T23:01:00+00:00",
+      "link": null,
+      "description": "What did Eddie Murphy say to Lenny Henry? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by the legendary comedian, actor, and writer, Sir Lenny Henry. The pair look back at Lenny’s incredible career, from his early stand-up and TV shows, to his latest projects. They discuss racism, realities of working in the entertainment industry, and the pressure that comes with a long career. Lenny talks about his return to stand-up with his new tour, Lenny Henry: Still at Large , and his new BBC show, The Split Up (available on BBC iPlayer now). Plus, they deep dive into the world of being a stand-up comedian, inspirations, and how it's changed over the years. Elsewhere, Romesh and Lenny get into self-care, manscaping, and some questionable fashion choices, and Lenny opens up about death, grief, and some of the lessons he’s learned throughout his life. Plus, Shanthi has a bone to pick with Romesh... A fascinating conversation about comedy, careers, ageing, loss, and what it takes to keep going. A Ranga Bee Production in partnership with Platform Media. If therapy is something you've been thinking about, visit Counselling Directory and find a therapist that's right for you: https://www.counselling-directory.org.uk/?utm_source=youtube&utm_medium=podcast&utm_campaign=romesh_sponsorship Chapters 00:00 Intro 03:46 When Lenny and Romesh met 05:20 A gift for Lenny 08:34 Lenny’s career 13:53 On True Identity 17:30 On chef and career mentality 18:54 The challenges of the industry 20:44 Lenny reads Romesh 22:45 Self-care and manscaping 25:20 Fashion faux pas 29:29 The upcoming tour and being on stage 40:06 A question from Shanthi on impressions 43:54 The Split Up 29:38 Misquoted 57:11 On death and grief 58:45 Some advice from Lenny 59:59 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f08bb814-b8fb-11f1-acb5-e70b2bae31d4/image/97fc5cfb2418473416e56280bacd4abb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2203736474.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3810",
+      "speakers": [
+        "Lenny Henry",
+        "Eddie Murphy",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "lenny",
+        "henry",
+        "comedy",
+        "dramatic",
+        "acting"
+      ]
+    },
     {
       "key": "e5bc5a5b1b480956e80e9cefa48a44679db61b06",
       "title": "Celebrating One Year Of The Romesh Ranganathan Show",
@@ -2434,6 +2458,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up — speakers: Lenny Henry, Eddie Murphy, Romesh Ranganathan
 - 2026-09-23 — Celebrating One Year Of The Romesh Ranganathan Show — speakers: Romesh Ranganathan
 - 2026-09-20 — Stephen Graham on Acting, Adolescence & Al Pacino — speakers: Stephen Graham, Romesh Ranganathan
 - 2026-09-16 — Shanthi's Kitchen, Mutton Rolls And The Art Of Gift-Giving — speakers: Mutton Rolls, Romesh Ranganathan

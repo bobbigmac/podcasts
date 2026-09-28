@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T04:54:18+00:00`
-- etag: `"989fcd8eb4b2237b8b06957974af583b"`
-- last_modified: `Mon, 21 Sep 2026 04:15:52 GMT`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"4369199d74ad77a586fd12c3e80418a0"`
+- last_modified: `Mon, 28 Sep 2026 04:22:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a5f47797b232ca0e1ee235ca9f5c420dea704386",
+      "title": "Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383)",
+      "published_at": "2026-09-28T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/halo-under-activision-blizzard-continuing-the-xbox-reset-xbox-in-ten-an-xbox-podcast-ep-383",
+      "description": "Week of: 9-21-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/3/4/d/e/34de950a940c99eee5bbc093207a2619/383.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/383.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16827304",
+      "itunes_duration": "12:04",
+      "speakers": [
+        "Halo Under Activision Blizzard",
+        "Xbox Reset",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "halo",
+        "activision",
+        "blizzard",
+        "xbox",
+        "reset",
+        "podcast"
+      ]
+    },
     {
       "key": "1900be53613293743b69d1f8a569f1de1f53115c",
       "title": "Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382)",
@@ -9650,6 +9677,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383) — speakers: Halo Under Activision Blizzard, Xbox Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-21 — Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382) — speakers: Kill Day, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-14 — Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381) — speakers: Hideo Kojima, Brandon Rosa
 - 2026-09-07 — Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380) — speakers: Microsoft Switches, Monthly Hour Limits, Xbox Cloud Gaming, Xbox Gaming News, Fun Fact, Brandon Rosa

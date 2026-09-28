@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T04:54:18+00:00`
-- etag: `"djEuMi4wOjE3ODk5NTk5Mzk0MjI="`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"djEuMi4wOjE3OTA1NjA4OTkzNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3b3b8f46bbb97be8b864d06d9c8553426a599104",
+      "title": "I was the only MP allowed into Gaza. This is what I saw: Labour Minister Melanie Ward",
+      "published_at": "2026-09-28T02:01:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/i-was-the-only-mp-allowed-into-gaza-this-is-what-i-saw-labou",
+      "description": "Melanie Ward has only been an MP two years and she is already a government minister, promoted to the government by Andy Burnham. Melanie worked in international aid before becoming an MP and continues to be an advocate for some of the most vulnerable people on the planet. Two years ago she visited Gaza and she describes the horrors she witnessed. This is a frank discussion about why Labour's policy on Gaza has changed and what it means for the Middle East and for domestic politics here in the UK. And as Labour gathers in Liverpool for its Annual Conference, what song might Melanie be singing at the karaoke..? See the Political Party Live on Stage: 9 November: Liz Kendall and Mishal Husain 21 December: Wes Streeting https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6ab66be8cf7654f56ac4d5b0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90578029",
+      "itunes_duration": "1:02:53",
+      "speakers": [
+        "Melanie Ward",
+        "Matt Forde"
+      ],
+      "topics": [
+        "gaza",
+        "labour",
+        "minister",
+        "melanie",
+        "ward"
+      ]
+    },
     {
       "key": "b8648f248ecac7de6f051d55f55492f67710a9cd",
       "title": "'My Trump joke went viral but it had a serious point': SDLP leader Claire Hanna",
@@ -10747,6 +10770,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — I was the only MP allowed into Gaza. This is what I saw: Labour Minister Melanie Ward — speakers: Melanie Ward, Matt Forde
 - 2026-09-21 — 'My Trump joke went viral but it had a serious point': SDLP leader Claire Hanna — speakers: Claire Hanna, Matt Forde
 - 2026-09-14 — I worked for Keir Starmer inside Number 10: here's what REALLY happened, with Matt Langford — speakers: Matt Langford, Matt Forde
 - 2026-09-07 — How I will lead Labour to victory in Scotland: Michael Marra — speakers: Michael Marra, Matt Forde

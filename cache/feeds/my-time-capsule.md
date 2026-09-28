@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-25T04:56:44+00:00`
-- checked_at: `2026-09-25T04:56:44+00:00`
-- etag: `"djEuMi4wOjE3OTAyOTA5NjA1MjU="`
+- fetched_at: `2026-09-28T05:22:27+00:00`
+- checked_at: `2026-09-28T05:22:27+00:00`
+- etag: `"djEuMi4wOjE3OTA1NTAxNTkyODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-25T04:56:44+00:00",
+  "fetched_at": "2026-09-28T05:22:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "14cc9d25ec39ca0d4744b1b19877c6bdc868a3e9",
+      "title": "Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist",
+      "published_at": "2026-09-27T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-607-ted-hill-award-winning-comedian-britains-got-talent-2",
+      "description": "Ted Hill is an award-winning comedian who reached the final of Britain’s Got Talent in 2026 after receiving Ant and Dec’s Golden Buzzer. A regular at the Edinburgh Festival Fringe, Ted has performed there for five consecutive years, taking four different solo hours to the festival and receiving an ISH Edinburgh Comedy Award nomination for Best Show in 2024. He is known for his unique brand of high-energy, multimedia comedy, combining stand-up with PowerPoint presentations, graphs, video and sound effects. His material ranges from US presidents and maps to his experiences of autism and ADHD, with his fast-paced shows built around his many niche interests and a serious love of silliness . Ted Hill is our guest in episode 607 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For Ted Hill’s tour dates, tickets and more, visit - https://www.tedhill.co.uk . Follow Ted Hill on Instagram : @thetedhill . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ab674d7bd67ce4b534e058c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81270512",
+      "itunes_duration": "1:07:43",
+      "speakers": [
+        "Ted Hill"
+      ],
+      "topics": [
+        "hill",
+        "award",
+        "comedian",
+        "britain",
+        "talent",
+        "golden",
+        "buzzer",
+        "finalist"
+      ]
+    },
     {
       "key": "ba9d388e47d2fffe5e4255773f3dea911961b790",
       "title": "My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood)",
@@ -13556,6 +13581,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-27 — Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist — speakers: Ted Hill
 - 2026-09-24 — My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood) — speakers: Karl Howman
 - 2026-09-20 — Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It — speakers: Quantick Returns Emmy, Brass Eye, David Quantick
 - 2026-09-17 — My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It) — speakers: David Quantick, Brass Eye
