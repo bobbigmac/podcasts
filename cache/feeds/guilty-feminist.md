@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-09-21T12:46:35+00:00`
-- checked_at: `2026-09-21T12:46:35+00:00`
-- last_modified: `Mon, 21 Sep 2026 11:00:00 GMT`
+- fetched_at: `2026-09-28T13:52:38+00:00`
+- checked_at: `2026-09-28T13:52:38+00:00`
+- last_modified: `Mon, 28 Sep 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-21T12:46:35+00:00",
+  "fetched_at": "2026-09-28T13:52:38+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0866bab79e4874377d50fc664a021698a160c16d",
+      "title": "502. Homophobia with Freya Parker and Linus Karp",
+      "published_at": "2026-09-28T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 502. Homophobia Presented by Deborah Frances-White and Freya Parker with special guest Linus Karp and music from Sir Elton Scone Recorded 21 August 2026 at Gilded Balloon at the Museum. Released 28 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Freya Parker https://www.instagram.com/iamfreyaparker https://substack.com/@iamfreyaparker More about Linus Karp https://www.instagram.com/linuskarp https://linktr.ee/awkwardprods More about Sir Elton Scone https://www.instagram.com/sireltonscone https://linktr.ee/katiepritchards For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/08197cb8-bab5-11f1-ac2d-7f3fab97908f/image/f14a441dacfcf0eb2e293c092ceffbea.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL1258548256.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3632",
+      "speakers": [
+        "Freya Parker",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "homophobia",
+        "freya",
+        "parker",
+        "linus",
+        "karp"
+      ]
+    },
     {
       "key": "84aea37bda6bc052cf3da1017522c3b6c4f098d6",
       "title": "501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks",
@@ -139,13 +162,13 @@
       ]
     },
     {
-      "key": "fb05ff83a9c3aa898f915de9dc6e79cf732d45c9",
+      "key": "2fffac359ccb76bfbeb61e14b53a6471fc8d2413",
       "title": "498. Politics with Felicity Ward and Hannah Spencer",
       "published_at": "2026-08-31T11:00:00+00:00",
       "link": null,
       "description": "The Guilty Feminist 498. Politics Presented by Deborah Frances-White and Felicity Ward with special guest Hannah Spencer and music from Millicent Sarre Recorded 20 August 2026 at Gilded Balloon at the Museum. Released 31 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Felicity Ward https://www.instagram.com/felicityward https://www.felicityward.com More about Hannah Spencer https://www.instagram.com/hannahtheplumbermcr https://greenparty.org.uk More about Millicent Sarre https://www.instagram.com/millicentsarre https://www.millicentsarre.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/5bd653d0-a485-11f1-b345-379211efaa5c/image/66db962c888715bd438b08c716030063.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL3051508240.mp3",
+      "image_url": "https://megaphone.imgix.net/podcasts/a6602702-b798-11f1-b832-e377cad977a2/image/66db962c888715bd438b08c716030063.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL8075501108.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4047",
@@ -18599,6 +18622,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — 502. Homophobia with Freya Parker and Linus Karp — speakers: Freya Parker, Deborah Frances-White
 - 2026-09-21 — 501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks — speakers: Alison Spittle, Peter Darrant, Deborah Frances-White
 - 2026-09-16 — Remembering Bonnie Greer — speakers: Bonnie Greer, Deborah France, Deborah Frances-White
 - 2026-09-14 — 500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus — speakers: Kate Cheka, Deborah Frances-White

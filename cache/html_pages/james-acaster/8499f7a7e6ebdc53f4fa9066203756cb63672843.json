@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=4",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=4",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-09-28T13:52:38+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=5",
   "episodes": [
+    {
+      "key": "6fdf2d84450e4fc4dc8036a8f9577f1b042b20db",
+      "guid": "2145769f-c421-49ed-b3c7-49eeaac62b52",
+      "title": "James Acaster (17th February)",
+      "published_at": "2025-02-17T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-17th-february/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1739790403-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=2145769f-c421-49ed-b3c7-49eeaac62b52&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "d7c69de72d62c4d5c51f458876dec2717d58feb5",
       "guid": "6bd76176-18d8-4557-a2ae-cf418888357f",
@@ -380,19 +393,6 @@
       "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
       "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1730823170-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=b095856d-4ee0-47a3-8b9e-7d63a461c576&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "ced4ed7fdac0a416c3fca247ab2bf37c1c5ad83a",
-      "guid": "7e4d2f80-e56f-4191-ac64-6e594df57378",
-      "title": "James Acaster (4th November)",
-      "published_at": "2024-11-04T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-4th-november/",
-      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
-      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1730718316-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7e4d2f80-e56f-4191-ac64-6e594df57378&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
