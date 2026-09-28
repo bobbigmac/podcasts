@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-26T16:22:56+00:00`
-- checked_at: `2026-09-26T16:22:56+00:00`
-- etag: `"djEuMi4wOjE3OTA0Mzg0MzkzMjU="`
+- fetched_at: `2026-09-28T21:14:21+00:00`
+- checked_at: `2026-09-28T21:14:21+00:00`
+- etag: `"djEuMi4wOjE3OTA2MTc4NzczNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-26T16:22:56+00:00",
+  "fetched_at": "2026-09-28T21:14:21+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6a17d950cb0965703a16c18664191cec363ea9a2",
+      "title": "Has Andy Burnham reached his peak?",
+      "published_at": "2026-09-28T17:51:17+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/has-andy-burnham-reached-his-peak",
+      "description": "The Chancellor gives his conference speech just four weeks before his first budget and Andy Burnham proposes a national care service in England. Anoosh Chakelian, Ailbhe Rea and Ethan Croft bring you the latest from the Labour Conference. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1790616475887-19eaa3a8-9f57-40ab-8b5c-007883ef3faa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6abaa3567136b795eb4b44bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46345635",
+      "itunes_duration": "24:07",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "peak"
+      ]
+    },
     {
       "key": "4b4a27dec438bee431709f39b128432de68fafc3",
       "title": "Is Ed Davey too nice?",
@@ -32460,6 +32482,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Has Andy Burnham reached his peak? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-26 — Is Ed Davey too nice? — speakers: Donald Trump’s AI, Anoosh Chakelian, Oli Dugmore
 - 2026-09-24 — Has power changed Andy Burnham? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-19 — Will AI kill us all? — speakers: Will AI, Anoosh Chakelian, Oli Dugmore

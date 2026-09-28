@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-09-21T12:46:35+00:00`
-- checked_at: `2026-09-21T12:46:35+00:00`
-- etag: `"11abf3-65bfae9ee913b"`
-- last_modified: `Mon, 21 Sep 2026 09:31:24 GMT`
+- fetched_at: `2026-09-28T21:14:21+00:00`
+- checked_at: `2026-09-28T21:14:21+00:00`
+- etag: `"11b565-65c8ed48d308c"`
+- last_modified: `Mon, 28 Sep 2026 17:59:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-09-21T12:46:35+00:00",
+  "fetched_at": "2026-09-28T21:14:21+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3d63484ad81a44f9c8df671700b6198ee7bf1f5c",
+      "title": "The Mona Lisa Doesn't Have Googly Eyes - S22, Ep.4",
+      "published_at": "2026-09-28T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jack and Jenny are back to break down Episode 4 of Series 22. The prize theme is \"juicy\", an under-table task raises a lot questions, Chloe carries two armpit-averse teammates through some armpit art and someone has to convince everyone they're wearing a secret workplace earpiece. And is the closest we've ever come to a perfect episode? Plus your emails: a listener corrects Alex on the finer points of gleeking, and another spots a possible sausage machine callback in the Series 22 trailer. Send your thoughts on the series to fans@taskmaster.tv .",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f2cc116a-0dde-4eaf-8786-0b4b81ac0b55.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=f2cc116a-0dde-4eaf-8786-0b4b81ac0b55",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57946676",
+      "itunes_duration": "01:00:20",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "mona",
+        "lisa",
+        "googly"
+      ]
+    },
     {
       "key": "bfabe84c0a137ee58f1f314b97dbf44340320653",
       "title": "Freaks and Gleeks - S22, Ep.3",
@@ -4914,6 +4935,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — The Mona Lisa Doesn't Have Googly Eyes - S22, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-21 — Freaks and Gleeks - S22, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-14 — Bean Heavy - S22, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-07 — Be Funny or Be Fired - S22, Ep.1 — speakers: Nina Conti, Chloe Petts, Matt Lucas, Isy Sutt, Jenny Eclair, Jack Bernhardt
