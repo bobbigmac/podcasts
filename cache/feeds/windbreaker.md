@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-09-29T09:48:28+00:00`
-- checked_at: `2026-09-29T09:48:28+00:00`
-- etag: `W/"44dda-FnBkli3W+8I0jVwBJj39C/D4U7U"`
+- fetched_at: `2026-09-29T18:05:04+00:00`
+- checked_at: `2026-09-29T18:05:04+00:00`
+- etag: `W/"45590-Zsd+ObI+4zpcp1K/Nr8gXgz1swc"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-09-29T09:48:28+00:00",
+  "fetched_at": "2026-09-29T18:05:04+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "04d5e90f85bc68fe751063ffe155e26e287ce7a9",
+      "title": "How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast",
+      "published_at": "2026-09-29T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/How-Could-the-Zelda-Movie-Actually-Be-Good---Windbreaker-Podcast-e3phfau",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty take a look at the upcoming Legend of Zelda movie, and what it would need to do in order to be an actually good video game adaptation. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5274760826.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64891103",
+      "itunes_duration": "01:06:52",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "zelda",
+        "movie",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "98ab1bce143591702917d725392264b340612112",
       "title": "Some Games Shouldn't Be Games | Windbreaker Podcast",
@@ -3265,6 +3287,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-22 — Some Games Shouldn't Be Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-15 — The Etiquette of Remakes | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-01 — Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

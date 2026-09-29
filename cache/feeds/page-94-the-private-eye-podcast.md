@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-09-15T16:58:48+00:00`
-- checked_at: `2026-09-15T16:58:48+00:00`
-- etag: `W/"0eb4851bffcc2a318c28efabb589e8ac"`
-- last_modified: `Tue, 15 Sep 2026 13:59:12 GMT`
+- fetched_at: `2026-09-29T18:05:04+00:00`
+- checked_at: `2026-09-29T18:05:04+00:00`
+- etag: `W/"6bd5a5623821e288185f4373c4d0d11c"`
+- last_modified: `Tue, 29 Sep 2026 15:24:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-09-15T16:58:48+00:00",
+  "fetched_at": "2026-09-29T18:05:04+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,25 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "e8d9f601f237ea5e0b5c0288263993e050f30a21",
+      "title": "192: Who Cares?",
+      "published_at": "2026-09-29T15:23:22+00:00",
+      "link": "https://audioboom.com/posts/8958377",
+      "description": "Andy, Helen and Adam discuss Labour’s big pitch on the decades-old problem of social care; Piers Moron and Earl Spencer’s running beef; and the scammers preying on self-published authors.",
+      "image_url": "https://audioboom.com/i/43860040/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8958377.mp3?modified=1790695467&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2077",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "cares"
+      ]
+    },
     {
       "key": "6df7b3633619e1d4100aad29d2b65df7cc8c2bda",
       "title": "191: Delo Or No Delo",
@@ -4082,6 +4101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — 192: Who Cares? — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-09-15 — 191: Delo Or No Delo — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-09-02 — 190: Green Fingers — speakers: Saba Salman, Helen Lewis, Andrew Hunter Murray, Ian Hislop
 - 2026-08-25 — 189: The Hacks Book Club — speakers: Andrew Hunter Murray, Ian Hislop

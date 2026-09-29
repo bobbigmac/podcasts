@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-27T05:17:26+00:00`
-- checked_at: `2026-09-27T05:17:26+00:00`
-- etag: `"djEuMi4wOjE3OTA0ODUyMzk0NTA="`
+- fetched_at: `2026-09-29T18:05:04+00:00`
+- checked_at: `2026-09-29T18:05:04+00:00`
+- etag: `"djEuMi4wOjE3OTA2OTE5NTg1MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-27T05:17:26+00:00",
+  "fetched_at": "2026-09-29T18:05:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "46dc4f1c1beb21463e56e77dbd600fd584d32f23",
+      "title": "What I didn't get to say on BBC Newsnight",
+      "published_at": "2026-09-29T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6abbca7629a486156a0ef46c",
+      "description": "Ava and Seán take to the studio to chat through Ava's appearance on the beeb last week, on the topic of immigration. Having had a couple of chances to speak on a crammed show, she and Seán get into the meat of the arguments started on the telly. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6abbca7629a486156a0ef46c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65765431",
+      "itunes_duration": "34:14",
+      "speakers": [
+        "Newsnight Ava"
+      ],
+      "topics": [
+        "newsnight"
+      ]
+    },
     {
       "key": "cfa1fd445931dade819011f0eac27a11d19bc195",
       "title": "Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview",
@@ -13729,6 +13747,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — What I didn't get to say on BBC Newsnight — speakers: Newsnight Ava
 - 2026-09-27 — Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview — speakers: Daron Acemoglu
 - 2026-09-25 — Trump will lead to America's downfall | Owen Jones Interview — speakers: Owen Jones
 - 2026-09-23 — Trump's Greenland Deal Isn't What You Think | Scott Lucas interview — speakers: Scott Lucas
