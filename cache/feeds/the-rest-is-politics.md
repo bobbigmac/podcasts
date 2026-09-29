@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-26T04:56:57+00:00`
-- checked_at: `2026-09-26T04:56:57+00:00`
-- last_modified: `Fri, 25 Sep 2026 15:08:27 GMT`
+- fetched_at: `2026-09-29T22:14:14+00:00`
+- checked_at: `2026-09-29T22:14:14+00:00`
+- last_modified: `Tue, 29 Sep 2026 22:10:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-26T04:56:57+00:00",
+  "fetched_at": "2026-09-29T22:14:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "e316f9bcf0167cae352d0908be59bb3fcb85d5ad",
+      "title": "575. Alastair Reacts to Burnham’s Speech and Rory’s Viral Stare",
+      "published_at": "2026-09-29T21:31:00+00:00",
+      "link": null,
+      "description": "Will scrapping the triple lock be electorally perilous for Burnham, or can his vision of a national care service convince the public and his party that it’s time for pension reform? Did being Mayor of Greater Manchester make him a better orator? And what is Rory’s explanation for his viral Newsnight stare? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Mustafa Suleyman by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. Move faster with daily global market analysis, the download on tokenisation and how to manage your company's energy transition all from Lloyds Corporate & Institutional Banking. Search Lloyds Corporate. Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Research: Evie Townend Social Producer: Celine Charles Video Editor: James Clayden, Louis Mealing Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f5a303a6-b8f2-11f1-83b7-1b00b7f2c795/image/da560aa22bd0e5023c93a01041bb1a9b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8276592115.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3311",
+      "speakers": [
+        "Alastair Reacts"
+      ],
+      "topics": [
+        "alastair",
+        "react",
+        "burnham",
+        "speech",
+        "rory",
+        "viral",
+        "stare"
+      ]
+    },
     {
       "key": "86ab08f7b048a290ba08e211118f10bf0a36ba8d",
       "title": "Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli)",
@@ -13067,6 +13091,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — 575. Alastair Reacts to Burnham’s Speech and Rory’s Viral Stare — speakers: Alastair Reacts
 - 2026-09-24 — Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli) — speakers: Carlo Rovelli
 - 2026-09-23 — 574. Germany’s Political Disaster and Can the Lib Dems Fight Back?
 - 2026-09-22 — 573. Burnham and Carney vs. Trump, and the Diana Dispute
