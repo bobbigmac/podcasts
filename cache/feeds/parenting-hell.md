@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-28T21:14:21+00:00`
-- checked_at: `2026-09-28T21:14:21+00:00`
-- last_modified: `Mon, 28 Sep 2026 18:58:35 GMT`
+- fetched_at: `2026-09-29T09:48:28+00:00`
+- checked_at: `2026-09-29T09:48:28+00:00`
+- last_modified: `Tue, 29 Sep 2026 01:44:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-28T21:14:21+00:00",
+  "fetched_at": "2026-09-29T09:48:28+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "49268a12918a897bebbdbf9404be9243ff8e98ec",
+      "title": "S13 EP21: Sneaky Sasquatch",
+      "published_at": "2026-09-29T00:15:00+00:00",
+      "link": null,
+      "description": "This week the lads have been on a trip to Stockholm for a podcasting event and had a lovely time. Elsewhere Rob takes his daughters to the football (hear the full story HERE) and Josh's son is obsessed with Lego. If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9445861430.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3373",
+      "speakers": [
+        "Sneaky Sasquatch",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "sneaky",
+        "sasquatch"
+      ]
+    },
     {
       "key": "9de442d2f48496821e4d4ceba050e55e6fcc8530",
       "title": "⚽ The Worst Thing To Happen To Football (The Nations League) ⚽",
@@ -12915,6 +12936,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — S13 EP21: Sneaky Sasquatch — speakers: Sneaky Sasquatch, Rob Beckett, Josh Widdicombe
 - 2026-09-28 — ⚽ The Worst Thing To Happen To Football (The Nations League) ⚽ — speakers: Nations League, Rob Beckett, Josh Widdicombe
 - 2026-09-25 — S13 EP20: A Couple of Vanilla Dudes — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-22 — S13 EP19: It's Exhausting Having an Opinion — speakers: Rob Beckett, Josh Widdicombe

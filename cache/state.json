@@ -18,9 +18,9 @@
       "last_modified": "Mon, 28 Sep 2026 17:59:41 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-09-28T21:14:21+00:00",
-      "last_checked_unix": 1790630065,
-      "last_modified": "Mon, 28 Sep 2026 18:58:35 GMT"
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675314,
+      "last_modified": "Tue, 29 Sep 2026 01:44:45 GMT"
     },
     "films-to-be-buried-with": {
       "last_checked_at": "2026-08-19T07:05:07+00:00",
@@ -94,9 +94,9 @@
       "etag": "\"djEuMi4wOjE3ODE2ODg1NTc1OTQ=\""
     },
     "help-i-sexted-my-boss": {
-      "last_checked_at": "2026-09-25T11:49:56+00:00",
-      "last_checked_unix": 1790337004,
-      "etag": "\"ZGpFdU1pNHdPakUzT1RBek1USTBNemsyTXpVPTo6c2F4ZXNz\"",
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675319,
+      "etag": "\"ZGpFdU1pNHdPakUzT1RBMk5qazROVGd5TkRRPTo6c2F4ZXNz\"",
       "consecutive_failures": 0
     },
     "have-a-word": {
@@ -268,8 +268,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643615,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675312,
       "etag": "W/\"0eb4851bffcc2a318c28efabb589e8ac\"",
       "last_modified": "Tue, 15 Sep 2026 13:59:12 GMT"
     },
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643615,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675312,
       "etag": "\"djEuMi4wOjE3OTA0ODUyMzk0NTA=\""
     },
     "ramon-fears-terror-tapes": {
@@ -299,9 +299,9 @@
       "etag": "\"djEuMi4wOjE3OTA1NjQyNTkzMzI=\""
     },
     "russell-howard-jon-richardson-devotee": {
-      "last_checked_at": "2026-09-28T13:52:38+00:00",
-      "last_checked_unix": 1790603563,
-      "etag": "W/\"5a026-YFM4TxOcOd2xfH2suDLkJwIlh/c\""
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675312,
+      "etag": "W/\"5a19b-9h3C9S5yZMDT8WphA9ew7NnMd8c\""
     },
     "russell-howards-five-brilliant-things": {
       "last_checked_at": "2026-09-23T04:44:10+00:00",
@@ -352,9 +352,9 @@
       "last_modified": "Thu, 24 Sep 2026 09:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643616,
-      "last_modified": "Mon, 28 Sep 2026 23:05:00 GMT",
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675312,
+      "last_modified": "Tue, 29 Sep 2026 09:30:52 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -372,9 +372,9 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643618,
-      "etag": "W/\"1ae2f-LwxZ07PeEHwc9DGFRapGiTLxXlU\""
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675312,
+      "etag": "W/\"1ae2f-jTY+6hHeyGpTI0f/mmVGQ0BXO5o\""
     },
     "the-romesh-ranganathan-show": {
       "last_checked_at": "2026-09-28T05:22:27+00:00",
@@ -388,15 +388,15 @@
       "etag": "\"djEuMi4wOjE3OTA1Njk4Mzk0NjY=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643620,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675314,
       "last_modified": "Wed, 10 Jun 2026 09:22:33 GMT",
       "etag": "\"djEuMi4wOjE3OTA0NzQ0MzkzNzk=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643620,
-      "etag": "W/\"44dda-yT798HTWjzkSzjo1E3pDz/Phjrs\""
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675314,
+      "etag": "W/\"44dda-FnBkli3W+8I0jVwBJj39C/D4U7U\""
     },
     "xbox-casuals-an-xbox-podcast": {
       "last_checked_at": "2026-06-25T22:45:21+00:00",
@@ -443,13 +443,13 @@
       "etag": "\"djEuMi4wOjE2NDY3ODIwNTQ3ODY=\""
     },
     "table-manners-with-jessie-and-lennie-ware": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643621,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675317,
       "etag": "\"djEuMi4wOjE3ODk2NDUyMzY0NTE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643621,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675317,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,8 +486,8 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643621,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675318,
       "last_modified": "Fri, 25 Sep 2026 15:08:27 GMT"
     },
     "chatabix": {
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643621,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675318,
       "etag": "\"djEuMi4wOjE3OTA1ODcwODU4Mzg=\"",
       "consecutive_failures": 0
     },
@@ -526,9 +526,9 @@
       "etag": "\"djEuMi4wOjE3NzU1OTU1ODg5ODU=\""
     },
     "wheres-a-will-theres-a-wake": {
-      "last_checked_at": "2026-09-22T04:54:19+00:00",
-      "last_checked_unix": 1790052866,
-      "last_modified": "Tue, 22 Sep 2026 04:00:00 GMT"
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675318,
+      "last_modified": "Tue, 29 Sep 2026 04:00:00 GMT"
     },
     "pod-save-the-uk": {
       "last_checked_at": "2026-09-24T04:48:57+00:00",
@@ -542,8 +542,8 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643621,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675321,
       "etag": "\"djEuMi4wOjE3OTA2MTEwODg4NjY=\"",
       "consecutive_failures": 0
     },
@@ -553,8 +553,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-09-29T01:00:11+00:00",
-      "last_checked_unix": 1790643622,
+      "last_checked_at": "2026-09-29T09:48:28+00:00",
+      "last_checked_unix": 1790675322,
       "etag": "\"ad09a6eb3b1c5a3889855925aa8a4949\"",
       "last_modified": "Mon, 10 Aug 2026 16:54:33 GMT"
     },
@@ -638,5 +638,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-29T01:00:11+00:00"
+  "updated_at": "2026-09-29T09:48:28+00:00"
 }

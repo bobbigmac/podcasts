@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-25T11:49:56+00:00`
-- checked_at: `2026-09-25T11:49:56+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RBek1USTBNemsyTXpVPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-29T09:48:28+00:00`
+- checked_at: `2026-09-29T09:48:28+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RBMk5qazROVGd5TkRRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-25T11:49:56+00:00",
+  "fetched_at": "2026-09-29T09:48:28+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0d669101458e251c8d1e89557e0c5fef56e9f81b",
+      "title": "Help A Bit Of Semen Entered My Eye | And The Next Big Dessert",
+      "published_at": "2026-09-29T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-a-bit-of-semen-entered-my-eye-and-the-next-big-dessert",
+      "description": "After Jordan discovers the next summer 'smash' which apparently we'll all be putting in our mouths next year, he's brought back down to earth with a bang after finding out William's been getting his lips around it for years. The boys also tackle some CRAZY dilemmas involving hot desking at the office and what NOT to do just after having laser eye surgery. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette #AD. To find out more please visit - https://www.skoda.co.uk/ If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1790613183983-4767cf57-1eab-4abb-aa56-499d48235c57.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6aba38cabf8dfeb2cddffddf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=kOMGXZ8HeLARbFD72VxPyxxw3ig-Mx7QJqhjoliuB7g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47826651",
+      "itunes_duration": "49:49",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "semen",
+        "dessert"
+      ]
+    },
     {
       "key": "a1d5e44cd097142f505ba18652cac87c5004baa1",
       "title": "Jordan’s Personal Preferences | And Object Upgrades",
@@ -15136,6 +15156,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-29 — Help A Bit Of Semen Entered My Eye | And The Next Big Dessert — speakers: William Hanson, Jordan North
 - 2026-09-25 — Jordan’s Personal Preferences | And Object Upgrades — speakers: Personal Preferences, William Hanson, Jordan North
 - 2026-09-22 — Help I Want To Be Locked Up | And Sexted ‘Out Of Office’... — speakers: William Hanson, Jordan North
 - 2026-09-18 — Jordan Is A Fruber?! | And How To Drop The Poo Bomb — speakers: Jordan North, William Hanson
