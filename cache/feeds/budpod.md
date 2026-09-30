@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-09-23T11:34:43+00:00`
-- checked_at: `2026-09-23T11:34:43+00:00`
-- etag: `"djEuMi4wOjE3OTAxNDMyOTkzNTg="`
+- fetched_at: `2026-09-30T12:33:20+00:00`
+- checked_at: `2026-09-30T12:33:20+00:00`
+- etag: `"djEuMi4wOjE3OTA3NDgwOTkzNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-09-23T11:34:43+00:00",
+  "fetched_at": "2026-09-30T12:33:20+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ca2757fbf5dc5abfc60d8b70f43eb2e5cea2111b",
+      "title": "S2E568 | Geists & Dolls",
+      "published_at": "2026-09-30T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e568-geists-dolls",
+      "description": "Youtube Version Here! This week the buds discuss Medieval healthcare, Glenn’s auctioneering days, Kim and Aggie, mad neighbours and correspondence! This week's sketch: 'Mock the Week' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available https://www.tickettailor.com/events/cheerfulearful/2230576 Brighton Komedia - October 14th, 2026 - Tickets available - https://www.tickettailor.com/events/cheerfulearful/2378930 Bath Komedia - November 3rd, 2026 - Tickets available https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Catch Pierre live at the Soho Theatre! September 21st - October 1st - Tickets available - https://sohotheatre.com/events/pierre-novellie-okay-one-more-then-bedtime/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6abca16e06846f55a30a04dc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74541900",
+      "itunes_duration": "51:39",
+      "speakers": [
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "geists",
+        "dolls"
+      ]
+    },
     {
       "key": "3ea059049f3990c02ea483f44ee14a01a4b35733",
       "title": "S2E67 | Cause of Ghosts",
@@ -8122,6 +8142,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — S2E568 | Geists & Dolls — speakers: Phil Wang, Pierre Novellie
 - 2026-09-23 — S2E67 | Cause of Ghosts — speakers: Phil Wang, Pierre Novellie
 - 2026-09-16 — S2E66 | Haunt and Fiona — speakers: Peter Kay's Amarillo, John Wint, Phil Wang, Pierre Novellie
 - 2026-09-09 — S2E65 | Nappy Martyrs Brigade — speakers: Nappy Martyrs Brigade Youtube, Pig Louie, Hell People, Phil Wang, Pierre Novellie
