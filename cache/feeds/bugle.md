@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA2MTQ5OTk1MzI="`
+- fetched_at: `2026-09-30T20:00:52+00:00`
+- checked_at: `2026-09-30T20:00:52+00:00`
+- etag: `"djEuMi4wOjE3OTA3ODU5NTkyODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-09-30T20:00:52+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d7941a779304f036ffb7c4b28350f97cdb377e05",
+      "title": "World Leaders Forced to meet Trump",
+      "published_at": "2026-09-30T16:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/world-leaders-forced-to-meet-trump",
+      "description": "Joining Andy on issue 4392 of The Bugle is Josh Gondelman and Bugle debutant Catherine Bohart, as the trio discuss the World's leaders forced to meet with Donald Trump, from Xi to Burnham. Plus the news that the POTUS threatens to annihilate Iran, and rename strait of Hormuz after himself! Hacking AI news as Australian government website, and US government agency sites hacked into by rogue OpenAI, and the biggest scandal in football history, as Manchester City are found guilty! 🇨🇳 Trump meets Xi: The trio delve into the news of US President Trump's meeting with Chinese Premier Xi 💻 AI Hacking: The Bugle reports on the latest as OpenAI 'infiltrated' Australian government website in world first! ⚽ Manchester City Found Guilty: Andy, Josh and Catherine report the breaking news that Manchester City Football Club are found guilty Andy's Links: https://www.andyzaltzman.co.uk/ Josh Gondelman's Links: https://www.joshgondelman.com Catherine Bohart's Links: https://www.catherinebohart.com 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790784605593-f80b6126-d221-40f9-9477-e2c12841a4e0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6abd2c7a6b07935a3da5b084/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44592483",
+      "itunes_duration": "46:26",
+      "speakers": [
+        "Joining Andy",
+        "Josh Gondelman",
+        "Catherine Bohart",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "world",
+        "leaders",
+        "trump"
+      ]
+    },
     {
       "key": "fb3f9ce88fcbaebe535a9fc9e048a9fecb44fced",
       "title": "Australia joins Europe?",
@@ -14558,6 +14581,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — World Leaders Forced to meet Trump — speakers: Joining Andy, Josh Gondelman, Catherine Bohart, Andy Zaltzman
 - 2026-09-23 — Australia joins Europe? — speakers: Joining Andy, Tom Ballard, Andy Zaltzman
 - 2026-09-16 — Humanity is Doomed — speakers: Nish Kumar, Sara Barron, Andy Zaltzman
 - 2026-09-09 — Game Over for White House — speakers: Helen Zaltzman, Anuvab Pal, Andy Zaltzman

@@ -31121,6 +31121,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:7ea4d7985075",
+        "feed_title": "Comedy of the Week",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p02pc9x6.rss",
+        "dedupe_key": "0c44b7d5a04406abee0950b472d03c401b05682d",
+        "episode_key": "0c44b7d5a04406abee0950b472d03c401b05682d",
+        "title": "Your Mum",
+        "published_at": "2026-09-28T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Laura Smyth speaks to celebrity guests to find out about the mothers who made them.\nThis week Laura is joined by comedians Sara Barron and Nish Kumar and boy is it the battle of the big personality mums! We hear all about Sara’s mum’s main character energy and her mantra ‘we’re not like other girls’. We learn about Nis",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcb40l.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/your-mum/id412151541?i=1000791954765&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:556cc9550d87",
         "feed_title": "The Bugle",
         "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
@@ -41053,6 +41075,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:7fbd2cbbb80a",
+        "feed_title": "BookOdyssey",
+        "source_rss_url": "https://anchor.fm/s/10a5887d8/podcast/rss",
+        "dedupe_key": "99b79e3055bc16857503caa3373e1fbfaf23dddb",
+        "episode_key": "99b79e3055bc16857503caa3373e1fbfaf23dddb",
+        "title": "👻 Ghostwritten by David Mitchell | Literary Analysis & Fate & Consequences Revealed",
+        "published_at": "2026-03-26T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "1️⃣ Mysteries, coincidences, and unseen forces—Ghostwritten by David Mitchell weaves a globe-spanning narrative where lives collide in unexpected ways. From a cult in Okinawa to a record shop in Tokyo and a lawyer in Hong Kong, each story is a thread in a larger tapestry of fate, chance, and the unseen powers shaping h",
+        "audio_url": "https://anchor.fm/s/10a5887d8/podcast/play/117313281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2F420545903-44100-2-536240f5dd7c5.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ghostwritten-by-david-mitchell-literary-analysis-fate/id1852788134?i=1000757433925&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:26a188c3b684",
         "feed_title": "The Gill Athletics Track and Field Connections Podcast",
         "source_rss_url": "https://anchor.fm/s/10ea86d8/podcast/rss",
@@ -42410,6 +42454,28 @@
         "description": "Simon and Rachel speak with novelist David Mitchell. Raised in Worcestershire in England, Mitchell later spent eight years living in Japan. The author of nine novels, including \"Cloud Atlas\", \"The Thousand Autumns of Jacob de Zoet\" and most recently \"Utopia Avenue\", David has been nominated for the Booker prize five ti",
         "audio_url": "https://traffic.megaphone.fm/NSR8317628347.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/136-david-mitchell-novelist/id1224996246?i=1000566332793&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8d40a41faea8",
+        "feed_title": "City Arts & Lectures",
+        "source_rss_url": "https://feeds.feedburner.com/CityArts",
+        "dedupe_key": "e1b586f39d55d93ae4d7171c7a15760bc2aa3d1c",
+        "episode_key": "e1b586f39d55d93ae4d7171c7a15760bc2aa3d1c",
+        "title": "David Mitchell with Pico Iyer",
+        "published_at": "2022-06-12T20:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week, we’ll listen to a conversation with David Mitchell and Pico Iyer, recorded on May 8, 2021. David Mitchell’s many novels include Cloud Atlas, The Bone Clocks, and Ghostwritten. . His most recent novel, Utopia Avenue, follows the strangest British band you’ve never heard of. Mitchell’s stories often weave toge",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/178/643a90ba-a611-42dc-9843-54f56f311769/CityArts220612aDavidMitchellandPicoIyer_LOUDNESS_CORRECTED.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-with-pico-iyer/id1436346407?i=1000566158037&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
