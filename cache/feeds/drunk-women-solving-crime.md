@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-09-28T21:14:21+00:00`
-- checked_at: `2026-09-28T21:14:21+00:00`
-- etag: `"djEuMi4wOjE3OTA2MTEwODg4NjY="`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"djEuMi4wOjE3OTA3MjY0Mzk1Mzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-09-28T21:14:21+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,27 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a3bc8e27c8ed7645b1fc9f1c0641ec912aa1c9b3",
+      "title": "Radio Ga Ga, with Meka Mo",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/radio-silence-with-meka-mo",
+      "description": "Welcome to this week's episode of DWSC, where our hosts are joined by the marvellous US comic, Meka Mo! Meka kicks off the show with a story set in a hotel of hostilities, don't @ Paris Hilton though, she was probably not on shift that day. The team then get involved with a story more colourful than a Buzzball, set around the most wholesome bootleggers in all of prohibition land. Are you sitting comfortably children? Then we'll begin... The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in October & November, with guests Matt Richardson, Esther Manito, Matt Forde & Helen Serafinowicz! Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6aba4d636ffb28f8d6478903/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83108389",
+      "itunes_duration": "57:42",
+      "speakers": [
+        "Meka Mo Welcome",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "radio",
+        "meka"
+      ]
+    },
     {
       "key": "4ec61b66cb4f5500d1c05f061ad7c4fa7c7d1cc0",
       "title": "Nitpicking, With Rosie Blackadder",
@@ -11608,6 +11629,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Radio Ga Ga, with Meka Mo — speakers: Meka Mo Welcome, Hannah George, Taylor Glenn
 - 2026-09-23 — Nitpicking, With Rosie Blackadder — speakers: Rosie Blackadder, Hannah George, Taylor Glenn
 - 2026-09-16 — DWSC LIVE: With Quivers — speakers: Quivers Hello, Hannah George, Taylor Glenn
 - 2026-09-09 — DWSC LIVE: With Aaron Simmonds — speakers: Aaron Simmonds, Hannah George, Taylor Glenn

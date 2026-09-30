@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- last_modified: `Mon, 21 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- last_modified: `Mon, 28 Sep 2026 23:03:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,50 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "48d1a36ac17a346f3f406685c38c36e25fcac966",
+      "title": "Sleepovers, School Friends And Insecurities",
+      "published_at": "2026-09-28T23:01:00+00:00",
+      "link": null,
+      "description": "What was going on at the boys' high school sleepovers?! In this episode of Wolf & Owl, Romesh and Tom take a trip back to their childhoods and reveal some of the strange, awkward, and occasionally traumatic experiences that came with high school friendships. From imbalanced friend dynamics to outright strange parents and school rumours, the guys cover it all. Tom reflects on how our past teenage selves can still make an appearance today after bumping into people from high school, and Romesh deals with some old guilt, hopefully fixed by an inspired guided role play from Tom. It's a week of reflections from Wolf & Owl. Don't miss it! A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:55 Childhood sleepover memories 11:27 Rom’s unaged drinking story 12:40 Tom’s sexy sleepover rumour 16:28 A Blue Lagoon issue 19:38 Rom’s friend went missing (briefly) 28:28 Resorting back to being a kid 37:47 A high school throwback role play 42:46 Tom's Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/979c2b84-bb81-11f1-a0b6-6b58b5e17d37/image/c2731c7d6e18048dd7c57f7e8680e6d9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT7792479020.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2841",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "sleepovers",
+        "school",
+        "friends",
+        "insecurity"
+      ]
+    },
+    {
+      "key": "08b70c61078026f4cffd777fd8f3e03ed366f8ea",
+      "title": "Could Tom Beat 100 8-Year-Olds?",
+      "published_at": "2026-09-24T23:01:00+00:00",
+      "link": null,
+      "description": "Could Tom beat 100 eight-year-olds? In this episode of Wolf & Owl, the boys tackle some of the most important questions facing modern society, including what happens when your parents want to invite 18 extra people to your wedding, and whether Tom could take on 100 eight-year-olds in a fight. From the awkward realities of wedding guest lists, whether they’d actually attend a listener’s wedding, all the way through to dog party invites and dog diets. They discuss it all. Plus, Tom reveals another questionable chapter in the ongoing saga of his tattoos, and we hear about a tragic story of his testes. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:11 A predicament about wedding guests 06:51 Have Rom & Tom ever been to a wedding together? 10:03 A question on dogs 13:38 Tom’s tattoos 14:38 Tom’s testicle tragedy 17:21 Tom vs 100 8 year olds 21:39 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f2d057b4-b76c-11f1-b0eb-abc347b8e4cf/image/bf7e8863690df3eb6024026785459a6c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1121371383.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1486",
+      "speakers": [
+        "Tom Beat",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "beat",
+        "year",
+        "olds"
+      ]
+    },
     {
       "key": "78b8b971ee009f08cb4a3b5a2ec4351e8aaccaaa",
       "title": "Humiliating Moments, Below Deck & Rasputin",
@@ -2991,7 +3035,7 @@
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT7580618900.mp3?updated=1779800220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3622",
+      "itunes_duration": "3907",
       "speakers": [
         "Tom Packman",
         "Romesh Ranganathan",
@@ -7615,6 +7659,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-28 — Sleepovers, School Friends And Insecurities — speakers: Romesh Ranganathan, Tom Davis
+- 2026-09-24 — Could Tom Beat 100 8-Year-Olds? — speakers: Tom Beat, Romesh Ranganathan, Tom Davis
 - 2026-09-21 — Humiliating Moments, Below Deck & Rasputin — speakers: Humiliating Moments, Romesh Ranganathan, Tom Davis
 - 2026-09-17 — Social Trolls & An Email Special Song — speakers: another collectio, Romesh Ranganathan, Tom Davis
 - 2026-09-14 — Body Image, Infestations & Fantasy Football — speakers: Body Image, Fantasy Football What, Romesh Ranganathan, Tom Davis

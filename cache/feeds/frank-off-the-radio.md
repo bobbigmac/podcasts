@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- last_modified: `Mon, 28 Sep 2026 00:00:00 GMT`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- last_modified: `Wed, 30 Sep 2026 00:06:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "318c005b540eac1f9666d3fedafb306ddb127f47",
+      "title": "Frank Skinner's Radio Days: Radio Academy Awards",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "link": null,
+      "description": "The gang discuss their wins at the Radio Academy Awards, Frank's role on Doctor Who, the Solange- Jay-Z lift incident and more. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9f19a144-bc20-11f1-9517-5fd5ee884fb6/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8206126712.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2119",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "academy",
+        "awards"
+      ]
+    },
     {
       "key": "a18b615ba5f592a3a1d1718664c9cddea3637e6a",
       "title": "Lying in the Street",
@@ -24848,6 +24870,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Frank Skinner's Radio Days: Radio Academy Awards — speakers: Frank Skinner
 - 2026-09-28 — Lying in the Street — speakers: Ruth Husko, Frank Skinner
 - 2026-09-25 — Spotted: Frank Skinner! — speakers: Frank Skinner, Ruth Husko
 - 2026-09-23 — Frank Skinner's Radio Days: Pilkunviilaaja — speakers: Frank Skinner

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-09-29T22:14:14+00:00`
-- checked_at: `2026-09-29T22:14:14+00:00`
-- etag: `"djEuMi4wOjE3OTA3MTIzNzk0NjM="`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"djEuMi4wOjE3OTA3MjY0Mzk1MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-09-29T22:14:14+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "72c60143280a1a351487897ddcd5820bf8c250e0",
+      "title": "Kelly Rowland",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/kelly-rowland",
+      "description": "We are back! Series 19 is here and we’re kicking things off with the phenomenal Kelly Rowland! Fresh off a flight from LA, Kelly joined us for a chicken, peach & mint salad followed by a raspberry poke cake. We heard all about her Southern food roots, her mum’s legendary fried chicken & peach cobbler, coming to London with Destiny’s Child as a teenager where she tried sushi for the very first time, we also get the answer we’re all waiting for - whether we could ever see a Destiny’s Child reunion! Plus, we find out Kelly’s ultimate food ‘Dilemma’… hot dog or hamburger?! Thank you Kelly for being the most glorious guest to kick off our brand new series! Kelly is the new face of the Olay ‘Super’ collection, available now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1790702354125-56ad09eb-7a21-42ec-96ab-eca24f907563.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6abbe94ab577f0f930216f6b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52265377",
+      "itunes_duration": "54:26",
+      "speakers": [
+        "Kelly Rowland"
+      ],
+      "topics": [
+        "kelly",
+        "rowland"
+      ]
+    },
     {
       "key": "0c9792d0de2372ca40a45fb48ba4e1defd1ba030",
       "title": "Second Helpings - Rob Brydon",
@@ -7440,6 +7459,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Kelly Rowland — speakers: Kelly Rowland
 - 2026-09-09 — Second Helpings - Rob Brydon — speakers: Rob Brydon, Rob Brydo
 - 2026-09-02 — Second Helpings - Emilia Clarke — speakers: Second Helpings, Table Manners
 - 2026-08-26 — Second Helpings - Emerald Fennell — speakers: Emerald Fennell

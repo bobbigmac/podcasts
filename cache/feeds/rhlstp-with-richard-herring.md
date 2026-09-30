@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- etag: `"djEuMi4wOjE3OTA1NjQyNTkzMzI="`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"djEuMi4wOjE3OTA3MzcwNTk0NjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6814fb0295f01d82bdb15413e9d692eeea8ec54e",
+      "title": "Isy Suttie - \"Throwing a Pound Coin at Howard From Take That’s Head\"",
+      "published_at": "2026-09-30T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #629 - Throwing a Pound Coin at Howard From Take That’s Head - Rich reflects on the upcoming end of RHLSTP and bemoans how his newly found TV mild-fame is curtailing his lifestyle. His guest is multi-talented comedian, actor and writer, Isy Suttie. They discuss the true history of the A to Z, Isy’s knack for creating niche erotica, what might dangle out of a pair of perished pants, Isy’s medical ailments and why Rich’s are better/worse, who would be up for a Peep Show Movie and Rich’s sexual adventures in moving transport. Plus a beautiful new Christmas Carol. New RHLSTPs will be coming out til at least February 2027 and Book Club will continue. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790699675571-28b54f4a-33b0-401b-a103-7c0ea4f56555.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6abbe86a6ffb28f8d6d41afd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32671033",
+      "itunes_duration": "1:08:03",
+      "speakers": [
+        "Isy Suttie",
+        "Pound Coin",
+        "Richard Herring"
+      ],
+      "topics": [
+        "suttie",
+        "pound",
+        "coin",
+        "howard",
+        "head"
+      ]
+    },
     {
       "key": "2b5a057fc20b6b46d9da5e08161f878c308bb2ce",
       "title": "Catherine Tate (Retro) - \"Am 'I' Bovvered?\"",
@@ -24049,6 +24073,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Isy Suttie - "Throwing a Pound Coin at Howard From Take That’s Head" — speakers: Isy Suttie, Pound Coin, Richard Herring
 - 2026-09-28 — Catherine Tate (Retro) - "Am 'I' Bovvered?" — speakers: Catherine Tate, Richard Herring
 - 2026-09-26 — Rich and Ally's Craven Newsround Compilation - Shrinkflaktion — speakers: Richard Herring
 - 2026-09-25 — Charlie Higson on King Zero - Book Club — speakers: Charlie Higson, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-25T04:56:44+00:00`
-- checked_at: `2026-09-25T04:56:44+00:00`
-- etag: `"djEuMi4wOjE3OTAzMDY0MzkzMTg="`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"djEuMi4wOjE3OTA3Mzg0Mzk1MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-25T04:56:44+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "36a7c9b580ad6674d19d4b223f9d78d25b56866e",
+      "title": "SHABANA AZEEZ • \"My job is empathy\" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689",
+      "published_at": "2026-09-30T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the truly fabulous actor SHABANA AZEEZ ! A perfect behind the scenes of stage and screen chat with Shabana, fresh from Emmy celebrations and ready to get into it all. For some, this might be your first time hearing from Shabana especially if you're only just familiarising yourself with The Pitt (good for you) - but for others, you'll be well versed in her awesome acting range and path since back in the day. Of course, a huge amount has happened since the growing up days back in Adelaide, and it makes sense that we find Shabana right here as the acting and arts leanings have been there since her younger years. Here we hear about most of the roles, including of course The Pitt, but also the excellent The Airport Chaplain, and the lesser known but no less brilliantly titled Lesbian Space Princess - so much to get into, so let's cut this reading thing short and leave it to you to get listening immediately. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM THE PITT THE AIRPORT CHAPLAIN LESBIAN SPACE PRINCESS SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1790608285939-3eb19c7f-55f4-4116-8072-7c5e8d2776ed.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aba8831f4720dfefb1802d7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101596303",
+      "itunes_duration": "42:15",
+      "speakers": [],
+      "topics": [
+        "shabana",
+        "azeez",
+        "pitt",
+        "airport",
+        "chaplain",
+        "lesbian",
+        "space",
+        "princess"
+      ]
+    },
     {
       "key": "a6139946f5f1cc13ff6139b8e1f74d92ec3b6d2c",
       "title": "JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind",
@@ -19670,6 +19693,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — SHABANA AZEEZ • "My job is empathy" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689
 - 2026-09-25 — JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind — speakers: James Buckley
 - 2026-09-23 — RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688 — speakers: Royle Family
 - 2026-09-18 — RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind

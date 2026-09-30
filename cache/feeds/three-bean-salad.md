@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"a9726-65c1b612486ba"`
-- last_modified: `Wed, 23 Sep 2026 00:15:23 GMT`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"aa07b-65ca8324a4fef"`
+- last_modified: `Wed, 30 Sep 2026 00:15:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "95c243a4af94c76497b8bfc9e379d6f9d81240fa",
+      "title": "Fifth Wednesday semi-demi-non-ep",
+      "published_at": "2026-09-30T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-semi-demi-non-ep",
+      "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday September and we only do four episodes a month because of the podcasters' union) Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com insta: @beansaladpod",
+      "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/1e9e1673-6a46-46a1-b5e5-7b88af9d9b76.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=1e9e1673-6a46-46a1-b5e5-7b88af9d9b76",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "3100002",
+      "itunes_duration": "03:14",
+      "speakers": [
+        "Fifth Wednesday",
+        "Three Bean Salad",
+        "Wednesday September",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "fifth",
+        "wednesday"
+      ]
+    },
     {
       "key": "aaff0dafa5470b5a479e0f301b0e23a193fdbce0",
       "title": "Soup",
@@ -4543,6 +4567,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Fifth Wednesday semi-demi-non-ep — speakers: Fifth Wednesday, Three Bean Salad, Wednesday September, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-23 — Soup — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-16 — Dancing — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-09 — Taxis — speakers: Taxis Taxi, Mike Wozniak, Henry Paker, Benjamin Partridge

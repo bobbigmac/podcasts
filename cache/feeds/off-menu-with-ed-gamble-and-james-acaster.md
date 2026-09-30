@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"djEuMi4wOjE3OTAxMzI0Mzk3MDg="`
+- fetched_at: `2026-09-30T05:31:06+00:00`
+- checked_at: `2026-09-30T05:31:06+00:00`
+- etag: `"djEuMi4wOjE3OTA3MzcyMzk2NjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-30T05:31:06+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8cdd99eff61b6fdf44493f30b713da2cdf2653d0",
+      "title": "Melvin Odoom",
+      "published_at": "2026-09-30T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/melvin-odoom",
+      "description": "Radio DJ, presenter, and supportive-man-to-new-stand-up-comedians, Melvin Odoom is this week’s dream diner. And he’s choosing menu choices no one has ever picked before. Melvin Odoom is on ‘Celebrity Masterchef’. Watch the full series on BBC iPlayer here . Follow Melvin on Instagram and TikTok @melvinodoom Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1789575040670-13dde1fc-aee3-4b08-8a7a-44111ec05947.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aaabf8afce2f88226cf9943/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66464705",
+      "itunes_duration": "1:09:13",
+      "speakers": [
+        "Melvin Odoom",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "melvin",
+        "odoom"
+      ]
+    },
     {
       "key": "45e5cb04342b838f102ee6ae34084117b3d12183",
       "title": "Pierre Novellie",
@@ -8989,6 +9011,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Melvin Odoom — speakers: Melvin Odoom, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-23 — Pierre Novellie — speakers: Pierre Novellie Stand, Pierre Novellie, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-16 — Sanjeev Bhaskar — speakers: Sanjeev Bhaskar, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-09 — Jacqueline Novak — speakers: Jacqueline Novak, Ed Gamble, James Acaster, Ben Williams
