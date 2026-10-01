@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-09-24T17:10:21+00:00`
-- checked_at: `2026-09-24T17:10:21+00:00`
-- etag: `"2688e0-65c3bdd9bdcda"`
-- last_modified: `Thu, 24 Sep 2026 15:00:51 GMT`
+- fetched_at: `2026-10-01T10:07:02+00:00`
+- checked_at: `2026-10-01T10:07:02+00:00`
+- etag: `"2688e0-65cc3a1abcce2"`
+- last_modified: `Thu, 01 Oct 2026 08:59:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-09-24T17:10:21+00:00",
+  "fetched_at": "2026-10-01T10:07:02+00:00",
   "owners": [
     "Gemma Ware"
   ],

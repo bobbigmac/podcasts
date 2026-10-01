@@ -10341,6 +10341,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:6bfd2bf574fc",
+        "feed_title": "Scott Mills and Chris Stark",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m000b7g1.rss",
+        "dedupe_key": "9b91c90212579fb3da0cdd02bbdeff771d4d613c",
+        "episode_key": "9b91c90212579fb3da0cdd02bbdeff771d4d613c",
+        "title": "Bob Mortimer & Paul Whitehouse, Jamie Redknapp and Gbemisola Ikumelo",
+        "published_at": "2020-08-22T10:44:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Scott and Chris set-up your Saturday with more of your hilarious stories and some great guests. This week Bob Mortimer and Paul Whitehouse on the return of Gone Fishing, the boys chat with Jamie Redknapp, and Famalam's Gbemisola Ikumelo plays the Upside Down Quiz.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08pc765.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer-paul-whitehouse-jamie-redknapp-and/id1486636541?i=1000488850649&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e7806ce80a56",
         "feed_title": "THE ADAM BUXTON PODCAST",
         "source_rss_url": "https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645",
@@ -13313,6 +13335,28 @@
         "description": "Harriet Kemsley and Sunil Patel are joined by Sean McLoughlin for their first ever filmed version of the podcast. They discuss decorative cats, ships, Star Trek and dogs who are alive.\n\nYou can now watch the show as a video podcast here.\n\n\n----\n\nFollow the show here\nTwitter: https://twitter.com/whyharrietcry\nInstagram:",
         "audio_url": "https://audioboom.com/posts/7386783.mp3?modified=1598477342&sid=4875366&source=rss",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-next-generation-with-sean-mcloughlin/id1180971779?i=1000452229440&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:676330724b3b",
+        "feed_title": "Unexpected Fluids",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p066mgz9.rss",
+        "dedupe_key": "02ad0111adebcab2886491ae565b2572383c52cd",
+        "episode_key": "02ad0111adebcab2886491ae565b2572383c52cd",
+        "title": "E7S2: The worst sex tips with Harriet Kemsley",
+        "published_at": "2018-10-14T23:34:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Harriet Kemsley helps Alix and Riyadh read the worst sex tips you’ve ever been given, from ginger to plastic bags…",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p06nh900.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/e7s2-the-worst-sex-tips-with-harriet-kemsley/id1382587938?i=1000421814105&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

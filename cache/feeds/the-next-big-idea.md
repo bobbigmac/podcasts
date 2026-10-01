@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-09-24T11:44:37+00:00`
-- checked_at: `2026-09-24T11:44:37+00:00`
-- last_modified: `Thu, 24 Sep 2026 09:00:00 GMT`
+- fetched_at: `2026-10-01T10:07:02+00:00`
+- checked_at: `2026-10-01T10:07:02+00:00`
+- last_modified: `Thu, 01 Oct 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-24T11:44:37+00:00",
+  "fetched_at": "2026-10-01T10:07:02+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,51 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "70fc83d6b8b3e39883f6cb1c17a68e431e6f21f8",
+      "title": "The One Word That Explains Progress",
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "link": null,
+      "description": "Martin Seligman founded the positive psychology movement. Now, at 84, he’s shaking up the field all over again. He’s got a new book out. It’s called Agency . And in it, he says, he’s trying to “found a new field.” It’s called psychohistory. “I'm after the rigorous possibility that we can use the tools of psychology to go back in history to ask the questions What produces innovation? What produces progress? And what produces stagnation?” 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com . Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — They're offering our listeners up to 10% off your full Genome test, plus free shipping. Go to sequencing.com and use promo code IDEA for 10% off.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2040273353.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4162",
+      "speakers": [
+        "Martin Seligman",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "word",
+        "progress"
+      ]
+    },
+    {
+      "key": "7fbfe3246f7e881179687f59a5cfc862da09a160",
+      "title": "Angela Duckworth Now Thinks \"Grit\" Wasn't the Whole Story",
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "link": null,
+      "description": "Ten years ago, Angela Duckworth became one of the world’s most influential psychologists by making the case for grit. Though talent matters, she argued, it’s passion and perseverance that turn potential into achievement. Now she’s back with a new book called Situated that complicates that argument in a fascinating way. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3113426118.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4227",
+      "speakers": [
+        "Angela Duckworth Now",
+        "Angela Duckworth",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "angela",
+        "duckworth",
+        "grit",
+        "story"
+      ]
+    },
     {
       "key": "a5a2d2a96d58e413238f489f009800d60190133b",
       "title": "AI Has Gone Rogue. Here’s What We Should Do About It.",
@@ -8540,6 +8585,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — The One Word That Explains Progress — speakers: Martin Seligman, Rufus Griscom, Caleb Bissinger
+- 2026-09-28 — Angela Duckworth Now Thinks "Grit" Wasn't the Whole Story — speakers: Angela Duckworth Now, Angela Duckworth, Rufus Griscom, Caleb Bissinger
 - 2026-09-24 — AI Has Gone Rogue. Here’s What We Should Do About It. — speakers: Stephen Witt, Rufus Griscom, Caleb Bissinger
 - 2026-09-21 — You Don't Have Free Will. That's Good News. (NBI Vault) — speakers: Good News, Rufus Griscom, Caleb Bissinger
 - 2026-09-17 — The Art of Fighting — speakers: Rufus Griscom, Caleb Bissinger
