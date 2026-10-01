@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-29T18:05:04+00:00`
-- checked_at: `2026-09-29T18:05:04+00:00`
-- etag: `"djEuMi4wOjE3OTA3MDM3MzI0NDk="`
+- fetched_at: `2026-10-01T18:25:34+00:00`
+- checked_at: `2026-10-01T18:25:34+00:00`
+- etag: `"djEuMi4wOjE3OTA4Njk5NzEwMjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-29T18:05:04+00:00",
+  "fetched_at": "2026-10-01T18:25:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ab89f0516bb4e73802f6fa11b7df3a64ec79e505",
+      "title": "Is Burnham brave or naive?",
+      "published_at": "2026-10-01T15:52:50+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/is-burnham-brave-or-naive",
+      "description": "At this week’s Labour conference, Andy Burnham announced bigger and bolder policy ambitions than anyone expected. Was this too big a swing? Or the grand vision the country needs? Elsewhere, next Thursday, there is a by-election happening in Holborn and St Pancras, the seat vacated by Keir Starmer. Oli Dugmore is joined by business editor Will Dunn and political correspondent Megan Kenyon to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1790869789588-0159ee89-4100-45ee-b9c3-1799ce992e66.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6abe80c044f42446e6b3f872/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92059551",
+      "itunes_duration": "38:19",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham"
+      ]
+    },
     {
       "key": "9b15790f08c2e2293a548748ff5fe540eb44f48a",
       "title": "Burnham delivers packed conference speech",
@@ -32504,6 +32524,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — Is Burnham brave or naive? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-29 — Burnham delivers packed conference speech — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-28 — Has Andy Burnham reached his peak? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-26 — Is Ed Davey too nice? — speakers: Donald Trump’s AI, Anoosh Chakelian, Oli Dugmore

@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-01T10:07:02+00:00`
-- checked_at: `2026-10-01T10:07:02+00:00`
-- etag: `"2688e0-65cc3a1abcce2"`
-- last_modified: `Thu, 01 Oct 2026 08:59:21 GMT`
+- fetched_at: `2026-10-01T18:25:34+00:00`
+- checked_at: `2026-10-01T18:25:34+00:00`
+- etag: `"269744-65cc8b553b55c"`
+- last_modified: `Thu, 01 Oct 2026 15:02:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-01T10:07:02+00:00",
+  "fetched_at": "2026-10-01T18:25:34+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,31 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "f997525207f2f34d0d4cc1afdd55575534221b56",
+      "title": "Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel?",
+      "published_at": "2026-10-01T15:00:00+00:00",
+      "link": "https://theconversation.com/could-a-former-idf-chief-break-benjamin-netanyahus-grip-on-power-in-israel-293097",
+      "description": "Israel is heading to the polls on October 27 and Prime Minister Benjamin Netanyahu is facing perhaps the toughest political battle of his career. He's been accused of treason over fresh allegations he was warned of a major Hamas plot ahead of the October 7 attacks. In this week's episode of The Conversation Weekly, wDov Waxman, a political scientist and Professor of Israeli Studies at the University of California explains why Israel's political magician might be out of tricks and how former IDF chief and political novice Gadi Eisenkot could be the one to upstage him. Read more Israeli political analysis from Dov Waxman here. This episode was written by Justin Bergman and Isabella Podwinski was the executive producer. Sound mixing by Dan Semo and our theme music by Neeta Sarl. Gemma Ware is our Head of Audio and Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/d2dc715f-788b-4e0e-a2b7-8e0b17bdd2fd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35936174",
+      "itunes_duration": "24:57",
+      "speakers": [
+        "Benjamin Netanyahu",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "chief",
+        "break",
+        "benjamin",
+        "netanyahu",
+        "grip",
+        "power",
+        "israel"
+      ]
+    },
     {
       "key": "aeed8c2acaf4abe2ecf11bd63d019712f33ada2a",
       "title": "Can we ever fully trust AI agents?",
@@ -6332,6 +6357,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel? — speakers: Benjamin Netanyahu, Gemma Ware
 - 2026-09-24 — Can we ever fully trust AI agents? — speakers: Gemma Ware
 - 2026-09-17 — Australia's 'barking mad' bet on nuclear submarines — speakers: Gemma Ware
 - 2026-09-10 — Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs — speakers: Ratko Mladić, Gemma Ware
