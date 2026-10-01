@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-09-24T04:48:57+00:00`
-- checked_at: `2026-09-24T04:48:57+00:00`
-- last_modified: `Wed, 23 Sep 2026 23:08:25 GMT`
+- fetched_at: `2026-10-01T00:33:10+00:00`
+- checked_at: `2026-10-01T00:33:10+00:00`
+- last_modified: `Thu, 01 Oct 2026 00:21:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-24T04:48:57+00:00",
+  "fetched_at": "2026-10-01T00:33:10+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,31 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "57687a9ec7fed386c84e032d8a16b9f7f619c018",
+      "title": "Non-Fatal Flaws: Bad Bits in Good Games",
+      "published_at": "2026-09-30T23:00:00+00:00",
+      "link": null,
+      "description": "This week's topic is all about the maggot in the apple, the flaw in the diamond, the suspicious stain on the clean-smelling underwear. That's right, it's the parts of otherwise great games that we hate. Disgusting sound effects, tedious intros, impossible tasks and unfamiliar mechanics have all weaselled their way in to the Boys' all-time favourites. But before that, they catch up on what they've been up to this week. Sarah's been developing a nepotistic empire, Glenn's teamed up for a puzzling hike and Pierre's losing himself to one of the most satisfying games he's ever played. Thanks again to all those who came to Button Boys Live at Leicester Square Theatre. If you missed it, we're doing another live date on October 15th in Balham at the Cheerful Earful festival. Link below! ⁠ Cheerful Earful Festival Live Show ⁠ Pierre ⁠ Sarah ⁠ Glenn If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Kynseed Stardew Valley Crusader Kings Mewgenics The Occultist Darkwood Split Fiction Big Walk Untitled Goose Game Call of Duty: Black Ops 7 Age of Empires II: The Age of Kings Heavy Rain Sandustry Dorfromantik Factorio A Game About Digging A Hole Star Fox 007 First Light Marvel's Wolverine Princess Peach: Showtime! Yoshi and the Mysterious Book Super Mario Bros. Wonder It Takes Two Blue Prince Red Dead Redemption 2 The Simpsons: Hit & Run Grand Theft Auto III Grand Theft Auto: Vice City Grand Theft Auto: San Andreas The Blood of Dawnwalker The Legend of Zelda: Ocarina of Time Alien: Isolation A Quiet Place: The Road Ahead Fortnite Total War: Warhammer Uncharted 4: A Thief's End Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7368512590.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3586",
+      "speakers": [
+        "Fatal Flaws",
+        "Bad Bits",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "flaws",
+        "bits",
+        "good",
+        "games"
+      ]
+    },
     {
       "key": "0e95d02b9490eae9140429d78f720b269b30494a",
       "title": "The Worst Game Pitch-Off",
@@ -1497,6 +1522,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Non-Fatal Flaws: Bad Bits in Good Games — speakers: Fatal Flaws, Bad Bits, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-23 — The Worst Game Pitch-Off — speakers: Off If, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-16 — August Annals: What We've Been Playing — speakers: August Annals, Been Playing, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-09 — First Impressions: Tutorials and Intros that Stick — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

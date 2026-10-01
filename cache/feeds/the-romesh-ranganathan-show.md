@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- last_modified: `Sun, 27 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-10-01T00:33:10+00:00`
+- checked_at: `2026-10-01T00:33:10+00:00`
+- last_modified: `Wed, 30 Sep 2026 23:35:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-10-01T00:33:10+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a425e124d96ee1a8d43e1268e9a4af64bf323e40",
+      "title": "The Celebrity Impressions Challenge",
+      "published_at": "2026-09-30T23:01:00+00:00",
+      "link": null,
+      "description": "Can Shanthi do a better celebrity impression than Romesh? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi are back with listener questions, family stories and a celebrity impressions challenge that quickly gets out of hand. From Shanthi’s early morning routines to what it's like being a grandma, the pair discuss family relationships throughout including a family trip to Devil's Dyke that Romesh missed out on. Elsewhere, the team suggest a Celebrity Impressions Challenge where Romesh is put through his paces as he attempts impressions of David Attenborough, Simon Cowell, and Gordon Ramsay and Shanthi is challenged to Nigella Lawson (you don't want to miss it). And, as usual, we take on your questions, discussing what happens when children start pulling away as they get older, and how to approach telling a traditional family about a relationship that crosses caste boundaries, with some of the best advice in the business. Plus, Shanthi shares a deeply personal story about her parents and the choices they made for love. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:58 Morning routines & garden chat 05:02 Shanthi’s advice to Rom 07:30 Shanthi as a grandma 08:50 TikTok Shop & Bank mishaps 14:15 When Lenny Henry had Shanthi’s back 15:20 Celebrity Impressions Challenge 25:52 Shanthi holds Romesh to his word 28:14 Shanthi's favourite podcast moment 29:46 Shanthi's trip to Devil's Dyke 35:10 Listener questions: parenthing & caste 54:45 Shanthi shares her parents story 57:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f389513c-bd12-11f1-a9f0-0700f2b4afc2/image/8782af6e3e47e91a17c732bda2e039bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5103823147.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3637",
+      "speakers": [
+        "Can Shanthi",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "celebrity",
+        "impressions",
+        "challenge"
+      ]
+    },
     {
       "key": "9cd810d4fe42e86f34ccf4af2c0cc40385eae8e7",
       "title": "Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up",
@@ -2458,6 +2479,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — The Celebrity Impressions Challenge — speakers: Can Shanthi, Romesh Ranganathan
 - 2026-09-27 — Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up — speakers: Lenny Henry, Eddie Murphy, Romesh Ranganathan
 - 2026-09-23 — Celebrating One Year Of The Romesh Ranganathan Show — speakers: Romesh Ranganathan
 - 2026-09-20 — Stephen Graham on Acting, Adolescence & Al Pacino — speakers: Stephen Graham, Romesh Ranganathan

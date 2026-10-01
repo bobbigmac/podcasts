@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-29T22:14:14+00:00`
-- checked_at: `2026-09-29T22:14:14+00:00`
-- last_modified: `Tue, 29 Sep 2026 22:10:04 GMT`
+- fetched_at: `2026-10-01T00:33:10+00:00`
+- checked_at: `2026-10-01T00:33:10+00:00`
+- last_modified: `Wed, 30 Sep 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-29T22:14:14+00:00",
+  "fetched_at": "2026-10-01T00:33:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "248de8f4229eb46165c64ffaf1b0227389e797f9",
+      "title": "576. How Xi is Outplaying Trump and Tensions in Northern Ireland",
+      "published_at": "2026-09-30T23:00:00+00:00",
+      "link": null,
+      "description": "As Trump becomes the first American president to personally welcome a visiting head of state off a plane since JFK greeted Harold Macmillan in 1962, did his summit with President Xi signal improving US-China relations, or does Xi have his counterpart in an economic chokehold? With the standoff between protesters and members of the pro-British Protestant Orange Order in Northern Ireland showing no sign of resolution, is the region's fragile peace in danger of unravelling? And as violence erupts in Ethiopia, is Africa's second most populous country on the brink of civil war – and does it risk dragging other regional actors into a wider conflict spanning the Horn of Africa and the Gulf? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Research: Evie Townend Social Producer: Celine Charles Video Editor: Josh Smith, Lorcan Moullier, Oli Ortega, Joe Pettit Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8869fbac-bce7-11f1-bbd3-f3ae3c8d785f/image/98ba1df6fc5625aaaf5b9f10780ac587.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7760902288.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3959",
+      "speakers": [],
+      "topics": [
+        "outplaying",
+        "trump",
+        "tensions",
+        "northern",
+        "ireland"
+      ]
+    },
     {
       "key": "e316f9bcf0167cae352d0908be59bb3fcb85d5ad",
       "title": "575. Alastair Reacts to Burnham’s Speech and Rory’s Viral Stare",
@@ -13091,6 +13111,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — 576. How Xi is Outplaying Trump and Tensions in Northern Ireland
 - 2026-09-29 — 575. Alastair Reacts to Burnham’s Speech and Rory’s Viral Stare — speakers: Alastair Reacts
 - 2026-09-24 — Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli) — speakers: Carlo Rovelli
 - 2026-09-23 — 574. Germany’s Political Disaster and Can the Lib Dems Fight Back?

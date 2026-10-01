@@ -15253,6 +15253,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5dc1b693c271",
+        "feed_title": "No Such Thing As A Fish",
+        "source_rss_url": "https://audioboom.com/channels/2399216.rss",
+        "dedupe_key": "a613b1aa3ee89eebe73b53be5bc8e5c21ca17dd5",
+        "episode_key": "a613b1aa3ee89eebe73b53be5bc8e5c21ca17dd5",
+        "title": "No Such Thing As An Award-Winning Gecko",
+        "published_at": "2023-05-11T22:55:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Dan, James, Andrew and Sally Phillips discuss mythical beasts, hungry caterpillars, false geckos, and Super Furry Animals.Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingas",
+        "audio_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8299061.mp3?modified=1751399484&sid=2399216&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-an-award-winning-gecko/id840986946?i=1000612626544&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fd5c070093d4",
         "feed_title": "Bandwidth Conversations",
         "source_rss_url": "https://bandwidthconversations2021.libsyn.com/rss",
@@ -24856,6 +24878,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c5df4fff71a7",
+        "feed_title": "Loose Ends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
+        "dedupe_key": "112f48f1f9af87e429a411cda494c0c17d5bba89",
+        "episode_key": "112f48f1f9af87e429a411cda494c0c17d5bba89",
+        "title": "Martha Plimpton, Lou Sanders, Emily Watson, Nels Abbey, Ady Suleiman, Arlo Day, Emma Freud, Clive Anderson",
+        "published_at": "2019-06-15T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Clive Anderson and Emma Freud are joined by Martha Plimpton, Lou Sanders, Emily Watson and Nels Abbey for an eclectic mix of conversation, music and comedy. With music from Ady Suleiman and Arlo Day.\nProducer: Sukey Firth",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07d76cf.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/martha-plimpton-lou-sanders-emily-watson-nels-abbey/id1163219363?i=1000441608522&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f7b0ad5c7df5",
         "feed_title": "Pappy's Flatshare",
         "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
@@ -25124,6 +25168,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "01b79d31198cc784dc7763c65c908585b57567fa",
+        "episode_key": "01b79d31198cc784dc7763c65c908585b57567fa",
+        "title": "We Care, We Fight! (with Stewart Lee)",
+        "published_at": "2026-09-23T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee returns to the show after a summer judging dog shows with Charlotte Church.\nHe and Armando look at the Lib Dem conference, and why the 'word cloud' is not Ed Davey's friend. They also have some helpful and serious suggestions for how Ed can improve his messaging, which I'm sure he'll take on board.\nElsewher",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd86zw.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/we-care-we-fight-with-stewart-lee/id1774462541?i=1000791329470&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e34d98fa2cca",
         "feed_title": "Roadtrip Canterbury, op weg naar Stewart Lee",
         "source_rss_url": "https://anchor.fm/s/114398298/podcast/rss",
@@ -25289,6 +25355,28 @@
         "feed_image_url": null,
         "description": "Stewart Lee joins Armando to look at the detail, or lack thereof in the US and Iran deal.\nWhat is a memorandum of understanding? Does the language of UFC apply to this deal? And are Shoreditch hipsters running Iran's social media campaign?\nIt's by-election day, and while broadcast rules prevent us from discussing the e",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsk2g3.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/its-all-signed-with-stewart-lee/id1774462541?i=1000773168520&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "cb0bd3f0091bfea10bbae3899e20cc89c72c4a36",
+        "episode_key": "cb0bd3f0091bfea10bbae3899e20cc89c72c4a36",
+        "title": "It's All Signed (with Stewart Lee)",
+        "published_at": "2026-06-17T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee joins Armando to look at the detail, or lack thereof in the US and Iran deal.\nWhat is a memorandum of understanding? Does the language of UFC apply to this deal? And are Shoreditch hipsters running Iran's social media campaign?\nIt's by-election day, and while broadcast rules prevent us from discussing the e",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd86xr.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/its-all-signed-with-stewart-lee/id1774462541?i=1000773168520&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
