@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-09-25T21:34:21+00:00`
-- checked_at: `2026-09-25T21:34:21+00:00`
-- etag: `"e6386f55546641e54d38de9fcb051a9e"`
-- last_modified: `Fri, 25 Sep 2026 18:00:13 GMT`
+- fetched_at: `2026-10-02T22:13:24+00:00`
+- checked_at: `2026-10-02T22:13:24+00:00`
+- etag: `"a9df5d318fd2282c79654391b9c69ec1"`
+- last_modified: `Fri, 02 Oct 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-09-25T21:34:21+00:00",
+  "fetched_at": "2026-10-02T22:13:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "c437472562b6f2a9622f3a264db3fa822de65849",
+      "title": "The News Quiz: Ep4. 'Demonstrable lies'",
+      "published_at": "2026-10-02T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pch306",
+      "description": "Who did Trump call a 'natural businessperson'? What does Ed Davey want to bring back? And why shouldn't we call young people snowflakes? It's all up for discussion on this week's News Quiz. The panel is Rachel Fairburn, Desiree Burch, Robin Morgan and Cindy Yu. Written by Andy Zaltzman. With additional material by Matt Hulme, Christina Riggs and Henry Whaley. Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcj7wn.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
+      "itunes_duration": "1704",
+      "speakers": [
+        "Ed Davey"
+      ],
+      "topics": [
+        "news",
+        "quiz"
+      ]
+    },
     {
       "key": "d8ba78103fec02f5b1d57ba6e4a4915ec4110031",
       "title": "The News Quiz: Ep3. The Robots Are/Aren't Coming",
@@ -5473,30 +5492,6 @@
         "quiz",
         "october"
       ]
-    },
-    {
-      "key": "22e5bb9f2feba89b77fb1972c417cc3f375e6306",
-      "title": "News Quiz 1st October 2021",
-      "published_at": "2021-10-01T18:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09xhqg9",
-      "description": "Lucy Porter, Angela Barnes, Alun Cochrane and Matt Forde join host Andy Zaltzman to chew over the week's news. On the menu this week: the fuel crisis, Labour conference, end of the furlough scheme, Amazon's new house robot and the new Bond film. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Max Davis, Tasha Dhanraj and Heidi Regan. It was produced by Sam Michell for BBC Studios.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09xhp82.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26784000",
-      "itunes_duration": "1674",
-      "speakers": [
-        "Lucy Porter",
-        "Angela Barnes",
-        "Alun Cochrane",
-        "Matt Forde",
-        "Andy Zaltzman"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "october"
-      ]
     }
   ]
 }
@@ -5505,6 +5500,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — The News Quiz: Ep4. 'Demonstrable lies' — speakers: Ed Davey
 - 2026-09-25 — The News Quiz: Ep3. The Robots Are/Aren't Coming
 - 2026-09-18 — The News Quiz: Ep 2. Team Vibes vs Team Bribes — speakers: Team Vibes, Team Bribes Answering, Mark Steel, Zoe Lyons, Hugo Rifkind
 - 2026-09-11 — The News Quiz: Ep1. The Burnham bounce?
@@ -5764,4 +5760,3 @@
 - 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman
 - 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman
 - 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman
-- 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman
