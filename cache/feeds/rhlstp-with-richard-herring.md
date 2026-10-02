@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-02T09:44:41+00:00`
-- checked_at: `2026-10-02T09:44:41+00:00`
-- etag: `"djEuMi4wOjE3OTA4NzI4ODk0OTI="`
+- fetched_at: `2026-10-02T17:52:29+00:00`
+- checked_at: `2026-10-02T17:52:29+00:00`
+- etag: `"djEuMi4wOjE3OTA5NTA0NDY1NTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-02T09:44:41+00:00",
+  "fetched_at": "2026-10-02T17:52:29+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7c2ec7d951f7d598bb61622b7c9d48d836115e9c",
+      "title": "Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor",
+      "published_at": "2026-10-02T14:14:06+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "29th September 2026 - No Speculation - Rich and Ally cover a story that you won’t have read about it in LSM, some suspicious activity around RAF Fairford. Even if you’ve got wind of it then I don’t think any of your news sources will have come at it from this angle. There will be no speculation in this one. Just cold hard facts based on stuff that we’ve heard from strangers on social media. Plus an on the spot report from… ooops nearly told you. 1st October 2026 - County Fair Merkin - Rich and Ally are back with a new co-host to talk about why being bald is masculine and why we have pubic hair. You won’t get this in the lamestream media. Except in the Guardian. 2nd October 2026 - Richard E Grant the Traitor - Last Newsround of the Week and there have been some changes in the line-up. Let us know who you’d like to present ideally. The team talk about something you won’t see in the LSM, the new series of Traitors and the stupidity of one of Rich’s sworn enemies. Will Richard (Herring) ever get his revenge. It’s doubtful. Certainly not right now. Would you rather be on Traitors of Craven Newsround? See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790949927151-885960a9-dcf5-47f0-840a-03dd596a2ec2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6abfbc2e0d8a484144c7ada4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32287488",
+      "itunes_duration": "1:07:15",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "No Speculation",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "richard",
+        "grant",
+        "traitor"
+      ]
+    },
     {
       "key": "6814fb0295f01d82bdb15413e9d692eeea8ec54e",
       "title": "Isy Suttie - \"Throwing a Pound Coin at Howard From Take That’s Head\"",
@@ -24073,6 +24099,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor — speakers: Craven Newsround Compilation, No Speculation, Richard Herring
 - 2026-09-30 — Isy Suttie - "Throwing a Pound Coin at Howard From Take That’s Head" — speakers: Isy Suttie, Pound Coin, Richard Herring
 - 2026-09-28 — Catherine Tate (Retro) - "Am 'I' Bovvered?" — speakers: Catherine Tate, Richard Herring
 - 2026-09-26 — Rich and Ally's Craven Newsround Compilation - Shrinkflaktion — speakers: Richard Herring

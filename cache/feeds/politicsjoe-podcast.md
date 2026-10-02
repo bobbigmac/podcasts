@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-29T18:05:04+00:00`
-- checked_at: `2026-09-29T18:05:04+00:00`
-- etag: `"djEuMi4wOjE3OTA2OTE5NTg1MTY="`
+- fetched_at: `2026-10-02T17:52:29+00:00`
+- checked_at: `2026-10-02T17:52:29+00:00`
+- etag: `"djEuMi4wOjE3OTA5MzgzMzc1OTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-29T18:05:04+00:00",
+  "fetched_at": "2026-10-02T17:52:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "93cb71b119d9edbc975360802f29417be1ed71de",
+      "title": "We Need To Talk About Cuba | Jeremy Corbyn interview",
+      "published_at": "2026-10-02T10:52:17+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6abf8ce1235a8e6af39547cf",
+      "description": "Jeremy Corbyn has been no stranger to international solidarity in his long career as a politician. He sat down with Ava to discuss his campaigning for the blockade to be lifted on Cuba, after a summer of campaigning which led him to travel to the Caribbean island to show his support for its people. Corbyn also breaks down his assessment of Andy Burnham's time as Labour leader to this point, and how the former Manchester mayor can solidify Labour's recent spike in the polls. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6abf8ce1235a8e6af39547cf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56461292",
+      "itunes_duration": "29:23",
+      "speakers": [
+        "Jeremy Corbyn"
+      ],
+      "topics": [
+        "cuba",
+        "jeremy",
+        "corbyn"
+      ]
+    },
     {
       "key": "46dc4f1c1beb21463e56e77dbd600fd584d32f23",
       "title": "What I didn't get to say on BBC Newsnight",
@@ -13747,6 +13767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — We Need To Talk About Cuba | Jeremy Corbyn interview — speakers: Jeremy Corbyn
 - 2026-09-29 — What I didn't get to say on BBC Newsnight — speakers: Newsnight Ava
 - 2026-09-27 — Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview — speakers: Daron Acemoglu
 - 2026-09-25 — Trump will lead to America's downfall | Owen Jones Interview — speakers: Owen Jones

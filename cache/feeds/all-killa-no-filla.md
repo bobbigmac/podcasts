@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-08-10T19:16:05+00:00`
-- checked_at: `2026-08-10T19:16:05+00:00`
-- etag: `"ad09a6eb3b1c5a3889855925aa8a4949"`
-- last_modified: `Mon, 10 Aug 2026 16:54:33 GMT`
+- fetched_at: `2026-10-02T17:52:29+00:00`
+- checked_at: `2026-10-02T17:52:29+00:00`
+- etag: `"3091d55efa3d6e501e95699f674a2209"`
+- last_modified: `Fri, 02 Oct 2026 15:20:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-08-10T19:16:05+00:00",
+  "fetched_at": "2026-10-02T17:52:29+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "460a696110628aece3bced8b46022c21b0fd12d3",
+      "title": "All Killa No Filla - Episode 133 - Henri Désiré Landru",
+      "published_at": "2026-10-02T14:21:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-133-henri-dsir-landru",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. Episode 133 brings us to turn of the century France for the real-life Bluebeard - Henri Désiré Landru. With a penchant for rich and lonely widows, Landru's victims range anywhere from 10 to over 70. But after a busy Fringe period, there's a lot for Rachel and Kiri to catch up on. Namely, calling out Hull trains, parents using AI, and peri-menopause influencers....",
+      "image_url": "https://static.libsyn.com/p/assets/e/6/c/e/e6ce886a074e9c7088c4a68c3ddbc4f2/maxresdefault.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_133_-_Henri_Dsir_Landru.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125395290",
+      "itunes_duration": "01:26:37",
+      "speakers": [
+        "Désiré Landru",
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "henri",
+        "landru"
+      ]
+    },
     {
       "key": "46a873a3f220c15b5fa171a21784665887ce5f44",
       "title": "All Killa No Filla - Episode 132 - Miyazaki Tsutomu",
@@ -4475,6 +4498,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — All Killa No Filla - Episode 133 - Henri Désiré Landru — speakers: Désiré Landru, Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-08-10 — All Killa No Filla - Episode 132 - Miyazaki Tsutomu — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-06-22 — All Killa No Filla - Episode 131 - Part 2 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-06-08 — All Killa No Filla - Episode 131 - Part 1 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean
