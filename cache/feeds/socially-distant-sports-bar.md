@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA3MjMyNTkzNjE="`
+- fetched_at: `2026-10-02T00:47:16+00:00`
+- checked_at: `2026-10-02T00:47:16+00:00`
+- etag: `"djEuMi4wOjE3OTA4OTYwNTkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-02T00:47:16+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "9f984f2bb6cc870f055a98c631508bf2a374daa8",
+      "title": "Tom Craine (pt 2)",
+      "published_at": "2026-10-01T23:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/tom-craine-pt-2",
+      "description": "Tom Craine is still here Which is excellent news for us and slightly less good news for anyone hoping this podcast might eventually become a tightly controlled discussion about sport. This is Part 2 of our guest episode with the comedian, writer and co-host — with Elis James and Chris Scull — of Oh What A Time... Tom has also launched Last Match Then Bed , a new podcast dedicated to the game responsible for millions of people knowing far too much about obscure Scandinavian footballers: Championship Manager . Having got ourselves warmed up in Part 1, the conversation continues through football, the 1990s, sporting nostalgia and the moments that seemed completely normal at the time but become increasingly peculiar the further away from them we get. Including: Kinkladze v Southampton, 1996 https://www.youtube.com/shorts/fkVWNB0Vt3Q Diana Ross’s World Cup penalty, 1994 https://www.youtube.com/watch?v=BAKsGT9-XB0 World Cup Balloon Keepy-Uppies https://www.youtube.com/watch?v=6r-gedgyZXI If you haven’t listened to Part 1 , start there first. This will make slightly more sense. And if two parts of Tom Craine still aren’t enough, we kept some of the conversation back for Bonus Club on Apple Podcasts. Go and find Last Match Then Bed wherever you get your podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6aba30cd46cffee02939ba68/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100591680",
+      "itunes_duration": "41:54",
+      "speakers": [
+        "Tom Craine",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "craine"
+      ]
+    },
     {
       "key": "5402514d9aaa37ea4713016eae5bc9319e27336d",
       "title": "Tom Craine (pt 1)",
@@ -16096,6 +16117,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — Tom Craine (pt 2) — speakers: Tom Craine, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-29 — Tom Craine (pt 1) — speakers: Tom Craine, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-26 — Ghosts: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-24 — The Special One — speakers: Elis James, Mike Bubbins, Steff Garrero

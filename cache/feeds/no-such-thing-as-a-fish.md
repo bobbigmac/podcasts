@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-09-28T21:14:21+00:00`
-- checked_at: `2026-09-28T21:14:21+00:00`
-- etag: `W/"9f33a6a588092196c35f0a7db2173837"`
-- last_modified: `Mon, 28 Sep 2026 16:39:25 GMT`
+- fetched_at: `2026-10-02T00:47:16+00:00`
+- checked_at: `2026-10-02T00:47:16+00:00`
+- etag: `W/"7401c478275014800c5f5d67bcc325c1"`
+- last_modified: `Thu, 01 Oct 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-09-28T21:14:21+00:00",
+  "fetched_at": "2026-10-02T00:47:16+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "c3157c5c39215f4037d2b86a4400b628fc83ef88",
+      "title": "No Such Thing As Alfred Hedgehog",
+      "published_at": "2026-10-01T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8959465",
+      "description": "Dan, James, Anna and Andy discuss fufu, Yakity-Yak and perplexing painkillers. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43864196.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8959465.mp3?modified=1790870510&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3414",
+      "speakers": [
+        "Alfred Hedgehog Dan",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "alfred",
+        "hedgehog"
+      ]
+    },
     {
       "key": "885369ef020edd63d77a9d80767c1199dca397f0",
       "title": "Little Fish: Checking the Mark Hoppus",
@@ -17199,6 +17223,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — No Such Thing As Alfred Hedgehog — speakers: Alfred Hedgehog Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-27 — Little Fish: Checking the Mark Hoppus — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-24 — No Such Thing As Tibetan Traitors — speakers: Christopher Columbus, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-20 — Little Fish: This Is A Song — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

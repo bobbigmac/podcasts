@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- etag: `"djEuMi4wOjE3OTA1NTAxNTkyODk="`
+- fetched_at: `2026-10-02T00:47:16+00:00`
+- checked_at: `2026-10-02T00:47:16+00:00`
+- etag: `"djEuMi4wOjE3OTA4OTU3NjA0NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-10-02T00:47:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ca06c84428bc994ee01b8cd772e81203485f5ebc",
+      "title": "My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes)",
+      "published_at": "2026-10-01T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-20-with-bob-cryer-director-of-jok",
+      "description": "Bob Cryer was our guest in episode 335 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Bob Cryer is Barry Cryer’s son. In his own right, his 20 plus years of acting includes work on TV such as Glenn Donovan in Hollyoaks, Outnumbered, Our Hidden Lives, Eastenders, Holby City, Highlander, Coronation Street and Victoria Wood’s Christmas Special. Also, Mike and his producer and son John chat about this weeks episode, find out where comedian Ted Hill wants to bury his time capsule and answer listener's emails and voice notes . For all the latest news on JOKE, visit - https://www.jokefilm.com . Listen to Bob Cryer's original episode - https://mytimecapsulepodcast.com/episodes?q=335 . Follow Bob Cryer on Instagram : @bobbicee . Donte to John's running challenge here! - https://prostateunited.prostatecanceruk.org/fundraising/john-fs-5km-a-day . Donate to Mike's walking challenge here! - https://step.diabetes.org.uk/fundraising/mikes-fundraising-page403 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1790851470128-7b388310-4bc3-4e4e-afad-bf5129df6a38.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6abe3c7582177b9ab8a9c9fd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60601908",
+      "itunes_duration": "50:29",
+      "speakers": [
+        "Bob Cryer",
+        "Barry Cryer"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "cryer",
+        "director",
+        "joke",
+        "film",
+        "barry"
+      ]
+    },
     {
       "key": "14cc9d25ec39ca0d4744b1b19877c6bdc868a3e9",
       "title": "Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist",
@@ -55,7 +80,7 @@
       "title": "My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood)",
       "published_at": "2026-09-24T23:02:00+00:00",
       "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-19-with-karl-howman-brush-strokes",
-      "description": "Karl Howman was our guest in episode 439 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Karl Howman is best known for playing Jacko in the hit BBC sitcom Brush Strokes . His other major credits include Mulberry , Bad Boys , Babes in the Wood and, more recently, Buster Briggs in EastEnders . On film, he appeared in The Long Good Friday , That’ll Be the Day , Stardust and Porridge . Also, Mike and his producer and son John chat about this weeks episode and answer listener's emails and voice notes . Listen to David Karl Howman's original episode - https://mytimecapsulepodcast.com/episodes?q=439 . Follow Karl Howman on Instagram : @karlhowman13 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Karl Howman was our guest in episode 439 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Karl Howman is best known for playing Jacko in the hit BBC sitcom Brush Strokes . His other major credits include Mulberry , Bad Boys , Babes in the Wood and, more recently, Buster Briggs in EastEnders . On film, he appeared in The Long Good Friday , That’ll Be the Day , Stardust and Porridge . Also, Mike and his producer and son John chat about this weeks episode and answer listener's emails and voice notes . Listen to Karl Howman's original episode - https://mytimecapsulepodcast.com/episodes?q=439 . Follow Karl Howman on Instagram : @karlhowman13 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1790276092177-3d7dc4a8-32f2-4d21-9823-d9db515aebb5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ab572ad432e34fa45f12986/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -13581,6 +13606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes) — speakers: Bob Cryer, Barry Cryer
 - 2026-09-27 — Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist — speakers: Ted Hill
 - 2026-09-24 — My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood) — speakers: Karl Howman
 - 2026-09-20 — Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It — speakers: Quantick Returns Emmy, Brass Eye, David Quantick

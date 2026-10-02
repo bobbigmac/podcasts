@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-09-24T21:30:21+00:00`
-- checked_at: `2026-09-24T21:30:21+00:00`
-- etag: `"defa8-65c40ada0fedf"`
-- last_modified: `Thu, 24 Sep 2026 20:45:20 GMT`
+- fetched_at: `2026-10-02T00:47:16+00:00`
+- checked_at: `2026-10-02T00:47:16+00:00`
+- etag: `"df743-65ccd7eb9fc60"`
+- last_modified: `Thu, 01 Oct 2026 20:45:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-09-24T21:30:21+00:00",
+  "fetched_at": "2026-10-02T00:47:16+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "09ddce0c89c6e02c9b99151e2786338e534d0642",
+      "title": "Richard Ayoade - Series 22 Ep.5",
+      "published_at": "2026-10-01T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week on the podcast Ed is joined multi-award winning actor, director and comedian Richard Ayoade. Ed and Richard attempt to go through episode five but predictably get into conversations about batch cooking, chocolate and their personal anxiety levels! Plus a bit of Taskmaster... To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel.",
+      "image_url": "https://artwork.captivate.fm/0c33876b-6e64-4b0e-b83e-eec15899682a/TASKMASTER-PODCAST-ARTWORK-Richard.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/7921c327-110a-4f57-81e3-82ff4955762b.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=7921c327-110a-4f57-81e3-82ff4955762b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62286707",
+      "itunes_duration": "01:04:53",
+      "speakers": [
+        "Richard Ayoad",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "richard",
+        "ayoade",
+        "series"
+      ]
+    },
     {
       "key": "b0af528ee266ef937bc98396f4a5bff6871d32ad",
       "title": "Isy Suttie - Series 22 Ep.4",
@@ -5695,6 +5716,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-01 — Richard Ayoade - Series 22 Ep.5 — speakers: Richard Ayoad, Ed Gamble
 - 2026-09-24 — Isy Suttie - Series 22 Ep.4 — speakers: Ed Gamble
 - 2026-09-17 — Lou Sanders - Series 22 Ep.3 — speakers: Ed Gamble
 - 2026-09-10 — Chloe Petts - Series 22 Ep.2 — speakers: Ed Gamble
