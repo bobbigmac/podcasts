@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-02T00:47:16+00:00`
-- checked_at: `2026-10-02T00:47:16+00:00`
-- last_modified: `Thu, 01 Oct 2026 20:39:05 GMT`
+- fetched_at: `2026-10-02T09:44:41+00:00`
+- checked_at: `2026-10-02T09:44:41+00:00`
+- last_modified: `Fri, 02 Oct 2026 09:33:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "Parenting Hell",
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
-  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-02T00:47:16+00:00",
+  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-10-02T09:44:41+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7ae3e33ff2b3e38ec3acedde3d6fc2207ee5557b",
+      "title": "S13 EP22: Nina Conti",
+      "published_at": "2026-10-02T04:30:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant actress, comedian, and ventriloquist - Nina Conti. You can watch Nina's directorial debut 'Sunlight - HERE Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4846281139.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3268",
+      "speakers": [
+        "Nina Conti",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "nina",
+        "conti"
+      ]
+    },
     {
       "key": "49268a12918a897bebbdbf9404be9243ff8e98ec",
       "title": "S13 EP21: Sneaky Sasquatch",
@@ -12936,6 +12957,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — S13 EP22: Nina Conti — speakers: Nina Conti, Rob Beckett, Josh Widdicombe
 - 2026-09-29 — S13 EP21: Sneaky Sasquatch — speakers: Sneaky Sasquatch, Rob Beckett, Josh Widdicombe
 - 2026-09-28 — ⚽ The Worst Thing To Happen To Football (The Nations League) ⚽ — speakers: Nations League, Rob Beckett, Josh Widdicombe
 - 2026-09-25 — S13 EP20: A Couple of Vanilla Dudes — speakers: Rob Beckett, Josh Widdicombe

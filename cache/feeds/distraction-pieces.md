@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA3Mzg0Mzk1MDg="`
+- fetched_at: `2026-10-02T09:44:41+00:00`
+- checked_at: `2026-10-02T09:44:41+00:00`
+- etag: `"djEuMi4wOjE3OTA5MTEyMzkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-02T09:44:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cfd1ac073908209a2f7baf86898839d2b70f7fbd",
+      "title": "PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind",
+      "published_at": "2026-10-02T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with PETER CAPALDI , originally episode 555 from 2024-02-21. Original writeup below: Depending on where you caught Peter on his timeline, you may know him as Malcolm Tucker, Dr Who, or even Oldsen if you've seen Local Hero. Point is - Peter's been busy for decades, and continues to be so. He's also an awesome hang, as you will find out as Pip gets a good hour or so in his company. They get into all sorts, including of course the roles and acting experiences, but also the wide world of culture wars and nonsence arguments, problems with leadership, maintaining good vibes on set, London as a crime backdrop, the greatness of Glasgow, Lewis Capaldi and his relation to him, making diorama studios as a kid, and the hand of destiny in his acting career. NOT avoiding the hypetrain for the show brought to you by he and his wife, Criminal Record on Apple TV! So much to enjoy. Better step to it. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM TARDIS WIKI DOCTOR WHO CRIMINAL RECORD THE THICK OF IT PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1790609877295-71e27206-2f86-455b-a62c-0b862da150da.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aba8a6629a486156aa2a839/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131632161",
+      "itunes_duration": "54:45",
+      "speakers": [
+        "Peter Capaldi"
+      ],
+      "topics": [
+        "peter",
+        "capaldi",
+        "local",
+        "hero",
+        "thick",
+        "doctor",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "36a7c9b580ad6674d19d4b223f9d78d25b56866e",
       "title": "SHABANA AZEEZ • \"My job is empathy\" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689",
@@ -19693,6 +19718,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind — speakers: Peter Capaldi
 - 2026-09-30 — SHABANA AZEEZ • "My job is empathy" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689
 - 2026-09-25 — JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind — speakers: James Buckley
 - 2026-09-23 — RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688 — speakers: Royle Family

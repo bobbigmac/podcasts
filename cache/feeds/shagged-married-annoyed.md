@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
-- last_modified: `Fri, 11 Sep 2026 04:08:16 GMT`
+- fetched_at: `2026-10-02T09:44:41+00:00`
+- checked_at: `2026-10-02T09:44:41+00:00`
+- last_modified: `Fri, 02 Oct 2026 03:57:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-10-02T09:44:41+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,144 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0109bed3311cd848e2de1db6be131dec2ec54031",
+      "title": "It's lamp season, Chris is a hypocrite, and can we take a minute for Lake Garda?!",
+      "published_at": "2026-10-02T03:54:00+00:00",
+      "link": null,
+      "description": "The days are getting shorter which means it is officially Lamp Season! This week on the podcast Chris and Rosie report back from their holiday in Lake Garda (not Como) which includes a 'in a villa' update and some questions about a man in a safari suit... Rosie disarms the Chinese take-away alarm, Chris is a victim of karma and their is a Taskmaster themed contribution to the new feature. All of this plus voice notes, beefs and some fabulous QFTP'S! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1006612684.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3108",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "lamp",
+        "season",
+        "chris",
+        "hypocrite",
+        "minute",
+        "lake",
+        "garda"
+      ]
+    },
+    {
+      "key": "13fe281c169b5bf379e651ca364f850103db02b1",
+      "title": "Please Keep Me Anonymous with Joe Wicks",
+      "published_at": "2026-09-30T03:50:00+00:00",
+      "link": null,
+      "description": "This week Chris and Rosie are joined by the nation's PE teacher, the lovely Joe Wicks! Joe is on to talk about his new podcast Health or Hype where he takes a look at the endless tips, trends, diets, hacks and supposed quick fixes that we are served everyday. But when it comes to our bodies and minds, what can genuinely help make a difference – and what’s just hype? As well as discussing his podcast, Joe reads a brilliant story from a SMA! Health or Hype from Joe Wicks and Bupa is available now, click link here to find out more. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1e7bcd28-bb58-11f1-bc82-eb50b3fa772e/image/44994f60755598e79a34324748ed41d9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3711560605.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2107",
+      "speakers": [
+        "Joe Wicks",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "wicks"
+      ]
+    },
+    {
+      "key": "de571b3292fcdeacf9cc6de55ce46b2e23884dd3",
+      "title": "A wet one, wind on the golf course and Rosie needs a minute",
+      "published_at": "2026-09-25T03:50:00+00:00",
+      "link": null,
+      "description": "On the podcast this week Rosie has reverted back to Pj's and fake tan! The couple discuss pigeons, rats and if it's normal to have garlic bread with every meal! Rosie chats about her new TV show and Chris shares an unfortunate event that happened on the golf course. All of this plus beefs, an Agadoo update, questions from the public and the big guns are called in to settle a dispute!! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5593792813.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3481",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "wind",
+        "golf",
+        "course",
+        "rosie",
+        "minute"
+      ]
+    },
+    {
+      "key": "64dd331ee8af1bda5e713192d4327fc37102a826",
+      "title": "Please Keep Me Anonymous with Lee Mack and Sally Bretton",
+      "published_at": "2026-09-23T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's Please Keep Me Anonymous , Chris and Rosie are joined by the brilliant Lee Mack ( Would I lie to You, The 1% Club, Not Going Out ) and Sally Bretton ( Not Going Out, Beyond Paradise ). The on-screen couple chat about the new series of Not Going Out as well as a documentary, celebrating 20 years of the show. Of course the conversation goes in all kinds of directions including practical jokes, the etiquette of acting, chastity belts and Chris shares a story from the first time he met Lee. All of this plus a fabulous dilemma from one of our listeners! The new Series of Not Going Out starts tonight (23rd September) on BBC One at 9.30pm and you can watch 20 Years of Not Going Out before, at 9pm. Both will be available on BBC iplayer. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2182740e-b5a9-11f1-9d69-8ba078860087/image/4e3c0f2f849737d4dd5aa9b4689d711c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8392572362.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2901",
+      "speakers": [
+        "Lee Mack",
+        "Sally Bretton",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "mack",
+        "sally",
+        "bretton"
+      ]
+    },
+    {
+      "key": "5c70a6866fdd5e6099a65d3b4bd089a5523502cc",
+      "title": "The Great North Run, a Twister re-watch and a special guest at Chris's show",
+      "published_at": "2026-09-18T04:00:00+00:00",
+      "link": null,
+      "description": "On Shagged Married Annoyed this week Rosie has had enough of Chris being on tour but would like to know who his special guest was... The pair discuss whether Twister is a suitable rewatch, if Chris is like Fozzy and why people are nostalgic for Paw Patrol. Rosie has some potential HR problems, Chris is still head of the Dad jokes and they both explain their Truman show conspiracy! All this plus some brilliant additions to the new feature, prefect chat and some missing school books! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6921501743.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3818",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "great",
+        "north",
+        "twister",
+        "guest",
+        "chris"
+      ]
+    },
+    {
+      "key": "7b2c1d46317de52f9553a2145bc569dd41c399ec",
+      "title": "Please Keep Me Anonymous with Chloe Petts",
+      "published_at": "2026-09-16T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie have an absolute riot with the brilliant comedian Chloe Petts. As well as being an incredible stand up, Chloe is also on the latest series of Taskmaster which you can currently watch on Channel 4 every Thursday or catch up on Channel4.com ! The trio discuss aging, glow ups, soul mates and the time Chloe had a pilonidal sinus. Plus we get to hear a fantastic story from a SMA! Trigger warning, sh*t is discussed at length...literally! Chloe is going on tour so for tickets and all the latest info visit chloepetts.org If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8a60ab7a-b127-11f1-bc1d-e365e8b912e5/image/39aa824d05532e9060244d37870d5eb6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9889937577.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3443",
+      "speakers": [
+        "Chloe Petts",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "chloe",
+        "petts"
+      ]
+    },
     {
       "key": "c8bded2637d9d64f517271cf8671dc73b181fa71",
       "title": "Bro Dad, The Agadoo, and sooo many Lady Birds!",
@@ -9136,6 +9274,12 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — It's lamp season, Chris is a hypocrite, and can we take a minute for Lake Garda?! — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-09-30 — Please Keep Me Anonymous with Joe Wicks — speakers: Joe Wicks, Chris Ramsey, Rosie Ramsey
+- 2026-09-25 — A wet one, wind on the golf course and Rosie needs a minute — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-09-23 — Please Keep Me Anonymous with Lee Mack and Sally Bretton — speakers: Lee Mack, Sally Bretton, Chris Ramsey, Rosie Ramsey
+- 2026-09-18 — The Great North Run, a Twister re-watch and a special guest at Chris's show — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-09-16 — Please Keep Me Anonymous with Chloe Petts — speakers: Chloe Petts, Chris Ramsey, Rosie Ramsey
 - 2026-09-11 — Bro Dad, The Agadoo, and sooo many Lady Birds! — speakers: Bro Dad, Lady Birds, Chris Ramsey, Rosie Ramsey
 - 2026-09-09 — Please Keep Me Anonymous with Rachel Parris — speakers: Rachel Parris, Chris Ramsey, Rosie Ramsey
 - 2026-09-04 — An Irish Goodbye, a big life event, and some serious blephing — speakers: Chris Ramsey, Rosie Ramsey

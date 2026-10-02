@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-09-25T11:49:56+00:00`
-- checked_at: `2026-09-25T11:49:56+00:00`
-- etag: `"4201e841078c179a875bf8d843de6556"`
-- last_modified: `Fri, 25 Sep 2026 07:15:03 GMT`
+- fetched_at: `2026-10-02T09:44:41+00:00`
+- checked_at: `2026-10-02T09:44:41+00:00`
+- etag: `"f91760730e9af962fe82ef5f268ede05"`
+- last_modified: `Fri, 02 Oct 2026 07:15:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-09-25T11:49:56+00:00",
+  "fetched_at": "2026-10-02T09:44:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "71d3244d018868b8deae3337bc3494f81daf667a",
+      "title": "Special Episode: 1066 and the Battle of Hastings",
+      "published_at": "2026-10-02T07:15:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0030lsq",
+      "description": "Greg Jenner is joined in medieval England by Dr Erin Goeres and comedian Alison Spittle to learn all about the tumultuous events of 1066, famously depicted on the Bayeux Tapestry, to celebrate its arrival in London. The death of Edward the Confessor without an heir in January 1066 kicked off a three-way battle for the English throne. The contenders? His brother-in-law, Harold Godwinson, who had himself crowned before Edward’s body was cold. His cousin William, already duke of Normandy. And the Norwegian king and famed warrior, Harald. Over the course of just a few short weeks in early autumn, the fight between these three decided the fate of a nation. This episode explores the personalities of these men, taking in Harald’s dramatic life of exile in Constantinople, William’s illegitimacy, and Godwinson’s political credentials – and troublesome little brother, Tostig. And it tells the story of the battles they fought for the throne, at Fulford, Stamford Bridge, and most famously Hastings. And it asks, how accurate is the Bayeux Tapestry, and did Harold really get an arrow in the eye? If you’re a fan of larger than life historical figures, bloody battles and messy medieval family drama, you’ll love our special episode on 1066. The programme is part of Radio 4's Norman Day, marking the arrival of the Bayeux Tapestry in Britain with programmes reassessing the Norman Conquest and its meaning for us today. If you want more on the events surrounding 1066, we’ve got episodes on Emma of Normandy and the Bayeux Tapestry. And for more from Alison Spittle, listen to our episode on the Early Medieval Papacy. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Dr Jon Norman Mason Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Studio and Edit Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4ldcd.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6j6l1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59552000",
+      "itunes_duration": "3722",
+      "speakers": [
+        "Erin Goeres",
+        "Alison Spittle"
+      ],
+      "topics": [
+        "special",
+        "battle",
+        "hastings"
+      ]
+    },
     {
       "key": "a4e82bf0ab2994828c0da86ff69d38bb7b82c66c",
       "title": "Medieval Korea: from the Goryeo to Joseon periods",
@@ -6253,6 +6274,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-02 — Special Episode: 1066 and the Battle of Hastings — speakers: Erin Goeres, Alison Spittle
 - 2026-09-25 — Medieval Korea: from the Goryeo to Joseon periods — speakers: Medieval Korea, Greg Jenner, John Lee, Erika Ehler
 - 2026-09-18 — Henry Cyril Paget: the dancing marquess of Anglesey — speakers: Henry Cyril, Anglesey Greg Jenner, Viv Gardner
 - 2026-09-11 — History of Tea: Britain’s stolen brew — speakers: Greg Jenner, Yangwen Zheng, Hugh Dennis
