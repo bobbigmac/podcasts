@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-09-25T17:10:03+00:00`
-- checked_at: `2026-09-25T17:10:03+00:00`
-- etag: `"djEuMi4wOjE3OTAzNDUwNjg4MDI="`
+- fetched_at: `2026-10-03T16:16:56+00:00`
+- checked_at: `2026-10-03T16:16:56+00:00`
+- etag: `"djEuMi4wOjE3OTEwMzQ5MjQxODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-09-25T17:10:03+00:00",
+  "fetched_at": "2026-10-03T16:16:56+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5b5d28074ebcaa08a5f24965b76b0e2dc7dde01c",
+      "title": "Celebrity Traitors",
+      "published_at": "2026-10-03T13:40:49+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/celebrity-traitors",
+      "description": "This week, Katherine's Telling Everybody Everything about spinning her menstrual blood in a centrifuge to separate the plasma from the red blood cells so that she can harvest the endometrial stem cells to use as PRP on her skin. Yes. It's called Women in STEM. For too long, women have been told that their menstrual blood was trash but a recent study on it has emboldened Katherine to do what nobody else seems to have the courage to do - conduct a study using her actual FACE. We're THRILLED to be watching Celebrity Traitors - are you? Also, your letters on the Cornell 7, training a stupid husband, and what to do when your partner clearly wants to cheat. Plus, Andrew Johnston @mandrewjohnston joins us with news from HOLLYWOOD about whether Channing Tatum has indeed created a burner account to troll his ex and finally - have the liberals finally taken things too far? xx Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1791034175170-2dc1d2b1-b3a7-428d-be09-fd373f1525e6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6ac105e252a53844442f33da/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72621162",
+      "itunes_duration": "50:25",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "celebrity",
+        "traitors"
+      ]
+    },
     {
       "key": "55ef32970773644a390b8b4a0049e3b00ea6f76c",
       "title": "The Mums WhatsApp Group",
@@ -6531,6 +6551,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-03 — Celebrity Traitors — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-25 — The Mums WhatsApp Group — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-16 — Dire Tous A Tous Le Monde — speakers: Dire Tous, Telling Everybody Everything, Four Seasons Hotel, Katherine Ryan
 - 2026-09-07 — The Seven Year Itch — speakers: Telling Everybody Everything, Katherine Ryan
