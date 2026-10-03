@@ -34531,6 +34531,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:9eb57c7b46ac",
+        "feed_title": "Pod Save the UK",
+        "source_rss_url": "https://audioboom.com/channels/5166011.rss",
+        "dedupe_key": "c42ab633e2da9eaa592addc98bb956aa8ca01cf7",
+        "episode_key": "c42ab633e2da9eaa592addc98bb956aa8ca01cf7",
+        "title": "Raving for a Republic",
+        "published_at": "2023-05-04T17:28:15Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Pod Save the UK is on a mission: to free the royals, and the country, from the madness of monarchy. Has King Charles’s coronation sent the UK into a frenzy of royal fervour, a bored stupor or a republican rage? Nish Kumar and Coco Khan work out how to ditch the Windsors and replace them with something better. Professor",
+        "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8830269.mp3?modified=1768335726&sid=5166011&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/raving-for-a-republic/id1683411536?i=1000611765913&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
@@ -36641,6 +36663,28 @@
         "feed_image_url": null,
         "description": "Welcome to YOU HAVE BEEN WATCHING: A BRITISH SITCOM PODCAST.\n\nIn this spooky, Halloween episode, Robert Turnbull is Joined by Alex Lynch to discuss GARTH MARENGHI'S DARKPLACE.\n\nCreated by Matthew Holness and Richard Ayoade, staring them both along with Matt Berry and Alice Lowe, we take a deep, deep, deep, blood drench",
         "audio_url": "https://traffic.megaphone.fm/WHYNOW8136358051.mp3?updated=1761926804",
+        "link_url": "https://podcasts.apple.com/gb/podcast/garth-marenghis-darkplace-2004/id1579178885?i=1000734453416&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:ff9a0cd4ed6d",
+        "feed_title": "You Have Been Watching: A British Sitcom Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6abdfe9856d8e12f090d29ac",
+        "dedupe_key": "65deba9c936ec49b8f0c046c4380a956870f7953",
+        "episode_key": "65deba9c936ec49b8f0c046c4380a956870f7953",
+        "title": "Garth Marenghi’s Darkplace (2004)",
+        "published_at": "2025-10-31T15:58:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to YOU HAVE BEEN WATCHING: A BRITISH SITCOM PODCAST.\nIn this spooky, Halloween episode, Robert Turnbull is Joined by Alex Lynch to discuss GARTH MARENGHI'S DARKPLACE.\nCreated by Matthew Holness and Richard Ayoade, staring them both along with Matt Berry and Alice Lowe, we take a deep, deep, deep, blood drenched",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6abdfe9856d8e12f090d29ac/e/1ac61670-b663-11f0-b0aa-273a6963a5b2/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/garth-marenghis-darkplace-2004/id1579178885?i=1000734453416&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
