@@ -4597,6 +4597,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:46eb933e2747",
+        "feed_title": "Classical Fix",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b0bbpgrx.rss",
+        "dedupe_key": "0ec19cb43f5eb043464be3e573be396ad29848cd",
+        "episode_key": "0ec19cb43f5eb043464be3e573be396ad29848cd",
+        "title": "James Acaster",
+        "published_at": "2019-02-11T00:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Clemmie introduces stand-up comedian James Acaster to her classical playlist and finds out exactly what he thinks - and it’s not all plain sailing.\nJames's playlist in full\nAntonín Dvořák: Scherzo from Serenade for Strings\nTeresa Carreno: Mi Teresita\nCharlotte Bray: Agnus Dei\nHenryk Wieniawski: Legende\nAntonio Valente:",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07nl2j5.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster/id1479986426?i=1000450112434&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
