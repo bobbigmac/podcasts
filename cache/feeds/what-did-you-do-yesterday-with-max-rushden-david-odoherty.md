@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA3MzAwMzk0MTU="`
+- fetched_at: `2026-10-04T05:51:18+00:00`
+- checked_at: `2026-10-04T05:51:18+00:00`
+- etag: `"djEuMi4wOjE3OTEwODI4Mzk1MjQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-04T05:51:18+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1e9c5cfc438cc5d6114e6be54cfee578323f9ffb",
+      "title": "S6 EP4: Lara Ricote",
+      "published_at": "2026-10-04T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s6-ep4-lara-ricote",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Lara Ricote. We asked Lara what she did yesterday? She told us. That's it... enjoy! Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1790935786847-e237aa47-619e-4f24-b969-8983d9c8dea0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6abf837a24f9c883f8357784/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75318752",
+      "itunes_duration": "1:18:27",
+      "speakers": [
+        "Lara Ricote",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "lara",
+        "ricote"
+      ]
+    },
     {
       "key": "fd49353613ac0ba8e9c1a0ca3bb4d05ebf7481ca",
       "title": "WDWDY #89.1: Has anyone been to Burundi? (Max's Yesterday)",
@@ -4185,6 +4206,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-04 — S6 EP4: Lara Ricote — speakers: Lara Ricote, Max Rushden, David O'Doherty
 - 2026-09-30 — WDWDY #89.1: Has anyone been to Burundi? (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-09-27 — S6 EP3: Paul Foot — speakers: Paul Foot, Max Rushden, David O'Doherty
 - 2026-09-23 — WDWDY #88.1: Prestige Broadcasting (David's Yesterday) — speakers: Max Rushden, David O'Doherty
