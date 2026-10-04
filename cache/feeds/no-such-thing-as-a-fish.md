@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-10-02T00:47:16+00:00`
-- checked_at: `2026-10-02T00:47:16+00:00`
-- etag: `W/"7401c478275014800c5f5d67bcc325c1"`
-- last_modified: `Thu, 01 Oct 2026 22:55:00 GMT`
+- fetched_at: `2026-10-04T23:57:35+00:00`
+- checked_at: `2026-10-04T23:57:35+00:00`
+- etag: `W/"daf80190b4cefdc15d7ccd5c6dc33817"`
+- last_modified: `Sun, 04 Oct 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-10-02T00:47:16+00:00",
+  "fetched_at": "2026-10-04T23:57:35+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "be441668db26687cdb9a39257bd2ad7c60c43e82",
+      "title": "Little Fish: Ant Tower",
+      "published_at": "2026-10-04T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8959861",
+      "description": "Dan gives too much information about the comedian: [REDACTED], while he, Anna and Andy discuss YOUR facts . This week's subjects include helium, Humansville and holy holiday handouts. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8959861.mp3?modified=1790958054&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1740",
+      "speakers": [
+        "Ant Tower Dan",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "tower"
+      ]
+    },
     {
       "key": "c3157c5c39215f4037d2b86a4400b628fc83ef88",
       "title": "No Such Thing As Alfred Hedgehog",
@@ -17223,6 +17246,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-04 — Little Fish: Ant Tower — speakers: Ant Tower Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-01 — No Such Thing As Alfred Hedgehog — speakers: Alfred Hedgehog Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-27 — Little Fish: Checking the Mark Hoppus — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-24 — No Such Thing As Tibetan Traitors — speakers: Christopher Columbus, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

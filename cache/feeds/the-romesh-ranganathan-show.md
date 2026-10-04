@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-01T00:33:10+00:00`
-- checked_at: `2026-10-01T00:33:10+00:00`
-- last_modified: `Wed, 30 Sep 2026 23:35:48 GMT`
+- fetched_at: `2026-10-04T23:57:35+00:00`
+- checked_at: `2026-10-04T23:57:35+00:00`
+- last_modified: `Sun, 04 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-01T00:33:10+00:00",
+  "fetched_at": "2026-10-04T23:57:35+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -27,11 +27,35 @@
   ],
   "episodes": [
     {
+      "key": "07417986f21163257e8f2b0b069c1af76b587980",
+      "title": "Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton",
+      "published_at": "2026-10-04T23:00:00+00:00",
+      "link": null,
+      "description": "What makes Stacey Dooley such a good documentary maker? In this episode of The Romesh Ranganathan Show, Romesh is joined by broadcaster and documentary maker Stacey Dooley to reflect on her journey through documentary-making, how she approaches telling them and the stories and experiences that have stayed with her. They also get into some very important Selling Sunset and Below Deck gossip, before Stacey explains exactly why she hates Southampton. Plus, there's some questionable role play, a game of Misquoted and a brief detour into boxing, Little Mix and Jamie Oliver. A Ranga Bee Production. Chapters 00:00 Intro 05:56 A gift for Stacey 08:21 Why Stacey loves boxing 12:39 Stacey hobbies 14:36 Questionable role play 17:06 What makes Stacey a good documentary maker 25:37 Selling Sunset and Below Deck gossip 28:16 Louis Theroux and the manosphere 29:55 Stacey's new documentaries 38:38 Are there really goodies and baddies? 44:35 A question from Shanthi 45:43 Why Stacey hates Southampton 50:47 Lessons from inspiring women 55:16 Who Stacey would love to interview 1:07:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/339326e0-be94-11f1-9f18-c309e309b68f/image/b558314586a45e36fffbaa93447cbde1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7576547368.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4186",
+      "speakers": [
+        "Stacey Dooley",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "stacey",
+        "dooley",
+        "documentary",
+        "selling",
+        "sunset",
+        "southampton"
+      ]
+    },
+    {
       "key": "a425e124d96ee1a8d43e1268e9a4af64bf323e40",
       "title": "The Celebrity Impressions Challenge",
       "published_at": "2026-09-30T23:01:00+00:00",
       "link": null,
-      "description": "Can Shanthi do a better celebrity impression than Romesh? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi are back with listener questions, family stories and a celebrity impressions challenge that quickly gets out of hand. From Shanthi’s early morning routines to what it's like being a grandma, the pair discuss family relationships throughout including a family trip to Devil's Dyke that Romesh missed out on. Elsewhere, the team suggest a Celebrity Impressions Challenge where Romesh is put through his paces as he attempts impressions of David Attenborough, Simon Cowell, and Gordon Ramsay and Shanthi is challenged to Nigella Lawson (you don't want to miss it). And, as usual, we take on your questions, discussing what happens when children start pulling away as they get older, and how to approach telling a traditional family about a relationship that crosses caste boundaries, with some of the best advice in the business. Plus, Shanthi shares a deeply personal story about her parents and the choices they made for love. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:58 Morning routines & garden chat 05:02 Shanthi’s advice to Rom 07:30 Shanthi as a grandma 08:50 TikTok Shop & Bank mishaps 14:15 When Lenny Henry had Shanthi’s back 15:20 Celebrity Impressions Challenge 25:52 Shanthi holds Romesh to his word 28:14 Shanthi's favourite podcast moment 29:46 Shanthi's trip to Devil's Dyke 35:10 Listener questions: parenthing & caste 54:45 Shanthi shares her parents story 57:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Can Shanthi do a better celebrity impression than Romesh? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi are back with listener questions, family stories and a celebrity impressions challenge that quickly gets out of hand. From Shanthi’s early morning routines to what it's like being a grandma, the pair discuss family relationships throughout including a family trip to Devil's Dyke that Romesh missed out on. Elsewhere, the team suggest a Celebrity Impressions Challenge where Romesh is put through his paces as he attempts impressions of David Attenborough, Simon Cowell, and Gordon Ramsay and Shanthi is challenged to Nigella Lawson (you don't want to miss it). And, as usual, we take on your questions, discussing what happens when children start pulling away as they get older, and how to approach telling a traditional family about a relationship that crosses caste boundaries, with some of the best advice in the business. Plus, Shanthi shares a deeply personal story about her parents and the choices they made for love. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:58 Morning routines & garden chat 05:02 Shanthi’s advice to Rom 07:30 Shanthi as a grandma 08:50 TikTok Shop & Bank mishaps 14:15 When Lenny Henry had Shanthi’s back 15:20 Celebrity Impressions Challenge 25:52 Shanthi holds Romesh to his word 28:14 Shanthi's favourite podcast moment 29:46 Shanthi's trip to Devil's Dyke 35:10 Listener questions: parenting & caste 54:45 Shanthi shares her parents story 57:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f389513c-bd12-11f1-a9f0-0700f2b4afc2/image/8782af6e3e47e91a17c732bda2e039bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT5103823147.mp3",
       "enclosure_type": "audio/mpeg",
@@ -52,7 +76,7 @@
       "title": "Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up",
       "published_at": "2026-09-27T23:01:00+00:00",
       "link": null,
-      "description": "What did Eddie Murphy say to Lenny Henry? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by the legendary comedian, actor, and writer, Sir Lenny Henry. The pair look back at Lenny’s incredible career, from his early stand-up and TV shows, to his latest projects. They discuss racism, realities of working in the entertainment industry, and the pressure that comes with a long career. Lenny talks about his return to stand-up with his new tour, Lenny Henry: Still at Large , and his new BBC show, The Split Up (available on BBC iPlayer now). Plus, they deep dive into the world of being a stand-up comedian, inspirations, and how it's changed over the years. Elsewhere, Romesh and Lenny get into self-care, manscaping, and some questionable fashion choices, and Lenny opens up about death, grief, and some of the lessons he’s learned throughout his life. Plus, Shanthi has a bone to pick with Romesh... A fascinating conversation about comedy, careers, ageing, loss, and what it takes to keep going. A Ranga Bee Production in partnership with Platform Media. If therapy is something you've been thinking about, visit Counselling Directory and find a therapist that's right for you: https://www.counselling-directory.org.uk/?utm_source=youtube&utm_medium=podcast&utm_campaign=romesh_sponsorship Chapters 00:00 Intro 03:46 When Lenny and Romesh met 05:20 A gift for Lenny 08:34 Lenny’s career 13:53 On True Identity 17:30 On chef and career mentality 18:54 The challenges of the industry 20:44 Lenny reads Romesh 22:45 Self-care and manscaping 25:20 Fashion faux pas 29:29 The upcoming tour and being on stage 40:06 A question from Shanthi on impressions 43:54 The Split Up 29:38 Misquoted 57:11 On death and grief 58:45 Some advice from Lenny 59:59 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What did Eddie Murphy say to Lenny Henry? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by the legendary comedian, actor, and writer, Sir Lenny Henry. The pair look back at Lenny’s incredible career, from his early stand-up and TV shows, to his latest projects. They discuss racism, realities of working in the entertainment industry, and the pressure that comes with a long career. Lenny talks about his return to stand-up with his new tour, Lenny Henry: Still at Large , and his new BBC show, The Split Up (available on BBC iPlayer now). Plus, they deep dive into the world of being a stand-up comedian, inspirations, and how it's changed over the years. Elsewhere, Romesh and Lenny get into self-care, manscaping, and some questionable fashion choices, and Lenny opens up about death, grief, and some of the lessons he’s learned throughout his life. Plus, Shanthi has a bone to pick with Romesh... A fascinating conversation about comedy, careers, ageing, loss, and what it takes to keep going. Buy tickets to Lenny's tour 'Still at Large' with dates until November 4, 2026. A Ranga Bee Production in partnership with Platform Media. If therapy is something you've been thinking about, visit Counselling Directory and find a therapist that's right for you: https://www.counselling-directory.org.uk/?utm_source=youtube&utm_medium=podcast&utm_campaign=romesh_sponsorship Chapters 00:00 Intro 03:46 When Lenny and Romesh met 05:20 A gift for Lenny 08:34 Lenny’s career 13:53 On True Identity 17:30 On chef and career mentality 18:54 The challenges of the industry 20:44 Lenny reads Romesh 22:45 Self-care and manscaping 25:20 Fashion faux pas 29:29 The upcoming tour and being on stage 40:06 A question from Shanthi on impressions 43:54 The Split Up 29:38 Misquoted 57:11 On death and grief 58:45 Some advice from Lenny 59:59 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f08bb814-b8fb-11f1-acb5-e70b2bae31d4/image/97fc5cfb2418473416e56280bacd4abb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT2203736474.mp3",
       "enclosure_type": "audio/mpeg",
@@ -2479,6 +2503,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-04 — Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton — speakers: Stacey Dooley, Romesh Ranganathan
 - 2026-09-30 — The Celebrity Impressions Challenge — speakers: Can Shanthi, Romesh Ranganathan
 - 2026-09-27 — Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up — speakers: Lenny Henry, Eddie Murphy, Romesh Ranganathan
 - 2026-09-23 — Celebrating One Year Of The Romesh Ranganathan Show — speakers: Romesh Ranganathan

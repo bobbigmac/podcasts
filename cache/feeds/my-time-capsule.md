@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-02T00:47:16+00:00`
-- checked_at: `2026-10-02T00:47:16+00:00`
-- etag: `"djEuMi4wOjE3OTA4OTU3NjA0NjY="`
+- fetched_at: `2026-10-04T23:57:35+00:00`
+- checked_at: `2026-10-04T23:57:35+00:00`
+- etag: `"djEuMi4wOjE3OTExNTQ5NjEyMjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-02T00:47:16+00:00",
+  "fetched_at": "2026-10-04T23:57:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cb0955199fb2bf2b0e15dae6f8603d66cbc6a138",
+      "title": "Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH",
+      "published_at": "2026-10-04T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-608-mark-constantine-obe-ceo-and-co-founder-of-lush",
+      "description": "Mark Constantine OBE is the co-founder and CEO of LUSH, one of the world’s best-known cosmetics companies. He became homeless at 16, before studying trichology and developing natural hair and body products from his home in Dorset. At 22, Mark began supplying products to Anita Roddick’s newly founded Body Shop, eventually selling the intellectual rights to the products for £9 million. In 1995, he co-founded LUSH with his wife Mo and four others. Today, LUSH has more than 850 shops in over 50 countries, with sales of £804 million. Mark is also a passionate supporter of grassroots music and has produced five compilation albums featuring contemporary artists covering songs from different eras. His latest, Best Day of All Time , celebrates music from the noughties and features artists including Teddy Thompson, Beans on Toast and Eliza Carthy. Mark has championed social and environmental causes, with LUSH recently reaching £100 million in charitable giving. Mark Constantine OBE is our guest in episode 608 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Listen to Best Day of All Time and Mark's other albums here - https://ffm.bio/lush . Follow Mark Constantine on Instagram : @markatlush . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6abe377a15f07e54818a53a8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37762612",
+      "itunes_duration": "39:20",
+      "speakers": [
+        "Mark Constantine Obe"
+      ],
+      "topics": [
+        "mark",
+        "constantine",
+        "founder",
+        "lush"
+      ]
+    },
     {
       "key": "ca06c84428bc994ee01b8cd772e81203485f5ebc",
       "title": "My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes)",
@@ -13606,6 +13627,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-04 — Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH — speakers: Mark Constantine Obe
 - 2026-10-01 — My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes) — speakers: Bob Cryer, Barry Cryer
 - 2026-09-27 — Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist — speakers: Ted Hill
 - 2026-09-24 — My Time Capsule The Dig - Ep. 19 - With Karl Howman (Brush Strokes, EastEnders, Mulberry, Babes in the Wood) — speakers: Karl Howman
