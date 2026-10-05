@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-01T18:25:34+00:00`
-- checked_at: `2026-10-01T18:25:34+00:00`
-- etag: `"djEuMi4wOjE3OTA4Njk5NzEwMjM="`
+- fetched_at: `2026-10-05T22:01:05+00:00`
+- checked_at: `2026-10-05T22:01:05+00:00`
+- etag: `"djEuMi4wOjE3OTEyMTMwODIzNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-01T18:25:34+00:00",
+  "fetched_at": "2026-10-05T22:01:05+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4c4346229ae6a34b470b9d551ffd2bae8f854f5f",
+      "title": "The Green Party’s Zionism reckoning",
+      "published_at": "2026-10-05T15:11:22+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-green-partys-zionism-reckoning",
+      "description": "At the Green Party conference, party members backed a motion to describe Zionism as racism. Zack Polanski, currently campaigning in the Holborn and St Pancras by-election, missed the controversial vote, which called for Israel to be replaced by a single Palestinian state. Is this a watershed moment for the Green Party? Anoosh Chakelian is joined by Megan Kenyon. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1791212673125-1df0e286-9cb6-4ffe-96ff-428d5fae0f77.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ac3bc761bea30ceae1a5eb9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50461527",
+      "itunes_duration": "26:13",
+      "speakers": [
+        "Zack Pol",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "green",
+        "party",
+        "zionism",
+        "reckoning"
+      ]
+    },
     {
       "key": "ab89f0516bb4e73802f6fa11b7df3a64ec79e505",
       "title": "Is Burnham brave or naive?",
@@ -32524,6 +32547,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — The Green Party’s Zionism reckoning — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-10-01 — Is Burnham brave or naive? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-29 — Burnham delivers packed conference speech — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-28 — Has Andy Burnham reached his peak? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

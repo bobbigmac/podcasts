@@ -10678,6 +10678,28 @@
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "12d035e0ccfc64c8cff1fd2d1eb967e36a1e4a3e",
+        "episode_key": "12d035e0ccfc64c8cff1fd2d1eb967e36a1e4a3e",
+        "title": "Spencer Jones: Licky is Getting Too Big For His Boots, A Remote Controlled Dog and JESUS.",
+        "published_at": "2026-10-05T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week's episode of the Podscarf, we welcome prop comedy legend, Spencer Jones, alongside University of Manchester New Testament scholar Dr Andrew Boakye, for an hour of pure, unadulterated junk-shop invention and first-century Galilean prophecy. Licky's fame finally goes to his head, Spencer unveils a £160 pair ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6ab691778e2d58fa5987af7c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/spencer-jones-licky-is-getting-too-big-for-his-boots/id1742178595?i=1000793185407&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
         "dedupe_key": "3ce3be081d7972df00b01fe34bd602c20f956f15",
         "episode_key": "3ce3be081d7972df00b01fe34bd602c20f956f15",
         "title": "Sunil Patel: Scotch Prize Balls, Working with Fred/Dom West and Victorian Crime with Dr Angela Buckley",
@@ -22728,6 +22750,28 @@
       }
     ],
     "lou-sanders": [
+      {
+        "feed_slug": "external:apple:d22c4e94b5e2",
+        "feed_title": "The Truth (In My Opinion)",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a3006e7cd02369494f91089",
+        "dedupe_key": "e762dfe7f4582bdbe68e72255d395050b5482c85",
+        "episode_key": "e762dfe7f4582bdbe68e72255d395050b5482c85",
+        "title": "Lou Sanders: Child Breaks Rubik's Cube Record, Monsanto Cancer Scandal & First Edition Book Found",
+        "published_at": "2026-10-05T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Lou Sanders is our correspondant this week. She brought some a collection of fascinating stories and had, as Cody predicted only read the headlines, but turns out she knew more than she thought! From first edition To Kill A Mockingbird's being found in charity shops to cancer causing pesticides we really do co",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a3006e7cd02369494f91089/e/6abd44c838e6d69a30ea5cea/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lou-sanders-child-breaks-rubiks-cube-record-monsanto/id1788563985?i=1000793185846&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
