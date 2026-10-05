@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- etag: `"4369199d74ad77a586fd12c3e80418a0"`
-- last_modified: `Mon, 28 Sep 2026 04:22:46 GMT`
+- fetched_at: `2026-10-05T05:38:10+00:00`
+- checked_at: `2026-10-05T05:38:10+00:00`
+- etag: `"0a10bf6081adb92df628087d90c44a7e"`
+- last_modified: `Mon, 05 Oct 2026 04:18:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-10-05T05:38:10+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f9330717c56da408b48d26fc62dc58aae9a52d1c",
+      "title": "Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384)",
+      "published_at": "2026-10-05T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-is-not-for-sale-new-mythic-achievements-xbox-in-ten-an-xbox-podcast-ep-384",
+      "description": "Week of: 9-28-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/5/7/e/9/57e996dab384f7d888c4a68c3ddbc4f2/384.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/384.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13013704",
+      "itunes_duration": "09:29",
+      "speakers": [
+        "New Mythic Achievements",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "sale",
+        "mythic",
+        "achievements",
+        "podcast"
+      ]
+    },
     {
       "key": "a5f47797b232ca0e1ee235ca9f5c420dea704386",
       "title": "Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383)",
@@ -9677,6 +9702,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384) — speakers: New Mythic Achievements, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-28 — Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383) — speakers: Halo Under Activision Blizzard, Xbox Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-21 — Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382) — speakers: Kill Day, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-14 — Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381) — speakers: Hideo Kojima, Brandon Rosa

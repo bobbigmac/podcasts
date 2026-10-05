@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- etag: `"fb41feab965a36ec26b0b3eba16462a4"`
-- last_modified: `Mon, 28 Sep 2026 04:00:05 GMT`
+- fetched_at: `2026-10-05T05:38:10+00:00`
+- checked_at: `2026-10-05T05:38:10+00:00`
+- etag: `"e39762bb6e50049da80832b74e1e90a3"`
+- last_modified: `Mon, 05 Oct 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-10-05T05:38:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "ccc676a9e9c018d55e3ec75167c88122dfc9a2a2",
+      "title": "Geoff Norcott's Working Men's Club",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pdnt2s",
+      "description": "Geoff Norcott examines modern masculinity in this stand-up series for Radio 4, by creating the safe space of a working men’s club so he can speak freely about the problems men are facing and how we might go about fixing them in a way that benefits everyone. This week, Geoff looks at men’s reluctance to put on sunscreen. Why not take a simple, basic precaution against the hottest and largest thing in the entire solar system? Vanity? Bravado? Or something else? With the help of his studio audience, Geoff looks at whether this is connected to men’s reluctance to seek medical advice and their habit of dying early. Written and presented by Geoff Norcott Recorded by Richard Biddulph Production manager: Sarah Wright Executive producer: Caroline Raphael Producer: Ed Morrish A Pier production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdnp02.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27184000",
+      "itunes_duration": "1699",
+      "speakers": [
+        "Geoff Norcott"
+      ],
+      "topics": [
+        "geoff",
+        "norcott",
+        "working",
+        "club"
+      ]
+    },
     {
       "key": "6c32422f0b5bffd3c43d43f2ccf1d4cc39a54d43",
       "title": "Your Mum",
@@ -984,28 +1005,6 @@
       ]
     },
     {
-      "key": "6181274d6257e9b89a4b3175db86d49a9390ce14",
-      "title": "Ria Lina Gets Forensic: Microneedling",
-      "published_at": "2025-09-29T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0m542cp",
-      "description": "Former-forensic-scientist-turned-stand-up-comedian Ria Lina examines the gap between the science we’re sold by the wellness industry and the science that’s done in a lab – particularly when it comes to treatments that boast anti-aging effects. This episode, she’s joined by comedian Geoff Norcott to see if Microneedling can make their faces look any younger. Featuring Ria Lina and Geoff Norcott Written by Ria Lina and Steve N Allen Produced by Ben Walker A DLT Entertainment production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m5412k.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "13904000",
-      "itunes_duration": "869",
-      "speakers": [
-        "Ria Lina Gets Forensic",
-        "Microneedling Former",
-        "Ria Lina"
-      ],
-      "topics": [
-        "lina",
-        "forensic",
-        "microneedling"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1034,6 +1033,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott
 - 2026-09-28 — Your Mum — speakers: Laura Smyth
 - 2026-09-21 — Omid Djalili: Namaste — speakers: Omid Djalili, Namaste Omid Djalili
 - 2026-09-14 — Unspeakable — speakers: Jessie Cave
@@ -1084,5 +1084,4 @@
 - 2025-10-20 — Mark Steel's In Town — speakers: Mark Steel
 - 2025-10-13 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
 - 2025-10-06 — Do Gooders — speakers: Gooders Ken
-- 2025-09-29 — Ria Lina Gets Forensic: Microneedling — speakers: Ria Lina Gets Forensic, Microneedling Former, Ria Lina
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore

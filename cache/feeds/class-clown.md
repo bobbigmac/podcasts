@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-09-28T05:22:27+00:00`
-- checked_at: `2026-09-28T05:22:27+00:00`
-- last_modified: `Sun, 27 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-10-05T05:38:10+00:00`
+- checked_at: `2026-10-05T05:38:10+00:00`
+- last_modified: `Sun, 04 Oct 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-28T05:22:27+00:00",
+  "fetched_at": "2026-10-05T05:38:10+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9208e30cd8ab8e8a4baa967fc9e5c5aa7c6d4bab",
+      "title": "How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview",
+      "published_at": "2026-10-04T23:01:00+00:00",
+      "link": null,
+      "description": "This week on Class Clown Seann Walsh looks back over an earlier interview with YouTube creator and comedian Max Fosh, alongside Dr Natalia Cawley. The pair talk about how YouTube has empowered comedians and creators as well as dig into some of the typical psychological effects going to boarding school can have on you. You can get more from Dr Natalie Cawley by checking out her amazing book, Just About Coping And you can see Seann Walsh live on tour! https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5468932754.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1436",
+      "speakers": [
+        "Seann Walsh"
+      ],
+      "topics": [
+        "youtube",
+        "changed",
+        "comedy",
+        "fosh",
+        "class",
+        "clown"
+      ]
+    },
     {
       "key": "95158824d181e05c082156721d22d0e066ec92f9",
       "title": "JACOB HAWLEY: Why I Started Screen Rot, Playing in a Band in Greece, Studying Drama At Uni",
@@ -1948,6 +1971,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-04 — How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview — speakers: Seann Walsh
 - 2026-09-27 — JACOB HAWLEY: Why I Started Screen Rot, Playing in a Band in Greece, Studying Drama At Uni — speakers: Jacob Hawley, Seann Walsh
 - 2026-09-20 — JACOB HAWLEY: Being Naughty, Class Dynamics & Ricky Gervais Inspiration — speakers: Jacob Hawley Being Naughty, Jacob Hawley, Seann Walsh
 - 2026-09-13 — ANDREW MENSAH: From Preaching & Playing Football To Comedy Stardom — speakers: Stardom Andrew Mensah, Seann Walsh

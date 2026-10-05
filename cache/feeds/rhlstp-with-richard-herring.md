@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-02T17:52:29+00:00`
-- checked_at: `2026-10-02T17:52:29+00:00`
-- etag: `"djEuMi4wOjE3OTA5NTA0NDY1NTk="`
+- fetched_at: `2026-10-05T05:38:10+00:00`
+- checked_at: `2026-10-05T05:38:10+00:00`
+- etag: `"djEuMi4wOjE3OTExNjkwNTkzMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-02T17:52:29+00:00",
+  "fetched_at": "2026-10-05T05:38:10+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d58a717144c8fb2ce7e5deb07f02444adedff2bd",
+      "title": "Jeremy Dyson and Andy Nyman (Retro) - \"Ragmags\"",
+      "published_at": "2026-10-05T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#451 Ragmags - Richard has had some disturbing text messages from one of his kids, but he’s not going to help them. His guests are super nerd magic geniuses, Jeremy Dyson and Andy Nyman. They discuss why Jeremy chose not to appear on stage with the League of Gentlemen, why Andy is non-plussed to be in Star Wars, how the pair met at a summer camp, the Vagina Monologues production at the Arts Theatre led to TWO new theatre shows that have been performed all over the world, why Andy and Jeremy wanted to retain control of the film version of A Ghost Story, the secretive world of the Magic Circle and how they managed to collaborate on writing the fantastically entertaining novel, “The Warlock Effect”. Plus what would it take for them to fellate Keith Allen. Buy the Warlock Effect here (for example) https://uk.bookshop.org/p/books/the-warlock-effect-a-highly-entertaining-twisty-adventure-filled-with-magic-illusions-and-cold-war-espionage-andy-nyman/5f9affe61a405430 Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790872161096-649bd5b3-703c-4b65-9753-e18c575e831a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6abe8a81d2d2814e2c2d5672/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28800522",
+      "itunes_duration": "1:00:00",
+      "speakers": [
+        "Jeremy Dyson",
+        "Andy Nyman",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jeremy",
+        "dyson",
+        "andy",
+        "nyman",
+        "retro",
+        "ragmag"
+      ]
+    },
     {
       "key": "7c2ec7d951f7d598bb61622b7c9d48d836115e9c",
       "title": "Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor",
@@ -24099,6 +24124,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Jeremy Dyson and Andy Nyman (Retro) - "Ragmags" — speakers: Jeremy Dyson, Andy Nyman, Richard Herring
 - 2026-10-02 — Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor — speakers: Craven Newsround Compilation, No Speculation, Richard Herring
 - 2026-09-30 — Isy Suttie - "Throwing a Pound Coin at Howard From Take That’s Head" — speakers: Isy Suttie, Pound Coin, Richard Herring
 - 2026-09-28 — Catherine Tate (Retro) - "Am 'I' Bovvered?" — speakers: Catherine Tate, Richard Herring

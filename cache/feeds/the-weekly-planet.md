@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-01T18:25:34+00:00`
-- checked_at: `2026-10-01T18:25:34+00:00`
-- etag: `"djEuMi4wOjE3OTA4NjE0MzkzOTM="`
+- fetched_at: `2026-10-05T05:38:10+00:00`
+- checked_at: `2026-10-05T05:38:10+00:00`
+- etag: `"djEuMi4wOjE3OTExNzEwMzk0MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-01T18:25:34+00:00",
+  "fetched_at": "2026-10-05T05:38:10+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "058a8a14cb0e7ee09645f0fea7aa70fd4c6835e0",
+      "title": "643 Digger & Avengers: Endgame Encore",
+      "published_at": "2026-10-05T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/643-digger-avengers-endgame-encore",
+      "description": "The Weekly Planet returns the only way they know how, with another podcast. This week we discuss Tom Cruise’s latest film and attempt to finally win that Oscar, Digger. And boy is it a doozy of a movie and also a massive box office bomb. We also discuss the new scenes added to Avengers: Endgame Encore leading into Doomsday, the inevitable merger of Paramount and Warner Brothers, the cancellation of the Transformers/GI Joe crossover, a Spider-Man Clone Saga Amazon Prime series, a new VisionQuest and details on the next Star Wars Skywalker trilogy. Thanks for listening! James on a new episode of TOFOP! Learn all about Tickle Batman here or on the Everyone Relax podcast feed. New bonus and a full movie commentary track for The Mandalorian vs. Groglet out now! Exclusively available as an audio track for 'Big Sandwich' members on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 05:42 Paramount Finally Buys Warner Bros 10:45 Meta Reveal New Technology, Gob Grem™ 13:00 GI Joe & Transformers Movie Cancelled 17:52 Spider-Man Clone Saga Series 24:16 VisionQuest New Trailer 27:10 Star Wars Skywalker Saga Announcements 33:17 Digger Movie Review 46:53 Digger Spoiler Segment 58:14 What We Reading, What We Gonna Read 01:02:26 Avengers: Endgame Encore New Scenes/Review 01:10:26 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6abfada35558f9dbe2535e0a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128612759",
+      "itunes_duration": "1:29:18",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "digger",
+        "avengers",
+        "endgame",
+        "encore"
+      ]
+    },
     {
       "key": "e3549884d8c60752ec501cae1f1ef24808c39324",
       "title": "Soldier - Caravan Of Garbage",
@@ -23205,6 +23227,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — 643 Digger & Avengers: Endgame Encore — speakers: James Clement, Nick Mason
 - 2026-10-01 — Soldier - Caravan Of Garbage — speakers: Blade Runner, James Clement, Nick Mason
 - 2026-09-28 — 642 Coyote vs. ACME — speakers: James Clement, Nick Mason
 - 2026-09-24 — Blade Runner - Caravan Of Garbage — speakers: Blade Runner Caravan, Blade Runner, James Clement, Nick Mason
