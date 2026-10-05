@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-09-28T13:52:38+00:00`
-- checked_at: `2026-09-28T13:52:38+00:00`
-- last_modified: `Mon, 28 Sep 2026 11:00:00 GMT`
+- fetched_at: `2026-10-05T14:35:50+00:00`
+- checked_at: `2026-10-05T14:35:50+00:00`
+- last_modified: `Mon, 05 Oct 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-28T13:52:38+00:00",
+  "fetched_at": "2026-10-05T14:35:50+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8cf86607e2e409e8126009d52d0206aeb6ba9be4",
+      "title": "503. London Podcast Festival with Alice Fraser and Shoulder to Shoulder",
+      "published_at": "2026-10-05T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 503. The Manosphere Presented by Deborah Frances-White and Alice Fraser with special guests Tom Stroud and Dan Shrigley and music from Chaps Choir Recorded 13 September 2026 at The London Podcast Festival. Released 5 October. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Alice Fraser https://www.instagram.com/alicefraserhuman https://alicefraser.com More about Shoulder to Shoulder https://www.instagram.com/shouldertoshouldercommunity https://www.shouldertoshoulder.co.uk More about Chaps Choir https://www.chapschoir.com https://www.adambeattie.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/437ef2f6-c032-11f1-a990-4b524146719f/image/634ac0247cf09967126a05f17936a5b3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4675310448.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5743",
+      "speakers": [
+        "Alice Fraser",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "london",
+        "podcast",
+        "festival",
+        "alice",
+        "fraser",
+        "shoulder"
+      ]
+    },
     {
       "key": "0866bab79e4874377d50fc664a021698a160c16d",
       "title": "502. Homophobia with Freya Parker and Linus Karp",
@@ -18622,6 +18646,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — 503. London Podcast Festival with Alice Fraser and Shoulder to Shoulder — speakers: Alice Fraser, Deborah Frances-White
 - 2026-09-28 — 502. Homophobia with Freya Parker and Linus Karp — speakers: Freya Parker, Deborah Frances-White
 - 2026-09-21 — 501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks — speakers: Alison Spittle, Peter Darrant, Deborah Frances-White
 - 2026-09-16 — Remembering Bonnie Greer — speakers: Bonnie Greer, Deborah France, Deborah Frances-White

@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
+- fetched_at: `2026-10-05T14:35:50+00:00`
+- checked_at: `2026-10-05T14:35:50+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-05T14:35:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e0f6244846e49cde25604bd3db0c81a2cbd5f7e2",
+      "guid": "7739d8eb-586a-49b1-9495-72b9d5e0f07b",
+      "title": "James Acaster (5th October)",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-5th-october/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1791194635-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7739d8eb-586a-49b1-9495-72b9d5e0f07b&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "332f73c976be11eb51f613a648edf930da3560c9",
       "guid": "b28be2dc-370b-450e-a7e9-345441340a4e",
@@ -2774,6 +2787,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — James Acaster (5th October)
 - 2026-09-28 — James Acaster (28th September)
 - 2026-09-21 — James Acaster (21st September)
 - 2026-09-14 — James Acaster (14th September)

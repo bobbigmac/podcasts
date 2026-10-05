@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-02T17:52:29+00:00`
-- checked_at: `2026-10-02T17:52:29+00:00`
-- etag: `"djEuMi4wOjE3OTA5MzgzMzc1OTE="`
+- fetched_at: `2026-10-05T14:35:50+00:00`
+- checked_at: `2026-10-05T14:35:50+00:00`
+- etag: `"djEuMi4wOjE3OTEyMDE2MzkzOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,41 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-02T17:52:29+00:00",
+  "fetched_at": "2026-10-05T14:35:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7cb4e870ddbe9cd483af370a4f431df22a0e8a25",
+      "title": "Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview",
+      "published_at": "2026-10-05T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ac38485ed21e3ea75732de0",
+      "description": "Could Zack Polanski's leadership represent something much bigger than a change of direction for the Green Party? Ava was joined live by Green Party leader Zack Polanski and author Russell Warfield on the launch of Russell's book \"The Green Socialist: Zack Polanski and the Battle for Britain’s Future\" to discuss the rise of the Greens, the crisis facing British politics and the political ideas behind Polanski's rapid rise. Is the Green Party's rise a temporary reaction to Labour, or part of a much bigger transformation of British politics? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ac38485ed21e3ea75732de0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124860434",
+      "itunes_duration": "1:04:56",
+      "speakers": [
+        "Andy Burnham",
+        "Zack Polanski",
+        "Russell Warfield"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "squashed",
+        "green",
+        "party",
+        "zack",
+        "polanski",
+        "russell",
+        "warfield"
+      ]
+    },
     {
       "key": "93cb71b119d9edbc975360802f29417be1ed71de",
       "title": "We Need To Talk About Cuba | Jeremy Corbyn interview",
@@ -13767,6 +13795,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview — speakers: Andy Burnham, Zack Polanski, Russell Warfield
 - 2026-10-02 — We Need To Talk About Cuba | Jeremy Corbyn interview — speakers: Jeremy Corbyn
 - 2026-09-29 — What I didn't get to say on BBC Newsnight — speakers: Newsnight Ava
 - 2026-09-27 — Nobel-Winning economist: AI WILL Destroy Democracy | Daron Acemoglu interview — speakers: Daron Acemoglu
