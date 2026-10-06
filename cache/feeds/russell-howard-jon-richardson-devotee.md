@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-05T14:35:50+00:00`
-- checked_at: `2026-10-05T14:35:50+00:00`
-- etag: `W/"5a669-BeyvrrXGS+DyDvYtu6YfHiDyFuU"`
+- fetched_at: `2026-10-06T06:19:05+00:00`
+- checked_at: `2026-10-06T06:19:05+00:00`
+- etag: `W/"5a60c-AMg0wdt4itgLPJDlXVSH2nXfbs0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-05T14:35:50+00:00",
+  "fetched_at": "2026-10-06T06:19:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,10 +25,32 @@
   ],
   "episodes": [
     {
+      "key": "a3d8c7a9614fb7f5af3d2085a0fd96c378373a5f",
+      "title": "The Jon Richardson Podcast #1 – Featuring Josie Long",
+      "published_at": "2026-10-06T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/The-Jon-Richardson-Podcast-1--Featuring-Josie-Long-e3puuk0",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791225242165-41260053a7073.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9998056673.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67498052",
+      "itunes_duration": "01:09:33",
+      "speakers": [
+        "Josie Long",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "josie",
+        "long"
+      ]
+    },
+    {
       "key": "51b32eab4c4342877a1a5a18536ef1ed06fd8eae",
-      "title": "#83 Russell Howard & Jon Richardson Podcast Episode 83",
+      "title": "#84 Russell Howard & Jon Richardson Podcast Episode 84",
       "published_at": "2026-10-05T05:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/83-Russell-Howard--Jon-Richardson-Podcast-Episode-83-e3pskb4",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/84-Russell-Howard--Jon-Richardson-Podcast-Episode-84-e3pskb4",
       "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791139974915-08e03433350dd.jpg",
       "enclosure_url": "https://traffic.megaphone.fm/APO1366648347.mp3",
@@ -6055,48 +6077,6 @@
         "michael",
         "mcintyre"
       ]
-    },
-    {
-      "key": "ed162ee55e2bebab18029ba6c3bf19002770073b",
-      "title": "#1 Jon Richardson Podcast with Josie Long",
-      "published_at": "2026-02-16T19:39:53+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/1-Jon-Richardson-Podcast-with-Josie-Long-e3f687v",
-      "description": "#1 Jon Richardson Podcast with Josie Long",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771270300013-0b6df56ede8c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115596991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2Fc424ef09-51fe-6e0a-6c48-f7f5d820b0d7.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50084384",
-      "itunes_duration": "01:09:33",
-      "speakers": [
-        "Josie Long"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "josie",
-        "long"
-      ]
-    },
-    {
-      "key": "ccc77cfdc77b89784cbbfb69dde88aee3fdf356f",
-      "title": "#84 Russell Howard & Jon Richardson Podcast EP 84",
-      "published_at": "2026-02-15T20:15:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/84-Russell-Howard--Jon-Richardson-Podcast-EP-84-e3f4d7j",
-      "description": "#84 Russell Howard & Jon Richardson Podcast EP 84",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771168561734-6c65559bb7a02.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115536563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-15%2Fa3e17e13-9e3a-9a20-4be4-c671be1bf684.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "15487140",
-      "itunes_duration": "00:32:05",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6105,7 +6085,8 @@
 
 ## Episodes (newest first)
 
-- 2026-10-05 — #83 Russell Howard & Jon Richardson Podcast Episode 83 — speakers: Russell Howard, Jon Richardson
+- 2026-10-06 — The Jon Richardson Podcast #1 – Featuring Josie Long — speakers: Josie Long, Jon Richardson
+- 2026-10-05 — #84 Russell Howard & Jon Richardson Podcast Episode 84 — speakers: Russell Howard, Jon Richardson
 - 2026-10-02 — #83 Russell Howard & Jon Richardson Podcast Episode 83 — speakers: Russell Howard, Jon Richardson
 - 2026-09-30 — #81 Russell Howard & Jon Richardson Podcast Episode 81 — speakers: Russell Howard, Jon Richardson
 - 2026-09-29 — #80 Russell Howard & Jon Richardson Podcast Episode 80 — speakers: Russell Howard, Jon Richardson
@@ -6368,5 +6349,3 @@
 - 2026-02-17 — #4 Jon Richardson Podcast with John Robins — speakers: John Robins
 - 2026-02-17 — #3 Jon Richardson Podcast with Mark Olver — speakers: Mark Olver
 - 2026-02-16 — #2 Jon Richardson Podcast with Michael McIntyre — speakers: Michael McIntyre
-- 2026-02-16 — #1 Jon Richardson Podcast with Josie Long — speakers: Josie Long
-- 2026-02-15 — #84 Russell Howard & Jon Richardson Podcast EP 84 — speakers: Russell Howard

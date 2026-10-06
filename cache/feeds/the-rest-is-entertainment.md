@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-01T00:33:10+00:00`
-- checked_at: `2026-10-01T00:33:10+00:00`
-- last_modified: `Wed, 30 Sep 2026 23:15:09 GMT`
+- fetched_at: `2026-10-06T06:19:05+00:00`
+- checked_at: `2026-10-06T06:19:05+00:00`
+- last_modified: `Mon, 05 Oct 2026 23:15:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-01T00:33:10+00:00",
+  "fetched_at": "2026-10-06T06:19:05+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,51 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5116c28b3f00ea1fbf378d6f00cba7524dc6fce2",
+      "title": "Is Tom Cruise In Hollywood’s Biggest Ever Flop?",
+      "published_at": "2026-10-05T23:05:00+00:00",
+      "link": null,
+      "description": "Has Tom Cruise just starred in the biggest Hollywood bomb of all time? Can Taylor Swift continue making great pop music? Why did Richard once get offered a glass of milk by TV's king of trash? Tom Cruise & Alejandro Iñárritu's new movie Digger took a pitiful $8m domestically on its opening weekend - making it one of Hollywood's biggest failures. What went wrong? Who is to blame? And can anything be salvaged? Richard Osman and Marina Hyde have the answers. Taylor Swift won't go quietly. In a critically divisive move, the pop superstar has released four more songs to her 'Life Of A Showgirl' project. Is it tough to continue making hit after hit when you've penned over 300 songs? Richard has been busy filming a new game show in Belgium. What are the economics of batch producing in Europe — and why are the Dutch so good at telly? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton & Charlie Rodwell Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Exec Producer: Ami Bennett Social Producer: Emma Jackson Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3630911042.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3177",
+      "speakers": [
+        "Tom Cruise",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "cruise",
+        "hollywood",
+        "flop"
+      ]
+    },
+    {
+      "key": "d72f1a029a3aa8db42e5c04d6059793582f93a32",
+      "title": "\"The Boldest Move Yet?!\" - Celeb Traitors Reaction (Week 1)",
+      "published_at": "2026-10-02T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR WEEK ONE OF CELEBRITY TRAITORS Marina Hyde is joined by Traitors legend Charlotte Berman to review the first week of Celebrity Traitors 2027. They discuss all the chaotic castle antics so far and answer the questions everyone is desperate to know... who goes next? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Oli Ortega-Smith, Joe Pettit Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7ca86cda-be8c-11f1-ace8-db6076fe2889/image/5f64159a0733956ebb5d6d757651a613.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3625802164.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2254",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "boldest",
+        "celeb",
+        "traitors",
+        "reaction",
+        "week"
+      ]
+    },
     {
       "key": "a24390f21b2b60bab1641f7fac8bfd4359c67807",
       "title": "How John Grisham Sold 400 Million Books",
@@ -6842,6 +6887,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Is Tom Cruise In Hollywood’s Biggest Ever Flop? — speakers: Tom Cruise, Richard Osman, Marina Hyde
+- 2026-10-02 — "The Boldest Move Yet?!" - Celeb Traitors Reaction (Week 1) — speakers: Richard Osman, Marina Hyde
 - 2026-09-30 — How John Grisham Sold 400 Million Books — speakers: John Grisham Sold, Richard Osman, Marina Hyde
 - 2026-09-28 — New Strictly Hosts & New Celebrity Traitors — speakers: Richard Osman, Marina Hyde
 - 2026-09-24 — What A Time To Be Alive! - Marina Hyde [EXCLUSIVE EXTRACT] — speakers: Marina Hyde, Richard Osman

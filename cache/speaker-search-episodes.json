@@ -10541,6 +10541,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:d30e7b09fb5a",
+        "feed_title": "Charlie Higson & Friends",
+        "source_rss_url": "https://feeds.simplecast.com/gGoe07oS",
+        "dedupe_key": "950779791817a5c47fb7907df10789448daeff49",
+        "episode_key": "950779791817a5c47fb7907df10789448daeff49",
+        "title": "Bob Mortimer - Part 1",
+        "published_at": "2021-04-26T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Bob Mortimer – one half of legendary comedy duo Reeves and Mortimer, and star of ‘Would I Lie to You?’ and ‘Gone Fishing’ – joins Charlie to chat about music, song lyrics, his favourite ever film, going to the opera, recovering from heart surgery, working with Paul Whitehouse, the similarities between fly-fishing and c",
+        "audio_url": "https://baueruk.simplecastaudio.com/37ba8dec-dce8-4008-a0bc-a4f70b860a57/episodes/f232748a-046f-4331-8828-e01ee9f0e61f/audio/128/default.mp3?aid=rss_feed&awCollectionId=37ba8dec-dce8-4008-a0bc-a4f70b860a57&awEpisodeId=f232748a-046f-4331-8828-e01ee9f0e61f&feed=gGoe07oS",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer-part-1/id1561958296?i=1000518591645&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:82365807fac9",
         "feed_title": "Jools and Jim's Joyride",
         "source_rss_url": "https://feeds.acast.com/public/shows/b51c2b6e-a480-4738-9c05-ad2c9d9daff9",
