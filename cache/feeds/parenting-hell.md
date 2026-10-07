@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-06T06:19:05+00:00`
-- checked_at: `2026-10-06T06:19:05+00:00`
-- last_modified: `Tue, 06 Oct 2026 02:53:22 GMT`
+- fetched_at: `2026-10-07T13:21:04+00:00`
+- checked_at: `2026-10-07T13:21:04+00:00`
+- last_modified: `Wed, 07 Oct 2026 10:07:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-06T06:19:05+00:00",
+  "fetched_at": "2026-10-07T13:21:04+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTExNTA3ODU4MDg="`
+- fetched_at: `2026-10-07T13:21:04+00:00`
+- checked_at: `2026-10-07T13:21:04+00:00`
+- etag: `"djEuMi4wOjE3OTEzNTY0Mzk2ODI="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-07T13:21:04+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9a30a3b30fe777b7964e06ebfb0d2edebabe3aee",
+      "title": "WDWDY #90.1: High Performance Breakfast (David's Yesterday)",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-901-high-performance-breakfast-davids-yesterday",
+      "description": "On this mid-week mayhem episode we find out what David did with his yesterday... Including really good mangoes, nerf gun fights, and posturing week. Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1791033525881-aec437fb-aaf7-41cd-8ca8-09662d5ea5b8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ac10bfb52f9e4485f73ca45/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119364413",
+      "itunes_duration": "49:37",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "performance",
+        "breakfast",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "1e9c5cfc438cc5d6114e6be54cfee578323f9ffb",
       "title": "S6 EP4: Lara Ricote",
@@ -4206,6 +4228,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — WDWDY #90.1: High Performance Breakfast (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-04 — S6 EP4: Lara Ricote — speakers: Lara Ricote, Max Rushden, David O'Doherty
 - 2026-09-30 — WDWDY #89.1: Has anyone been to Burundi? (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-09-27 — S6 EP3: Paul Foot — speakers: Paul Foot, Max Rushden, David O'Doherty

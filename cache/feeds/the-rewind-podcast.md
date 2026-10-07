@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-10-05T14:35:50+00:00`
-- checked_at: `2026-10-05T14:35:50+00:00`
-- etag: `W/"1ae2f-918XJv9TmAvgKuTt/uM5+OhoDW0"`
+- fetched_at: `2026-10-07T13:21:04+00:00`
+- checked_at: `2026-10-07T13:21:04+00:00`
+- etag: `W/"1b698-/WjERZLr68LIsaTnOtFHwPQdiYs"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-10-05T14:35:50+00:00",
+  "fetched_at": "2026-10-07T13:21:04+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e567656e572e85dd296d3b67912e5314178e8efe",
+      "title": "Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast",
+      "published_at": "2026-09-30T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Chatting-Resident-Evil--the-Top-100-TV-Series-of-the-21st-Century--The-Rewind-Podcast-e3q0m1m",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about Zach Cregger's Resident Evil, as well as the recent New York Times list of the Top 100 TV Series of the 21st Century. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/126948854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2Fd6d31655-8429-b71f-285b-88b51df6f50a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "245101856",
+      "itunes_duration": "02:50:12",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "series",
+        "century",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "d5f61a875af145a50807582172d0d22493dc39f0",
       "title": "Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast",
@@ -1390,6 +1415,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-16 — Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast — speakers: Resi Rewatch, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-02 — Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-19 — X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
