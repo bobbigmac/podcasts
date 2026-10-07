@@ -25588,6 +25588,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "7d141a05dbbafee4842c57df35fc72274c758865",
+        "episode_key": "7d141a05dbbafee4842c57df35fc72274c758865",
+        "title": "Super Intelligence (with Stewart Lee and Carole Cadwalladr)",
+        "published_at": "2026-10-07T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Armando is joined by Stewart Lee to look at the newly rebranded 'Super Intelligence'.\nTo get into the linguistic weeds, they are also joined by founding member of The Nerve, Carole Cadwalladr.\nThe tech bros are coming up with new terminology all over the shop, so we take a whistle stop tour through phrases that grind o",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfh0bk.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/super-intelligence-with-stewart-lee-and-carole-cadwalladr/id1774462541?i=1000793701578&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7ab64334a67c",
         "feed_title": "The Green Man Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
@@ -28223,6 +28245,28 @@
         "feed_image_url": null,
         "description": "In this week's episode, we invite cult meta-comedian and out-there-music connoisseur Stewart Lee to discuss the new documentary he's made about Prefects/Nightingales legend Robert Lloyd. Stewart also pitches in on RBP's new audio interview, a 1991 conversation 'twixt the late Andy Gill and everyone's favourite choirboy",
         "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN9068048117.mp3?updated=1673393012",
+        "link_url": "https://podcasts.apple.com/gb/podcast/e83-stewart-lee-on-robert-lloyd-robert-wyatt-ronald/id1441099644?i=1000565396644&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3b7cd840b0a1",
+        "feed_title": "Rock's Backpages",
+        "source_rss_url": "https://feeds.megaphone.fm/rocksbackpages",
+        "dedupe_key": "dee9a37737b25b8b74ff8ae08657f9a0390715cd",
+        "episode_key": "dee9a37737b25b8b74ff8ae08657f9a0390715cd",
+        "title": "E83: Stewart Lee on Robert Lloyd + Robert Wyatt + Ronald \"Khalis\" Bell",
+        "published_at": "2020-09-14T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week's episode, we invite cult meta-comedian and out-there-music connoisseur Stewart Lee to discuss the new documentary he's made about Prefects/Nightingales legend Robert Lloyd. Stewart also pitches in on RBP's new audio interview, a 1991 conversation 'twixt the late Andy Gill and everyone's favourite choirboy",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/WECs6IXJy7hrnxzkLV9H/traffic.megaphone.fm/PAN9068048117.mp3?updated=1673393012",
         "link_url": "https://podcasts.apple.com/gb/podcast/e83-stewart-lee-on-robert-lloyd-robert-wyatt-ronald/id1441099644?i=1000565396644&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

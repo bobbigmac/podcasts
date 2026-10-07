@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTA4NjExOTAzMzE="`
+- fetched_at: `2026-10-07T20:37:09+00:00`
+- checked_at: `2026-10-07T20:37:09+00:00`
+- etag: `"djEuMi4wOjE3OTEzOTEyMjQ3MTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-07T20:37:09+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "520e5c18d2bb9459fe48260b3e13b33c5b8777ec",
+      "title": "Outstandingly Spectacular Terrorist Failures",
+      "published_at": "2026-10-07T16:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/terrorism-fails",
+      "description": "Joining Andy on issue 4393 of The Bugle is Alice Fraser and Anuvab Pal, as the three of them delve into this week's news from failed terrorist plots, an AI revival of Greta Garbo, to European protests. PLUS UK News as Andy Burnham has his first conference speech as PM and an update on the scandal that is Manchester City 'Football' Club. All and more on this week's issue of The Bugle! 🌍 Terrorism Fails: The trio delve into the news of two foiled supposedly terror attacks 💻 AI Garbo: The Bugle reports on the latest as AI review deceased actress Greta Garbo 🇦🇺 Australia Celebrates Moth swarms: Andy, Alice and Anuvab report the on news that Bogong moths have returned Andy's Links: https://www.andyzaltzman.co.uk/ Alice Fraser's Links: https://www.patreon.com/cw/AliceFraser?l=en-GB & https://www.thebuglepodcast.com/the-gargle Anuvab Pal's Links: https://anuvabpal.com 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1791386572837-892fb00d-3b08-457c-ac26-01642b8d1b6c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ac65e3d9b68e594a7948968/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48326112",
+      "itunes_duration": "50:20",
+      "speakers": [
+        "Joining Andy",
+        "Alice Fraser",
+        "Anuvab Pal",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "spectacular",
+        "terrorist",
+        "failures"
+      ]
+    },
     {
       "key": "d7941a779304f036ffb7c4b28350f97cdb377e05",
       "title": "World Leaders Forced to meet Trump",
@@ -14581,6 +14604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Outstandingly Spectacular Terrorist Failures — speakers: Joining Andy, Alice Fraser, Anuvab Pal, Andy Zaltzman
 - 2026-09-30 — World Leaders Forced to meet Trump — speakers: Joining Andy, Josh Gondelman, Catherine Bohart, Andy Zaltzman
 - 2026-09-23 — Australia joins Europe? — speakers: Joining Andy, Tom Ballard, Andy Zaltzman
 - 2026-09-16 — Humanity is Doomed — speakers: Nish Kumar, Sara Barron, Andy Zaltzman
