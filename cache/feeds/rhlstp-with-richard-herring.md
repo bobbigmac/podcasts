@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
-- etag: `"djEuMi4wOjE3OTExNjkwNTkzMjA="`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"djEuMi4wOjE3OTEzNDE4NTkzOTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "618e10f8d1366e95919e4810e85e5438723087b9",
+      "title": "Susie McCabe - \"Spot the Ball\"",
+      "published_at": "2026-10-07T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #630 - Spot The Ball - Richard is appalled by an email recommendation and what it says about him, but doesn’t have time to think about it too much as his guest is the brilliant stand-up Susie McCabe. They chat about all the terrible things that have happened to her since her last appearance, which make Richard’s puny cancers seem pathetic, finding the funny in your own father’s funeral, why Susie ended up with Thatcher as her Mastermind specialist subject, generational differences and why our parents were more worried about appearances than our grandparents, bouncing back from a heart attack and making the BBC front page on your death. This one is a really great listen. Don’t skip it! See RHLSTP live whilst you still can http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790172624935-053ce118-2ea6-4c82-9596-f3de24edb7fe.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ab3dd9c432e34fa457db01a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27100264",
+      "itunes_duration": "56:27",
+      "speakers": [
+        "Susie McCabe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "susie",
+        "mccabe",
+        "ball"
+      ]
+    },
     {
       "key": "d58a717144c8fb2ce7e5deb07f02444adedff2bd",
       "title": "Jeremy Dyson and Andy Nyman (Retro) - \"Ragmags\"",
@@ -24124,6 +24145,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Susie McCabe - "Spot the Ball" — speakers: Susie McCabe, Richard Herring
 - 2026-10-05 — Jeremy Dyson and Andy Nyman (Retro) - "Ragmags" — speakers: Jeremy Dyson, Andy Nyman, Richard Herring
 - 2026-10-02 — Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor — speakers: Craven Newsround Compilation, No Speculation, Richard Herring
 - 2026-09-30 — Isy Suttie - "Throwing a Pound Coin at Howard From Take That’s Head" — speakers: Isy Suttie, Pound Coin, Richard Herring

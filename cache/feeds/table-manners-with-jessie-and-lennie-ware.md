@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA3MjY0Mzk1MzQ="`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"djEuMi4wOjE3OTEzMzEyMzk1Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a8976199a621218d515909f20a38b294147afea0",
+      "title": "Stephen Graham",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/stephen-graham",
+      "description": "This episode is absolute gold! Joining us for lunch this week it's the wonderful Stephen Graham! Stephen came over for a slightly chaotic brunch where I made a Meera Sodha gochujang & cheddar cornbread with bacon and eggs, and mum made a raspberry & blueberry tiramisu that sadly ended up on the kitchen floor… We heard all about Stephen growing up in Kirkby, his nana’s legendary Scouse, his childhood breakdancing crew, and the very romantic story of how he finally told his wife Hannah he loved her at New Cross station after five years of friendship (with benefits). Stephen also spoke beautifully about fatherhood, and the phenomenal success of Adolescence, plus we hear about his meetings with Bruce Springsteen, his love of meditation, and the exciting news that he’s reuniting with Leonardo DiCaprio for Heat 2! Stephen, thank you for being so open, warm and for embracing the absolute chaos in the kitchen! Letters to Our Sons is out now and you can watch Stephen in Nocturne on Apple TV from the 30th October. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1791312443837-255e40aa-f81c-46ee-83a4-a685e3744dc2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6ac534f695b478544bf7616f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60722782",
+      "itunes_duration": "1:03:15",
+      "speakers": [
+        "Stephen Graham"
+      ],
+      "topics": [
+        "stephen",
+        "graham"
+      ]
+    },
     {
       "key": "72c60143280a1a351487897ddcd5820bf8c250e0",
       "title": "Kelly Rowland",
@@ -7459,6 +7478,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Stephen Graham — speakers: Stephen Graham
 - 2026-09-30 — Kelly Rowland — speakers: Kelly Rowland
 - 2026-09-09 — Second Helpings - Rob Brydon — speakers: Rob Brydon, Rob Brydo
 - 2026-09-02 — Second Helpings - Emilia Clarke — speakers: Second Helpings, Table Manners

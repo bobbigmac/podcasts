@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- last_modified: `Wed, 30 Sep 2026 01:06:30 GMT`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- last_modified: `Wed, 07 Oct 2026 01:06:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98e5fce92f674d89e6f90e5f1fe585b8f23fbae6",
+      "title": "George Fouracres",
+      "published_at": "2026-10-07T01:00:00+00:00",
+      "link": null,
+      "description": "He’s one of the breakout stars of SNL UK and a sketch and comic actor of the highest calibre - it’s George Fouracres! George’s Brilliant Things are signs of an inquisitive and sideways brain, for example ‘roads’ are definitely brilliant but maybe the rest of us take them for granted? Likewise the month of September. It’s not for everyone but George makes a bloody good case as to why it’s A Brilliant Thing. Please have a delve around, audio-wise and enjoy what is definitely in our top three Midlands-focussed episodes of the show. George is starring in the latest season of SNL UK on Sky right now, so if you’ve got Sky then get involved, and if you haven’t…well…you could get it? Or you can enjoy the clips across social media of all kinds. For all of George’s other work, you can keep up with him by following him on the old Instagrams, where he’s @fowerairkers And that, as the old saying goes, is that. Hope you have a lovely week and make sure to take advantage of all of those lovely opportunities that come your way. Xxx Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/71bed5f8-be72-11f1-a0d1-f3668c488f98/image/e61114b4a3b20374eb8d3b92eb1493bf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8154614216.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3893",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "george",
+        "fouracres"
+      ]
+    },
     {
       "key": "c91cf25d523c2e9ff27b5cacd6bd5db3580b6ddf",
       "title": "Alexei Sayle",
@@ -3496,6 +3515,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — George Fouracres — speakers: Russell Howard
 - 2026-09-30 — Alexei Sayle — speakers: Alexei Sayle, Russell Howard
 - 2026-09-23 — Natasha Bedingfield — speakers: Natasha Bedingfield, Russell Howard
 - 2026-09-16 — Alasdair Beckett-King — speakers: Alasdair Beckett-King Alasdair Beckett-King, Russell Howard

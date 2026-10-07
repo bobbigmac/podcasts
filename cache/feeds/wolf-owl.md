@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- last_modified: `Mon, 28 Sep 2026 23:03:35 GMT`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- last_modified: `Tue, 06 Oct 2026 16:56:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,54 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "86625bec584ae2143b713dce77d465930eeaa8c7",
+      "title": "Therapy Role Play, Skims Underwear and Rodimus Prime",
+      "published_at": "2026-10-05T23:00:00+00:00",
+      "link": null,
+      "description": "Is Romesh a doormat? In this episode of Wolf & Owl, Tom becomes Romesh's therapist to tackle his authority issues following a train encounter that has clearly triggered him... They confess their reality TV addictions, from Below Deck to the Kardashians, and debating what it would cost to do reality TV themselves. Plus, fan encounters, Transformers, concerning bathroom habits, and Tom shares his journey in building his boxer short collection, starting with Skims! A Ranga Bee Production. Chapters 00:00 Intro 03:04 The lone wolf mentality 04:14 Romesh’s authority issues and therapy role play 18:01 Transformers and fan encounters 23:04 Skims underwear 28:50 What Tom & Rom really think of reality TV 41:00 Reflections on using parenting as material 47:40 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/94b9a038-c0ca-11f1-8541-c30ac11e8896/image/53cc2f5e0b6b4cdde58c2ee590222892.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1981635659.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3156",
+      "speakers": [
+        "Therapy Role Play",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "therapy",
+        "role",
+        "play",
+        "skims",
+        "underwear",
+        "rodimus",
+        "prime"
+      ]
+    },
+    {
+      "key": "cb2fc217c81c64409d5c557c27e754c4e3604e30",
+      "title": "Romesh Flashes His Balls During A Colonic...",
+      "published_at": "2026-10-01T23:00:00+00:00",
+      "link": null,
+      "description": "Why Are Romesh & Tom Flashing Their Balls? In this episode of Wolf & Owl, the boys embrace the autumn weather, discuss the guilt of leaving their kids, and trial some new greetings that definitely shouldn’t catch on. Plus, Romesh shares the story of flashing his balls during a colonic and, for reasons that will become clear, a special F you to Theo James and Guy Ritchie. A Ranga Bee Production. Chapters 00:00 Intro 02:50 Is Romesh nice to Tom? 04:30 Dealing with parent guilt 16:40 Greetings revealed 19:40 A moment Romesh will remember forever 21:00 Tom flashed his balls (& so did Romesh) 23:54 Tom’s cameo on The Gentleman 27:12 Roleplaying a killer called Trigger from Glasgow 30:05 Romesh’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0dcd9d94-bdb0-11f1-86af-0f7c6b7e1f0f/image/1299f2a69da1f73bb9e5bfe793d51bb9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT9768784367.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1976",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "romesh",
+        "flashes",
+        "balls",
+        "colonic"
+      ]
+    },
     {
       "key": "48d1a36ac17a346f3f406685c38c36e25fcac966",
       "title": "Sleepovers, School Friends And Insecurities",
@@ -7659,6 +7707,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-05 — Therapy Role Play, Skims Underwear and Rodimus Prime — speakers: Therapy Role Play, Romesh Ranganathan, Tom Davis
+- 2026-10-01 — Romesh Flashes His Balls During A Colonic... — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-28 — Sleepovers, School Friends And Insecurities — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-24 — Could Tom Beat 100 8-Year-Olds? — speakers: Tom Beat, Romesh Ranganathan, Tom Davis
 - 2026-09-21 — Humiliating Moments, Below Deck & Rasputin — speakers: Humiliating Moments, Romesh Ranganathan, Tom Davis

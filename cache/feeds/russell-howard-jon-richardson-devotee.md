@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-06T22:39:34+00:00`
-- checked_at: `2026-10-06T22:39:34+00:00`
-- etag: `W/"5a1a4-ro0ZyF9U/jinkSWhzlm0BtzNtlY"`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `W/"5aa20-jzhZC97rhz7fAW4hexg7HBaAlbU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-06T22:39:34+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98573346d4cf71be49461b387366a11e99efca97",
+      "title": "The Jon Richardson Podcast #2 – Featuring Michael Mcintyre",
+      "published_at": "2026-10-07T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/The-Jon-Richardson-Podcast-2--Featuring-Michael-Mcintyre-e3q0u9i",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791311037403-bd5a8be500595.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1834787556.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63698758",
+      "itunes_duration": "01:05:38",
+      "speakers": [
+        "Michael Mcintyre",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "michael",
+        "mcintyre"
+      ]
+    },
     {
       "key": "a3d8c7a9614fb7f5af3d2085a0fd96c378373a5f",
       "title": "The Jon Richardson Podcast #1 – Featuring Josie Long",
@@ -6064,6 +6086,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — The Jon Richardson Podcast #2 – Featuring Michael Mcintyre — speakers: Michael Mcintyre, Jon Richardson
 - 2026-10-06 — The Jon Richardson Podcast #1 – Featuring Josie Long — speakers: Josie Long, Jon Richardson
 - 2026-10-05 — #84 Russell Howard & Jon Richardson Podcast Episode 84 — speakers: Russell Howard, Jon Richardson
 - 2026-10-02 — #83 Russell Howard & Jon Richardson Podcast Episode 83 — speakers: Russell Howard, Jon Richardson

@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"aa07b-65ca8324a4fef"`
-- last_modified: `Wed, 30 Sep 2026 00:15:28 GMT`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"aaadd-65d3502f8841e"`
+- last_modified: `Wed, 07 Oct 2026 00:15:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1ab5b17613504d03cc8fd4db3853c5147384cefa",
+      "title": "Cowboys",
+      "published_at": "2026-10-07T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/cowboys",
+      "description": "In many ways podcasters are the cowboys of today (excepting the actual cowboys of today of course) but instead of horses we ride ergonomic chairs, instead of slinging guns we sling mouths and our bullets - lukewarm banter. Thanks to Will of no location given for this week’s topic. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/d551dd9c-01bd-41f9-8b37-5747acc02d4c/S22-E05-Cowboys.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/5e3cf978-0bab-48c6-8460-5f696554f75d.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=5e3cf978-0bab-48c6-8460-5f696554f75d",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57010885",
+      "itunes_duration": "59:23",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "cowboy"
+      ]
+    },
     {
       "key": "95c243a4af94c76497b8bfc9e379d6f9d81240fa",
       "title": "Fifth Wednesday semi-demi-non-ep",
@@ -4567,6 +4587,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Cowboys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-30 — Fifth Wednesday semi-demi-non-ep — speakers: Fifth Wednesday, Three Bean Salad, Wednesday September, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-23 — Soup — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-16 — Dancing — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

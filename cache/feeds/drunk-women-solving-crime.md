@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-10-05T22:01:05+00:00`
-- checked_at: `2026-10-05T22:01:05+00:00`
-- etag: `"djEuMi4wOjE3OTEyMjU1MjUxNzk="`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"djEuMi4wOjE3OTEzMzEyMzk1NjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-10-05T22:01:05+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,30 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "b464163c7c6caa224f0f7c265cdb03b0a1f6a771",
+      "title": "Pink Thunder, with Farah Sharp",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/pink-thunder-with-farah-sharp",
+      "description": "In the studio this week is the fantastic comedian, Farah Sharp, who might not have been destined to hold onto her bike, but at least she probably met its new owner. Farah then lends a helping hand to Taylor and Hannah in their bid to get to the bottom of why a Russian attempt to pull the wool over the world's eyes didn't manage to get to a great Finnish. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in October & November, with guests Matt Richardson, Esther Manito, Matt Forde & Helen Serafinowicz! Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6ac3ea51924bc02b55557cd1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79556197",
+      "itunes_duration": "55:14",
+      "speakers": [
+        "Pink Thunder",
+        "Farah Sharp",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "pink",
+        "thunder",
+        "farah",
+        "sharp"
+      ]
+    },
     {
       "key": "a3bc8e27c8ed7645b1fc9f1c0641ec912aa1c9b3",
       "title": "Radio Ga Ga, with Meka Mo",
@@ -11629,6 +11653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Pink Thunder, with Farah Sharp — speakers: Pink Thunder, Farah Sharp, Hannah George, Taylor Glenn
 - 2026-09-30 — Radio Ga Ga, with Meka Mo — speakers: Meka Mo Welcome, Hannah George, Taylor Glenn
 - 2026-09-23 — Nitpicking, With Rosie Blackadder — speakers: Rosie Blackadder, Hannah George, Taylor Glenn
 - 2026-09-16 — DWSC LIVE: With Quivers — speakers: Quivers Hello, Hannah George, Taylor Glenn

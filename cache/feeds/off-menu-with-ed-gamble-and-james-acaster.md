@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-09-30T05:31:06+00:00`
-- checked_at: `2026-09-30T05:31:06+00:00`
-- etag: `"djEuMi4wOjE3OTA3MzcyMzk2NjA="`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"djEuMi4wOjE3OTEzNDIwMzk5NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-09-30T05:31:06+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5e6734b18d0a7cfd1eeb5b20557f1198acafb05a",
+      "title": "Paul F. Tompkins (Tasting Menu)",
+      "published_at": "2026-10-07T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/paul-f-tompkins-tasting-menu",
+      "description": "Fan favourite from way back in Series 3 of Off Menu, US podcasting royalty and ‘Bojack Horseman’ star Paul F. Tompkins returns to the Dream Restaurant for a Tasting Menu. Listen to Paul’s original episode Listen to Paul F. Tompkins’s podcasts ‘ Spontaneanation ’ and ‘ Threedom ’ wherever you get your podcasts. Follow Paul on Instagram and TikTok @pftompkins Don’t forget, video episodes of Off Menu are out every Wednesday on our YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1791192934627-0d236602-4d8b-4a00-bbcf-e821e70caf21.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6abb94c7f560f37dfc1bd473/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74792542",
+      "itunes_duration": "1:17:54",
+      "speakers": [
+        "Bojack Horseman",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "paul",
+        "tompkins",
+        "tasting",
+        "menu"
+      ]
+    },
     {
       "key": "8cdd99eff61b6fdf44493f30b713da2cdf2653d0",
       "title": "Melvin Odoom",
@@ -9011,6 +9035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Paul F. Tompkins (Tasting Menu) — speakers: Bojack Horseman, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-30 — Melvin Odoom — speakers: Melvin Odoom, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-23 — Pierre Novellie — speakers: Pierre Novellie Stand, Pierre Novellie, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-16 — Sanjeev Bhaskar — speakers: Sanjeev Bhaskar, Ed Gamble, James Acaster, Ben Williams

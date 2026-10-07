@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-02T09:44:41+00:00`
-- checked_at: `2026-10-02T09:44:41+00:00`
-- etag: `"djEuMi4wOjE3OTA5MTEyMzkzMzQ="`
+- fetched_at: `2026-10-07T05:57:57+00:00`
+- checked_at: `2026-10-07T05:57:57+00:00`
+- etag: `"djEuMi4wOjE3OTEzNDMyMzkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-02T09:44:41+00:00",
+  "fetched_at": "2026-10-07T05:57:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8c4c11fe175829db8d0716e794401a4b1dec0482",
+      "title": "SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690",
+      "published_at": "2026-10-07T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the always excellent writer and comic SOPHIE DUKER ! A mere couple of years since Sophie's previous visit to the podcast but so much has happened - but this is someone who frankly has a backstage laminate and is always welcome. A really lovely chat and catchup after what was a pretty tough Eurostar journey from Paris, in which she and Pip get into all things present, past and future (some of which were - at the time - huge news - and have since developed in ways they of course would not have known!). There's a lot of really decent Edinburgh Fringe talk too which is something Sophie's very familiar with, but generally this is one of those conversations where a huge amount of ground is covered and time passes way too quickly. So take some time and enjoy, it's a great one. Oh and do peep Sophie's forthcoming book 'DONG' won't ya! PIP'S PATREON PAGE if you're of a supporting nature SOPHIE ONLINE (for all relevant info!) DONG pre-orders INSTAGRAM SOPHIE ON DPP '24 SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1791111678693-d5468104-533f-4d68-9437-def0f3cb6fbb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ac236798da1db2e6f66ce00/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "168130982",
+      "itunes_duration": "1:09:58",
+      "speakers": [],
+      "topics": [
+        "sophie",
+        "book",
+        "dong",
+        "taskmaster",
+        "fringe",
+        "house",
+        "games"
+      ]
+    },
     {
       "key": "cfd1ac073908209a2f7baf86898839d2b70f7fbd",
       "title": "PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind",
@@ -19718,6 +19740,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690
 - 2026-10-02 — PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind — speakers: Peter Capaldi
 - 2026-09-30 — SHABANA AZEEZ • "My job is empathy" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689
 - 2026-09-25 — JAMES BUCKLEY (The Inbetweeners / White Gold / Mother's Pride) • Friday Rewind — speakers: James Buckley
