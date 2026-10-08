@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-08T10:33:21+00:00`
-- checked_at: `2026-10-08T10:33:21+00:00`
-- etag: `"269742-65d23774c69d9"`
-- last_modified: `Tue, 06 Oct 2026 03:19:26 GMT`
+- fetched_at: `2026-10-08T18:50:50+00:00`
+- checked_at: `2026-10-08T18:50:50+00:00`
+- etag: `"26aa74-65d56b12e289f"`
+- last_modified: `Thu, 08 Oct 2026 16:26:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-08T10:33:21+00:00",
+  "fetched_at": "2026-10-08T18:50:50+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,30 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "6babac36973b13cc69d46e11fd50ccd1f5af0ff0",
+      "title": "Nobel laureate Karl Deisseroth on how light is changing what we know about the brain",
+      "published_at": "2026-10-08T15:00:00+00:00",
+      "link": "https://theconversation.com/nobel-laureate-karl-deisseroth-on-how-light-is-changing-what-we-know-about-the-brain-293925",
+      "description": "What is it that makes us conscious? How does the firing of neurons in one part of our brain make us feel aggressive, while others make us hungry or anxious? These are the questions that drove the discoveries behind the 2026 Nobel Prize for Physiology or Medicine. One of the new laureates, Karl Deisseroth, a professor in the schools of medicine and engineering at Stanford University, speaks to us this week about his pioneering research into optogenetics that led him to become a Nobel laureate. This episode of The Conversation Weekly was written and produced by Gemma Ware, Grace Jennings-Edquist and Isabella Podwinski. Mixing by Lloyd Barrett and theme music by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Read more coverage of the 2026 Nobel prizes on The Conversation How pond algae led to a Nobel prize and a new way to study the brain Optogenetics wins the Nobel – one neuroscience breakthrough in a line of technological innovations helping scientists map and control the brain",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/87a45fee-b52e-43ca-a215-b3837f8ae40b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36808436",
+      "itunes_duration": "15:20",
+      "speakers": [
+        "Karl Deisseroth",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "nobel",
+        "laureate",
+        "karl",
+        "deisseroth",
+        "light",
+        "brain"
+      ]
+    },
     {
       "key": "f997525207f2f34d0d4cc1afdd55575534221b56",
       "title": "Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel?",
@@ -6357,6 +6381,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — Nobel laureate Karl Deisseroth on how light is changing what we know about the brain — speakers: Karl Deisseroth, Gemma Ware
 - 2026-10-01 — Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel? — speakers: Benjamin Netanyahu, Gemma Ware
 - 2026-09-24 — Can we ever fully trust AI agents? — speakers: Gemma Ware
 - 2026-09-17 — Australia's 'barking mad' bet on nuclear submarines — speakers: Gemma Ware
