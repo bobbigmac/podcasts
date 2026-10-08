@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-04T23:57:35+00:00`
-- checked_at: `2026-10-04T23:57:35+00:00`
-- last_modified: `Sun, 04 Oct 2026 23:00:00 GMT`
+- fetched_at: `2026-10-08T00:59:46+00:00`
+- checked_at: `2026-10-08T00:59:46+00:00`
+- last_modified: `Wed, 07 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "The Romesh Ranganathan Show",
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
-  "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-04T23:57:35+00:00",
+  "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-10-08T00:59:46+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -27,16 +27,38 @@
   ],
   "episodes": [
     {
+      "key": "f325073472bd341b8a577f0b02626132f68491ad",
+      "title": "Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act",
+      "published_at": "2026-10-07T23:00:00+00:00",
+      "link": null,
+      "description": "What do you say when your 8-year-old walks in on you in 'the act'? Romesh and his mum Shanthi take on your questions and family dilemmas, even though they remain thoroughly unqualified to do so. This week, a listener needs help after their son caught them in the middle of the night, and Romesh and Shanthi try to work out the best response. A role play that quickly goes off the rails... Got a dilemma? Send us a voice note or email, and we might answer it on the show. Nothing is off limits (we really mean it). A Ranga Bee Production. Chapters 00:00 Intro 00:30 Shanthi's Next outfit 03:08 Caught by an 8-year-old 05:11 Questionable role play 14:03 Romesh on gym self-consciousness 19:10 Romesh's golden rule for sticking to fitness 20:13 Shanthi's diet and jacket potato fillings 22:16 Farting etiquette 24:56 Does reincarnation exist? 29:12 The reincarnated child surgeon 31:48 Shanthi's fortune teller and the fake FUBU 36:23 Romesh can't read the menu 43:07 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ce3e5ae4-c1a4-11f1-b692-236d2358b79a/image/94e1b9788d9f552c4100c3788a5d43fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5692768707.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2785",
+      "speakers": [
+        "Gym Etiquette",
+        "Act What",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "reincarnation",
+        "etiquette"
+      ]
+    },
+    {
       "key": "07417986f21163257e8f2b0b069c1af76b587980",
       "title": "Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton",
       "published_at": "2026-10-04T23:00:00+00:00",
       "link": null,
       "description": "What makes Stacey Dooley such a good documentary maker? In this episode of The Romesh Ranganathan Show, Romesh is joined by broadcaster and documentary maker Stacey Dooley to reflect on her journey through documentary-making, how she approaches telling them and the stories and experiences that have stayed with her. They also get into some very important Selling Sunset and Below Deck gossip, before Stacey explains exactly why she hates Southampton. Plus, there's some questionable role play, a game of Misquoted and a brief detour into boxing, Little Mix and Jamie Oliver. A Ranga Bee Production. Chapters 00:00 Intro 05:56 A gift for Stacey 08:21 Why Stacey loves boxing 12:39 Stacey hobbies 14:36 Questionable role play 17:06 What makes Stacey a good documentary maker 25:37 Selling Sunset and Below Deck gossip 28:16 Louis Theroux and the manosphere 29:55 Stacey's new documentaries 38:38 Are there really goodies and baddies? 44:35 A question from Shanthi 45:43 Why Stacey hates Southampton 50:47 Lessons from inspiring women 55:16 Who Stacey would love to interview 1:07:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/339326e0-be94-11f1-9f18-c309e309b68f/image/b558314586a45e36fffbaa93447cbde1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/339326e0-be94-11f1-9f18-c309e309b68f/image/811a34ff8f08775659e44f407995998e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT7576547368.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4186",
+      "itunes_duration": "4246",
       "speakers": [
         "Stacey Dooley",
         "Romesh Ranganathan"
@@ -60,7 +82,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5103823147.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3637",
+      "itunes_duration": "3697",
       "speakers": [
         "Can Shanthi",
         "Romesh Ranganathan"
@@ -2503,6 +2525,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act — speakers: Gym Etiquette, Act What, Romesh Ranganathan
 - 2026-10-04 — Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton — speakers: Stacey Dooley, Romesh Ranganathan
 - 2026-09-30 — The Celebrity Impressions Challenge — speakers: Can Shanthi, Romesh Ranganathan
 - 2026-09-27 — Lenny Henry On Comedy, Dramatic Acting & Returning To Stand-Up — speakers: Lenny Henry, Eddie Murphy, Romesh Ranganathan

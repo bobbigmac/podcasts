@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
+        "episode_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
+        "title": "Paul F. Tompkins (Tasting Menu)",
+        "published_at": "2026-10-07T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Fan favourite from way back in Series 3 of Off Menu, US podcasting royalty and ‘Bojack Horseman’ star Paul F. Tompkins returns to the Dream Restaurant for a Tasting Menu. \nListen to Paul’s original episode\nListen to Paul F. Tompkins’s podcasts ‘Spontaneanation’ and ‘Threedom’ wherever you get your podcasts. \nFollow Pau",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6abb94c7f560f37dfc1bd473/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/paul-f-tompkins-tasting-menu/id1442950743?i=1000793577352&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "6d3f718ede628e668be2f338836265feea52a2b5",
         "episode_key": "6d3f718ede628e668be2f338836265feea52a2b5",
         "title": "Melvin Odoom",
@@ -6262,6 +6285,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
+        "episode_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
+        "title": "Paul F. Tompkins (Tasting Menu)",
+        "published_at": "2026-10-07T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Fan favourite from way back in Series 3 of Off Menu, US podcasting royalty and ‘Bojack Horseman’ star Paul F. Tompkins returns to the Dream Restaurant for a Tasting Menu. \nListen to Paul’s original episode\nListen to Paul F. Tompkins’s podcasts ‘Spontaneanation’ and ‘Threedom’ wherever you get your podcasts. \nFollow Pau",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6abb94c7f560f37dfc1bd473/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/paul-f-tompkins-tasting-menu/id1442950743?i=1000793577352&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

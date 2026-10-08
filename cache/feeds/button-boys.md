@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-10-01T00:33:10+00:00`
-- checked_at: `2026-10-01T00:33:10+00:00`
-- last_modified: `Thu, 01 Oct 2026 00:21:40 GMT`
+- fetched_at: `2026-10-08T00:59:46+00:00`
+- checked_at: `2026-10-08T00:59:46+00:00`
+- last_modified: `Wed, 07 Oct 2026 23:10:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-01T00:33:10+00:00",
+  "fetched_at": "2026-10-08T00:59:46+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,31 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "9a7a81fd03b5cf39f8269c097c7d2942546e2a91",
+      "title": "The Eras Tour: Best Historical or Futuristic Setting",
+      "published_at": "2026-10-07T23:00:00+00:00",
+      "link": null,
+      "description": "This week the Boys try to settle the debate raging across the country: which historical or futuristic period makes the best setting for a game? From early symbolic thought through to space travel across the outer reaches of the universe, gaming covers every era, but which one suits it best? Before all that, we check in on Glenn to see how he's dealing with the social media backlash to his Crimson Desert comments and discuss perhaps the most impressive listener contribution to date: a functioning version of Pierre's Commander Sexy pitch. Links below. Pierre continues his quest to get to the bottom of the sandpit, Glenn asks the big questions about The Sims and Sarah attempts to breed on a scale even Elon Musk would be jealous of. Commander Sexy Dev Log - Sam Kennard https://www.youtube.com/watch?v=oiV23COOrpo https://www.youtube.com/watch?v=XEhOa6tONkg To follow along with the Button Boys outside the podcast: Thanks again to all those who came to Button Boys Live at Leicester Square Theatre. If you missed it, we're doing another live date on October 15th in Balham at the Cheerful Earful festival. Link below! ⁠ ⁠Cheerful Earful Festival Live Show⁠ ⁠ ⁠Pierre⁠ ⁠ ⁠Sarah⁠ ⁠ ⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Crimson Desert Sandustry Heavy Rain A Game About Digging A Hole Factorio Age of Empires II: The Age of Kings The Sims Lemmings Helldivers Mewgenics The Binding of Isaac Overcooked! Into the Breach This War of Mine Wildermyth Cult of the Lamb Minesweeper Silent Hill: Townfall Everybody's Gone to the Rapture Atomfall Uncharted 3: Drake's Deception 007 First Light The Getaway Onimusha 2: Samurai's Destiny Ghost of Tsushima Ghost of Yōtei Shogun: Total War Like a Dragon: Pirate Yakuza in Hawaii Like a Dragon: Infinite Wealth Like a Dragon: Ishin! Grand Theft Auto: Vice City Life is Strange Mixtape Lost Records: Bloom & Rage Lake Grand Theft Auto VI Grand Theft Auto: San Andreas Bloodborne Assassin's Creed Syndicate The Sinking City The Sinking City 2 The Sexy Brutale Dishonored Cossacks The Elder Scrolls V: Skyrim The Witcher The Blood of Dawnwalker Immortality BioShock Alone in the Dark Assassin's Creed Odyssey Kingdom Come: Deliverance Red Dead Redemption Red Dead Redemption 2 Crusader Kings Forge of Empires Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2312902589.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3114",
+      "speakers": [
+        "Best Historical",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "eras",
+        "tour",
+        "historical",
+        "futuristic",
+        "setting"
+      ]
+    },
     {
       "key": "57687a9ec7fed386c84e032d8a16b9f7f619c018",
       "title": "Non-Fatal Flaws: Bad Bits in Good Games",
@@ -1522,6 +1547,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — The Eras Tour: Best Historical or Futuristic Setting — speakers: Best Historical, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-30 — Non-Fatal Flaws: Bad Bits in Good Games — speakers: Fatal Flaws, Bad Bits, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-23 — The Worst Game Pitch-Off — speakers: Off If, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-16 — August Annals: What We've Been Playing — speakers: August Annals, Been Playing, Glenn Moore, Sarah Keyworth, Pierre Novellie

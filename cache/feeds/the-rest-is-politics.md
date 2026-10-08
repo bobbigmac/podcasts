@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- last_modified: `Tue, 06 Oct 2026 23:00:10 GMT`
+- fetched_at: `2026-10-08T00:59:46+00:00`
+- checked_at: `2026-10-08T00:59:46+00:00`
+- last_modified: `Wed, 07 Oct 2026 23:53:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-08T00:59:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "8a026f3a4c0b41e52ddddc257ef80693cdf5e8dc",
+      "title": "578. Alastair and Michael Gove Disagree Agreeably on Brexit and Israel",
+      "published_at": "2026-10-07T23:00:00+00:00",
+      "link": null,
+      "description": "Will there be another EU referendum, despite Andy Burnham promising not to re-run old Brexit arguments? Will Michael Gove ever criticise Israel's actions in Palestine, and if not, why not? What do the charges against Manchester City tell us about Manchester’s growth since 2008 – and why do questions around a football club present the first serious challenge to Burnham’s premiership? Join Alastair and former Conservative cabinet minister and arch Brexiteer Michael Gove as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Shabana Mahmood by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. Move faster with daily global market analysis, the download on tokenisation and how to manage your company's energy transition all from Lloyds Corporate & Institutional Banking. Search Lloyds Corporate. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Adam Thornton, Louis Mealing Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/90f743d2-c251-11f1-bc86-5f9cb82dfd55/image/16b87101d7cf9c7de732b126fd5f1954.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5462538487.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3417",
+      "speakers": [
+        "Andy Burnham"
+      ],
+      "topics": [
+        "alastair",
+        "michael",
+        "gove",
+        "disagree",
+        "brexit",
+        "israel"
+      ]
+    },
     {
       "key": "2e9dae112ee49a9b3478912e58b838d0438964be",
       "title": "577. Is Badenoch Finally Stopping Farage and Why Are French Schools on Fire?",
@@ -13132,6 +13155,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-07 — 578. Alastair and Michael Gove Disagree Agreeably on Brexit and Israel — speakers: Andy Burnham
 - 2026-10-06 — 577. Is Badenoch Finally Stopping Farage and Why Are French Schools on Fire?
 - 2026-09-30 — 576. How Xi is Outplaying Trump and Tensions in Northern Ireland
 - 2026-09-29 — 575. Alastair Reacts to Burnham’s Speech and Rory’s Viral Stare — speakers: Alastair Reacts
