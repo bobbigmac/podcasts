@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-10-01T10:07:02+00:00`
-- checked_at: `2026-10-01T10:07:02+00:00`
-- last_modified: `Thu, 01 Oct 2026 09:00:00 GMT`
+- fetched_at: `2026-10-08T10:33:21+00:00`
+- checked_at: `2026-10-08T10:33:21+00:00`
+- last_modified: `Thu, 08 Oct 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-01T10:07:02+00:00",
+  "fetched_at": "2026-10-08T10:33:21+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,11 +28,65 @@
   ],
   "episodes": [
     {
+      "key": "8020c8f4db4bb435cb7c87df783d34833cd4b779",
+      "title": "Feel the AGI: Kevin Roose on the Strange, Intoxicating Race to Superintelligence",
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "link": null,
+      "description": "What’s really fueling the race to build superintelligence? Science? Idealism? Money? Try spite. “These guys hate each other,” says Kevin Roose. “It’s grudges all the way down.” Those rivalries, it turns out, have pushed AI forward faster than any of them thinks is wise. He would know. Until recently, Kevin was a tech columnist at the New York Times and co-host of the massively popular Hard Fork podcast. (If you miss his dulcet tones, he and Casey Newton will be back with a new show, Machine Gods, later this month.) He has also spent the last few years interviewing more than 150 of the people racing to build artificial general intelligence. The result is his gripping new book, The AGI Chronicles , just out this week. It’s corporate thriller material: secret Slack channels, philosophical feuds, mystical beliefs, billion-dollar bets. But the stakes are extremely high. Can a small group of people with outsized influence over humanity’s future get along? Can they work together to make sure we build AI safely? And now that the rest of us are paying attention, what should we do about it? 🎧 Check out our conversations about AI with Bill Gates , Reid Hoffman , Sebastian Mallaby , Stuart Russell , and a younger Kevin Roose . 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — Go to sequencing.com and use promo code IDEA for 10% off",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5831369607.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4690",
+      "speakers": [
+        "Kevin Roose",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "kevin",
+        "roose",
+        "strange",
+        "intoxicating",
+        "race"
+      ]
+    },
+    {
+      "key": "d9ed8a086ab3b18a4d47605f74df5cd65a74f3aa",
+      "title": "Daniel Pink and Angela Duckworth on Friction-Maxxing, Becoming a Mentor Magnet and the Problem with Solo Striving",
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "link": null,
+      "description": "Our curator Daniel Pink recently sat down with Angela Duckworth to chat about her new book, Situated: Find the People and Places That Bring Out Your Best . Although we just had Angela on the show, we couldn’t resist sharing this conversation too. It’s live. It’s loose. And it covers a lot of ground we didn’t get to last time — like what Michael Phelps's childhood ZIP code had to do with his 28 Olympic medals (8:15), why Angela's house is full of avocados and physical therapy equipment (26:55), how a late-night cold call changed millions of lives (32:27), and how Daniel has made it in his career without a single mentor (41:52). 📚 This conversation was recorded live at an event hosted by Politics and Prose , Washington, D.C.'s premier independent bookstore. 🎁 Join the Next Big Idea Club today, and we’ll send you a copy of Situated along with our two latest selections: Vibe by Adam Grant and What Could Possibly Go Right by Danny Meyer. Learn more at nextbigideaclub.com and use code PODCAST to get 20% off your membership. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com . 🔗 Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — Go to sequencing.com and use promo code IDEA for 10% off",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8756509719.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3331",
+      "speakers": [
+        "Daniel Pink",
+        "Angela Duckworth",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "daniel",
+        "pink",
+        "angela",
+        "duckworth",
+        "friction",
+        "maxxing",
+        "mentor",
+        "magnet",
+        "problem",
+        "solo"
+      ]
+    },
+    {
       "key": "70fc83d6b8b3e39883f6cb1c17a68e431e6f21f8",
       "title": "The One Word That Explains Progress",
       "published_at": "2026-10-01T09:00:00+00:00",
       "link": null,
-      "description": "Martin Seligman founded the positive psychology movement. Now, at 84, he’s shaking up the field all over again. He’s got a new book out. It’s called Agency . And in it, he says, he’s trying to “found a new field.” It’s called psychohistory. “I'm after the rigorous possibility that we can use the tools of psychology to go back in history to ask the questions What produces innovation? What produces progress? And what produces stagnation?” 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com . Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — They're offering our listeners up to 10% off your full Genome test, plus free shipping. Go to sequencing.com and use promo code IDEA for 10% off.",
+      "description": "Martin Seligman founded the positive psychology movement. Now, at 84, he’s shaking up the field all over again. He’s got a new book out. It’s called Agency . And in it, he says, he’s trying to “found a new field.” It’s called psychohistory. “I'm after the rigorous possibility that we can use the tools of psychology to go back in history to ask the questions: What produces innovation? What produces progress? And what produces stagnation?” 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com . Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — They're offering our listeners up to 10% off your full Genome test, plus free shipping. Go to sequencing.com and use promo code IDEA for 10% off.",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP2040273353.mp3",
       "enclosure_type": "audio/mpeg",
@@ -94,10 +148,10 @@
     },
     {
       "key": "905cd00ba6a51cf820de810a9c747fd7eca4f798",
-      "title": "You Don't Have Free Will. That's Good News. (NBI Vault)",
+      "title": "You Don't Have Free Will. That's Good News.",
       "published_at": "2026-09-21T09:00:00+00:00",
       "link": null,
-      "description": "Do we have free will? Do we have a choice in what we do? Philosophers and theologians have debated these questions for centuries; Robert Sapolsky answered them when he was 14. Free will, he concluded, simply does not exist. Robert is now in his sixties. He has degrees from Harvard and Rockefeller University; he won a MacArthur “genius” award; and he’s a professor at Stanford, where he holds joint appointments in biology, neurology, and neurosurgery. But despite how much time has passed and how long his CV has grown, he never lost his youthful fascination with free will — or our lack thereof — so he decided to write a book about it. It’s called Determined , and in addition to assembling a formidable case against free will, Robert makes the intriguing argument that if we can abandon our illusion of volition, we can build a more humane world. This episode first aired in January 2024. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "description": "Do we have free will? Do we have a choice in what we do? Philosophers and theologians have debated these questions for centuries; Robert Sapolsky answered them when he was 14. Free will, he concluded, simply does not exist. Robert is now in his sixties. He has degrees from Harvard and Rockefeller University; he won a MacArthur “genius” award; and he’s a professor at Stanford, where he holds joint appointments in biology, neurology, and neurosurgery. But despite how much time has passed and how long his CV has grown, he never lost his youthful fascination with free will — or our lack thereof — so he decided to write a book about it. It’s called Determined , and in addition to assembling a formidable case against free will, Robert makes the intriguing argument that if we can abandon our illusion of volition, we can build a more humane world. (This episode first aired in January 2024.) 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP4877698664.mp3",
       "enclosure_type": "audio/mpeg",
@@ -111,8 +165,7 @@
       "topics": [
         "free",
         "good",
-        "news",
-        "vault"
+        "news"
       ]
     },
     {
@@ -155,7 +208,7 @@
     },
     {
       "key": "3fe9d83f4d6d840d58d4a421facdce1c5bafb7e4",
-      "title": "A Storytelling Masterclass with Will Storr (NBI Vault)",
+      "title": "A Storytelling Masterclass with Will Storr",
       "published_at": "2026-09-10T09:00:00+00:00",
       "link": null,
       "description": "Will Storr is the author of the dazzling books The Science of Storytelling and A Story Is a Deal , and in this episode, he tells us everything he knows about humanity’s greatest invention: story. More than just entertainment, Will argues, story is what we do and who we are. It’s how we make sense of the world, captivate, and persuade. And yet for all its power, storytelling isn’t some elusive magic trick — it’s a skill. One you can learn. Will’s here to show you how. (This episode originally aired in February 2025.) 🎧 Listen to Will’s other appearance on the podcast here 🎥 The Next Big Idea is on YouTube! You can find our episodes here 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. 🔗 Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
@@ -172,8 +225,7 @@
       "topics": [
         "storytelling",
         "masterclass",
-        "storr",
-        "vault"
+        "storr"
       ]
     },
     {
@@ -8585,13 +8637,15 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — Feel the AGI: Kevin Roose on the Strange, Intoxicating Race to Superintelligence — speakers: Kevin Roose, Rufus Griscom, Caleb Bissinger
+- 2026-10-05 — Daniel Pink and Angela Duckworth on Friction-Maxxing, Becoming a Mentor Magnet and the Problem with Solo Striving — speakers: Daniel Pink, Angela Duckworth, Rufus Griscom, Caleb Bissinger
 - 2026-10-01 — The One Word That Explains Progress — speakers: Martin Seligman, Rufus Griscom, Caleb Bissinger
 - 2026-09-28 — Angela Duckworth Now Thinks "Grit" Wasn't the Whole Story — speakers: Angela Duckworth Now, Angela Duckworth, Rufus Griscom, Caleb Bissinger
 - 2026-09-24 — AI Has Gone Rogue. Here’s What We Should Do About It. — speakers: Stephen Witt, Rufus Griscom, Caleb Bissinger
-- 2026-09-21 — You Don't Have Free Will. That's Good News. (NBI Vault) — speakers: Good News, Rufus Griscom, Caleb Bissinger
+- 2026-09-21 — You Don't Have Free Will. That's Good News. — speakers: Good News, Rufus Griscom, Caleb Bissinger
 - 2026-09-17 — The Art of Fighting — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-09-14 — Is America a ‘Country of Lords’? — speakers: Rufus Griscom, Caleb Bissinger
-- 2026-09-10 — A Storytelling Masterclass with Will Storr (NBI Vault) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2026-09-10 — A Storytelling Masterclass with Will Storr — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
 - 2026-09-07 — What Can Henry David Thoreau Teach Us About Work? — speakers: Henry David Thoreau, Rufus Griscom, Caleb Bissinger
 - 2026-09-03 — How French Philosophy Wired Modern Thinking — speakers: How French Philosophy Wired, Modern Thinking How, Rufus Griscom, Caleb Bissinger
 - 2026-08-31 — A Nobel Prize Winner’s Plan to Save Democracy — speakers: Nobel Prize Winner, Save Democracy Democracy, Rufus Griscom, Caleb Bissinger

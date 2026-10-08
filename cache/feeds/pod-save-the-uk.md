@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-10-01T10:07:02+00:00`
-- checked_at: `2026-10-01T10:07:02+00:00`
-- etag: `W/"70c3a8afd685b998a86f7ed3631cec8e"`
-- last_modified: `Thu, 01 Oct 2026 01:03:00 GMT`
+- fetched_at: `2026-10-08T10:33:21+00:00`
+- checked_at: `2026-10-08T10:33:21+00:00`
+- etag: `W/"ed564919a8b1819f06fa7ff9cba770e3"`
+- last_modified: `Thu, 08 Oct 2026 06:15:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-10-01T10:07:02+00:00",
+  "fetched_at": "2026-10-08T10:33:21+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,36 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e0d5e1745f3f73562f5f897fc3754ac0b9c4125a",
+      "title": "It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP",
+      "published_at": "2026-10-08T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8961826",
+      "description": "This week, Nish & Coco are joined by Megan Kenyon, Political Correspondent at the New Statesman, to unpack some of the noisy headlines coming out of the Green Party conference over the weekend. They discuss what the passing of the ‘Zionism is Racism’ means for the party, and how the Greens are positioning themselves in relation to Labour: as a wholesale replacement, or as a way to hold Burnham to account? They also look ahead to the Holborn & St Pancras by-election (which is happening today as you listen!), and ask: who is the Conservative Party actually for in 2026? Dinkwads, Dumpys, or something in-between? Also, newly elected SNP MP Lara Bird joins us! She shares her experience navigating Westminster, reflects on how her work for Britain Palestine Project has shaped her politics, and explains why achieving the SNP’s core mission would put her out of a job… **Coco was a little under the weather in this week’s episode, so you may hear some coughs. We tried to remove as many as we could, but there was so much interesting conversation we didn’t want to lose! ** USEFUL LINKS Catch up with Megan’s reporting on the Green Party Conference and the ‘Zionism is Racism’ motion: https://www.newstatesman.com/politics/2026/10/greens-vote-to-declare-zionism-as-racism Watch the I Think You Should Leave Hot Dog sketch Nish references: https://www.youtube.com/watch?v=WLfAf8oHrMo Join the National March for Palestine on the 10th October: https://palestinecampaign.org/events/national-march-for-palestine-save-the-date/ Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! CHECK OUT THESE DEALS FROM OUR SPONSORS HEXCLAD: https://www.hexclad.co.uk/PSTUK BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43873453/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8961826.mp3?modified=1791403119&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5266",
+      "speakers": [
+        "Iron Domes",
+        "Lara Bird",
+        "Megan Kenyon",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "conference",
+        "season",
+        "ideology",
+        "iron",
+        "dome",
+        "independence",
+        "burnham",
+        "lara",
+        "bird"
+      ]
+    },
     {
       "key": "d3664c3ac285cdc62b842647eca8391218a70e33",
       "title": "Burnham’s barnstormer - ‘Hope Again’ for Labour? Plus, ‘the most dangerous story ever told’: Naomi Klein and Astra Taylor on ‘End Times Fascism’",
@@ -4279,6 +4309,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP — speakers: Iron Domes, Lara Bird, Megan Kenyon, Nish Kumar, Coco Khan
 - 2026-10-01 — Burnham’s barnstormer - ‘Hope Again’ for Labour? Plus, ‘the most dangerous story ever told’: Naomi Klein and Astra Taylor on ‘End Times Fascism’ — speakers: Naomi Klein, Astra Taylor, Andy Burnham, Nish Kumar, Coco Khan
 - 2026-09-24 — “The world is a casino”: polling, politics & Palantir w/ Galen Druke — speakers: Galen Druke, Tom Watson, Nish Kumar, Coco Khan
 - 2026-09-17 — Good Men, Bad Algorithms w/ Jordan Stephens. Plus, The Future of the Union: Is Westminster’s Time Coming to an End? — speakers: Good Men, Jordan Stephens, Will Hayward, Nish Kumar, Coco Khan

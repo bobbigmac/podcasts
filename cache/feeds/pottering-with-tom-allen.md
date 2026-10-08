@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-10-01T10:07:02+00:00`
-- checked_at: `2026-10-01T10:07:02+00:00`
+- fetched_at: `2026-10-08T10:33:21+00:00`
+- checked_at: `2026-10-08T10:33:21+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 01 Oct 2026 04:07:59 GMT`
+- last_modified: `Thu, 08 Oct 2026 04:10:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-01T10:07:02+00:00",
+  "fetched_at": "2026-10-08T10:33:21+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c919ce0527951a193512470056e4322f5aa7607c",
+      "title": "Emma Willis",
+      "published_at": "2026-10-08T04:00:00+00:00",
+      "link": null,
+      "description": "Fresh from the Strictly ballroom and as fabulous as ever, it was an absolute treat to welcome my dear friend and Cooking With The Stars co-host, Emma Willis into the garden! 🌻 From NHS maternity wards to the Big Brother house, Emma really has done it all, so there was plenty to chat about. We covered the thrills of live television, the importance of a good bin and the undeniable power of a decent pair of Crocs, with a little sprinkling of glitterball gossip along the way, of course! 🪩✨ Now, pop the Parmigiana in the oven, pause your Paso Doble practice, and come Pottering with me. 🍆🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please like and subscribe! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6e66b20a-c24a-11f1-aec5-ebafed634a02/image/dcfbd768e1f10f2eb3a48815ea3f6032.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1031420095.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4700",
+      "speakers": [
+        "Emma Willis Fresh",
+        "Tom Allen"
+      ],
+      "topics": [
+        "emma",
+        "willis"
+      ]
+    },
     {
       "key": "d51513a38632fdbc9acfd55afbd921440cc3199a",
       "title": "The Reverend Richard Coles",
@@ -1144,6 +1164,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — Emma Willis — speakers: Emma Willis Fresh, Tom Allen
 - 2026-10-01 — The Reverend Richard Coles — speakers: Richard Coles, Tom Allen
 - 2026-09-24 — Ranvir Singh — speakers: Ranvir Singh, Tom Allen
 - 2026-09-17 — Mel Giedroyc and Sue Perkins — speakers: Mel Giedroyc, Sue Perkins, Tom Allen
