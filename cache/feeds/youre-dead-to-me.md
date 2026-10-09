@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-10-02T09:44:41+00:00`
-- checked_at: `2026-10-02T09:44:41+00:00`
-- etag: `"f91760730e9af962fe82ef5f268ede05"`
-- last_modified: `Fri, 02 Oct 2026 07:15:04 GMT`
+- fetched_at: `2026-10-09T10:31:47+00:00`
+- checked_at: `2026-10-09T10:31:47+00:00`
+- etag: `"6848ff7c2be671929a338ef4e57d5d55"`
+- last_modified: `Fri, 09 Oct 2026 07:15:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-10-02T09:44:41+00:00",
+  "fetched_at": "2026-10-09T10:31:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,32 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "37c7635c7e10063591247c771ada49340af166a7",
+      "title": "Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period",
+      "published_at": "2026-10-09T07:15:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0031gy4",
+      "description": "Greg Jenner is joined by Dr Martha McGill and comedian Marjolein Robertson in early modern Scotland to learn all about beliefs in witches, fairies, ghosts and more. Jacobean Scotland is famous for witch trials, partly inspired by King James’ obsession with witches – he even published a book on the subject, ‘Daemonologie’. But beliefs in other supernatural beings existed in early modern Scotland too. Protestant ministers discouraged and then encouraged the telling of ghost stories to reinforce the faith of their congregations. One minister theorised that fairies were halfway between men and angels. People worried that the devil might enter through their pores or eyes. And at his trial, a man told a story about his voyage to fairyland and relationship with the Faerie Queen herself. This episode explores these myriad beliefs, asking what cultural and social purpose they served, and how they came to be recorded in the nineteenth century by writers like Sir Walter Scott. If you’re a fan of gothic ghost stories, histories of magic and superstition, and scary fairies, you’ll love our episode on Scottish supernatural beliefs. If you want more from Marjolein Robertson, listen to our episodes on Robert Bruce and the Epic of Gilgamesh. And for more Scottish history, check out our episodes on the Jacobites, and King James I and VI. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Siobhan-Michelle Smith Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Studio and Edit Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8rw2w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7c79t.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55696000",
+      "itunes_duration": "3481",
+      "speakers": [
+        "Greg Jenner",
+        "Martha McGill",
+        "Marjolein Robertson"
+      ],
+      "topics": [
+        "scottish",
+        "supernatural",
+        "beliefs",
+        "witch",
+        "ghost",
+        "fairy",
+        "period"
+      ]
+    },
     {
       "key": "71d3244d018868b8deae3337bc3494f81daf667a",
       "title": "Special Episode: 1066 and the Battle of Hastings",
@@ -6274,6 +6300,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period — speakers: Greg Jenner, Martha McGill, Marjolein Robertson
 - 2026-10-02 — Special Episode: 1066 and the Battle of Hastings — speakers: Erin Goeres, Alison Spittle
 - 2026-09-25 — Medieval Korea: from the Goryeo to Joseon periods — speakers: Medieval Korea, Greg Jenner, John Lee, Erika Ehler
 - 2026-09-18 — Henry Cyril Paget: the dancing marquess of Anglesey — speakers: Henry Cyril, Anglesey Greg Jenner, Viv Gardner

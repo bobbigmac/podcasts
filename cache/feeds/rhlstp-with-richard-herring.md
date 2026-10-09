@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTEzNDE4NTkzOTU="`
+- fetched_at: `2026-10-09T10:31:47+00:00`
+- checked_at: `2026-10-09T10:31:47+00:00`
+- etag: `"djEuMi4wOjE3OTE1MTQ2NTkzNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-09T10:31:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a7bb364a009b77c69b9795142ba1b46fde983136",
+      "title": "Reece Shearsmith on Things I Took From The Dark - Book Club",
+      "published_at": "2026-10-09T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #196 - Things I Took From The Dark - Richard returns to the Podcast Room (he’s actually been sitting in here for four straight hours) to talk to top RHLSTP guest Reece Shearsmith about his new memoir crossed with an adult Usborne book of Ghosts , Things I Took From the Dark. They chat about Reece’s spooky childhood, failing to catch bats in a net and having his magic tricks spoiled by his Uncle Geoff, how schools in the 70s had a definite echo of the Victorian about them, an horrific car crash (thankfully with no fatalities) and the part played by a tiny plastic skull, the 2016 appearance of clowns across Europe, the furious running knot man, why the devil does what he does and why there won’t be a filmed version of the Inside Number 9 stage show. Buy the book here - https://uk.bookshop.org/p/books/things-i-took-from-the-dark-the-museum-of-me-reece-shearsmith/bafefac6d1a611a2 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1790172810313-81231823-c410-459a-9da1-d0db58fcd4dc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ab3de39864264ef3e3f95d3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22517342",
+      "itunes_duration": "46:54",
+      "speakers": [
+        "Reece Shearsmith",
+        "Book Club",
+        "Richard Herring"
+      ],
+      "topics": [
+        "reece",
+        "shearsmith",
+        "thing",
+        "dark",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "618e10f8d1366e95919e4810e85e5438723087b9",
       "title": "Susie McCabe - \"Spot the Ball\"",
@@ -24145,6 +24170,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Reece Shearsmith on Things I Took From The Dark - Book Club — speakers: Reece Shearsmith, Book Club, Richard Herring
 - 2026-10-07 — Susie McCabe - "Spot the Ball" — speakers: Susie McCabe, Richard Herring
 - 2026-10-05 — Jeremy Dyson and Andy Nyman (Retro) - "Ragmags" — speakers: Jeremy Dyson, Andy Nyman, Richard Herring
 - 2026-10-02 — Rich and Ally's Craven Newsround Compilation - Richard E Grant the Traitor — speakers: Craven Newsround Compilation, No Speculation, Richard Herring

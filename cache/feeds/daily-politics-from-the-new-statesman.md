@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-08T18:50:50+00:00`
-- checked_at: `2026-10-08T18:50:50+00:00`
-- etag: `"djEuMi4wOjE3OTE0NzQyOTg5ODg="`
+- fetched_at: `2026-10-09T10:31:47+00:00`
+- checked_at: `2026-10-09T10:31:47+00:00`
+- etag: `"djEuMi4wOjE3OTE1MjAwNDM0ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-08T18:50:50+00:00",
+  "fetched_at": "2026-10-09T10:31:47+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "645b8a14e91b41b3188e7c42f42a4cd5a0124665",
+      "title": "Labour holds Starmer’s seat",
+      "published_at": "2026-10-09T04:27:23+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/labour-holds-starmers-seat",
+      "description": "Labour has held the Holborn and St Pancras by-election, with Sagal Abdi-Wali retaining the seat for the party despite a hard-fought contest from Green Party leader Zack Polanski. The result preserves Labour’s long-standing grip on the constituency, and disrupts Polanski’s momentum. Anoosh Chakelian is joined by Megan Kenyon and Ben Walker to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1791519649353-b49c746c-39a8-44be-bc97-84ccf9cf69cb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ac86b12cb1175664593810b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34071908",
+      "itunes_duration": "17:42",
+      "speakers": [
+        "St Pancras",
+        "Sagal Abdi-Wali",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "labour",
+        "starmer",
+        "seat"
+      ]
+    },
     {
       "key": "4c4346229ae6a34b470b9d551ffd2bae8f854f5f",
       "title": "The Green Party’s Zionism reckoning",
@@ -32547,6 +32570,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Labour holds Starmer’s seat — speakers: St Pancras, Sagal Abdi-Wali, Anoosh Chakelian, Oli Dugmore
 - 2026-10-05 — The Green Party’s Zionism reckoning — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-10-01 — Is Burnham brave or naive? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-29 — Burnham delivers packed conference speech — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

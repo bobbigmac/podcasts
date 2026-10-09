@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-09T01:13:32+00:00`
-- checked_at: `2026-10-09T01:13:32+00:00`
-- etag: `"djEuMi4wOjE3OTEzOTM0MTY3MTc="`
+- fetched_at: `2026-10-09T10:31:47+00:00`
+- checked_at: `2026-10-09T10:31:47+00:00`
+- etag: `"djEuMi4wOjE3OTE1MTYwMzkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-09T01:13:32+00:00",
+  "fetched_at": "2026-10-09T10:31:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9baf65554449f0a0294eb1b35a9dea9a8a40d319",
+      "title": "KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind",
+      "published_at": "2026-10-09T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with KAE TEMPEST , originally episode 17 from 2015-02-04. This is an episode from a very, very long time ago, but an incredibly fascinating one which offers an insight into a past life of someone who is very near and dear to the Distraction Pieces Podcast! As you will hear, it's an episode with references to a different name which was in use at the time - an occasional feature of the Rewind podcasts, what with this one in particular being almost 12 years old at time of publishing, so it might happen from time to time. But just know, Kae is the homie and always will be, and you are always strongly urged to peep his music at any given opportunity. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1791392331921-f7ea40c0-bdfe-41b3-89ea-bd1fd0e933b0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ac67e88d3bfab176ea9b904/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "223071880",
+      "itunes_duration": "1:32:51",
+      "speakers": [],
+      "topics": [
+        "tempest",
+        "self",
+        "titled",
+        "life",
+        "line",
+        "curve",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "8c4c11fe175829db8d0716e794401a4b1dec0482",
       "title": "SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690",
@@ -19740,6 +19763,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind
 - 2026-10-07 — SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690
 - 2026-10-02 — PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind — speakers: Peter Capaldi
 - 2026-09-30 — SHABANA AZEEZ • "My job is empathy" (The Pitt / The Airport Chaplain / Lesbian Space Princess) #689

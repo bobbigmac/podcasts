@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-06T06:19:05+00:00`
-- checked_at: `2026-10-06T06:19:05+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RFeU5qSTNOemt6TkRjPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-09T10:31:47+00:00`
+- checked_at: `2026-10-09T10:31:47+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RFMU16STFNak13TXpJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-06T06:19:05+00:00",
+  "fetched_at": "2026-10-09T10:31:47+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c9e4512b3d686cd2c0778a9a3ceff2f4682f6f14",
+      "title": "Jordan Gets A Filling | And Our Most Hated Cutlery",
+      "published_at": "2026-10-09T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordan-gets-a-filling-and-our-most-hated-cutlery",
+      "description": "After Jordan North’s recent discovery of the Affogato, things take a turn for the extraordinary as he gets his hands on the infamous McAffogato. And if that wasn’t riveting enough, Jordan and William get into the surprisingly heated topic of their MOST HATED cutlery. Plus, there’s a shocking revelation that William Hanson does not own a TIN OPENER. Has he finally taken being posh too far? Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1791475116038-2cd68200-f003-479f-ac18-50c178d5b5ab.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ac7b6a72c54444978a070a9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=FQ3h_30m7o6Vt1NMkso5bXHbmZp9mSpNFxABZAI9JVo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24718106",
+      "itunes_duration": "25:44",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "jordan",
+        "filling",
+        "hated",
+        "cutlery"
+      ]
+    },
     {
       "key": "6ab30f83d041aadf89df09bbdf08cc53d9cdbdbd",
       "title": "Help I Hate His Name | And Mr Pantry Moth",
@@ -15198,6 +15220,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Jordan Gets A Filling | And Our Most Hated Cutlery — speakers: Jordan North, William Hanson
 - 2026-10-06 — Help I Hate His Name | And Mr Pantry Moth — speakers: William Hanson, Jordan North
 - 2026-10-02 — French Rug Penises | And Jordan Works On His Mini — speakers: Jordan Works, William Hanson, Jordan North
 - 2026-09-29 — Help A Bit Of Semen Entered My Eye | And The Next Big Dessert — speakers: William Hanson, Jordan North
