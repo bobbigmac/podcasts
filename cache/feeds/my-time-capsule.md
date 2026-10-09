@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-04T23:57:35+00:00`
-- checked_at: `2026-10-04T23:57:35+00:00`
-- etag: `"djEuMi4wOjE3OTExNTQ5NjEyMjM="`
+- fetched_at: `2026-10-09T01:13:32+00:00`
+- checked_at: `2026-10-09T01:13:32+00:00`
+- etag: `"djEuMi4wOjE3OTE1MDA1NTkzOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-04T23:57:35+00:00",
+  "fetched_at": "2026-10-09T01:13:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6a4c6b59dee050fa480493a6ec5290e2f8babc83",
+      "title": "My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You)",
+      "published_at": "2026-10-08T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-21-with-ahir-shah-edinburgh-comed",
+      "description": "Ahir Shah was our guest in episode 23 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Ahir Shah won the prestigious Edinburgh Comedy Award for his 2023 show Ends , which was subsequently released as a Netflix special. He has appeared on Live at the Apollo , QI , Have I Got News For You , Mock the Week and The Mash Report. Also, Mike and his producer and son John chat about this weeks episode with LUSH CEO Mark Constantine and answer listener's emails and voice notes . Tickets for Ahir Shah Golden - https://www.ahirshah.com . Listen to Ahir Shah's original episode - https://mytimecapsulepodcast.com/episodes?q=23 . Follow Ahir Shah on Instagram : @ahirshah . Donte to John's running challenge here! - https://prostateunited.prostatecanceruk.org/fundraising/john-fs-5km-a-day . Donate to Mike's walking challenge here! - https://step.diabetes.org.uk/fundraising/mikes-fundraising-page403 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1791382307018-938a881e-ad78-4ce1-8a41-1e79f876ece2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ac654227ce338e8cd8bea01/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56397761",
+      "itunes_duration": "46:59",
+      "speakers": [
+        "Ahir Shah",
+        "Edinburgh Comedy Award Winner"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "ahir",
+        "shah",
+        "edinburgh",
+        "comedy",
+        "award",
+        "winner",
+        "apollo",
+        "news"
+      ]
+    },
     {
       "key": "cb0955199fb2bf2b0e15dae6f8603d66cbc6a138",
       "title": "Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH",
@@ -13627,6 +13655,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You) — speakers: Ahir Shah, Edinburgh Comedy Award Winner
 - 2026-10-04 — Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH — speakers: Mark Constantine Obe
 - 2026-10-01 — My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes) — speakers: Bob Cryer, Barry Cryer
 - 2026-09-27 — Ep. 607 - Ted Hill - Award-winning comedian, Britain's Got Talent 2026 Golden Buzzer and Finalist — speakers: Ted Hill

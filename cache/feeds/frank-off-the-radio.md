@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- last_modified: `Wed, 07 Oct 2026 00:08:17 GMT`
+- fetched_at: `2026-10-09T01:13:32+00:00`
+- checked_at: `2026-10-09T01:13:32+00:00`
+- last_modified: `Fri, 09 Oct 2026 00:19:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-09T01:13:32+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "38deacdd259c12620397fb89a205b98239117897",
+      "title": "To-Do Lists",
+      "published_at": "2026-10-09T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em are in the studio with Katie Norris. Frank’s been reading The New Yorker and is suddenly intrigued by to-do lists. Em’s got thoughts on Boomer Phones, and Katie might get you making a vision board. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9463539042.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2452",
+      "speakers": [
+        "Katie Norris",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "list"
+      ]
+    },
     {
       "key": "d3db4cf09f0ec915e46968536ceaf89da220f709",
       "title": "Frank Skinner's Radio Days: The Halitosians",
@@ -24932,6 +24951,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — To-Do Lists — speakers: Katie Norris, Frank Skinner
 - 2026-10-07 — Frank Skinner's Radio Days: The Halitosians — speakers: Frank Skinner
 - 2026-10-05 — Never Had a Dream — speakers: Brennan Reece, Frank ta, Frank Skinner
 - 2026-10-02 — Frank Gets Arty — speakers: Frank Gets Arty Frank, Brennan Reece, Frank Skinner

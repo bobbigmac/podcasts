@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTEzMjc5MzkzNjA="`
+- fetched_at: `2026-10-09T01:13:32+00:00`
+- checked_at: `2026-10-09T01:13:32+00:00`
+- etag: `"djEuMi4wOjE3OTE1MDM5MTkzNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-09T01:13:32+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,25 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "8bb7877afcd2172c467abb41c1ecc4b9123b07b2",
+      "title": "Rory",
+      "published_at": "2026-10-08T23:58:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/rory",
+      "description": "This week’s Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero sees Mike choosing the Documentary of the Week . And it’s a story that took more than two decades to reach its conclusion. Documentary of the Week Mike: Rory McIlroy — The Masters Wait Rory McIlroy: The Masters Wait traces McIlroy’s relationship with Augusta National from watching Tiger Woods win there in 1997 to arriving as a 21-year-old capable of winning the tournament himself. What follows is a story of talent, expectation, heartbreak and missed opportunities as the Masters becomes the one prize McIlroy needs to complete golf’s career Grand Slam. The documentary explores the mental burden of repeatedly returning to Augusta, the weight of global expectation and the ticking clock as McIlroy arrives for his 17th attempt to win the Green Jacket . https://www.amazon.co.uk/gp/video/detail/B0GPXXCNN2 Book of the Week Steff: It’s Only Drowning by David Litt Steff’s choice takes us from the golf course into the water with David Litt’s It’s Only Drowning — a funny, thoughtful memoir about learning to surf and the peculiar combination of fear, failure and obsession that comes with trying to get better at something that regularly dumps you into the sea. https://link.amazon/B0ail8xno For more of Steff’s book recommendations and reviews, follow @distantbookshelf on Instagram . Owain’s Challenge Steff’s mate Owain from The Running Channel is taking on Ephraim’s North to South Wales Challenge. If you’d like to support him and donate: https://givestar.io/gs/ephraims-north-to-south-wales-challenge?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAUwxp9wZG9mAmZkaWQWUO464ncYiar-yUbqQJHbEkGRzIhKsmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp2wZb_2BYw_cnAko3qNDsPSb0Kvz9zL8TAmio-e0r7ROcd_X1eSCY2D_YQFh_aem_3rXA_KnYlcle250i9Kk5dg Golf, surfing and running the length of Wales. An unusually sporty second half by our standards. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ac3ea78aef0446505693385/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36268826",
+      "itunes_duration": "37:46",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero",
+        "Mike ch"
+      ],
+      "topics": []
+    },
     {
       "key": "3be860e0d51e0807c67bc83eec580a11e05110b5",
       "title": "Chemical Tommy",
@@ -16163,6 +16182,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-08 — Rory — speakers: Mike Bubbins, Elis James, Steff Garrero, Mike ch
 - 2026-10-06 — Chemical Tommy — speakers: Chemical Tommy Another, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-03 — Is Penny Morris Fit? Pint Size — speakers: Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-01 — Tom Craine (pt 2) — speakers: Tom Craine, Elis James, Mike Bubbins, Steff Garrero
