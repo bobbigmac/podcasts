@@ -40872,6 +40872,50 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:4b41555acff3",
+        "feed_title": "The Hard Shoulder",
+        "source_rss_url": "https://rss.podplaystudio.com/2763.xml",
+        "dedupe_key": "cb33900e91ec138f5c49e81cebf07ba6a2c7f29a",
+        "episode_key": "cb33900e91ec138f5c49e81cebf07ba6a2c7f29a",
+        "title": "Comedian Jack Dee on celebrating 40 years in stand-up!",
+        "published_at": "2026-10-09T17:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Jack Dee, who is celebrating 40 years in stand-up!\nThis month he returns to Ireland to take us on a memoir of his favourite old jokes and funny anecdotes that have intrigued him for as long as he can remember…\nHe joins Shane to discuss!",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/ie/2763/jack_dee_edit_ca1593fe_normal.mp3?aw_0_1st.episodeid=425399&aw_0_1st.collectionid=2763",
+        "link_url": "https://podcasts.apple.com/gb/podcast/comedian-jack-dee-on-celebrating-40-years-in-stand-up/id1155118264?i=1000794348104&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e584592663ea",
+        "feed_title": "Oliver Callan",
+        "source_rss_url": "https://www.omnycontent.com/d/playlist/c7d3b33c-f943-4afb-8665-b0b200e579f7/c71911cc-87ae-4e9e-a306-b2ac016796f4/3b0a131e-8a63-410a-b7fd-b2ac016796fd/podcast.rss",
+        "dedupe_key": "f138716bac0f0d755f9716d367e89bb14d82007a",
+        "episode_key": "f138716bac0f0d755f9716d367e89bb14d82007a",
+        "title": "40 years of stand up with Jack Dee",
+        "published_at": "2026-10-09T12:18:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "One of Britain's best-loved comedy stars Jack Dee celebrates 40 years of stand-up with Oliver.  \nSee omnystudio.com/listener for privacy information.",
+        "audio_url": "https://traffic.omny.fm/d/clips/c7d3b33c-f943-4afb-8665-b0b200e579f7/c71911cc-87ae-4e9e-a306-b2ac016796f4/0f92721f-cd6c-43cc-819d-b4de00cab398/audio.mp3?utm_source=Podcast&in_playlist=3b0a131e-8a63-410a-b7fd-b2ac016796fd",
+        "link_url": "https://podcasts.apple.com/gb/podcast/40-years-of-stand-up-with-jack-dee/id1727517310?i=1000794048266&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",

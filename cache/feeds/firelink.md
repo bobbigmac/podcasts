@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-10-02T17:52:29+00:00`
-- checked_at: `2026-10-02T17:52:29+00:00`
-- etag: `W/"40a89-u/iAEiGyYlRtPLeuXmpQMn17pQA"`
+- fetched_at: `2026-10-09T18:21:16+00:00`
+- checked_at: `2026-10-09T18:21:16+00:00`
+- etag: `W/"4130f-jGZykfyH1cVGwAV63B5DN9fsD1g"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-10-02T17:52:29+00:00",
+  "fetched_at": "2026-10-09T18:21:16+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,33 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "dfb97586bc9cec1323f041d068cbc989f2dfff5f",
+      "title": "Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast",
+      "published_at": "2026-10-09T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Burnout-Is-Back-in-Star-Wars-Galactic-Racer--Firelink-Podcast-e3q747m",
+      "description": "This week on Firelink Nick, KC, and Marty chat about Xbox XP, games like Silent Hill and Control being fixed after launch, and all the big games they've been playing, including Star Wars: Galactic Racer, aka, the spiritual successor to Burnout. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/127159990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2Fa3f2f8b1-e94d-9465-8659-6f673579417b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161380832",
+      "itunes_duration": "01:52:04",
+      "speakers": [
+        "Firelink Nick",
+        "Xbox XP",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "burnout",
+        "star",
+        "galactic",
+        "racer",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "d3af1aac3a42916baac378b208236250f4784ac7",
       "title": "Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast",
@@ -3305,6 +3332,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-09 — Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast — speakers: Firelink Nick, Xbox XP, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-02 — Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-25 — Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-18 — Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast — speakers: Wolverine Breaking, Marty Sliva, Nick Calandra, KC Nwosu
