@@ -12420,6 +12420,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "27c023a7b4d98858cf57b763172d9a0d471e5f88",
+        "episode_key": "27c023a7b4d98858cf57b763172d9a0d471e5f88",
+        "title": "Tom Fletcher, Matt Willis, Gary Neville, Russell T Davies, Harriet Kemsley, Louise Wener and Les Dennis #567",
+        "published_at": "2026-10-09T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ahoy there, ahoy me hearties, climb aboard this wonderful ship as The Chris Moyles Show sails the great seas of great radio once again! Episode 567 is packed with treasure, tales and a guest list fit for a podcasting pirate king.\nWe had a McBig, McBusted, McAmazing visit from Tom Fletcher and Matt Willis — and it was O",
+        "audio_url": "https://episodes.captivate.fm/episode/ec57d9bc-fefb-42ed-8f7d-ed7ea2ae6744.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=ec57d9bc-fefb-42ed-8f7d-ed7ea2ae6744",
+        "link_url": "https://podcasts.apple.com/gb/podcast/tom-fletcher-matt-willis-gary-neville-russell-t-davies/id1042635536?i=1000794066413&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:1eac8536e49a",
         "feed_title": "Walking The Dog with Emily Dean",
         "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
