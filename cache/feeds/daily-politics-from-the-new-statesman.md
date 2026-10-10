@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-09T10:31:47+00:00`
-- checked_at: `2026-10-09T10:31:47+00:00`
-- etag: `"djEuMi4wOjE3OTE1MjAwNDM0ODA="`
+- fetched_at: `2026-10-10T17:20:34+00:00`
+- checked_at: `2026-10-10T17:20:34+00:00`
+- etag: `"djEuMi4wOjE3OTE2NDgwMzk0MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-09T10:31:47+00:00",
+  "fetched_at": "2026-10-10T17:20:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f33afcae140f5039012858d7e5bb8516e90921b6",
+      "title": "Reform clears its own officials over donations sting",
+      "published_at": "2026-10-10T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/reform-clears-its-own-officials-over-donations-sting",
+      "description": "Reform clearing its own officials of breaking party funding law, Kemi Badenoch’s inheritance tax gambit and was Britain really better off in the 1980s? Anoosh Chakelian is joined by Will Dunn for our weekly round up. READ: https://www.newstatesman.com/international-politics/2026/10/spains-warning-to-andy-burnham https://www.newstatesman.com/politics/the-sketch/2026/10/vegan-sausages-and-loathing-at-green-party-conference https://www.newstatesman.com/business/economics/2026/10/was-britain-really-better-off-in-the-1980s LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1791473583297-effa3719-88c5-4e47-8cbc-30f073be31bf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ac7b75176e77cd48f1e12da/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63733842",
+      "itunes_duration": "33:05",
+      "speakers": [
+        "Kemi Badenoch",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "reform",
+        "official",
+        "donation"
+      ]
+    },
     {
       "key": "645b8a14e91b41b3188e7c42f42a4cd5a0124665",
       "title": "Labour holds Starmer’s seat",
@@ -32570,6 +32592,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-10 — Reform clears its own officials over donations sting — speakers: Kemi Badenoch, Anoosh Chakelian, Oli Dugmore
 - 2026-10-09 — Labour holds Starmer’s seat — speakers: St Pancras, Sagal Abdi-Wali, Anoosh Chakelian, Oli Dugmore
 - 2026-10-05 — The Green Party’s Zionism reckoning — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-10-01 — Is Burnham brave or naive? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

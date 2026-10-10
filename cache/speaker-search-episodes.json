@@ -28522,6 +28522,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:63b7a6d65411",
+        "feed_title": "Full Audiobook: Your Gateway to Knowledge and Entertainment",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/104/index.xml",
+        "dedupe_key": "1ee11641972dcea825294310586b1ab727ad4fd7",
+        "episode_key": "1ee11641972dcea825294310586b1ab727ad4fd7",
+        "title": "Dave Gorman - Genius: The Complete Series 1-3: The BBC Radio 4 comedy Audiobook by Dave Gorman",
+        "published_at": "2018-06-28T20:09:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Dave Gorman - Genius: The Complete Series 1-3: The BBC Radio 4 comedyGenres: Non-Fiction, Art & Music, General ComedyAuthor: Dave GormanNarrator: Dave Gorman, Full CastRelease date: 06-28-2018Length: 8:50:00Language: EnglishPublisher:",
+        "audio_url": "https://audiobookzap.com/audio/334835.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-the-complete-series-1-3-the-bbc/id6821075921?i=1000794279776&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b88bc5a47185",
         "feed_title": "Discover Expertly Narrated Audiobooks on Any Device",
         "source_rss_url": "https://booksreader.space/bk/4692/index.xml",
@@ -30827,6 +30850,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:711e80fceb2a",
+        "feed_title": "Listen With Your Mind, Not Just Your Ears With Free Audiobook",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/99/index.xml",
+        "dedupe_key": "afd9cf6fce756e4341d409966c6f9ca00d3cb57d",
+        "episode_key": "afd9cf6fce756e4341d409966c6f9ca00d3cb57d",
+        "title": "Lee Mack Show, Series 2 Audiobook by Lee Mack",
+        "published_at": "2007-11-12T17:48:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Lee Mack Show, Series 2Genres: Non-Fiction, Art & MusicAuthor: Lee MackNarrator: Guests , Lee MackRelease date: 11-12-2007Length: 3:55:28Language: EnglishPublisher: Penguin Books LTDDescription:The star of TV’s ‘Not Going Out’ hosts m",
+        "audio_url": "https://audiobookzap.com/audio/354879.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-show-series-2-audiobook-by-lee-mack/id6821075861?i=1000794279603&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:98ee41c140ac",
         "feed_title": "Enjoy Best-Selling Audiobook Titles with Easy Access",
         "source_rss_url": "https://booksreader.space/bk/4676/index.xml",
@@ -30883,6 +30928,28 @@
         "description": "Please visit https://thebookvoice.com/podcasts/2/audible/84376 to listen full audiobooks.\n    Title: The Lee Mack Show\nAuthor: Lee Mack\nNarrator: Lee Mack\nFormat: mp3\nLength: 2 hrs and 56 mins\nRelease date: 03-13-06\nRatings: 4.5 out of 5 stars, 10 ratings\nGenres: Radio\nPublisher's Summary:",
         "audio_url": "https://samples.audible.com/rt/bbcw/000940/rt_bbcw_000940_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-lee-mack-show-by-lee-mack/id1883851846?i=1000754156826&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:711e80fceb2a",
+        "feed_title": "Listen With Your Mind, Not Just Your Ears With Free Audiobook",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/99/index.xml",
+        "dedupe_key": "0dc7891e97580942ccbe2cc8360bf62cd95f24fd",
+        "episode_key": "0dc7891e97580942ccbe2cc8360bf62cd95f24fd",
+        "title": "Lee Mack Show Audiobook by Lee Mack",
+        "published_at": "2006-02-01T00:26:20Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Lee Mack ShowGenres: Non-Fiction, Art & MusicAuthor: Lee MackNarrator: Lee MackRelease date: 02-01-2006Length: 2:56:59Language: EnglishPublisher: Penguin Books LTDDescription:Lee Mack, Bafta award-winner and host of BBC One’s ‘They Th",
+        "audio_url": "https://audiobookzap.com/audio/41376.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-show-audiobook-by-lee-mack/id6821075861?i=1000794281858&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -40026,6 +40093,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:63b7a6d65411",
+        "feed_title": "Full Audiobook: Your Gateway to Knowledge and Entertainment",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/104/index.xml",
+        "dedupe_key": "1ee11641972dcea825294310586b1ab727ad4fd7",
+        "episode_key": "1ee11641972dcea825294310586b1ab727ad4fd7",
+        "title": "Dave Gorman - Genius: The Complete Series 1-3: The BBC Radio 4 comedy Audiobook by Dave Gorman",
+        "published_at": "2018-06-28T20:09:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Dave Gorman - Genius: The Complete Series 1-3: The BBC Radio 4 comedyGenres: Non-Fiction, Art & Music, General ComedyAuthor: Dave GormanNarrator: Dave Gorman, Full CastRelease date: 06-28-2018Length: 8:50:00Language: EnglishPublisher:",
+        "audio_url": "https://audiobookzap.com/audio/334835.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-the-complete-series-1-3-the-bbc/id6821075921?i=1000794279776&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b88bc5a47185",
         "feed_title": "Discover Expertly Narrated Audiobooks on Any Device",
         "source_rss_url": "https://booksreader.space/bk/4692/index.xml",
@@ -40680,6 +40770,28 @@
         "description": "Listen to full audiobooks for free on :\n\nhttps://hotaudiobook.com/free \n\nTitle: Dave Gorman Vs The Rest of the World\n\nAuthor: Dave Gorman\n\nNarrator: Dave Gorman\n\nFormat: Unabridged\n\nLength: 8 hrs and 45 mins\n\nLanguage: English\n\nRelease date: 06-17-11\n\nPublisher: Random House AudioBooks\n\nGenres: Travel & Adventure, Adve",
         "audio_url": "https://samples.audible.com/bk/rhuk/001048/bk_rhuk_001048_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-vs-the-rest-of-the-world-by-dave/id1818794475?i=1000711666466&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:63b7a6d65411",
+        "feed_title": "Full Audiobook: Your Gateway to Knowledge and Entertainment",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/104/index.xml",
+        "dedupe_key": "ff9588487745d8580142c2b9e579b8162cb441dd",
+        "episode_key": "ff9588487745d8580142c2b9e579b8162cb441dd",
+        "title": "Dave Gorman Vs the Rest of the World Audiobook by Dave Gorman",
+        "published_at": "2011-06-09T05:31:37Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Dave Gorman Vs the Rest of the WorldGenres: Essays & TraveloguesAuthor: Dave GormanNarrator: Dave GormanRelease date: 06-09-2011Length: 8:40:57Language: EnglishPublisher: Penguin Books LTDDescription:Remember when you were a kid, and ",
+        "audio_url": "https://audiobookzap.com/audio/237842.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-vs-the-rest-of-the-world-audiobook-by-dave-gorman/id6821075921?i=1000794282055&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -44186,6 +44298,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:b9ccee02e6f7",
+        "feed_title": "The Soundtrack to Your Imagination with Free Audiobook",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/21/index.xml",
+        "dedupe_key": "85f2bcd763a3d76ec328ecd0b580cebcee1704b5",
+        "episode_key": "85f2bcd763a3d76ec328ecd0b580cebcee1704b5",
+        "title": "Behaving Ourselves: David Mitchell on Manners Audiobook by David Mitchell",
+        "published_at": "2018-10-04T21:12:32Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Behaving Ourselves: David Mitchell on MannersGenres: Non-Fiction, PsychologyAuthor: David MitchellNarrator: David MitchellRelease date: 10-04-2018Length: 2:00:00Language: EnglishPublisher: Penguin Books LTDDescription:David Mitchell s",
+        "audio_url": "https://audiobookzap.com/audio/346256.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/behaving-ourselves-david-mitchell-on-manners-audiobook/id6821067169?i=1000794163706&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:9abcae022bfe",
         "feed_title": "Relish A Critically-Acclaimed Full Audiobook On Your Commute.",
         "source_rss_url": "https://thebookvoice.com/audiobook/itunes/2766/index.xml",
@@ -44616,6 +44750,28 @@
         "description": "RHLSTP #13: David Mitchell - The Shreks of Westminster Bridge. Slightly worse for wear after having lunch with Alice Cooper at the Q Awards, Richard is delighted to welcome a man he thinks might be him from another time stream, David 'Mitch' Mitchell. He's certainly met his match in pedantry and both men accidentally r",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp-13-david-mitchell/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-13-david-mitchell/id520831548?i=1000122906035&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:b9ccee02e6f7",
+        "feed_title": "The Soundtrack to Your Imagination with Free Audiobook",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/21/index.xml",
+        "dedupe_key": "52a227f571ab0c4e3ee904c1d6a07de2ba0b7197",
+        "episode_key": "52a227f571ab0c4e3ee904c1d6a07de2ba0b7197",
+        "title": "David Mitchell: Back Story Audiobook by David Mitchell",
+        "published_at": "2012-10-11T16:35:20Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: David Mitchell: Back StoryGenres: Biography & Memoir, Arts & EntertainmentAuthor: David MitchellNarrator: David MitchellRelease date: 10-11-2012Length: 9:25:47Language: EnglishPublisher: HarperCollins Publishers UKDescription:David Mi",
+        "audio_url": "https://audiobookzap.com/audio/307323.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-back-story-audiobook-by-david-mitchell/id6821067169?i=1000794162671&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
