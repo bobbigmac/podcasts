@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-09T10:31:47+00:00`
-- checked_at: `2026-10-09T10:31:47+00:00`
-- etag: `"djEuMi4wOjE3OTE1MTQ2NTkzNzM="`
+- fetched_at: `2026-10-10T21:43:14+00:00`
+- checked_at: `2026-10-10T21:43:14+00:00`
+- etag: `"djEuMi4wOjE3OTE2NTQwMjYzMTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-09T10:31:47+00:00",
+  "fetched_at": "2026-10-10T21:43:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "69c2dd677cc2fdbb4f3057c6f9d434f6054fba0a",
+      "title": "Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do",
+      "published_at": "2026-10-10T17:40:26+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "5th October 2026 - Randrew Andrew’s No Can Do - It’s a new week on Newsround, but same old rubbish. Today Rich, Ally and channel-mandated co-host Ziggy look at Andrew Mountbattenburg-Iceburg-Lettuce-Withagladsomemind- Windsor-Peppapigland attempt to prosecute the police who dared arrest him when he’s (apparently) done nothing wrong. With the interview that the lamestreamers would kill for Randrew Andrew himself. 7th October 2026 - Penile System - It’s a serious topic for today’s Newsround - is it OK to kill a murderer or does that just make you a murderer too? Who better to work this out than a washed-up comedian, a 134 year old ventriloquist dummy and a naked baby with a disembodied arm? No one that is who. 8th October 2026 - Flea Glob - Rich and Ally (and Ziggy?) look at the upcoming new pandemic and the return of the plague and try to accentuate the positive. A brave reporter is over at the Russian plague lab now and will let the world know how close to extinction we are. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791653831348-a79427bb-5602-4956-bf8a-f5449c368f88.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aca788aeea51f2aa33dcb30/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31200384",
+      "itunes_duration": "1:04:59",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Randrew Andrew",
+        "No Can Do",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "randrew",
+        "andrew"
+      ]
+    },
     {
       "key": "a7bb364a009b77c69b9795142ba1b46fde983136",
       "title": "Reece Shearsmith on Things I Took From The Dark - Book Club",
@@ -24170,6 +24196,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-10 — Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do — speakers: Craven Newsround Compilation, Randrew Andrew, No Can Do, Richard Herring
 - 2026-10-09 — Reece Shearsmith on Things I Took From The Dark - Book Club — speakers: Reece Shearsmith, Book Club, Richard Herring
 - 2026-10-07 — Susie McCabe - "Spot the Ball" — speakers: Susie McCabe, Richard Herring
 - 2026-10-05 — Jeremy Dyson and Andy Nyman (Retro) - "Ragmags" — speakers: Jeremy Dyson, Andy Nyman, Richard Herring
