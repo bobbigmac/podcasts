@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-10-04T05:51:18+00:00`
-- checked_at: `2026-10-04T05:51:18+00:00`
+- fetched_at: `2026-10-11T05:45:10+00:00`
+- checked_at: `2026-10-11T05:45:10+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-10-04T05:51:18+00:00",
+  "fetched_at": "2026-10-11T05:45:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e4c0329a41b2ee8bf4d6569de73567cbdf5e20a8",
+      "guid": "2c42fd0a-5307-45ca-b43c-b9288215be0a",
+      "title": "The Lucy Porter Show (11th October)",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-11th-october/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1791691429-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=2c42fd0a-5307-45ca-b43c-b9288215be0a&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "7a5f006bf3b037150a7e3de156aa01b11a108b4d",
       "guid": "8f591ec1-a4d5-4c34-ac45-499b4a635649",
@@ -1682,6 +1695,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-11 — The Lucy Porter Show (11th October)
 - 2026-10-04 — The Lucy Porter Show (4th October)
 - 2026-09-27 — The Lucy Porter Show (27th September)
 - 2026-09-20 — The Lucy Porter Show (20th September)
