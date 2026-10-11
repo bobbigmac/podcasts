@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-10-11T05:45:10+00:00`
-- checked_at: `2026-10-11T05:45:10+00:00`
+- fetched_at: `2026-10-11T12:48:07+00:00`
+- checked_at: `2026-10-11T12:48:07+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-10-11T05:45:10+00:00",
+  "fetched_at": "2026-10-11T12:48:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2dab7f9841377f70e84d90e0a31c769f2997572d",
+      "guid": "e7676eb1-dc00-4a53-bc36-0497ac436b49",
+      "title": "The Ellie Taylor Show (11th October)",
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-11th-october/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1791702027-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e7676eb1-dc00-4a53-bc36-0497ac436b49&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "8fbe89179595532953d13b2aec3a4a850e07db06",
       "guid": "1593adae-e326-4ea5-a895-c31e42599bca",
@@ -1682,6 +1695,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-11 — The Ellie Taylor Show (11th October)
 - 2026-10-04 — The Ellie Taylor Show (4th October)
 - 2026-09-27 — The Ellie Taylor Show (27th September)
 - 2026-09-20 — The Ellie Taylor Show (20th September)

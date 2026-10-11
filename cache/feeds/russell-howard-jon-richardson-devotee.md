@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `W/"5aa20-jzhZC97rhz7fAW4hexg7HBaAlbU"`
+- fetched_at: `2026-10-11T12:48:07+00:00`
+- checked_at: `2026-10-11T12:48:07+00:00`
+- etag: `W/"5b6c6-TlV8ma2Fa+iKN3kx0l4NmfZjmhA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-11T12:48:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,10 +25,54 @@
   ],
   "episodes": [
     {
+      "key": "a7e54b88dad57f75ce415ae553d4778623e4defa",
+      "title": "#4 The Jon Richardson Podcast #4 – Featuring John Robins",
+      "published_at": "2026-10-09T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/4-The-Jon-Richardson-Podcast-4--Featuring-John-Robins-e3q6bt4",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791487918928-b314bee4e021c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2148811134.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68504330",
+      "itunes_duration": "01:10:35",
+      "speakers": [
+        "John Robins",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "9d1bfba2b579ba07821360b89aa8347aca18c922",
+      "title": "#3 The Jon Richardson Podcast #3 – Featuring Mark Olver",
+      "published_at": "2026-10-08T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/3-The-Jon-Richardson-Podcast-3--Featuring-Mark-Olver-e3q3l70",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791397490160-267252284659b.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6652767117.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62243820",
+      "itunes_duration": "01:04:08",
+      "speakers": [
+        "Mark Olver",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "mark",
+        "olver"
+      ]
+    },
+    {
       "key": "98573346d4cf71be49461b387366a11e99efca97",
-      "title": "The Jon Richardson Podcast #2 – Featuring Michael Mcintyre",
+      "title": "#2 The Jon Richardson Podcast #2 – Featuring Michael Mcintyre",
       "published_at": "2026-10-07T05:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/The-Jon-Richardson-Podcast-2--Featuring-Michael-Mcintyre-e3q0u9i",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/2-The-Jon-Richardson-Podcast-2--Featuring-Michael-Mcintyre-e3q0u9i",
       "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791311037403-bd5a8be500595.jpg",
       "enclosure_url": "https://traffic.megaphone.fm/APO1834787556.mp3",
@@ -48,9 +92,9 @@
     },
     {
       "key": "a3d8c7a9614fb7f5af3d2085a0fd96c378373a5f",
-      "title": "The Jon Richardson Podcast #1 – Featuring Josie Long",
+      "title": "#1 The Jon Richardson Podcast #1 – Featuring Josie Long",
       "published_at": "2026-10-06T05:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/The-Jon-Richardson-Podcast-1--Featuring-Josie-Long-e3puuk0",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/1-The-Jon-Richardson-Podcast-1--Featuring-Josie-Long-e3puuk0",
       "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791225242165-41260053a7073.jpg",
       "enclosure_url": "https://traffic.megaphone.fm/APO9998056673.mp3",
@@ -6057,27 +6101,6 @@
         "john",
         "robins"
       ]
-    },
-    {
-      "key": "5ce4a3ce88de449cebd8f439172ab07c268ed93c",
-      "title": "#3 Jon Richardson Podcast with Mark Olver",
-      "published_at": "2026-02-17T18:37:05+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/3-Jon-Richardson-Podcast-with-Mark-Olver-e3f7mf2",
-      "description": "#3 Jon Richardson Podcast with Mark Olver",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771353385510-bb37b7c0ebe3e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115644322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F1602f739-85b9-ef1b-d2da-29219cfe8c03.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "46185152",
-      "itunes_duration": "01:04:08",
-      "speakers": [
-        "Mark Olver"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "mark",
-        "olver"
-      ]
     }
   ]
 }
@@ -6086,8 +6109,10 @@
 
 ## Episodes (newest first)
 
-- 2026-10-07 — The Jon Richardson Podcast #2 – Featuring Michael Mcintyre — speakers: Michael Mcintyre, Jon Richardson
-- 2026-10-06 — The Jon Richardson Podcast #1 – Featuring Josie Long — speakers: Josie Long, Jon Richardson
+- 2026-10-09 — #4 The Jon Richardson Podcast #4 – Featuring John Robins — speakers: John Robins, Jon Richardson
+- 2026-10-08 — #3 The Jon Richardson Podcast #3 – Featuring Mark Olver — speakers: Mark Olver, Jon Richardson
+- 2026-10-07 — #2 The Jon Richardson Podcast #2 – Featuring Michael Mcintyre — speakers: Michael Mcintyre, Jon Richardson
+- 2026-10-06 — #1 The Jon Richardson Podcast #1 – Featuring Josie Long — speakers: Josie Long, Jon Richardson
 - 2026-10-05 — #84 Russell Howard & Jon Richardson Podcast Episode 84 — speakers: Russell Howard, Jon Richardson
 - 2026-10-02 — #83 Russell Howard & Jon Richardson Podcast Episode 83 — speakers: Russell Howard, Jon Richardson
 - 2026-09-30 — #81 Russell Howard & Jon Richardson Podcast Episode 81 — speakers: Russell Howard, Jon Richardson
@@ -6349,4 +6374,3 @@
 - 2026-02-19 — #6 Jon Richardson Podcast with Rufus Hound — speakers: Rufus Hound
 - 2026-02-18 — #5 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
 - 2026-02-17 — #4 Jon Richardson Podcast with John Robins — speakers: John Robins
-- 2026-02-17 — #3 Jon Richardson Podcast with Mark Olver — speakers: Mark Olver
