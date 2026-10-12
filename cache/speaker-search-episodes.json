@@ -10746,6 +10746,28 @@
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "5f1788f39dbc3970ca4d3bb2fe453ae915e7f8b5",
+        "episode_key": "5f1788f39dbc3970ca4d3bb2fe453ae915e7f8b5",
+        "title": "Paul Sinha: The Racist Admissions Computer, International Quizzing and a Name The Seed Poem.",
+        "published_at": "2026-10-12T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harry's elephant rescue mission takes an unexpected turn involving a clown, a dark web chat room and the police.\nComedian, quizzer and former GP Paul 'The Sinnerman' Sinha stops by to talk about following in Harry's footsteps at St George's Medical School, the brutal realities of the World Quizzing Championships and st",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6ac77c5539599f7c562c3fc2/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/paul-sinha-the-racist-admissions-computer/id1742178595?i=1000795885432&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
         "dedupe_key": "12d035e0ccfc64c8cff1fd2d1eb967e36a1e4a3e",
         "episode_key": "12d035e0ccfc64c8cff1fd2d1eb967e36a1e4a3e",
         "title": "Spencer Jones: Licky is Getting Too Big For His Boots, A Remote Controlled Dog and JESUS.",
@@ -29260,6 +29282,28 @@
     ],
     "lee-mack": [
       {
+        "feed_slug": "external:apple:8e22327570e3",
+        "feed_title": "Sunday Brunch Picky Bits",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",
+        "dedupe_key": "59ea9b9dc76987110a4f432fd8aa4de922c4d2e4",
+        "episode_key": "59ea9b9dc76987110a4f432fd8aa4de922c4d2e4",
+        "title": "S2 Ep36 PART 1: Lee Mack, KayCee Stroh and Emma Sidi.",
+        "published_at": "2026-10-12T15:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Lovejoy and Simon Rimmer interview big names from the worlds of sport, music, entertainment, food and more.\nThe Sunday Brunch Picky Bits podcast presents audio highlights from each weekly TV episode for you to enjoy on the go.\nThis week, we’ve picked bits from Tim and Simon’s interviews with: Lee Mack, Russell T Da",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68d10529146cfd1a65544aed/e/6accca09937a3c900f959603/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s2-ep36-part-1-lee-mack-kaycee-stroh-and-emma-sidi/id1843289955?i=1000795967808&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:680432c6a051",
         "feed_title": "Sh**ged Married Annoyed",
         "source_rss_url": "https://feeds.megaphone.fm/sma",
@@ -44861,6 +44905,28 @@
         "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: David Mitchell: Back StoryGenres: Biography & Memoir, Arts & EntertainmentAuthor: David MitchellNarrator: David MitchellRelease date: 10-11-2012Length: 9:25:47Language: EnglishPublisher: HarperCollins Publishers UKDescription:David Mi",
         "audio_url": "https://audiobookzap.com/audio/307323.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-back-story-audiobook-by-david-mitchell/id6821067169?i=1000794162671&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4d453e091dda",
+        "feed_title": "Stories In Your Ears Through Audiobooks",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/ids/317/index.xml",
+        "dedupe_key": "62c5dfaf02b971efb63c4c421ea57abf3b4ea69c",
+        "episode_key": "62c5dfaf02b971efb63c4c421ea57abf3b4ea69c",
+        "title": "David Mitchell: Back Story Audiobook by David Mitchell",
+        "published_at": "2012-10-11T14:50:54Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: David Mitchell: Back StoryCategories: Biography, Celebrity, Entertainment, Funny, Performing ArtsAuthor: David MitchellNarrator: David MitchellPublisher: HarperCollins Publishers LimitedRelease date: 10-11-2012Language: EnglishSummary:David Mitchell,",
+        "audio_url": "https://samples.audible.de/bk/hcuk/001126/bk_hcuk_001126_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-back-story-audiobook-by-david-mitchell/id6821673121?i=1000795399955&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

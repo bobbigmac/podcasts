@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-07T13:21:04+00:00`
-- checked_at: `2026-10-07T13:21:04+00:00`
-- etag: `"djEuMi4wOjE3OTEzNjEzMDc3OTM="`
+- fetched_at: `2026-10-12T21:16:31+00:00`
+- checked_at: `2026-10-12T21:16:31+00:00`
+- etag: `"djEuMi4wOjE3OTE4MjM4NzU4MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,39 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-07T13:21:04+00:00",
+  "fetched_at": "2026-10-12T21:16:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "edb8c40d60960c17eb8d0388620db1c3d3d2fbfc",
+      "title": "Is Zack Polanksi in trouble? | Green Party by-election loss",
+      "published_at": "2026-10-12T16:51:15+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6acd0ff568b7ce6ffbf0091a",
+      "description": "Zack Polanski did not win the Holborn and St Pancras by-election. But is there a world where he could have? Ava and Seán breakdown the result, what it means for the Greens, and why it went Labour's way. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6acd0ff568b7ce6ffbf0091a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54242701",
+      "itunes_duration": "37:39",
+      "speakers": [
+        "Zack Polanksi",
+        "Zack Polanski",
+        "St Pancras"
+      ],
+      "topics": [
+        "zack",
+        "polanksi",
+        "trouble",
+        "green",
+        "party",
+        "election",
+        "loss"
+      ]
+    },
     {
       "key": "7cb4e870ddbe9cd483af370a4f431df22a0e8a25",
       "title": "Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview",
@@ -13795,6 +13821,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Is Zack Polanksi in trouble? | Green Party by-election loss — speakers: Zack Polanksi, Zack Polanski, St Pancras
 - 2026-10-05 — Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview — speakers: Andy Burnham, Zack Polanski, Russell Warfield
 - 2026-10-02 — We Need To Talk About Cuba | Jeremy Corbyn interview — speakers: Jeremy Corbyn
 - 2026-09-29 — What I didn't get to say on BBC Newsnight — speakers: Newsnight Ava

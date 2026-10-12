@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-10-05T14:35:50+00:00`
-- checked_at: `2026-10-05T14:35:50+00:00`
-- etag: `"11bc55-65d154203f426"`
-- last_modified: `Mon, 05 Oct 2026 10:22:23 GMT`
+- fetched_at: `2026-10-12T21:16:31+00:00`
+- checked_at: `2026-10-12T21:16:31+00:00`
+- etag: `"11c482-65da62ad97939"`
+- last_modified: `Mon, 12 Oct 2026 15:15:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-10-05T14:35:50+00:00",
+  "fetched_at": "2026-10-12T21:16:31+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d5638746b83bcc09f39e765cbaa48bddf5088fa2",
+      "title": "Jiggery-Pokery - S22, Ep. 6",
+      "published_at": "2026-10-12T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack reconvene this week to discuss episode 6, and Jack is grumpy (but why?) while Jenny reveals her true thoughts on QR codes (witchcraft). Meanwhile Chloe shows no signs of slowing, Matt births a new character, Richard refuses to whoopsie, Isy bends time, and Nina takes inspiration from Julian Clary. Plus a listener writes in to point out something very backwards and we wade into a genre debate about a book written by America’s toughest judge. Send us all your Taskmaster related thoughts: fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/c19eafcc-f252-4637-94e6-2e20d7e6f9ec.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=c19eafcc-f252-4637-94e6-2e20d7e6f9ec",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55088770",
+      "itunes_duration": "57:18",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "jiggery",
+        "pokery"
+      ]
+    },
     {
       "key": "f3cbec1d3811c1a2b68e51fb88a8e822be88ac15",
       "title": "Sexy Shetland Pony - S22, Ep.5",
@@ -4956,6 +4976,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Jiggery-Pokery - S22, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-05 — Sexy Shetland Pony - S22, Ep.5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-28 — The Mona Lisa Doesn't Have Googly Eyes - S22, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-21 — Freaks and Gleeks - S22, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
