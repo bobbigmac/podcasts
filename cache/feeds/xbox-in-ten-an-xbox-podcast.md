@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
-- etag: `"0a10bf6081adb92df628087d90c44a7e"`
-- last_modified: `Mon, 05 Oct 2026 04:18:45 GMT`
+- fetched_at: `2026-10-12T10:46:55+00:00`
+- checked_at: `2026-10-12T10:46:55+00:00`
+- etag: `"37f6ee604d0d1d05eff3acab1c033007"`
+- last_modified: `Mon, 12 Oct 2026 04:12:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-12T10:46:55+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5233752d7a135ab9b6b1f04d9f87be6f956e869f",
+      "title": "Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385)",
+      "published_at": "2026-10-12T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-ceo-asha-sharmas-town-hall-talking-series-xs-helixs-family-of-devices-more-xbox-in-ten-an-xbox-podcast-ep-385",
+      "description": "Week of: 10-5-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/a/1/6/e/a16e067314375793e5bbc093207a2619/385.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/385.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17203816",
+      "itunes_duration": "12:31",
+      "speakers": [
+        "Asha Sharma",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "asha",
+        "sharma",
+        "town",
+        "hall",
+        "talking",
+        "series",
+        "helix",
+        "family",
+        "devices"
+      ]
+    },
     {
       "key": "f9330717c56da408b48d26fc62dc58aae9a52d1c",
       "title": "Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384)",
@@ -9702,6 +9730,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385) — speakers: Asha Sharma, Brandon Rosa
 - 2026-10-05 — Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384) — speakers: New Mythic Achievements, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-28 — Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383) — speakers: Halo Under Activision Blizzard, Xbox Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-21 — Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382) — speakers: Kill Day, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa

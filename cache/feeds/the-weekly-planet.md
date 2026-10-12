@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-11T12:48:07+00:00`
-- checked_at: `2026-10-11T12:48:07+00:00`
-- etag: `"djEuMi4wOjE3OTE3MDI1OTUxOTY="`
+- fetched_at: `2026-10-12T10:46:55+00:00`
+- checked_at: `2026-10-12T10:46:55+00:00`
+- etag: `"djEuMi4wOjE3OTE3NzU4Mzk1Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-11T12:48:07+00:00",
+  "fetched_at": "2026-10-12T10:46:55+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1f379f02a8704be27d7807f30b80f004578a1831",
+      "title": "644 The Social Reckoning & Skydance Swallowing",
+      "published_at": "2026-10-12T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/644-the-social-reckoning-skydance-swallowing",
+      "description": "Social media is bad. That’s what The Social Reckoning reckons anyways. We review that plus talk Zodiac the latest MCU streaming show and the first reactions to VisionQuest. With the Paramount swallowing up Warner Bros. situation confirmed we discuss the fallout including who’s fired and who’s hired and the state of the DCU and James Gunn’s role. Plus news concerning the halting of filming on The Batman Part II, delays on Lord of the Rings: Shadow of the Past and Michael Bay returning to the Transformers franchise. Thanks for listening! New bonus podcast and video out now for Big Sandwich members! Available on bigsandwich.co, patreon.com/mrsundaymovies and via 'YouTube Memberships' on youtube.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 05:11 New MCU Series, Zodiac? 10:28 More NY Comic Con Stuff 12:00 Fallout from the Skydance Swallowing 22:16 The Batman: Part 2 Paused 23:44 Colbert's LOTR Movie Speedbump 28:28 Michael Bay's Transformer Return 36:52 The Social Reckoning Movie Review 53:08 The Social Reckoning Spoiler Segment 01:01:18 What We Reading, What We Gonna Read 01:16:18 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ac915b1eea51f2aa31325c7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136557954",
+      "itunes_duration": "1:34:49",
+      "speakers": [
+        "Skydance Swallowing Social",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "social",
+        "reckoning",
+        "skydance",
+        "swallowing"
+      ]
+    },
     {
       "key": "ff2e50cc339fbce9793f7dcea59969c16d27c5e3",
       "title": "Blade Runner 2049 - Caravan Of Garbage",
@@ -23250,6 +23273,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — 644 The Social Reckoning & Skydance Swallowing — speakers: Skydance Swallowing Social, James Clement, Nick Mason
 - 2026-10-08 — Blade Runner 2049 - Caravan Of Garbage — speakers: Blade Runner, James Clement, Nick Mason
 - 2026-10-05 — 643 Digger & Avengers: Endgame Encore — speakers: James Clement, Nick Mason
 - 2026-10-01 — Soldier - Caravan Of Garbage — speakers: Blade Runner, James Clement, Nick Mason

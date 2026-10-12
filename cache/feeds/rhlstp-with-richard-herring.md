@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-10T21:43:14+00:00`
-- checked_at: `2026-10-10T21:43:14+00:00`
-- etag: `"djEuMi4wOjE3OTE2NTQwMjYzMTY="`
+- fetched_at: `2026-10-12T10:46:55+00:00`
+- checked_at: `2026-10-12T10:46:55+00:00`
+- etag: `"djEuMi4wOjE3OTE3NzM4NTkzMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-10T21:43:14+00:00",
+  "fetched_at": "2026-10-12T10:46:55+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "feab3890f0fd1c508056d7d5694b76652e44f4a5",
+      "title": "Bridget Christie (Retro) - \"Unchained Melody\"",
+      "published_at": "2026-10-12T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#453 Unchained Melody - Richard has got very angry with a cold caller - was he in there right? His guest is brilliant stand up and creator of new TV comedy “The Change”, Bridget Christie. In an explosive opening they discuss why Richard isn’t presenting the Masked Singer (amongst much else) and why he is evil for eating chocolate buttons, but then things calm down a bit as they discuss Bridget’s major TV debut, whether men do an equal share of household duties and the app that might help, why there are so few comedy shows about middle aged women, how getting older can be liberating and how amazing it is to have a channel and production team that let you get on with your vision. Plus working with Jerome Flynn and what it was like for Richard to introduce him on Top of the Pops. Also the primeval dance with Greg Davies and the extraordinary power of Taskmaster and getting to appear on Ghosts. See Bridget on tour https://www.bridgetchristie.co.uk/gigs/ And watch The Change here https://www.channel4.com/programmes/the-change Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791369266502-ff6d3ab3-d1dc-4461-ac09-111bd5df12ea.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ac62043d3bfab176e90da17/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34880156",
+      "itunes_duration": "1:12:39",
+      "speakers": [
+        "Bridget Christie",
+        "Richard Herring"
+      ],
+      "topics": [
+        "bridget",
+        "christie",
+        "retro",
+        "unchained",
+        "melody"
+      ]
+    },
     {
       "key": "69c2dd677cc2fdbb4f3057c6f9d434f6054fba0a",
       "title": "Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do",
@@ -24196,6 +24219,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Bridget Christie (Retro) - "Unchained Melody" — speakers: Bridget Christie, Richard Herring
 - 2026-10-10 — Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do — speakers: Craven Newsround Compilation, Randrew Andrew, No Can Do, Richard Herring
 - 2026-10-09 — Reece Shearsmith on Things I Took From The Dark - Book Club — speakers: Reece Shearsmith, Book Club, Richard Herring
 - 2026-10-07 — Susie McCabe - "Spot the Ball" — speakers: Susie McCabe, Richard Herring

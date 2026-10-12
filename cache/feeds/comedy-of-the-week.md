@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
-- etag: `"e39762bb6e50049da80832b74e1e90a3"`
-- last_modified: `Mon, 05 Oct 2026 04:00:05 GMT`
+- fetched_at: `2026-10-12T10:46:55+00:00`
+- checked_at: `2026-10-12T10:46:55+00:00`
+- etag: `"83300a25e120ee5f9ea059d73d29c083"`
+- last_modified: `Mon, 12 Oct 2026 04:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-12T10:46:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "aa4d02e7838cc98c9aa53bcf1a0efbc88289326d",
+      "title": "Room 101 with Paul Merton",
+      "published_at": "2026-10-12T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pfxhf0",
+      "description": "Paul Merton interviews a variety of guests from the world of comedy and entertainment to find out what they would send to Room 101. Kicking off the series, Miles Jupp attempts to banish touchscreens, people who take the aisle seat on a train when the window seat is available, and people who do not park well. To hear more episodes from this series, search \"Room 101\" on BBC Sounds. Additional material by John Irwin and Suki Webster Producer: Claire Broughton A Hat Trick production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfxfpn.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
+      "itunes_duration": "1713",
+      "speakers": [
+        "Paul Merton"
+      ],
+      "topics": [
+        "room",
+        "paul",
+        "merton"
+      ]
+    },
     {
       "key": "ccc676a9e9c018d55e3ec75167c88122dfc9a2a2",
       "title": "Geoff Norcott's Working Men's Club",
@@ -987,24 +1007,6 @@
       ]
     },
     {
-      "key": "b22ef1fcbb9b47f1572a1e57c5e76b8f7d1d87f4",
-      "title": "Do Gooders",
-      "published_at": "2025-10-06T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0m6b3v2",
-      "description": "Ken receives some bad news that requires him to spend more time at home and Achi is forced to cover his role with unexpected, rather peculiar consequences. Meanwhile Harriett furiously searches for a way to plug a hole in the charity’s finances. Garrett Millerick’s ensemble sitcom Do Gooders returns for another series. The show takes us back behind the curtain of fictional mid-level charity, The Alzheimers Alliance, as the fundraising events team continue their struggle for survival. Cue more office feuds, more workplace romances and more catastrophic fundraising blunders – all par for the course when trying to ‘do good’ on an industrial scale. To listen to more episodes, search \"Do Gooders\" on BBC Sounds. Cast Gladys – Kathryn Drysdale Lauren – Ania Magliano Clive – Garrett Millerick Harriett – Fay Ripley Achi – Ahir Shah Ken – Frank Skinner Writer – Garrett Millerick Additional Material – Andrea Hubert Sound Engineer – David Thomas Editor – David Thomas Production Assistant – Jenny Recaldin Producer – Jules Lom Executive Producers – Richard Allen-Turner, Daisy Knight, Julien Matthews, Jon Thoday An Avalon Television Production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m6b28c.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27520000",
-      "itunes_duration": "1720",
-      "speakers": [
-        "Gooders Ken"
-      ],
-      "topics": [
-        "gooder"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1033,6 +1035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Room 101 with Paul Merton — speakers: Paul Merton
 - 2026-10-05 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott
 - 2026-09-28 — Your Mum — speakers: Laura Smyth
 - 2026-09-21 — Omid Djalili: Namaste — speakers: Omid Djalili, Namaste Omid Djalili
@@ -1083,5 +1086,4 @@
 - 2025-10-27 — Humanwatch
 - 2025-10-20 — Mark Steel's In Town — speakers: Mark Steel
 - 2025-10-13 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
-- 2025-10-06 — Do Gooders — speakers: Gooders Ken
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore

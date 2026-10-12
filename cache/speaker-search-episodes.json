@@ -37868,6 +37868,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3483730161a0",
+        "feed_title": "Hear Great Stories Through Audiobooks",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/ids/469/index.xml",
+        "dedupe_key": "e7bdabfd1acc4d33ded11fe929c4e0701a0d8ca0",
+        "episode_key": "e7bdabfd1acc4d33ded11fe929c4e0701a0d8ca0",
+        "title": "The Book That No One Wanted to Read Audiobook by Richard Ayoade",
+        "published_at": "2022-11-10T22:06:18Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: The Book That No One Wanted to ReadCategories: Fiction, For Children, Humor, LearningAuthor: Richard AyoadeNarrator: Richard Ayoade, Jarvis Cocker, Lydia FoxPublisher: W. F. Howes LtdRelease date: 11-10-2022Language: EnglishSummary:\"Laugh out loud fu",
+        "audio_url": "https://samples.audible.de/bk/howe/008500/bk_howe_008500_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-book-that-no-one-wanted-to-read-audiobook-by/id6821684635?i=1000795683225&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d7f14cd676c1",
         "feed_title": "Begin This Spellbinding Full Audiobook — Perfect Before Bedtime.",
         "source_rss_url": "https://thebookvoice.com/audible/user/587/index.xml",
