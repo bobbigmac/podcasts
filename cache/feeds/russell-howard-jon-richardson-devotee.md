@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-11T12:48:07+00:00`
-- checked_at: `2026-10-11T12:48:07+00:00`
-- etag: `W/"5b6c6-TlV8ma2Fa+iKN3kx0l4NmfZjmhA"`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- etag: `W/"5ae16-29csE7XAm1tQTNXseAYWujWrQtI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-11T12:48:07+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -6059,48 +6059,6 @@
         "rufus",
         "hound"
       ]
-    },
-    {
-      "key": "f2295cd198b71ec5a24ffacd7939e329e119f278",
-      "title": "#5 Jon Richardson Podcast with Stephen Grant",
-      "published_at": "2026-02-18T19:38:57+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/5-Jon-Richardson-Podcast-with-Stephen-Grant-e3f9cti",
-      "description": "#5 Jon Richardson Podcast with Stephen Grant",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771443493992-16ea69a96c6df.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115700082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F50caa86a-4bab-0be1-b525-93104afaeff5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53968352",
-      "itunes_duration": "01:14:57",
-      "speakers": [
-        "Stephen Grant"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "stephen",
-        "grant"
-      ]
-    },
-    {
-      "key": "3d6d8bc88db279e72483f7b9433a4832cc11336b",
-      "title": "#4 Jon Richardson Podcast with John Robins",
-      "published_at": "2026-02-17T20:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/4-Jon-Richardson-Podcast-with-John-Robins-e3f7nh8",
-      "description": "#4 Jon Richardson Podcast with John Robins",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771354270028-039f28748988e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115645416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2Fd0f471af-57d7-a8c3-65d6-71112ca10b51.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "51555776",
-      "itunes_duration": "01:11:36",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "john",
-        "robins"
-      ]
     }
   ]
 }
@@ -6372,5 +6330,3 @@
 - 2026-02-20 — #8 Jon Richardson Podcast with Jarred Christmas
 - 2026-02-20 — #7 Jon Richardson Podcast with Paul Sinha — speakers: Paul Sinha
 - 2026-02-19 — #6 Jon Richardson Podcast with Rufus Hound — speakers: Rufus Hound
-- 2026-02-18 — #5 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
-- 2026-02-17 — #4 Jon Richardson Podcast with John Robins — speakers: John Robins

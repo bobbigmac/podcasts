@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
-- last_modified: `Sun, 04 Oct 2026 23:01:00 GMT`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- last_modified: `Sun, 11 Oct 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e91ccdd345d4e611f23bb8b1f126402025e6b048",
+      "title": "ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student",
+      "published_at": "2026-10-11T23:01:00+00:00",
+      "link": null,
+      "description": "Alexei Sayle, one of the key figures of the alternative comedy scene and star of The Young ones joins Seann Walsh to talk about life in Liverpool, growing up as a member of the Communist Party and how he was a challenging student. Get Alexei's brilliant new book here See Seann Walsh Live On Tour Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9476170486.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2674",
+      "speakers": [
+        "Having Communist Parents",
+        "Difficult Student Alexei Sayle",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "alexei",
+        "sayle",
+        "liverpool",
+        "parents",
+        "student"
+      ]
+    },
     {
       "key": "9208e30cd8ab8e8a4baa967fc9e5c5aa7c6d4bab",
       "title": "How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview",
@@ -1971,6 +1995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-11 — ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student — speakers: Having Communist Parents, Difficult Student Alexei Sayle, Seann Walsh
 - 2026-10-04 — How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview — speakers: Seann Walsh
 - 2026-09-27 — JACOB HAWLEY: Why I Started Screen Rot, Playing in a Band in Greece, Studying Drama At Uni — speakers: Jacob Hawley, Seann Walsh
 - 2026-09-20 — JACOB HAWLEY: Being Naughty, Class Dynamics & Ricky Gervais Inspiration — speakers: Jacob Hawley Being Naughty, Jacob Hawley, Seann Walsh

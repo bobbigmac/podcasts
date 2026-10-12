@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-08T00:59:46+00:00`
-- checked_at: `2026-10-08T00:59:46+00:00`
-- last_modified: `Wed, 07 Oct 2026 23:00:00 GMT`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- last_modified: `Sun, 11 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/romesh",
   "title": "The Romesh Ranganathan Show",
   "link": "https://linktr.ee/theromeshshow",
-  "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
+  "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-08T00:59:46+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "92d883291d1ae07815beecd6b08bf59a0c03a76d",
+      "title": "Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid",
+      "published_at": "2026-10-11T23:00:00+00:00",
+      "link": null,
+      "description": "What do Loki, Everest and Arsenal tea bags have in common? In this episode of The Romesh Ranganathan Show, Romesh is joined by actor Tom Hiddleston to talk about his new film Tenzing the true story behind the first successful ascent of Mount Everest, and what it was like filming it for real, with no green screen. They also get into 16 years as Loki, what Marvel gets right (and why it deserves more credit), and exactly how much Tom knows about what comes next. A Ranga Bee Production. Tenzing is available on Apple TV from 16th October. Chapters 00:00 Intro 02:50 A gift for Tom 05:02 How will Arsenal do this season? 06:16 Tom’s Soccer Aid experience 10:41 Are actors competitive? 13:30 Tom’s new film, Tenzing 14:28 Why Tenzing’s story needed telling 23:33 Filming Everest for real 25:08 Playing Loki 31:21 Why Marvel connects with everyone 38:05 Doomsday theories 42:07 A question from Shanthi 45:42 That Chatty Man dance 46:56 Dancing in Much Ado About Nothing 55:40 The best advice Tom’s ever been given 57:42 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/219d56ba-c3dd-11f1-8a48-b33b457cf156/image/4a9c13410e080e52b0a50ae0adb62043.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1148003698.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3659",
+      "speakers": [
+        "Tom Hiddleston",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "hiddleston",
+        "conquering",
+        "everest",
+        "marvel",
+        "universe",
+        "soccer"
+      ]
+    },
     {
       "key": "f325073472bd341b8a577f0b02626132f68491ad",
       "title": "Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act",
@@ -2525,6 +2549,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-11 — Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid — speakers: Tom Hiddleston, Romesh Ranganathan
 - 2026-10-07 — Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act — speakers: Gym Etiquette, Act What, Romesh Ranganathan
 - 2026-10-04 — Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton — speakers: Stacey Dooley, Romesh Ranganathan
 - 2026-09-30 — The Celebrity Impressions Challenge — speakers: Can Shanthi, Romesh Ranganathan

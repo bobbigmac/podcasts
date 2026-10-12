@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-09T01:13:32+00:00`
-- checked_at: `2026-10-09T01:13:32+00:00`
-- etag: `"djEuMi4wOjE3OTE1MDA1NTkzOTY="`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- etag: `"djEuMi4wOjE3OTE3NTk3NTkzNDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-09T01:13:32+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "260d8abd5a094a43537686f012d44fbacaec4306",
+      "title": "Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty",
+      "published_at": "2026-10-11T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-609-paul-unwin-oscar-nominated-writer-and-director-co-cre",
+      "description": "Paul Unwin is an Oscar nominated writer and director best known for co-creating the BBC drama Casualty in 1986, as well as co-creating Holby City and ITV’s Breathless . His short film Syrup won the Jury Prize at Cannes and was nominated for both an Oscar and a BAFTA, while his film Elijah won Gemini and Leo Awards. His extensive television directing credits include Poirot , Miss Marple , Messiah , Shameless , Silent Witness , Bramwell , EastEnders and The Bill . He was Artistic Director of Bristol Old Vic for five years, and his theatre credits include The Enfield Haunting in the West End and The Promise at Chichester Festival Theatre. Paul Unwin is our guest in episode 609 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ac8bc673dc1c1be4a1cf934/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75006537",
+      "itunes_duration": "1:18:07",
+      "speakers": [
+        "Paul Unwin Oscar",
+        "Paul Unwin"
+      ],
+      "topics": [
+        "paul",
+        "unwin",
+        "oscar",
+        "writer",
+        "director",
+        "casualty"
+      ]
+    },
     {
       "key": "6a4c6b59dee050fa480493a6ec5290e2f8babc83",
       "title": "My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You)",
@@ -13655,6 +13679,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-11 — Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty — speakers: Paul Unwin Oscar, Paul Unwin
 - 2026-10-08 — My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You) — speakers: Ahir Shah, Edinburgh Comedy Award Winner
 - 2026-10-04 — Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH — speakers: Mark Constantine Obe
 - 2026-10-01 — My Time Capsule The Dig - Ep. 20 - With Bob Cryer (Director of JOKE, a short film of Barry Cryer's jokes) — speakers: Bob Cryer, Barry Cryer

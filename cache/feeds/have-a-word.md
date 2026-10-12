@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-10-05T05:38:10+00:00`
-- checked_at: `2026-10-05T05:38:10+00:00`
-- etag: `"djEuMi4wOjE3OTEwMDM2Mzk1MDI="`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- etag: `"djEuMi4wOjE3OTE2MDg0Mzk2NDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-10-05T05:38:10+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bb53809d59741400b9b96e6c01bfcaae50a05c87",
+      "title": "#402 with Janine Harouni - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-10-10T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/402-with-janine-harouni-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.co.uk Dan's Tickets: https://dannightingale.com Carl's Stream: https://twitch.tv/senseicarl_ MAD THAT w/ Harry & Carl: madthat.com Finnlay K FINAL GIG TICKETS: https://www.skiddle.com/whats-on/Liverpool/Jacaranda-Baltic/Finnlay-K-Farewell-Show/42670455/ Film Club Live || https://tinyurl.com/filmcluboctober Finnlay K - Whole Again: https://FinnlayK.lnk.to/WHOLEAGAINLIVE As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Thanks to this week's sponsors: LABOM | https://lebom.app/i/haveaword Join our Have A Word football prediction league and see if you can beat the Lids. NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 HexClad | https://hexclad.co.uk/word10 Upgrade your kitchen. Up to 40% off site wide! ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1791589598895-877d995a-0a23-401b-83f8-47571953258d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6ac90edeb35728cbb8e80241/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132234762",
+      "itunes_duration": "2:17:44",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "janine",
+        "harouni",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "919598421577203ab8a7245531ebfdb79a5e8a51",
       "title": "#401 with Jessie Cave - Have A Word w/Adam, Dan & Carl",
@@ -9258,6 +9281,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-10 — #402 with Janine Harouni - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-10-03 — #401 with Jessie Cave - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-09-26 — #400 with Chris Kent - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-09-19 — #399 with Jake Patrick - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe

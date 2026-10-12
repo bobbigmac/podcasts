@@ -25656,6 +25656,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:d8cdfe77ad22",
+        "feed_title": "RockandRoll Confessions",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a37b71f4a2a3be0f4d88f00",
+        "dedupe_key": "fdb7154ef50ba893e6e15bf7b0e7c932d39baa4c",
+        "episode_key": "fdb7154ef50ba893e6e15bf7b0e7c932d39baa4c",
+        "title": "Stewart Lee",
+        "published_at": "2026-10-11T10:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week, Terry is joined by legendary comedian Stewart Lee. All new weekly podcast hosted by Clash drummer Terry Chimes interviewing guests that we, and hopefully you the listener, find extremely interesting.\nVideo versions of every episode are available here: https://www.youtube.com/channel/UCUCILBT5N-geRjklnBRQ37Q\n",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a37b71f4a2a3be0f4d88f00/e/6ac52497e361f9e2fbd3968d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee/id6786693009?i=1000795242598&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
@@ -28517,6 +28539,29 @@
         "enclosure_type": null,
         "speakers": [
           "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:58762a4d79e2",
+        "feed_title": "Audio Adventures Await With Audiobooks",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/ids/111/index.xml",
+        "dedupe_key": "5eee684058864c3c95ab8036985b8d141bf321c2",
+        "episode_key": "5eee684058864c3c95ab8036985b8d141bf321c2",
+        "title": "Dave Gorman - Genius: The Complete Series 1-3 Audiobook by Dave Gorman",
+        "published_at": "2018-06-28T20:16:35Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://audiobookzap.com/free Title: Dave Gorman - Genius: The Complete Series 1-3Subtitle: The BBC Radio 4 ComedyCategories: Entertainment, FunnyAuthor: Dave GormanNarrator: Dave GormanPublisher: BBC AudioRelease date: 06-28-2018Language: EnglishSummary:The complete Genius radio ser",
+        "audio_url": "https://samples.audible.de/bk/rhuk/003753/bk_rhuk_003753_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-the-complete-series-1-3-audiobook/id6821394996?i=1000794883250&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
         ],
         "topics": [],
         "external": true

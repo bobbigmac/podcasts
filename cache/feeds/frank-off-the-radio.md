@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-10-09T01:13:32+00:00`
-- checked_at: `2026-10-09T01:13:32+00:00`
-- last_modified: `Fri, 09 Oct 2026 00:19:11 GMT`
+- fetched_at: `2026-10-12T00:32:01+00:00`
+- checked_at: `2026-10-12T00:32:01+00:00`
+- last_modified: `Mon, 12 Oct 2026 00:11:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-09T01:13:32+00:00",
+  "fetched_at": "2026-10-12T00:32:01+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "97da0b4c00de7d41d9602964c74e2bebc40093dd",
+      "title": "Falling into a Void",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em are joined by Katie Norris. Frank’s been falling into a void, Em discusses Obscure Crushes, or what the kids call “hear me outs”, and Katie reveals her crush on Jeremy Clarkson. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2287119072.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2622",
+      "speakers": [
+        "Katie Norris",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "void"
+      ]
+    },
     {
       "key": "38deacdd259c12620397fb89a205b98239117897",
       "title": "To-Do Lists",
@@ -24951,6 +24970,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Falling into a Void — speakers: Katie Norris, Frank Skinner
 - 2026-10-09 — To-Do Lists — speakers: Katie Norris, Frank Skinner
 - 2026-10-07 — Frank Skinner's Radio Days: The Halitosians — speakers: Frank Skinner
 - 2026-10-05 — Never Had a Dream — speakers: Brennan Reece, Frank ta, Frank Skinner
