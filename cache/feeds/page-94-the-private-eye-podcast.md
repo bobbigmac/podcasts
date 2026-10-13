@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-10-12T00:32:01+00:00`
-- checked_at: `2026-10-12T00:32:01+00:00`
-- etag: `W/"158fc76c6f3d368d3d7bde5295a36075"`
-- last_modified: `Thu, 08 Oct 2026 07:55:23 GMT`
+- fetched_at: `2026-10-13T19:16:04+00:00`
+- checked_at: `2026-10-13T19:16:04+00:00`
+- etag: `W/"6ae5025446f210aa24127c9f3e75bba1"`
+- last_modified: `Tue, 13 Oct 2026 17:22:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-10-12T00:32:01+00:00",
+  "fetched_at": "2026-10-13T19:16:04+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,27 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "05c3e82f036dece9d5b5b14edf202b980f54d683",
+      "title": "193: The Jeffrey Archer Tribute Show",
+      "published_at": "2026-10-13T17:21:44+00:00",
+      "link": "https://audioboom.com/posts/8963829",
+      "description": "A unique tribute to Lord Archer, plus we mark Ian Hislop’s 40 years as editor of the mag, and look ahead to what autumn holds in British politics.",
+      "image_url": "https://audioboom.com/i/43881737/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963829.mp3?modified=1791912181&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2728",
+      "speakers": [
+        "Ian Hislop",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "jeffrey",
+        "archer",
+        "tribute"
+      ]
+    },
     {
       "key": "e8d9f601f237ea5e0b5c0288263993e050f30a21",
       "title": "192: Who Cares?",
@@ -4101,6 +4122,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — 193: The Jeffrey Archer Tribute Show — speakers: Ian Hislop, Andrew Hunter Murray
 - 2026-09-29 — 192: Who Cares? — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-09-15 — 191: Delo Or No Delo — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-09-02 — 190: Green Fingers — speakers: Saba Salman, Helen Lewis, Andrew Hunter Murray, Ian Hislop
