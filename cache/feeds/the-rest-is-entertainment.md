@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-08T00:59:46+00:00`
-- checked_at: `2026-10-08T00:59:46+00:00`
-- last_modified: `Thu, 08 Oct 2026 00:39:39 GMT`
+- fetched_at: `2026-10-13T02:36:00+00:00`
+- checked_at: `2026-10-13T02:36:00+00:00`
+- last_modified: `Mon, 12 Oct 2026 23:15:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-08T00:59:46+00:00",
+  "fetched_at": "2026-10-13T02:36:00+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,79 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b508577b365367dfacca67844bba7dbb95ef038a",
+      "title": "Are Nonsense Memes The New Punk Rock?",
+      "published_at": "2026-10-12T23:05:00+00:00",
+      "link": null,
+      "description": "Who ‘owns’ the rights to a new wave of anarchic AI-generated characters? Has a Hollywood super-agent bought his way onto the Bestseller list? What is Marina Hyde’s new project? A key character in the world of the ‘Italian brainrot’ meme universe has become the unlikely centre of a fierce legal battle. Can you copyright an AI-generated character, and what are the consequences? Last month, Marina left The Guardian after 25 years as a columnist. She reveals exclusively on the podcast what she’s doing next, and why. Hollywood super-agent Ari Emanuel has published a buzzy memoir - and is facing accusations that he’s been bulk ordering copies himself. Can you buy your way to becoming a Bestselling author? Always On is home to Marina’s original writing and YouTube show. Each week she’ll be covering politics, culture, sport, media and more. It’s free to subscribe now on marinahyde.com and YouTube The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ ⁠therestisentertainment.com ⁠⁠ For more Goalhanger Podcasts, head to ⁠ ⁠www.goalhanger.com ⁠⁠ Video Editor: Adam Thornton & Caroline Kaye Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3720135836.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3381",
+      "speakers": [
+        "New Punk Rock",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "nonsense",
+        "memes",
+        "punk",
+        "rock"
+      ]
+    },
+    {
+      "key": "5e06616d6750d64adbfa2dd616d01518e3bbe708",
+      "title": "Secrets of the Breakfast Scene - Celeb Traitors Reaction (Episode 4)",
+      "published_at": "2026-10-09T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE FOUR OF CELEBRITY TRAITORS Are The Faithful comedians a force to be reckoned with? Why are shields such a headache at the round table? What time is Castle breakfast exactly? Richard and Marina unpick the latest Celebrity Traitors episode as week two comes to a close. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Caroline Kaye & Jack Meek Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5110398500.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2495",
+      "speakers": [
+        "Breakfast Scene",
+        "Celeb Traitors Reaction",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "secret",
+        "breakfast",
+        "scene",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
+    {
+      "key": "aa8a7341bc1d51c97613107217bd454e254b414e",
+      "title": "“Hannah’s Big Mistake” - Celeb Traitors Reaction (Episode 3)",
+      "published_at": "2026-10-08T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE THREE OF CELEBRITY TRAITORS Can The Traitors get the game under control? Has Hannah Fry made the right decision? Will a herd mentality destroy The Faithfuls? Richard and Marina discuss all the castle’s shenanigans as week 2 of The Celebrity Traitors kicks off… The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com⁠ Video Editor: James Clayden & Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/474368e8-c32c-11f1-b6e1-ef53096edff9/image/64f400d756a5debee2dbf12bbd3b4977.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6866003191.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2360",
+      "speakers": [
+        "Hannah’s Big Mistake",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "hannah",
+        "mistake",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
     {
       "key": "f63a16d4d15f508b596de0c4de5ebda478f2556d",
       "title": "Prince Andrew: The Disney+ Era",
@@ -73,7 +146,7 @@
     },
     {
       "key": "d72f1a029a3aa8db42e5c04d6059793582f93a32",
-      "title": "\"The Boldest Move Yet?!\" - Celeb Traitors Reaction (Week 1)",
+      "title": "\"The Boldest Move Yet?!\" - Celeb Traitors Reaction (Episode 1 & 2)",
       "published_at": "2026-10-02T21:00:00+00:00",
       "link": null,
       "description": "WARNING: SPOILERS FOR WEEK ONE OF CELEBRITY TRAITORS Marina Hyde is joined by Traitors legend Charlotte Berman to review the first week of Celebrity Traitors 2027. They discuss all the chaotic castle antics so far and answer the questions everyone is desperate to know... who goes next? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Oli Ortega-Smith, Joe Pettit Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -90,8 +163,7 @@
         "boldest",
         "celeb",
         "traitors",
-        "reaction",
-        "week"
+        "reaction"
       ]
     },
     {
@@ -6909,9 +6981,12 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Are Nonsense Memes The New Punk Rock? — speakers: New Punk Rock, Richard Osman, Marina Hyde
+- 2026-10-09 — Secrets of the Breakfast Scene - Celeb Traitors Reaction (Episode 4) — speakers: Breakfast Scene, Celeb Traitors Reaction, Richard Osman, Marina Hyde
+- 2026-10-08 — “Hannah’s Big Mistake” - Celeb Traitors Reaction (Episode 3) — speakers: Hannah’s Big Mistake, Richard Osman, Marina Hyde
 - 2026-10-07 — Prince Andrew: The Disney+ Era — speakers: Stacey Solomon, Ryan Murphy, Richard Osman, Marina Hyde
 - 2026-10-05 — Is Tom Cruise In Hollywood’s Biggest Ever Flop? — speakers: Tom Cruise, Richard Osman, Marina Hyde
-- 2026-10-02 — "The Boldest Move Yet?!" - Celeb Traitors Reaction (Week 1) — speakers: Richard Osman, Marina Hyde
+- 2026-10-02 — "The Boldest Move Yet?!" - Celeb Traitors Reaction (Episode 1 & 2) — speakers: Richard Osman, Marina Hyde
 - 2026-09-30 — How John Grisham Sold 400 Million Books — speakers: John Grisham Sold, Richard Osman, Marina Hyde
 - 2026-09-28 — New Strictly Hosts & New Celebrity Traitors — speakers: Richard Osman, Marina Hyde
 - 2026-09-24 — What A Time To Be Alive! - Marina Hyde [EXCLUSIVE EXTRACT] — speakers: Marina Hyde, Richard Osman

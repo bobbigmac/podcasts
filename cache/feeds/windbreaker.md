@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-10-06T06:19:05+00:00`
-- checked_at: `2026-10-06T06:19:05+00:00`
-- etag: `W/"45d5f-Xxy1BpN+1qyPatabVO7xc729xIU"`
+- fetched_at: `2026-10-13T02:36:00+00:00`
+- checked_at: `2026-10-13T02:36:00+00:00`
+- etag: `W/"464ac-wlxbiFfst/nEwPbNNAv8DzL48OI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-10-06T06:19:05+00:00",
+  "fetched_at": "2026-10-13T02:36:00+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0147cb76ce657b7ade9aa93b1fb4b54c48f3564a",
+      "title": "Horror Mechanics Need a Refresh | Windbreaker Podcast",
+      "published_at": "2026-10-12T23:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Horror-Mechanics-Need-a-Refresh--Windbreaker-Podcast-e3qd9hd",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, Marty, and Jesse G chat about the current state of horror games, and how they could use a mechanical refresh. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6000647312.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67897147",
+      "itunes_duration": "01:09:58",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "horror",
+        "mechanics",
+        "refresh",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "d1ca85eb95d63ff625108cfcc0f7b4e609b844b4",
       "title": "When a Developer “Levels Up” | Windbreaker Podcast",
@@ -3310,6 +3333,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Horror Mechanics Need a Refresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-10-06 — When a Developer “Levels Up” | Windbreaker Podcast — speakers: Dark Soul, Yahtzee Croshaw, Marty Sliva
 - 2026-09-29 — How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-22 — Some Games Shouldn't Be Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
