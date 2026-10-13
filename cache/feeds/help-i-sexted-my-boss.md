@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-09T10:31:47+00:00`
-- checked_at: `2026-10-09T10:31:47+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RFMU16STFNak13TXpJPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-13T10:33:36+00:00`
+- checked_at: `2026-10-13T10:33:36+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RFNE5qYzFOemt5T0RFPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-09T10:31:47+00:00",
+  "fetched_at": "2026-10-13T10:33:36+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9a3ff13aa75cacd65d748e5a5ef491079c6ca643",
+      "title": "Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding",
+      "published_at": "2026-10-13T04:59:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-shes-eating-a-kebab-out-of-my-anus-and-jordans-moonland",
+      "description": "William Hanson had a brush with death this week, coming dangerously close to a full knockout on his way to the airport. Meanwhile, Jordan North has discovered Spain’s finest cleaning products and decided they’re better than any aftershave money can buy. Plus, the boys tackle your burning dilemmas, including delivery drivers doing a poo, whether you should surrender your bed to a guest, and oral explorations of untraditonal zones. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1791812187032-94918e94-d7bf-4e4d-b8a9-b7982b86fc95.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6accd68dbd38377b022a36aa/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pfE-3y9iGZwZVisMOc-28TB70Nd3Po4xOnR98FRlFvA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40425012",
+      "itunes_duration": "42:06",
+      "speakers": [
+        "Jordan’s Moonlanding William Hanson",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "kebab",
+        "anus",
+        "jordan"
+      ]
+    },
     {
       "key": "c9e4512b3d686cd2c0778a9a3ceff2f4682f6f14",
       "title": "Jordan Gets A Filling | And Our Most Hated Cutlery",
@@ -15220,6 +15242,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding — speakers: Jordan’s Moonlanding William Hanson, William Hanson, Jordan North
 - 2026-10-09 — Jordan Gets A Filling | And Our Most Hated Cutlery — speakers: Jordan North, William Hanson
 - 2026-10-06 — Help I Hate His Name | And Mr Pantry Moth — speakers: William Hanson, Jordan North
 - 2026-10-02 — French Rug Penises | And Jordan Works On His Mini — speakers: Jordan Works, William Hanson, Jordan North

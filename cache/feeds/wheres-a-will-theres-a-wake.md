@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-10-06T06:19:05+00:00`
-- checked_at: `2026-10-06T06:19:05+00:00`
-- last_modified: `Tue, 06 Oct 2026 04:00:00 GMT`
+- fetched_at: `2026-10-13T10:33:36+00:00`
+- checked_at: `2026-10-13T10:33:36+00:00`
+- last_modified: `Tue, 13 Oct 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-06T06:19:05+00:00",
+  "fetched_at": "2026-10-13T10:33:36+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,45 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7f42791c47883d5a27a610ca9bdfbfa4cd168f36",
+      "title": "Here Lies Dan Jones",
+      "published_at": "2026-10-13T04:00:00+00:00",
+      "link": null,
+      "description": "Liquidity, trebuchets and a eulogy from Guns N’ Roses' Duff Mckagan… It's This Is History host, British historian and novelist Dan Jones! Check out This is History here: lnk.to/thisishistory Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dcf563ee-7c67-11f0-bc82-2b94de6884b0/image/460e05f139de78b08e05bfe87bd79444.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY3024628603.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2631",
+      "speakers": [
+        "Dan Jones Liquidity",
+        "Duff Mckagan",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "jones"
+      ]
+    },
+    {
+      "key": "11b141c57b471b64126f74506bfbbf29df5a881d",
+      "title": "(A)LIVE Funeral!",
+      "published_at": "2026-10-08T04:00:00+00:00",
+      "link": null,
+      "description": "Big God Ollie has booked the church. That's the good news. The bad news? As Mel and Producer Goddess Charlie quickly discover, absolutely nothing else has been organised. Where There's A Will There's A Wake is doing a LIVE funeral with Amazon Music on 20th October and there are some very important questions that need answering... Who's getting buried? What's actually going to happen? And can the Death Team pull it all together before the big day? Over the next five episodes, join Mel, Charlie and the rest of the heavenly planners as they scramble to organise every last detail of this landmark live funeral. Expect divine intervention, questionable decision-making and plenty of opportunities for listeners to get involved along the way. Head over to Amazon Music to follow the rest of this exclusive mini-series, help shape the funeral plans, and find out everything you need to know before joining us for the live funeral itself on 20th October. Death waits for no one. And apparently, neither do production deadlines. We need your help! Send your ideas, funeral trends and fails into @willthereswake. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d39c6864-c2a3-11f1-8e7a-cbc6029d2b94/image/3072e4f0ce8ca627a639a96a2474410a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY8528160063.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "922",
+      "speakers": [
+        "Producer Goddess",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "funeral"
+      ]
+    },
     {
       "key": "ace709a318a9405ea72d2a1ff812b93ebd932ee7",
       "title": "Here Lies Reece Shearsmith",
@@ -4409,6 +4448,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — Here Lies Dan Jones — speakers: Dan Jones Liquidity, Duff Mckagan, Mel Giedroyc
+- 2026-10-08 — (A)LIVE Funeral! — speakers: Producer Goddess, Mel Giedroyc
 - 2026-10-06 — Here Lies Reece Shearsmith — speakers: Reece Shearsmith Wrapped, Steve Pemberton, Mel Giedroyc
 - 2026-09-29 — Here Lies Sue Perkins — speakers: Lies Sue Perkins, Mel Giedroyc
 - 2026-09-22 — Here Lies Nish Kumar — speakers: Here Lies Nish Kumar, Mel Giedroyc
