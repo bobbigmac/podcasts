@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- last_modified: `Tue, 06 Oct 2026 16:56:32 GMT`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- last_modified: `Tue, 13 Oct 2026 12:54:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "424ece1c46f13861010e4b1fa1c504ce3bb99af1",
+      "title": "Contentment, The M.A.S.K. movie and Steven Bartlett",
+      "published_at": "2026-10-12T23:00:00+00:00",
+      "link": null,
+      "description": "Why Is Tom Pitching a M.A.S.K. Movie To Romesh? Strap in, this one is is exactly as unhinged as it sounds. In this episode of Wolf & Owl, a chat about Terry Pratchett somehow turns into a full-blown debate on contentment, imposter syndrome and why winning an award never fills the gap. The boys then argue over whether Coco Pops are a justifiable expense if you’re living in a park. Then, Tom introduces Mister Fart and pitches Romesh a live-action M.A.S.K. movie... Got a question, dilemma or poem? Email wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 02:02 Terry Pratchett 03:32 What is contentment? 06:03 Social media and comparing yourself 08:08 Imposter syndrome 14:51 The Back to the Future ending 22:36 Mister Fart 28:12 Pitching a M.A.S.K. movie 39:56 Tom’s closer: Megan Fox and the squirrels 42:30 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1750334c-c3e4-11f1-9a87-d715583457e8/image/0e52947800cd20e67985a9a208a038c9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT7634423086.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2739",
+      "speakers": [
+        "Steven Bartlett",
+        "Tom Pitching",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "contentment",
+        "movie",
+        "steven",
+        "bartlett"
+      ]
+    },
+    {
+      "key": "798718f5c38d2d1cc1082c6745223ec0274acd0d",
+      "title": "Vicks In A Nebulizer, Awkward Pub Rounds and Joining The Army",
+      "published_at": "2026-10-08T23:00:00+00:00",
+      "link": null,
+      "description": "Would Romesh & Tom Survive The Army? It's the Friday Q&A, and the inbox is in a thoughtful mood. A 13-year-old is dreading the school morning, an 18-year-old is baffled by pub rounds, and a Royal Navy mandrill wants to know which branch of the military the boys would join. Plus, Romesh learns why you shouldn't put Vicks in a nebulizer... Got a question, dilemma or poem? Email wolfandowlpod@gmail.com A Ranga Bee Production. #WolfAndOwl #RomeshRanganathan #TomDavies #ComedyPodcast Chapters 00:00 Intro 00:33 Romesh's Vicks problem 06:14 Romesh hated secondary school 13:24 Romesh's £40 night out 16:36 Everyone's just trying to fit in 19:08 Militant Mandrill 20:43 Army, Navy or Air Force? 23:21 A very short army career 27:28 Would Romesh have made a soldier? 29:33 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/83eafa76-c17a-11f1-b7cb-bfe8f6492dc2/image/4e4fe7a9dbb9456afd6c94e53c4f7b8f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT2460312330.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1957",
+      "speakers": [
+        "Awkward Pub Rounds",
+        "Tom Survive",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "vick",
+        "nebulizer",
+        "awkward",
+        "rounds",
+        "army"
+      ]
+    },
     {
       "key": "86625bec584ae2143b713dce77d465930eeaa8c7",
       "title": "Therapy Role Play, Skims Underwear and Rodimus Prime",
@@ -7707,6 +7756,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-12 — Contentment, The M.A.S.K. movie and Steven Bartlett — speakers: Steven Bartlett, Tom Pitching, Romesh Ranganathan, Tom Davis
+- 2026-10-08 — Vicks In A Nebulizer, Awkward Pub Rounds and Joining The Army — speakers: Awkward Pub Rounds, Tom Survive, Romesh Ranganathan, Tom Davis
 - 2026-10-05 — Therapy Role Play, Skims Underwear and Rodimus Prime — speakers: Therapy Role Play, Romesh Ranganathan, Tom Davis
 - 2026-10-01 — Romesh Flashes His Balls During A Colonic... — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-28 — Sleepovers, School Friends And Insecurities — speakers: Romesh Ranganathan, Tom Davis

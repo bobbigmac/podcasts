@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-10-07T13:21:04+00:00`
-- checked_at: `2026-10-07T13:21:04+00:00`
-- etag: `W/"1b698-/WjERZLr68LIsaTnOtFHwPQdiYs"`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `W/"1be90-cziGsgQVx0ryg99hZgSa1fUnLEg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-10-07T13:21:04+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f0b136dc7b86b08bebf93148f007272d835a8479",
+      "title": "Digger, Carrie, and the Lanterns Finale | The Rewind Podcast",
+      "published_at": "2026-10-14T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Digger--Carrie--and-the-Lanterns-Finale--The-Rewind-Podcast-e3qfh8n",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about Tom Cruise in Digger, Mike Flanagan's Carrie series on Amazon, and the finale of Lanterns. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/127435479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F17679a97-ae2c-a8a3-2dff-81c1a089b0ee.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "182535584",
+      "itunes_duration": "02:06:45",
+      "speakers": [
+        "Tom Cruise",
+        "Mike Flanagan",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "digger",
+        "carrie",
+        "lanterns",
+        "finale",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "e567656e572e85dd296d3b67912e5314178e8efe",
       "title": "Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast",
@@ -1415,6 +1442,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Digger, Carrie, and the Lanterns Finale | The Rewind Podcast — speakers: Tom Cruise, Mike Flanagan, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-30 — Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-16 — Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast — speakers: Resi Rewatch, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-02 — Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

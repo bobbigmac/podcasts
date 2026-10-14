@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTEzNDIwMzk5NjY="`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `"djEuMi4wOjE3OTE5NDY4Mzk2ODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0bedc9ade7f85f822d42392c5e9ff90d264c02f9",
+      "title": "John Cena",
+      "published_at": "2026-10-14T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/john-cena",
+      "description": "WWE legend-turned-acting A-lister John Cena is this week’s dream diner. He sits down with Ed and James to talk about his coffee obsession, wrestling tips and how to power through promo when you’re not feeling your best… Trigger warning: this episode contains chat about counting calories. John Cena stars in ‘Matchbox The Movie’ which is out now on Apple TV. Watch it here . Follow John Cena on Instagram @johncena Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1791553194583-72ebcef8-d12c-4958-94af-c689879343bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac8eebb8f90a39dfceb90ec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63151542",
+      "itunes_duration": "1:05:46",
+      "speakers": [
+        "John Cena Wwe",
+        "John Cena",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "john",
+        "cena"
+      ]
+    },
     {
       "key": "5e6734b18d0a7cfd1eeb5b20557f1198acafb05a",
       "title": "Paul F. Tompkins (Tasting Menu)",
@@ -9035,6 +9058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — John Cena — speakers: John Cena Wwe, John Cena, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-07 — Paul F. Tompkins (Tasting Menu) — speakers: Bojack Horseman, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-30 — Melvin Odoom — speakers: Melvin Odoom, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-23 — Pierre Novellie — speakers: Pierre Novellie Stand, Pierre Novellie, Ed Gamble, James Acaster, Ben Williams

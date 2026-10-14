@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-14T00:17:16+00:00`
-- checked_at: `2026-10-14T00:17:16+00:00`
-- etag: `"djEuMi4wOjE3OTE4MzQyOTMzNjA="`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `"djEuMi4wOjE3OTE5NDgwMzk0NDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-14T00:17:16+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "112039873a3fda9fd980710e56db75c113aa9fd1",
+      "title": "LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691",
+      "published_at": "2026-10-14T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the absolutely glorious actor LEILA FARZAD ! Leila's been on a huge journey in carving her own path in the wide and weird world of acting, a journey that some might have simply clicked and saved at any part of it and called it a day. But it's a real treat to hear how it's all turned out (and indeed continues to play out in the present), and to have that reminder that it isn't all luck and the hands we're dealt - this stuff takes a huge amount of thought, risk, skill and time. Hear about how Leila has worked on all sizes of screen as well as stage, found methods to unblock emotion, and had the unique experience of having a place to call home in Iran as well as the UK (or as Pip's unintentional phone autocorrect would have it, \"ENGLAND\" - don't worry, it all gets explained in the first few minutes, way to go phone ). It's a really lovely conversation and a nice extended one too, so get settled and enjoy hearing from a true great. PIP'S PATREON PAGE if you're of a supporting nature IMDB BLACK MIRROR: JOAN IS AWFUL I HATE SUZIE INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1791832899105-4d9bcf1d-5d5f-4716-8371-f014772c2689.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6acd38b57c5c47f85ea48785/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "219974478",
+      "itunes_duration": "1:31:34",
+      "speakers": [],
+      "topics": [
+        "leila",
+        "farzad",
+        "truth",
+        "emotion",
+        "suzie",
+        "black",
+        "mirror",
+        "decameron"
+      ]
+    },
     {
       "key": "9baf65554449f0a0294eb1b35a9dea9a8a40d319",
       "title": "KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind",
@@ -19763,6 +19786,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691
 - 2026-10-09 — KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind
 - 2026-10-07 — SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690
 - 2026-10-02 — PETER CAPALDI (Local Hero / The Thick Of It / Doctor Who) • Friday Rewind — speakers: Peter Capaldi

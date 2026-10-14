@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- last_modified: `Wed, 07 Oct 2026 01:06:33 GMT`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- last_modified: `Wed, 14 Oct 2026 01:09:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,47 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "406061e9c5b1c1ee39912995d52f4ed7376549cc",
+      "title": "Catherine Bohart",
+      "published_at": "2026-10-14T01:00:00+00:00",
+      "link": null,
+      "description": "One of the leading lights of Irish comedy: it’s Catherine Bohart and she brings bucketloads of her trademark charm and wit into the podcast studio. I mean it’s worth coming for the Hockey Smut alone. Catherine wrestles with her new found passion for racy Ice Hockey fantasies. We then take a violent turn into the less racy but arguably healthier world of porridge. And you won’t want to miss Catherine trying to explain to Russell the art of Irish hospitality - working like a dog then pretending that it was nothing. Catherine has extended her latest tour ‘Borrowing Trouble’ and you should for sure go and get a ticket and get involved. She’s got a handful of dates across the UK and Ireland and you can find them all, and book tickets by going to https://www.catherinebohart.com/ You can also find there videos, podcasts and all those other things that you might quite rightly expect to find on a comedian’s website. Thank you for your indulgence, it has been noted. TO THE SPURTLE! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9894af28-c614-11f1-bcc7-e3d44da25f9c/image/36213a22ab5c4fbb0d1be10dab9c9c80.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7675997611.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3595",
+      "speakers": [
+        "Catherine Bohart",
+        "Russell Howard"
+      ],
+      "topics": [
+        "catherine",
+        "bohart"
+      ]
+    },
+    {
+      "key": "be6d14c365a462353ead67d5d128c878434a233a",
+      "title": "September's Moments of the Month",
+      "published_at": "2026-10-11T01:00:00+00:00",
+      "link": null,
+      "description": "Welcome to September's Moments of the Month. In case you’re new here, this is a compilation show with a little flavour of each guest we’ve enjoyed this month, but not the whole show. Then if you like the taste of any of them you can double-back and listen to the whole episode. It’s a good way to discover someone you would never have thought of clicking on before. First up we’ve got the vintage star of stage and screen, comedian Brian Conley. Then we had one of the best one-liner comics in the business - Mark Simmons. Following that was one of the most fascinating and quirky comedians on the circuit - Alisdair Beckett King. Then Russell sat down with the pop icon Natasha Bedingfield. And lastly it was the legend of British comedy, reflecting on his life on stage and trying to change the world - Alexei Sayle. So there we go! That’s a little taste of what September was like. All of those shows are available in full right now, so if you got a taste for it, go and get some more. Thanks as always for listening and there will be a new show, as usual, this coming Wednesday. Byeeee! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6482754437.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3939",
+      "speakers": [
+        "Month Welcome",
+        "Russell Howard"
+      ],
+      "topics": [
+        "september",
+        "moments",
+        "month"
+      ]
+    },
     {
       "key": "98e5fce92f674d89e6f90e5f1fe585b8f23fbae6",
       "title": "George Fouracres",
@@ -3515,6 +3556,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Catherine Bohart — speakers: Catherine Bohart, Russell Howard
+- 2026-10-11 — September's Moments of the Month — speakers: Month Welcome, Russell Howard
 - 2026-10-07 — George Fouracres — speakers: Russell Howard
 - 2026-09-30 — Alexei Sayle — speakers: Alexei Sayle, Russell Howard
 - 2026-09-23 — Natasha Bedingfield — speakers: Natasha Bedingfield, Russell Howard

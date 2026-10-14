@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-10-13T19:16:04+00:00`
-- checked_at: `2026-10-13T19:16:04+00:00`
-- etag: `"djEuMi4wOjE3OTE4OTg3NDcwMTg="`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `"djEuMi4wOjE3OTE5NDMyMzk4MTU="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-10-13T19:16:04+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "eda357b8cd086d046f1cdf4a066de17def2bd64b",
+      "title": "WDWDY #91.1: Ever heard of a penguin? (Max's Yesterday)",
+      "published_at": "2026-10-14T02:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-911-ever-heard-of-a-penguin-maxs-yesterday",
+      "description": "On this mid-week mayhem episode we find out what Max did with his yesterday... And there's a big new announcement - we're doing our first ever live stream episode! One Thursday 22nd Oct at 8pm GMT we'll be recording the midweek mayhem episodes and you can watch along and interract with Max and David. There will be a listener live Q+A and we may even try some real time audience 'Interruption!' moments. If you want to join live on the night you'll need to be a member of the fan club (sign up below) and you'll get a link on the day to join the session. Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1791891230999-6ab4a7de-e28e-4672-a0a8-34d5062acfe4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ace3217e039ee8e85a874c0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54191333",
+      "itunes_duration": "56:26",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "penguin",
+        "yesterday"
+      ]
+    },
     {
       "key": "443a114719c5d415db99075679039077ef18ce23",
       "title": "S6 EP5: Emma Sidi",
@@ -4249,6 +4269,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — WDWDY #91.1: Ever heard of a penguin? (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-11 — S6 EP5: Emma Sidi — speakers: Sidi Joining, Max Rushden, David O'Doherty
 - 2026-10-07 — WDWDY #90.1: High Performance Breakfast (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-04 — S6 EP4: Lara Ricote — speakers: Lara Ricote, Max Rushden, David O'Doherty

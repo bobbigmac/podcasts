@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"djEuMi4wOjE3OTEzMzEyMzk1Mzk="`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `"djEuMi4wOjE3OTE5MzYwMzk3MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "10352abaa7262e53e817c02052eba289bc734cc5",
+      "title": "Christine Baranski",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/christine-baranski",
+      "description": "This week we’re beyond excited to welcome the fabulous Christine Baranski to the table. Christine joined us fresh from rehearsals for her West End debut in 'Hay Fever' alongside Richard E Grant, so we had plenty to talk about. We heard about Christine growing up in a Polish-American family in Buffalo, her nana’s theatrical influence, the Christmas traditions she keeps alive with her own family, how she went from Broadway to becoming a television star in Cybill and also some fab on set stories from The Gilded Age and Mamma Mia - plus we get Christine’s take on whether a third film could be on the cards 👀 Thank you Christine for such a wonderful afternoon. You can see Christine alongside Richard E Grant in Hay Fever at the Wyndham’s Theatre. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1791914671066-86f04ba3-ea69-402e-a7a2-742fd124b5b3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6acdf7ee5ca232c4637a9881/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48843964",
+      "itunes_duration": "50:52",
+      "speakers": [
+        "Christine Baranski"
+      ],
+      "topics": [
+        "christine",
+        "baranski"
+      ]
+    },
     {
       "key": "a8976199a621218d515909f20a38b294147afea0",
       "title": "Stephen Graham",
@@ -34,8 +53,8 @@
       "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1791312443837-255e40aa-f81c-46ee-83a4-a685e3744dc2.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6ac534f695b478544bf7616f/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "60722782",
-      "itunes_duration": "1:03:15",
+      "enclosure_length": "60659252",
+      "itunes_duration": "1:03:11",
       "speakers": [
         "Stephen Graham"
       ],
@@ -7478,6 +7497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Christine Baranski — speakers: Christine Baranski
 - 2026-10-07 — Stephen Graham — speakers: Stephen Graham
 - 2026-09-30 — Kelly Rowland — speakers: Kelly Rowland
 - 2026-09-09 — Second Helpings - Rob Brydon — speakers: Rob Brydon, Rob Brydo

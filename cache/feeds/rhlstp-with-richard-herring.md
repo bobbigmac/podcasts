@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-12T10:46:55+00:00`
-- checked_at: `2026-10-12T10:46:55+00:00`
-- etag: `"djEuMi4wOjE3OTE3NzM4NTkzMzc="`
+- fetched_at: `2026-10-14T04:59:53+00:00`
+- checked_at: `2026-10-14T04:59:53+00:00`
+- etag: `"djEuMi4wOjE3OTE5NDY2NTkyNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-12T10:46:55+00:00",
+  "fetched_at": "2026-10-14T04:59:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "07b884190f032cd4aa7a53ed09c7fb50b0f3a0d3",
+      "title": "Felicity Ward - \"Champagne Supernova\"",
+      "published_at": "2026-10-14T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #631 - Champagne Supernova - Richard is four shows into his Fringe run and has crossed the one line that Ricky Gervais fans will not tolerate and he’s a bit under the weather and immune compromised so this may be his last show. Luckily his guest is a healing force of nature - Felicity Ward. They talk about Covid, death, divorce and cancer and how these things are all comedy gold, plus Dancing with the Stars, being the Australian David Brent (and a second red line for Gervais fans), getting cast in another one series but brilliant show, Time Bandits and meeting Lisa Kudrow and whether Richard could do with a therapist and whether it’s worth having kids in case you lose an organ. Another really lively and fun show. Don’t skip it! See RHLSTP live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791369404516-0fc6f8c9-b6fd-44da-9975-632dadafad88.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ac620cc29b9fbfbe2424953/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28793626",
+      "itunes_duration": "59:59",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "felicity",
+        "ward",
+        "champagne",
+        "supernova"
+      ]
+    },
     {
       "key": "feab3890f0fd1c508056d7d5694b76652e44f4a5",
       "title": "Bridget Christie (Retro) - \"Unchained Melody\"",
@@ -24219,6 +24240,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Felicity Ward - "Champagne Supernova" — speakers: Richard Herring
 - 2026-10-12 — Bridget Christie (Retro) - "Unchained Melody" — speakers: Bridget Christie, Richard Herring
 - 2026-10-10 — Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do — speakers: Craven Newsround Compilation, Randrew Andrew, No Can Do, Richard Herring
 - 2026-10-09 — Reece Shearsmith on Things I Took From The Dark - Book Club — speakers: Reece Shearsmith, Book Club, Richard Herring
