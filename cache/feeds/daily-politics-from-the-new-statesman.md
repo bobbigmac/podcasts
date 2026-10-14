@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-12T21:16:31+00:00`
-- checked_at: `2026-10-12T21:16:31+00:00`
-- etag: `"djEuMi4wOjE3OTE4MTc5ODI5MzM="`
+- fetched_at: `2026-10-14T11:50:11+00:00`
+- checked_at: `2026-10-14T11:50:11+00:00`
+- etag: `"djEuMi4wOjE3OTE5NzEyOTQ0MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-12T21:16:31+00:00",
+  "fetched_at": "2026-10-14T11:50:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -32,7 +32,7 @@
       "title": "The Green Party is in crisis",
       "published_at": "2026-10-12T15:13:02+00:00",
       "link": "https://shows.acast.com/newstatesman/episodes/the-green-party-is-in-crisis",
-      "description": "It’s been a tumultuous time for the Green Party. Their controversial “Zionism is racism vote” and leader Zack Polanski’s defeat in a by-election in North London has led to turmoil within the party. Meanwhile, is the long-suffering Tory party finally experiencing a “Kemi-bounce”? And how about the Lib Dems? Is leader Ed Davey facing a coup? Anoosh Chakelian is joined by Megan Kenyon and Ethan Croft. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "It’s been a tumultuous time for the Green Party. Their controversial “Zionism is racism vote” and leader Zack Polanski’s defeat in a by-election in North London has led to turmoil within the party. Meanwhile, is the long-suffering Tory party finally experiencing a “Kemi-bounce”? And how about the Lib Dems? Is leader Ed Davey facing a coup? Anoosh Chakelian is joined by Megan Kenyon and Ethan Croft. Correction: Jamie Driscoll was not suspended from the Labour Party. He wasn’t allowed to stand as a candidate and so he left the party. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1791817795531-09ad9e34-b5a8-4085-87f9-7c159edab9ff.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6accf82df037ed060a933f95/media.mp3",
       "enclosure_type": "audio/mpeg",

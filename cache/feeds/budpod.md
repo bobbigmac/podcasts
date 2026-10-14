@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-10-07T13:21:04+00:00`
-- checked_at: `2026-10-07T13:21:04+00:00`
-- etag: `"djEuMi4wOjE3OTEzNDkyOTk0MTQ="`
+- fetched_at: `2026-10-14T11:50:11+00:00`
+- checked_at: `2026-10-14T11:50:11+00:00`
+- etag: `"djEuMi4wOjE3OTE5NTQwOTkyOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-10-07T13:21:04+00:00",
+  "fetched_at": "2026-10-14T11:50:11+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ad91b41fef51b61c1a1d0c826d1f70217ad3704c",
+      "title": "S2E70 | Log Dogs",
+      "published_at": "2026-10-14T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e70-log-dogs",
+      "description": "This week the buds discuss Glenn’s upsetting meal, eBaum's World, Love Island, 'Grandpa and baby' and Cast Away. This week's sketch: 'Typing Wizard' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! November 3rd, 2026 - Tickets available https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6aced4c668b7ce6ffb1d1eec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47835010",
+      "itunes_duration": "49:49",
+      "speakers": [
+        "Log Dogs",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": []
+    },
     {
       "key": "36c17c9059b21155d41ed2f83c453eb279b22319",
       "title": "S2E69 | Big the Bear",
@@ -8162,6 +8180,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — S2E70 | Log Dogs — speakers: Log Dogs, Phil Wang, Pierre Novellie
 - 2026-10-07 — S2E69 | Big the Bear — speakers: Honey Badger, Phil Wang, Pierre Novellie
 - 2026-09-30 — S2E568 | Geists & Dolls — speakers: Phil Wang, Pierre Novellie
 - 2026-09-23 — S2E67 | Cause of Ghosts — speakers: Phil Wang, Pierre Novellie

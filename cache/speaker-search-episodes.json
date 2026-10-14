@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
+        "episode_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
+        "title": "John Cena",
+        "published_at": "2026-10-14T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "WWE legend-turned-acting A-lister John Cena is this week’s dream diner. He sits down with Ed and James to talk about his coffee obsession, wrestling tips and how to power through promo when you’re not feeling your best…\nTrigger warning: this episode contains chat about counting calories. \nJohn Cena stars in ‘Matchbox T",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac8eebb8f90a39dfceb90ec/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/john-cena/id1442950743?i=1000796242654&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
         "episode_key": "467e6775fbbd86507c2a20f74733a6c0ab3acb3f",
         "title": "Paul F. Tompkins (Tasting Menu)",
@@ -3517,6 +3540,50 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "69cf57fcb8b443acdaf5225c30f789c0f3a26a1e",
+        "episode_key": "69cf57fcb8b443acdaf5225c30f789c0f3a26a1e",
+        "title": "Episode 10",
+        "published_at": "2024-01-23T06:00:04Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the final episode of the series. The truth about Operation Pot Roast is revealed, as a recording of Detective Nicely (Louis Theroux) preparing to confront Police Chief Rittenberger (Michael McKean) is unearthed. There's a prison break. There's a casino heist. There's an armed stand off with the cops. There are ice",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e9fc5c5f6900120066c4/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-10/id1716339860?i=1000642596629&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "ac8c50e619ecef6d941d507de8e54ad9545bdf67",
+        "episode_key": "ac8c50e619ecef6d941d507de8e54ad9545bdf67",
+        "title": "Episode 9",
+        "published_at": "2024-01-16T06:00:38Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Rosie Jones, the most notorious bully on the comedy circuit, joins Pat and Adams in the studio this week as events really start to come to a head. Sita tells Pat an uncomfortable truth, which is a devastating blow for someone with a pathological need to be liked. Clarke also drops a bombshell - the sort of bombshell wi",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e9c41a7d7e001254c696/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-9/id1716339860?i=1000641800333&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
@@ -6285,6 +6352,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
+        "episode_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
+        "title": "John Cena",
+        "published_at": "2026-10-14T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "WWE legend-turned-acting A-lister John Cena is this week’s dream diner. He sits down with Ed and James to talk about his coffee obsession, wrestling tips and how to power through promo when you’re not feeling your best…\nTrigger warning: this episode contains chat about counting calories. \nJohn Cena stars in ‘Matchbox T",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac8eebb8f90a39dfceb90ec/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/john-cena/id1442950743?i=1000796242654&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
