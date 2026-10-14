@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-13T19:16:04+00:00`
-- checked_at: `2026-10-13T19:16:04+00:00`
-- etag: `"djEuMi4wOjE3OTE4Nzg3MjU1MDI="`
+- fetched_at: `2026-10-14T17:09:04+00:00`
+- checked_at: `2026-10-14T17:09:04+00:00`
+- etag: `"djEuMi4wOjE3OTE5OTU3NjIyNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-13T19:16:04+00:00",
+  "fetched_at": "2026-10-14T17:09:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c0247bb3a3f756e032e354d42ac9349322506f47",
+      "title": "The New Fascists | Naomi Klein and Astra Taylor interview",
+      "published_at": "2026-10-14T16:36:01+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6acfaf6a2c705f746c3eeb13",
+      "description": "Naomi Klein and Astra Taylor are fighting for the living world. Their new book charts an alliance between Silicon Valley billionaires, Donald Trump, and the far right, who they suggest are working against humanity in the name of profit and power. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6acfaf6a2c705f746c3eeb13/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46419467",
+      "itunes_duration": "32:13",
+      "speakers": [
+        "Naomi Klein",
+        "Astra Taylor"
+      ],
+      "topics": [
+        "fascists",
+        "naomi",
+        "klein",
+        "astra",
+        "taylor"
+      ]
+    },
     {
       "key": "edb8c40d60960c17eb8d0388620db1c3d3d2fbfc",
       "title": "Is Zack Polanski in trouble? | Green Party by-election loss",
@@ -13820,6 +13843,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — The New Fascists | Naomi Klein and Astra Taylor interview — speakers: Naomi Klein, Astra Taylor
 - 2026-10-12 — Is Zack Polanski in trouble? | Green Party by-election loss — speakers: Zack Polanski, St Pancras
 - 2026-10-05 — Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview — speakers: Andy Burnham, Zack Polanski, Russell Warfield
 - 2026-10-02 — We Need To Talk About Cuba | Jeremy Corbyn interview — speakers: Jeremy Corbyn

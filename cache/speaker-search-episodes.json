@@ -26076,6 +26076,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "e9ff597cf855522bb6e9fdd3957b1b1d21026d7a",
+        "episode_key": "e9ff597cf855522bb6e9fdd3957b1b1d21026d7a",
+        "title": "It's All Signed (with Stewart Lee)",
+        "published_at": "2026-06-17T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee joins Armando to look at the detail, or lack thereof in the US and Iran deal.\nWhat is a memorandum of understanding? Does the language of UFC apply to this deal? And are Shoreditch hipsters running Iran's social media campaign?\nIt's by-election day, and while broadcast rules prevent us from discussing the e",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgnfbl.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/its-all-signed-with-stewart-lee/id1774462541?i=1000773168520&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b6ddb63da1f3",
         "feed_title": "Full Steam Ahead! With Chris McDonald",
         "source_rss_url": "https://anchor.fm/s/109b3dd28/podcast/rss",
