@@ -41139,6 +41139,28 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:cb1c4836aa9b",
+        "feed_title": "The Trina Mara Podcast",
+        "source_rss_url": "https://rss.podplaystudio.com/2879.xml",
+        "dedupe_key": "4e13b2ee0273021dddb84243db1c5db78c205215",
+        "episode_key": "4e13b2ee0273021dddb84243db1c5db78c205215",
+        "title": "Jack Dee: \"No job too small leaflets are a lie!\"",
+        "published_at": "2026-10-13T12:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Jack Dee chats to Trina Mara about the awful jobs he did before comedy, any regrets about this autobiography and workman woes!! He is coming to Ireland with his tour \"Jack's Joe Show\" playing Cork, Wexford, Limerick and the Galway Comedy Festival\nwww.jackdeecomedy.com\nwww.galwaycomedyfestival.ie",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/ie/2879/jack_dee_ready_long_8963b997_normal.mp3?aw_0_1st.episodeid=425960&aw_0_1st.collectionid=2879",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee-no-job-too-small-leaflets-are-a-lie/id1732100379?i=1000796176733&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:4b41555acff3",
         "feed_title": "The Hard Shoulder",
         "source_rss_url": "https://rss.podplaystudio.com/2763.xml",
@@ -41883,6 +41905,28 @@
         "description": "Kirsty Young's castaway this week is the comedian, Jack Dee.\nComedian, actor and writer, his persona is that of the laconic miserabilist - his hit sit-com was called \"Lead Balloon\" and his autobiography entitled \"Thanks For Nothing\". That is only part of the picture: even though show business was in the family - his gr",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02pnydr.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee/id342735925?i=1000312230762&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8a484918c8a3",
+        "feed_title": "Stories For Your Ears With Audiobooks",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/ids/191/index.xml",
+        "dedupe_key": "30ab58360afa59f0545f44426bb7920bdf89ca30",
+        "episode_key": "30ab58360afa59f0545f44426bb7920bdf89ca30",
+        "title": "Jack Dee - So What Live Audiobook by Jack Dee",
+        "published_at": "2013-11-18T08:51:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://audiobookzap.com/free Title: Jack Dee - So What LiveCategories: Funny, Performing Arts, Stand-up ShowAuthor: Jack DeeNarrator: Jack DeePublisher: Universal Pictures UKRelease date: 11-18-2013Language: EnglishSummary:Jack Dee is back with his first live DVD recording since 200",
+        "audio_url": "https://samples.audible.co.uk/pf/univ/000098/pf_univ_000098_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee-so-what-live-audiobook-by-jack-dee/id6821401267?i=1000795114754&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-10-07T05:57:57+00:00`
-- checked_at: `2026-10-07T05:57:57+00:00`
-- etag: `"aaadd-65d3502f8841e"`
-- last_modified: `Wed, 07 Oct 2026 00:15:24 GMT`
+- fetched_at: `2026-10-14T00:17:16+00:00`
+- checked_at: `2026-10-14T00:17:16+00:00`
+- etag: `"ab56a-65dc1d3c7bf8a"`
+- last_modified: `Wed, 14 Oct 2026 00:15:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-10-07T05:57:57+00:00",
+  "fetched_at": "2026-10-14T00:17:16+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "98532d37a9ac2df5d1d111c666309cd338519674",
+      "title": "Trees",
+      "published_at": "2026-10-14T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/trees",
+      "description": "Which tree are you? The graceful and ethereal silver birch? The proud and stately elm? The feeble and foul-smelling Bradford pear tree? Click HERE to find out with our online quiz and to receive lifelong, military-grade, North Korean malware! Thank you to Eleanor of Bristol for this week’s topic (trees). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/f01d28b4-1b73-4061-bba7-e5c34be520e7/S22-E06-Trees.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/b1b4e66f-0a18-4e2d-98f9-04f1df52f6de.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=b1b4e66f-0a18-4e2d-98f9-04f1df52f6de",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64882356",
+      "itunes_duration": "01:07:35",
+      "speakers": [
+        "Trees Which",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "tree"
+      ]
+    },
     {
       "key": "1ab5b17613504d03cc8fd4db3853c5147384cefa",
       "title": "Cowboys",
@@ -4587,6 +4608,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Trees — speakers: Trees Which, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-07 — Cowboys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-30 — Fifth Wednesday semi-demi-non-ep — speakers: Fifth Wednesday, Three Bean Salad, Wednesday September, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-23 — Soup — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

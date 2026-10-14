@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-12T21:16:31+00:00`
-- checked_at: `2026-10-12T21:16:31+00:00`
-- etag: `"djEuMi4wOjE3OTE4MjgwOTcyMjI="`
+- fetched_at: `2026-10-14T00:17:16+00:00`
+- checked_at: `2026-10-14T00:17:16+00:00`
+- etag: `"djEuMi4wOjE3OTE5MzQxMTkzODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-12T21:16:31+00:00",
+  "fetched_at": "2026-10-14T00:17:16+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ffc3b62f79f7badea0bb216ba9154c3d0ac3f490",
+      "title": "Those Bloody Hams",
+      "published_at": "2026-10-13T23:28:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/those-bloody-hams",
+      "description": "Another week at The Socially Distant Sports Bar , where Mike Bubbins, Elis James and Steff Garrero once again prove that talking about sport is entirely optional on a sports podcast. This week, Mike reveals how his habit of leaving his audio recorder running might eventually prove to be his downfall, the boys uncover some deeply unpleasant Roman bathroom techniques that will put you off your dinner, and Mike explains just how far he'd be prepared to go if someone offered him a bit of land. And it's quite a length. There's also the small matter of ham radio enthusiasts. Those bloody hams. Eventually, sport manages to force its way into the conversation. Mike brings us the extraordinary photographic memory of LA Rams head coach Sean McVay , Steff provides further evidence that Tony Pulis knows absolutely everyone in football , and Elis revisits Tony Sibson's wonderfully honest assessment of his defeat to Marvin Hagler in 1983 . Clips Mike: Sean McVay https://www.instagram.com/reel/DdINQ3SSp9w/?stkn=MW1mNXplaTQyNHNzdQ== Steff: Tony Pulis Knows Everyone https://x.com/nozza_/status/2102743956207370391?s=61 Elis: Tony Sibson After Losing to Marvin Hagler https://www.facebook.com/share/v/18PhbK458m/?mibextid=wwXIfr Roman toilets. Ham radio. A suspiciously ambitious land deal. And Tony Pulis knowing everyone. Sport. Eventually. Thanks for listening. And remember, if you want even more from Elis, Mike and Steff, including extra episodes and Bonus content, you can join us at: https://www.patreon.com/distantpod 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6acd1e90f38f25c0f0021f7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63505554",
+      "itunes_duration": "1:06:09",
+      "speakers": [
+        "Those Bloody Hams",
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "bloody",
+        "hams"
+      ]
+    },
     {
       "key": "acd03efb0dd9e44dfeb3998145542b946a09addd",
       "title": "The Liver King: Pint Size",
@@ -16207,6 +16229,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-13 — Those Bloody Hams — speakers: Those Bloody Hams, Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-10 — The Liver King: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-08 — Rory — speakers: Mike Bubbins, Elis James, Steff Garrero, Mike ch
 - 2026-10-06 — Chemical Tommy — speakers: Chemical Tommy Another, Elis James, Mike Bubbins, Steff Garrero

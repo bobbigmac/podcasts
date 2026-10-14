@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-10-13T19:16:04+00:00`
-- checked_at: `2026-10-13T19:16:04+00:00`
-- etag: `"djEuMi4wOjE3OTE5MTM0ODI0OTU="`
+- fetched_at: `2026-10-14T00:17:16+00:00`
+- checked_at: `2026-10-14T00:17:16+00:00`
+- etag: `"djEuMi4wOjE3OTE5MzYwMzk3MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-10-13T19:16:04+00:00",
+  "fetched_at": "2026-10-14T00:17:16+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a9de89898ce9f609cb38f0496560913fc9e56895",
+      "title": "DWSC LIVE: With Matt Richardson",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-matt-richardson",
+      "description": "If you want box fresh, then look no further than today's ep, which was recorded less than 48 hours before its release at the latest DWSC live show from which most of the people in attendance will no doubt still be nursing sore heads. The party atmosphere was aided and abetted by special guest, Matt Richardson, who opened the show by dishing the dirt on some nasty neighbourhood nocturnal activities. The gang then get into a case which yields some surprising facts from the music industry, and thanks to some self-medication on a long-haul flight, there's more than one zombie in the room! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6ace58dd8f340788897db7da/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91696800",
+      "itunes_duration": "1:03:40",
+      "speakers": [
+        "Matt Richardson",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "matt",
+        "richardson"
+      ]
+    },
     {
       "key": "b464163c7c6caa224f0f7c265cdb03b0a1f6a771",
       "title": "Pink Thunder, with Farah Sharp",
@@ -11653,6 +11675,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — DWSC LIVE: With Matt Richardson — speakers: Matt Richardson, Hannah George, Taylor Glenn
 - 2026-10-07 — Pink Thunder, with Farah Sharp — speakers: Pink Thunder, Farah Sharp, Hannah George, Taylor Glenn
 - 2026-09-30 — Radio Ga Ga, with Meka Mo — speakers: Meka Mo Welcome, Hannah George, Taylor Glenn
 - 2026-09-23 — Nitpicking, With Rosie Blackadder — speakers: Rosie Blackadder, Hannah George, Taylor Glenn
