@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-08T18:50:50+00:00`
-- checked_at: `2026-10-08T18:50:50+00:00`
-- etag: `"26aa74-65d56b12e289f"`
-- last_modified: `Thu, 08 Oct 2026 16:26:21 GMT`
+- fetched_at: `2026-10-15T16:59:32+00:00`
+- checked_at: `2026-10-15T16:59:32+00:00`
+- etag: `"26c529-65de2a1560278"`
+- last_modified: `Thu, 15 Oct 2026 15:23:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-08T18:50:50+00:00",
+  "fetched_at": "2026-10-15T16:59:32+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "31ed4366167a38e651683ff403a55ceae832449a",
+      "title": "In Alberta, far-right populism drives bid to leave Canada",
+      "published_at": "2026-10-15T15:00:00+00:00",
+      "link": "https://theconversation.com/in-alberta-far-right-populism-fuelled-by-conspiracy-theories-and-alienation-drive-bid-to-separate-from-canada-294374",
+      "description": "In the western Canadian province of Alberta, a political battle is playing out on people’s front lawns. Separatists are flying the royal blue Alberta flag, others the red and white maple leaf of Canada to show their support for a united Canada. It's all because a populist right-wing political movement wants Alberta to break away from the rest of the country. On October 19, Albertans will vote in a referendum on whether to have a referendum on independence. So how did the relatively small separatist movement gain so much political influence? Why do they want to leave Canada? And what does Donald Trump have to do with all of this? Listen to Jared Wesley , a professor of political science at the University of Alberta, on the origins of the Alberta separatist movement. This episode was written and produced by Gemma Ware and Grace Jennings-Edquist. Mixing by Dan Semo and theme music by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Q&A with an Alberta politics expert: Taking the province’s pulse as the referendum approaches What if Alberta really did vote to separate? Albertans disapprove of Donald Trump — and his brand is weakening separatism, too As Alberta separatists court the U.S., prosperity is fuelling a sovereigntist turn Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ede77f3c-c703-4ca8-b9b2-9bf4cd80a0c8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44731629",
+      "itunes_duration": "31:04",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "alberta",
+        "populism",
+        "drive",
+        "canada"
+      ]
+    },
     {
       "key": "6babac36973b13cc69d46e11fd50ccd1f5af0ff0",
       "title": "Nobel laureate Karl Deisseroth on how light is changing what we know about the brain",
@@ -6381,6 +6402,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — In Alberta, far-right populism drives bid to leave Canada — speakers: Gemma Ware
 - 2026-10-08 — Nobel laureate Karl Deisseroth on how light is changing what we know about the brain — speakers: Karl Deisseroth, Gemma Ware
 - 2026-10-01 — Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel? — speakers: Benjamin Netanyahu, Gemma Ware
 - 2026-09-24 — Can we ever fully trust AI agents? — speakers: Gemma Ware

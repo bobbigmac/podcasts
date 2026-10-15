@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-12T10:46:55+00:00`
-- checked_at: `2026-10-12T10:46:55+00:00`
-- etag: `"djEuMi4wOjE3OTE3NzU4Mzk1Njk="`
+- fetched_at: `2026-10-15T16:59:32+00:00`
+- checked_at: `2026-10-15T16:59:32+00:00`
+- etag: `"djEuMi4wOjE3OTIwNjc0Mzk2Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-12T10:46:55+00:00",
+  "fetched_at": "2026-10-15T16:59:32+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "833863b08e806015c4114167e5b113160f827375",
+      "title": "Street Fighter II: The Animated Movie - Caravan Of Garbage",
+      "published_at": "2026-10-15T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/street-fighter-ii-the-animated-movie-caravan-of-garbage",
+      "description": "1994 gave us two video game to movie adaptations of Street Fighter, Street Fighter starring Jean-Claude Van Damme, which, although fondly remembered now, was much maligned at the time for being cheesy and inaccurate, and the anime adaptation Street Fighter 2: The Animated Movie. The second of which adheres much closer to the video games and managed to turn a tidy profit despite a limited release. It's famous for brutal fight scenes, a wide character roster and a completely out of nowhere Chun-Li nude shower sequence. Thanks for watching our Caravan Of Garbage review! SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ac0841052a53844440a04b6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22877398",
+      "itunes_duration": "21:23",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "street",
+        "fighter",
+        "animated",
+        "movie",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "1f379f02a8704be27d7807f30b80f004578a1831",
       "title": "644 The Social Reckoning & Skydance Swallowing",
@@ -23273,6 +23297,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Street Fighter II: The Animated Movie - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-10-12 — 644 The Social Reckoning & Skydance Swallowing — speakers: Skydance Swallowing Social, James Clement, Nick Mason
 - 2026-10-08 — Blade Runner 2049 - Caravan Of Garbage — speakers: Blade Runner, James Clement, Nick Mason
 - 2026-10-05 — 643 Digger & Avengers: Endgame Encore — speakers: James Clement, Nick Mason

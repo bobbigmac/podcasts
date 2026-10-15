@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-15T11:26:53+00:00`
-- checked_at: `2026-10-15T11:26:53+00:00`
-- etag: `"djEuMi4wOjE3OTIwNjE3Njc5NTg="`
+- fetched_at: `2026-10-15T16:59:32+00:00`
+- checked_at: `2026-10-15T16:59:32+00:00`
+- etag: `"djEuMi4wOjE3OTIwNzQ5OTc2NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-15T11:26:53+00:00",
+  "fetched_at": "2026-10-15T16:59:32+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c46998684cde82527e88cfface281b03d6d13ac9",
+      "title": "Burnham's Brexit reversal",
+      "published_at": "2026-10-15T14:36:37+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/burnhams-brexit-reversal",
+      "description": "Ten years after the Brexit referendum, a British Prime Minister has said out loud what much of the country has concluded: Brexit did more harm than good. Andy Burnham has told his party that no credible ten-year plan for Britain can avoid the Europe question, and has since declined to rule out rejoining the EU in Labour’s next manifesto. Anoosh Chakelian is joined by Tom McTague and Ethan Croft to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792074775327-ac7999b8-a4bf-466d-93d1-d445a8569579.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ad0e402344dfeb109cd0af7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80320450",
+      "itunes_duration": "33:26",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "brexit",
+        "reversal"
+      ]
+    },
     {
       "key": "65bd30ded7b1a6952c67e79de700c1b9446e303d",
       "title": "The Green Party is in crisis",
@@ -32614,6 +32635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Burnham's Brexit reversal — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-12 — The Green Party is in crisis — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
 - 2026-10-10 — Reform clears its own officials over donations sting — speakers: Kemi Badenoch, Anoosh Chakelian, Oli Dugmore
 - 2026-10-09 — Labour holds Starmer’s seat — speakers: St Pancras, Sagal Abdi-Wali, Anoosh Chakelian, Oli Dugmore

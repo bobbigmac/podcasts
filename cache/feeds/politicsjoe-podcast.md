@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-14T17:09:04+00:00`
-- checked_at: `2026-10-14T17:09:04+00:00`
-- etag: `"djEuMi4wOjE3OTE5OTU3NjIyNjE="`
+- fetched_at: `2026-10-15T16:59:32+00:00`
+- checked_at: `2026-10-15T16:59:32+00:00`
+- etag: `"djEuMi4wOjE3OTIwODMxNjgzNTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-14T17:09:04+00:00",
+  "fetched_at": "2026-10-15T16:59:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0337b53e0f163571f7362b2cffb0e9d46e0d48a0",
+      "title": "Going Deep on the Zionism is Racism Motion with NoJusticeMTG",
+      "published_at": "2026-10-15T16:52:48+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ad104e02c705f746c5efda5",
+      "description": "Helena is a Green Party member and the streamer NoJusticeMTG. As someone who was in the room during the Green Party's Zionism is Racism motion that passed at their annual conference, she came by the PolJOE dungeon to break down the motion for us, and delve deeper into what it means for Green voters and the wider British left. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ad104e02c705f746c5efda5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70157794",
+      "itunes_duration": "36:31",
+      "speakers": [],
+      "topics": [
+        "deep",
+        "zionism",
+        "racism",
+        "motion",
+        "nojusticemtg"
+      ]
+    },
     {
       "key": "c0247bb3a3f756e032e354d42ac9349322506f47",
       "title": "The New Fascists | Naomi Klein and Astra Taylor interview",
@@ -13843,6 +13863,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Going Deep on the Zionism is Racism Motion with NoJusticeMTG
 - 2026-10-14 — The New Fascists | Naomi Klein and Astra Taylor interview — speakers: Naomi Klein, Astra Taylor
 - 2026-10-12 — Is Zack Polanski in trouble? | Green Party by-election loss — speakers: Zack Polanski, St Pancras
 - 2026-10-05 — Has Andy Burnham Squashed the Green Party? Zack Polanski and Russell Warfield interview — speakers: Andy Burnham, Zack Polanski, Russell Warfield
