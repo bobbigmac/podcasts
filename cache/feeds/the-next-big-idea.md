@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-10-08T10:33:21+00:00`
-- checked_at: `2026-10-08T10:33:21+00:00`
-- last_modified: `Thu, 08 Oct 2026 09:00:00 GMT`
+- fetched_at: `2026-10-15T11:26:53+00:00`
+- checked_at: `2026-10-15T11:26:53+00:00`
+- last_modified: `Thu, 15 Oct 2026 09:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-08T10:33:21+00:00",
+  "fetched_at": "2026-10-15T11:26:53+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,11 +28,30 @@
   ],
   "episodes": [
     {
+      "key": "bbe48a6c0c5425da040a1a62fbfabbd21f53d42b",
+      "title": "How to Become the Most Interesting Person You Know",
+      "published_at": "2026-10-15T09:30:00+00:00",
+      "link": null,
+      "description": "We all carry around invisible lists, private ledgers of disappointment — the talents we wish we had, the hobbies we’d like to take up, the passion projects we keep meaning to kickstart. Ravi Gupta has one of those lists, and nine years ago, the ex-Obama staffer decided to do something about it. Cut to the present. He’s a published novelist, dawn-patrol surfer, solid tennis player, and budding Italian chef. How did one man accomplish all that? Today on the show: the method he swears anyone can use. Even Caleb. Ravi’s new book is The Invisible List: One Passion a Year, Every Year . 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — The 100% human-made stock media library built for creators. Get 15% off any annual plan, available only at storyblocks.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1771330362.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3772",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "person"
+      ]
+    },
+    {
       "key": "8020c8f4db4bb435cb7c87df783d34833cd4b779",
       "title": "Feel the AGI: Kevin Roose on the Strange, Intoxicating Race to Superintelligence",
       "published_at": "2026-10-08T09:00:00+00:00",
       "link": null,
-      "description": "What’s really fueling the race to build superintelligence? Science? Idealism? Money? Try spite. “These guys hate each other,” says Kevin Roose. “It’s grudges all the way down.” Those rivalries, it turns out, have pushed AI forward faster than any of them thinks is wise. He would know. Until recently, Kevin was a tech columnist at the New York Times and co-host of the massively popular Hard Fork podcast. (If you miss his dulcet tones, he and Casey Newton will be back with a new show, Machine Gods, later this month.) He has also spent the last few years interviewing more than 150 of the people racing to build artificial general intelligence. The result is his gripping new book, The AGI Chronicles , just out this week. It’s corporate thriller material: secret Slack channels, philosophical feuds, mystical beliefs, billion-dollar bets. But the stakes are extremely high. Can a small group of people with outsized influence over humanity’s future get along? Can they work together to make sure we build AI safely? And now that the rest of us are paying attention, what should we do about it? 🎧 Check out our conversations about AI with Bill Gates , Reid Hoffman , Sebastian Mallaby , Stuart Russell , and a younger Kevin Roose . 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — Go to sequencing.com and use promo code IDEA for 10% off",
+      "description": "What’s really fueling the race to build superintelligence? Science? Idealism? Money? Try spite. “These guys hate each other,” says Kevin Roose. “It’s grudges all the way down.” Those rivalries, it turns out, have pushed AI forward faster than any of them thinks is wise. Kevin would know. Until recently, he was a tech columnist at the New York Times and co-host of the massively popular Hard Fork podcast. (If you miss his dulcet tones, he and Casey Newton will be back with a new show, Machine Gods, later this month.) He has also spent the last few years interviewing more than 150 of the people racing to build artificial general intelligence. The result is his gripping new book, The AGI Chronicles , just out this week. It’s corporate thriller material: secret Slack channels, philosophical feuds, mystical beliefs, billion-dollar bets. But the stakes are extremely high. Can a small group of people with outsized influence over humanity’s future get along? Can they work together to make sure we build AI safely? And now that the rest of us are paying attention, what should we do about it? 🎧 Check out our conversations about AI with Bill Gates , Reid Hoffman , Sebastian Mallaby , Stuart Russell , and a younger Kevin Roose . 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Sequencing — Go to sequencing.com and use promo code IDEA for 10% off",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP5831369607.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8637,6 +8656,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — How to Become the Most Interesting Person You Know — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-10-08 — Feel the AGI: Kevin Roose on the Strange, Intoxicating Race to Superintelligence — speakers: Kevin Roose, Rufus Griscom, Caleb Bissinger
 - 2026-10-05 — Daniel Pink and Angela Duckworth on Friction-Maxxing, Becoming a Mentor Magnet and the Problem with Solo Striving — speakers: Daniel Pink, Angela Duckworth, Rufus Griscom, Caleb Bissinger
 - 2026-10-01 — The One Word That Explains Progress — speakers: Martin Seligman, Rufus Griscom, Caleb Bissinger
