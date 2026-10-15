@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-10-08T10:33:21+00:00`
-- checked_at: `2026-10-08T10:33:21+00:00`
-- etag: `W/"ed564919a8b1819f06fa7ff9cba770e3"`
-- last_modified: `Thu, 08 Oct 2026 06:15:49 GMT`
+- fetched_at: `2026-10-15T04:36:39+00:00`
+- checked_at: `2026-10-15T04:36:39+00:00`
+- etag: `W/"6c43961c7551e35e476a51cd154636f5"`
+- last_modified: `Thu, 15 Oct 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-10-08T10:33:21+00:00",
+  "fetched_at": "2026-10-15T04:36:39+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -30,13 +30,41 @@
   ],
   "episodes": [
     {
+      "key": "e783680c06600434cc7fb7cddc3646ef4a99297d",
+      "title": "The Brexit Cinematic Universe w/ Anand Menon: will Brexit dominate the next ten years of political debate? Plus Premier League pitfalls ft. Man City",
+      "published_at": "2026-10-15T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8964294",
+      "description": "This week, Nish & Coco reckon with the latest act of political desperation from Farage and his ailing Reform party: returning to their single-issue roots and promising to shut down England’s asylum system altogether. Plus, amidst the ongoing Manchester City scandal, we dive into the PSUK vault and return to an interview from June 2023 with then-mayor Andy Burnham, where Nish & Coco quizzed him on Abu Dhabi investment in the city. Back then, he said broader issues were a “matter for government”. Now he is the government–what next? Also, Nish outs himself as a football nerd. And, Brexit’s back on the table– again?! We’re joined by Professor of European Politics Anand Menon, to talk about whether rejoining the EU is desirable, or even possible anymore. Will this dominate the next ten years’ worth of political debate? Does Europe even want us back? We discuss, using a lot of Marvel metaphors… USEFUL LINKS Manchester Mill’s reporting on Abu Dhabi’s relationship with Manchester City Council: https://manchestermill.co.uk/exclusive-sheikh-mansour-contract-manchester/ UK in a Changing Europe website and resources: https://ukandeu.ac.uk/ Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43883585/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964294.mp3?modified=1792014375&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4580",
+      "speakers": [
+        "Anand Menon",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "brexit",
+        "universe",
+        "anand",
+        "menon",
+        "year",
+        "debate",
+        "premier",
+        "league",
+        "city"
+      ]
+    },
+    {
       "key": "e0d5e1745f3f73562f5f897fc3754ac0b9c4125a",
       "title": "It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP",
       "published_at": "2026-10-08T01:00:00+00:00",
       "link": "https://audioboom.com/posts/8961826",
       "description": "This week, Nish & Coco are joined by Megan Kenyon, Political Correspondent at the New Statesman, to unpack some of the noisy headlines coming out of the Green Party conference over the weekend. They discuss what the passing of the ‘Zionism is Racism’ means for the party, and how the Greens are positioning themselves in relation to Labour: as a wholesale replacement, or as a way to hold Burnham to account? They also look ahead to the Holborn & St Pancras by-election (which is happening today as you listen!), and ask: who is the Conservative Party actually for in 2026? Dinkwads, Dumpys, or something in-between? Also, newly elected SNP MP Lara Bird joins us! She shares her experience navigating Westminster, reflects on how her work for Britain Palestine Project has shaped her politics, and explains why achieving the SNP’s core mission would put her out of a job… **Coco was a little under the weather in this week’s episode, so you may hear some coughs. We tried to remove as many as we could, but there was so much interesting conversation we didn’t want to lose! ** USEFUL LINKS Catch up with Megan’s reporting on the Green Party Conference and the ‘Zionism is Racism’ motion: https://www.newstatesman.com/politics/2026/10/greens-vote-to-declare-zionism-as-racism Watch the I Think You Should Leave Hot Dog sketch Nish references: https://www.youtube.com/watch?v=WLfAf8oHrMo Join the National March for Palestine on the 10th October: https://palestinecampaign.org/events/national-march-for-palestine-save-the-date/ Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! CHECK OUT THESE DEALS FROM OUR SPONSORS HEXCLAD: https://www.hexclad.co.uk/PSTUK BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43873453/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8961826.mp3?modified=1791403119&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8961826.mp3?modified=1791440468&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5266",
@@ -641,10 +669,10 @@
       "link": "https://audioboom.com/posts/8890371",
       "description": "Who says the special relationship is on the ropes? Coco and Nish are joined by Pod Save America’s Tommy Vietor to showcase transatlantic co-operation at its very best. From the battle of slopaganda to the real war in Iran - there’s a lot to talk about. Donald Trump deleted a Truth Social post because he looked a little bit too much like Jesus for the Christian community - many of them have been some of his biggest supporters. Meanwhile Iran has released a series of sometimes-antisemitic, AI, Lego rap videos. In the UK, Keir Starmer is being criticised for not spending enough on defence at a time when the wars in Ukraine and the Middle East are focusing minds. Plus - Your Party hits the skids in Scotland - we hear from an insider about what went down. Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://shopify.co.uk/podsavetheuk SHOPIFY: https://www.wise.com WISE: https://shopify.co.uk/podsavetheuk GUESTS Tommy Vietor, Host, Pod Save America and Pod Save The World USEFUL LINKS How to email your MP about NHS Palantir contracts - https://www.amnesty.org.uk/get-involved/take-action/sign-a-petition/mp-demand-no-palantir-in-our-nhs/ CREDITS Donald Trump - @rapidresponse47, X Iranian Propaganda Video - Explosive Media Owen Maitland, Former Your Party Scotland executive committee member Faiza Shaheen, Director, Tax Justice UK - ‘Politics Live’, BBC One Saturday Night Live UK, Sky One Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43595146.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890371.mp3?modified=1776267841&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890371.mp3?modified=1791867817&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3191",
+      "itunes_duration": "2945",
       "speakers": [
         "Jesus Meme Chaos",
         "Tommy Vietor Who",
@@ -4309,6 +4337,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — The Brexit Cinematic Universe w/ Anand Menon: will Brexit dominate the next ten years of political debate? Plus Premier League pitfalls ft. Man City — speakers: Anand Menon, Nish Kumar, Coco Khan
 - 2026-10-08 — It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP — speakers: Iron Domes, Lara Bird, Megan Kenyon, Nish Kumar, Coco Khan
 - 2026-10-01 — Burnham’s barnstormer - ‘Hope Again’ for Labour? Plus, ‘the most dangerous story ever told’: Naomi Klein and Astra Taylor on ‘End Times Fascism’ — speakers: Naomi Klein, Astra Taylor, Andy Burnham, Nish Kumar, Coco Khan
 - 2026-09-24 — “The world is a casino”: polling, politics & Palantir w/ Galen Druke — speakers: Galen Druke, Tom Watson, Nish Kumar, Coco Khan

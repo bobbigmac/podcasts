@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-12T00:32:01+00:00`
-- checked_at: `2026-10-12T00:32:01+00:00`
-- last_modified: `Sun, 11 Oct 2026 23:00:00 GMT`
+- fetched_at: `2026-10-15T04:36:39+00:00`
+- checked_at: `2026-10-15T04:36:39+00:00`
+- last_modified: `Wed, 14 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-12T00:32:01+00:00",
+  "fetched_at": "2026-10-15T04:36:39+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "81fd7bb3c0a337b1e78e8500f8d586ac21050517",
+      "title": "Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing",
+      "published_at": "2026-10-14T23:00:00+00:00",
+      "link": null,
+      "description": "How should you react when your son offers you an all-expenses-paid holiday? On this edition of The Romesh Ranganathan Show, Romesh tells his mum Shanthi he’s taking her to Portugal next May. Her first reaction is not what he’d hoped for, so they try again. Before that, there’s a public plea to Next for freebies and an embarrassing underwear moment from Romesh’s teaching days. Then it’s your questions: what to do when a child repeats the wrong line in public, how to handle friends and family teasing you for being vegan, and Romesh’s very questionable translation of a Portuguese doughnut chant. A Ranga Bee Production. Chapters: 00:00 Intro 00:57 Next owes Shanthi freebies 06:55 Romesh’s underwear at the till 08:29 What did Tom Hiddleston whisper to Idris Elba? 12:09 Would Shanthi climb Everest? 13:35 Are the Northern Lights overrated? 16:23 Romesh’s holiday announcement 18:28 “We’re not going to Portugal” 20:03 Take two: the redo 20:38 Taking the podcast to Portugal 21:28 Lisa meets Jamie Redknapp 24:58 Romesh helps an injured cyclist 33:11 Does Shanthi swear? 36:02 The Portuguese doughnut sellers 45:56 Would Shanthi ever go vegan? 48:20 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/34a7ab76-c71a-11f1-995c-5fffe243563f/image/872f0fd11cf7f6585b821b61a2b84484.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6281890998.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3120",
+      "speakers": [
+        "Free Holiday",
+        "Vegan Teasing How",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "free",
+        "holiday",
+        "romesh",
+        "underwear",
+        "vegan",
+        "teasing"
+      ]
+    },
     {
       "key": "92d883291d1ae07815beecd6b08bf59a0c03a76d",
       "title": "Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid",
@@ -2549,6 +2575,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing — speakers: Free Holiday, Vegan Teasing How, Romesh Ranganathan
 - 2026-10-11 — Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid — speakers: Tom Hiddleston, Romesh Ranganathan
 - 2026-10-07 — Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act — speakers: Gym Etiquette, Act What, Romesh Ranganathan
 - 2026-10-04 — Stacey Dooley on 100+ Documentaries, Selling Sunset & Southampton — speakers: Stacey Dooley, Romesh Ranganathan

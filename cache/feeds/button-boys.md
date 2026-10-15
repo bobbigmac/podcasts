@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-10-08T00:59:46+00:00`
-- checked_at: `2026-10-08T00:59:46+00:00`
-- last_modified: `Wed, 07 Oct 2026 23:10:11 GMT`
+- fetched_at: `2026-10-15T04:36:39+00:00`
+- checked_at: `2026-10-15T04:36:39+00:00`
+- last_modified: `Wed, 14 Oct 2026 23:09:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-08T00:59:46+00:00",
+  "fetched_at": "2026-10-15T04:36:39+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,27 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "a155e8b375498f64bcb855605159fea2a5718e74",
+      "title": "Side Quests Vol. 1",
+      "published_at": "2026-10-14T23:00:00+00:00",
+      "link": null,
+      "description": "Much like side streets, side arms, side tables, side dishes and sidemen, can provoke surprisingly strong feelings. This week we're going off the beaten track, ignoring the main objective and tackling the good, the bad and the ugly of secondary storylines. We've got drunken foolery, farting pigs and complete letdowns. But enough about the hosts, on with the podcast! As always, the Boys catch up on what they've been playing this week. Glenn's leaning into spooky season with not only a horrifyingly nostalgic trip to the Scottish Isles but also a video game-themed trip to the cinema. Meanwhile, Sarah's throwing tradition to the wind as they discuss a game they're planning on playing which is like \"Breath of the Wild, but good\". To follow along with the Button Boys outside the podcast: Thanks again to all those who came to Button Boys Live at Leicester Square Theatre. If you missed it, we're doing another live date on October 15th in Balham at the Cheerful Earful festival. Link below! ⁠ ⁠Cheerful Earful Festival Live Show⁠ ⁠ ⁠Pierre⁠ ⁠ ⁠Sarah⁠ ⁠ ⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Immortals Fenyx Rising The Legend of Zelda: Breath of the Wild Dead Space 2 SILENT HILL: Townfall P.T. Observation Stories Untold Alien: Isolation Visage MADiSON The Elder Scrolls V: Skyrim Shadow of the Colossus Onimusha: Way of the Sword Ghost of Tsushima Cyberpunk 2077 Dark Souls God of War Red Dead Redemption 2 Grand Theft Auto IV The Witcher 3: Wild Hunt Horizon Zero Dawn Yakuza: Like a Dragon Like a Dragon: Infinite Wealth Animal Crossing Assassin's Creed II Dredge Mass Effect 2 Baldur's Gate 3 Pokémon Red Version Pokémon Blue Version The Legend of Zelda: Tears of the Kingdom Grand Theft Auto V Split Fiction Orbitals Hitman World of Assassination Indiana Jones and the Great Circle LittleBigPlanet 3 Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1190732239.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3025",
+      "speakers": [
+        "Side Quests Vol",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "quests"
+      ]
+    },
     {
       "key": "9a7a81fd03b5cf39f8269c097c7d2942546e2a91",
       "title": "The Eras Tour: Best Historical or Futuristic Setting",
@@ -1547,6 +1568,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-14 — Side Quests Vol. 1 — speakers: Side Quests Vol, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-07 — The Eras Tour: Best Historical or Futuristic Setting — speakers: Best Historical, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-30 — Non-Fatal Flaws: Bad Bits in Good Games — speakers: Fatal Flaws, Bad Bits, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-23 — The Worst Game Pitch-Off — speakers: Off If, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
