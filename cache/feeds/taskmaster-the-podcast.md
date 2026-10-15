@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-10-09T01:13:32+00:00`
-- checked_at: `2026-10-09T01:13:32+00:00`
-- etag: `"dfe92-65d5a4fa3d69e"`
-- last_modified: `Thu, 08 Oct 2026 20:45:24 GMT`
+- fetched_at: `2026-10-15T21:22:03+00:00`
+- checked_at: `2026-10-15T21:22:03+00:00`
+- etag: `"e0626-65de720d0306d"`
+- last_modified: `Thu, 15 Oct 2026 20:45:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-10-09T01:13:32+00:00",
+  "fetched_at": "2026-10-15T21:22:03+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "35dfd8902b08496f32845e306d90bf66206f1dda",
+      "title": "Armando Iannucci - Series 22 Ep.7",
+      "published_at": "2026-10-15T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "Joining Ed to talk about the latest episode of Series 22 is the fantastic, comedy legend and Series 21 alumni, Armando Iannucci! As well as digging deep in to episode seven, they also discuss advent calendars, Isy's Cutlery Plait, Armando's dislike of steam and Battle Star Galactica! To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel.",
+      "image_url": "https://artwork.captivate.fm/7443cb24-02ba-4513-b36c-8e7956107f5e/TASKMASTER-PODCAST-ARTWORK-Armando-V2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/7ec8c2c6-3dd9-4163-b70a-1d7298c203a8.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=7ec8c2c6-3dd9-4163-b70a-1d7298c203a8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63012629",
+      "itunes_duration": "01:05:38",
+      "speakers": [
+        "Joining Ed",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "armando",
+        "iannucci",
+        "series"
+      ]
+    },
     {
       "key": "6592329c1d912422d6ecc2db1005b770d7064d0b",
       "title": "Nina Conti - Series 22 Ep.6",
@@ -5737,6 +5758,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Armando Iannucci - Series 22 Ep.7 — speakers: Joining Ed, Ed Gamble
 - 2026-10-08 — Nina Conti - Series 22 Ep.6 — speakers: Nina Conti, Ed Gamble
 - 2026-10-01 — Richard Ayoade - Series 22 Ep.5 — speakers: Richard Ayoad, Ed Gamble
 - 2026-09-24 — Isy Suttie - Series 22 Ep.4 — speakers: Ed Gamble

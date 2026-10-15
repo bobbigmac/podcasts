@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-15T16:59:32+00:00`
-- checked_at: `2026-10-15T16:59:32+00:00`
-- last_modified: `Thu, 15 Oct 2026 16:42:54 GMT`
+- fetched_at: `2026-10-15T21:22:03+00:00`
+- checked_at: `2026-10-15T21:22:03+00:00`
+- last_modified: `Thu, 15 Oct 2026 21:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T16:59:32+00:00",
+  "fetched_at": "2026-10-15T21:22:03+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e44c4d7cd7514be958662538f0f5a9b6c83cbe52",
+      "title": "“It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5)",
+      "published_at": "2026-10-15T21:00:00+00:00",
+      "link": null,
+      "description": "Are the tasks becoming a production problem? Is Joanne in trouble? Which star needs to lighten up? Richard Osman and Marina Hyde discuss episode five of Celebrity Traitors, including headlines accusing Studio Lambert of ‘acting like human traffickers’. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com⁠ Video Editor: Adam Thornton & Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/96bb32ac-c89f-11f1-93e1-9b27e16a969d/image/cf67110a90effbd69559c5ae0323dcea.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8581606482.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2691",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "game",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
     {
       "key": "e0a09677ff336e73865f8053ab9a137bb6aa7f60",
       "title": "Why Paramount Merger Spells Disaster For British Film",
@@ -7006,6 +7028,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — “It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5) — speakers: Richard Osman, Marina Hyde
 - 2026-10-14 — Why Paramount Merger Spells Disaster For British Film — speakers: Why Paramount Merger Spells, Warner Bros, Richard Osman, Marina Hyde
 - 2026-10-12 — Are Nonsense Memes The New Punk Rock? — speakers: New Punk Rock, Richard Osman, Marina Hyde
 - 2026-10-09 — Secrets of the Breakfast Scene - Celeb Traitors Reaction (Episode 4) — speakers: Breakfast Scene, Celeb Traitors Reaction, Richard Osman, Marina Hyde

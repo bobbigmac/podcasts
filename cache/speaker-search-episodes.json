@@ -31606,6 +31606,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "69cf57fcb8b443acdaf5225c30f789c0f3a26a1e",
+        "episode_key": "69cf57fcb8b443acdaf5225c30f789c0f3a26a1e",
+        "title": "Episode 10",
+        "published_at": "2024-01-23T06:00:04Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the final episode of the series. The truth about Operation Pot Roast is revealed, as a recording of Detective Nicely (Louis Theroux) preparing to confront Police Chief Rittenberger (Michael McKean) is unearthed. There's a prison break. There's a casino heist. There's an armed stand off with the cops. There are ice",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e9fc5c5f6900120066c4/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-10/id1716339860?i=1000642596629&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:54d7379a1dd7",
         "feed_title": "Sara & Cariad's Weirdos Book Club",
         "source_rss_url": "https://feeds.acast.com/public/shows/64b69e3ec409730011da06ee",
