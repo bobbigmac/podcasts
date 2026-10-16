@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-10-09T18:21:16+00:00`
-- checked_at: `2026-10-09T18:21:16+00:00`
-- etag: `"c6fc96cef7bfa2c81736ba05256b16f4"`
-- last_modified: `Fri, 09 Oct 2026 18:00:06 GMT`
+- fetched_at: `2026-10-16T21:06:48+00:00`
+- checked_at: `2026-10-16T21:06:48+00:00`
+- etag: `"5ff34454f94477ac1d5805539868106a"`
+- last_modified: `Fri, 16 Oct 2026 18:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-10-09T18:21:16+00:00",
+  "fetched_at": "2026-10-16T21:06:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "0022094c641eb1b78a085184c27478b636264063",
+      "title": "The News Quiz: Ep6. The Iron Dome",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pfxh72",
+      "description": "What's better - an Iron Dome or a Britannia Shield? Why should British parents refrain from sending their children on a French exchange this week? And how big can a pumpkin really be? The panel is Daliso Chaponda, Kyrah Gray, Coco Khan and Finlay Christie. With additional material by: Carywn Blaney, Adrian Gray and Cameron Loxdale Producer: Georgia Keating Executive Producer: Pete Strauss Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfxlv6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27344000",
+      "itunes_duration": "1709",
+      "speakers": [
+        "Iron Dome",
+        "Britannia Shield"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "iron",
+        "dome"
+      ]
+    },
     {
       "key": "20e6a219bcd40740bb8274ae509ed1a1bd0ad2ae",
       "title": "The News Quiz: Ep5. 'Manchester Sausage'",
@@ -5467,30 +5489,6 @@
         "quiz",
         "october"
       ]
-    },
-    {
-      "key": "3afa501155d4bd478e8bc54a9cf495604683b93a",
-      "title": "News Quiz 15th October 2021",
-      "published_at": "2021-10-15T18:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09ytg6p",
-      "description": "Catherine Bohart, Michael Deacon, Chris McCausland and Eshaan Akbar join host Andy Zaltzman to look back over the week's news. This week, they look at the COVID report's findings, Boris Johnson's holiday hobby, the Northern Ireland Protocol and a sacked wizard. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Catherine Brinkworth, Rhiannon Shaw and Rajiv Karia. Producer: Gwyn Rhys Davies Production Co-ordinator: Katie Baum Sound Editor: Mike Smith A BBC Studios Production.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ytfqb.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26800000",
-      "itunes_duration": "1675",
-      "speakers": [
-        "Catherine Bohart",
-        "Michael Deacon",
-        "Chris McCausland",
-        "Eshaan Akbar",
-        "Andy Zaltzman"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "october"
-      ]
     }
   ]
 }
@@ -5499,6 +5497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — The News Quiz: Ep6. The Iron Dome — speakers: Iron Dome, Britannia Shield
 - 2026-10-09 — The News Quiz: Ep5. 'Manchester Sausage' — speakers: Manchester Sausage, Andy Burnham
 - 2026-10-02 — The News Quiz: Ep4. 'Demonstrable lies' — speakers: Ed Davey
 - 2026-09-25 — The News Quiz: Ep3. The Robots Are/Aren't Coming
@@ -5758,4 +5757,3 @@
 - 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt
 - 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt
 - 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman
-- 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman
