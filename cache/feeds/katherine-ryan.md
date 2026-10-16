@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-10-03T16:16:56+00:00`
-- checked_at: `2026-10-03T16:16:56+00:00`
-- etag: `"djEuMi4wOjE3OTEwMzQ5MjQxODI="`
+- fetched_at: `2026-10-16T16:37:58+00:00`
+- checked_at: `2026-10-16T16:37:58+00:00`
+- etag: `"djEuMi4wOjE3OTIxNTgyNTU4ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-10-03T16:16:56+00:00",
+  "fetched_at": "2026-10-16T16:37:58+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "130fd81917bda1aac6d94b98551e5fda0a9a5c7f",
+      "title": "Would You Attend Your Husband's Assault Trial?",
+      "published_at": "2026-10-16T13:44:15+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/would-you-attend-your-husbands-assault-trial",
+      "description": "This week, Katherine's Telling Everybody Everything about her Firstborn Daughter BOOK TOUR that kicks off tonight in Bristol. Also, what's with male comedians getting so angry at women doing what they've done for YEARS - create content for just each other? Would you go to your husband's rape trial? I'd say you could miss me with that, but perhaps not if I'd met him as a teenager when he was famous and 31... Also, your emails on suggesting ozempic to a listless snoring man and being six times more likely as a woman to be left for having cancer than a man in the same situation. Hmph. Plus, a cheeky audiobook excerpt from my good good friends, the publishers of Firstborn Daughter. Finally, Katherine and Bobby upgrade to Emirates business, The Real Housewives of London gets SPICY and Holland Juliette turns one. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1792157732694-a9f13626-13b3-4d3f-ba4e-1d1ff0a7cd4a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6ad22a2fb9a0305b8570e139/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80007127",
+      "itunes_duration": "55:33",
+      "speakers": [
+        "Assault Trial",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "husband",
+        "assault",
+        "trial"
+      ]
+    },
     {
       "key": "5b5d28074ebcaa08a5f24965b76b0e2dc7dde01c",
       "title": "Celebrity Traitors",
@@ -6551,6 +6572,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Would You Attend Your Husband's Assault Trial? — speakers: Assault Trial, Katherine Ryan
 - 2026-10-03 — Celebrity Traitors — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-25 — The Mums WhatsApp Group — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-16 — Dire Tous A Tous Le Monde — speakers: Dire Tous, Telling Everybody Everything, Four Seasons Hotel, Katherine Ryan

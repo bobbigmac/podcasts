@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-14T04:59:53+00:00`
-- checked_at: `2026-10-14T04:59:53+00:00`
-- etag: `"djEuMi4wOjE3OTE5NDgwMzk0NDM="`
+- fetched_at: `2026-10-16T16:37:58+00:00`
+- checked_at: `2026-10-16T16:37:58+00:00`
+- etag: `"djEuMi4wOjE3OTIxNTAwMzU1ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-14T04:59:53+00:00",
+  "fetched_at": "2026-10-16T16:37:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "058dc4ecc42f03575a536b4bbf336d5fc45ff842",
+      "title": "SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind",
+      "published_at": "2026-10-16T11:27:15+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with SUZY EDDIE IZZARD , originally episode 168 from 2017-09-13. Original writeup (for context, this is from 2017, and now it is 2026 - so what follows is 9 years old, at time of this Rewind publishing): This week Pip is joined by EDDIE IZZARD! Comedian, actor, marathon man and all round champ Eddie takes time from his current press junket to sit down with Pip for a proper chat - not a three minute soundbiter, no no no... This is a wonderful one, covering - of course - his current film 'Victoria And Abdul' (alongside acting royalty Dame Judi Dench), which triggers all manner of talking points in bright and breezy fashion... Some amazing facts and gossip about the true story behind the film are revealed, and later Eddie talks candidly about his insane marathon running achievements and the mindset involved, and of course his standup career gets a good going over - all this tied in with a truly inspiring look at his transgender identification and all that has entailed over the years. Comprehensive to say the very least - get into it, enjoy and share it at your nearest opportunity. PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1792149529260-600b4e5e-ea55-431e-a3f5-e7e3575de323.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ad20a1394a3daa98edd5ffa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138928223",
+      "itunes_duration": "57:47",
+      "speakers": [],
+      "topics": [
+        "suzy",
+        "eddie",
+        "izzard",
+        "tragedy",
+        "hamlet",
+        "watson",
+        "jekyll",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "112039873a3fda9fd980710e56db75c113aa9fd1",
       "title": "LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691",
@@ -19786,6 +19810,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind
 - 2026-10-14 — LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691
 - 2026-10-09 — KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind
 - 2026-10-07 — SOPHIE DUKER • new book 'DONG' in early 2027! (Taskmaster / Fringe / House Of Games) #690

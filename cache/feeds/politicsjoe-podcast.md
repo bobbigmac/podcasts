@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-15T16:59:32+00:00`
-- checked_at: `2026-10-15T16:59:32+00:00`
-- etag: `"djEuMi4wOjE3OTIwODMxNjgzNTk="`
+- fetched_at: `2026-10-16T16:37:58+00:00`
+- checked_at: `2026-10-16T16:37:58+00:00`
+- etag: `"djEuMi4wOjE3OTIxNTAyODA1MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-15T16:59:32+00:00",
+  "fetched_at": "2026-10-16T16:37:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "46b33a49104689a80a5c59b584ed500c80b6706e",
+      "title": "How Andy Burnham can save Labour | Tariq Ali interview",
+      "published_at": "2026-10-16T11:31:20+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ad1ff0765f99a36ebb741d4",
+      "description": "Tariq Ali is one of Britain's foremost figures on the left of politics, and following a busy recess for Andy Burnham, he came in to the studio to react to the Prime Minister's speech to Labour conference, his first few months in charge, and how Britain should position itself in a world in complete flux. Get Tariq Ali and Rashid Khalidi's new book The Neck and The Sword here: https://www.versobooks.com/en-gb/products/3648-the-sword-and-the-neck Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ad1ff0765f99a36ebb741d4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129317731",
+      "itunes_duration": "1:07:20",
+      "speakers": [
+        "Andy Burnham",
+        "Tariq Ali"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "labour",
+        "tariq"
+      ]
+    },
     {
       "key": "0337b53e0f163571f7362b2cffb0e9d46e0d48a0",
       "title": "Going Deep on the Zionism is Racism Motion with NoJusticeMTG",
@@ -13863,6 +13885,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — How Andy Burnham can save Labour | Tariq Ali interview — speakers: Andy Burnham, Tariq Ali
 - 2026-10-15 — Going Deep on the Zionism is Racism Motion with NoJusticeMTG
 - 2026-10-14 — The New Fascists | Naomi Klein and Astra Taylor interview — speakers: Naomi Klein, Astra Taylor
 - 2026-10-12 — Is Zack Polanski in trouble? | Green Party by-election loss — speakers: Zack Polanski, St Pancras

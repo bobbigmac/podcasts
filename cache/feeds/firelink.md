@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-10-09T18:21:16+00:00`
-- checked_at: `2026-10-09T18:21:16+00:00`
-- etag: `W/"4130f-jGZykfyH1cVGwAV63B5DN9fsD1g"`
+- fetched_at: `2026-10-16T16:37:58+00:00`
+- checked_at: `2026-10-16T16:37:58+00:00`
+- etag: `W/"41af2-EaegZcaMxvPrOhESutR0lxAJlXE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-10-09T18:21:16+00:00",
+  "fetched_at": "2026-10-16T16:37:58+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "254499ce7883c99e171b09cb6bf954e4a2d192bf",
+      "title": "Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast",
+      "published_at": "2026-10-16T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Game-Companies-Sure-Seem-to-Love-Their-AI-Controversies-----Firelink-Podcast-e3qj2mv",
+      "description": "This week on Firelink Nick, KC, and Marty chat about just how many times game companies can step in the AI pile in one week. Apparently, it's a lot. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/127551647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F8e251f87-2ee9-bba3-9568-3f00caa7a063.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140095328",
+      "itunes_duration": "01:37:17",
+      "speakers": [
+        "Firelink Nick",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "game",
+        "companies",
+        "controversy",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "dfb97586bc9cec1323f041d068cbc989f2dfff5f",
       "title": "Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast",
@@ -3332,6 +3357,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-09 — Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast — speakers: Firelink Nick, Xbox XP, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-02 — Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-25 — Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu

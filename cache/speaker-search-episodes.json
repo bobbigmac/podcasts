@@ -14615,6 +14615,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:71ff8532d9f4",
+        "feed_title": "Films To Be Buried With with Brett Goldstein",
+        "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
+        "dedupe_key": "1e4198ac241e625a7ef8a9c454ef7c7dad36212f",
+        "episode_key": "1e4198ac241e625a7ef8a9c454ef7c7dad36212f",
+        "title": "Richard Herring • Films To Be Buried With with Brett Goldstein #96",
+        "published_at": "2020-05-13T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the yet another national treasure, it’s comedian and podcaster RICHARD HERRING!\nBrett is zooming things up VERY nicely right now with a solid gold cast of legends in this lockdown period! You ",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7294844041.mp3?updated=1758120707",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-herring-films-to-be-buried-with-with/id1408585620?i=1000474510240&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -43091,6 +43113,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:217651782dc4",
+        "feed_title": "Washed Up Emo",
+        "source_rss_url": "https://feeds.megaphone.fm/DEP7117022078",
+        "dedupe_key": "3ab1a0ae90348128285addb0e8acfb19f2b3e6ea",
+        "episode_key": "3ab1a0ae90348128285addb0e8acfb19f2b3e6ea",
+        "title": "David Mitchell from Gulfer!",
+        "published_at": "2024-06-17T11:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Today on the podcast, we welcome David Mitchell from the Montreal-based band Gulfer. I have loved them since I first heard them in the 2010s. I’ve had a soft spot for their sound and continued work ethic to make music through things that happen in life. Their most recent album, out as of late February, is called Third ",
+        "audio_url": "https://traffic.megaphone.fm/DEP2754159701.mp3?updated=1718598267",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-from-gulfer/id473550858?i=1000659261696&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d0969a5580fe",
         "feed_title": "Hey! read this.",
         "source_rss_url": "https://rss.buzzsprout.com/953494.rss",
@@ -44831,6 +44875,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:1b5de0c867ae",
+        "feed_title": "This Writing Life",
+        "source_rss_url": "https://thiswritinglife.co.uk/feed.xml",
+        "dedupe_key": "f349c3c09e7d6a4d28da5e3f50cb56bdea06b9d6",
+        "episode_key": "f349c3c09e7d6a4d28da5e3f50cb56bdea06b9d6",
+        "title": "Episode 44 - David Mitchell and Michel Faber in conversation: Part 4",
+        "published_at": "2016-03-22T09:46:05Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the fourth and final episode of our conversation with David Mitchell and Michel Faber, we kick off by talking author events and public readings with reference to The Bone Clocks and Mitchell's performative self. ----more----From there we move to bad readers: \n\n\n'I have been to see very eminent, Booker Prize winning ",
+        "audio_url": "https://mcdn.podbean.com/mf/web/42q7ei/FaberMitchell_FINAL_Part_4.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-44-david-mitchell-and-michel-faber-in/id1101837877?i=1000366471985&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f49a23c4531f",
         "feed_title": "Southbank Centre",
         "source_rss_url": "https://feeds.captivate.fm/southbank-centre",
@@ -44843,6 +44909,50 @@
         "description": "Two world-renowned authors: Nobel prize winning Kazuo Ishiguro and novelist, David Mitchell appear together for the first time in an intimate exploration of the writing process.",
         "audio_url": "https://podcasts.captivate.fm/media/54480bd2-4312-4ad1-b8b3-7d802badd634/252829744-southbankcentre-kazuo-ishiguro-and-david-mitchell-con.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/kazuo-ishiguro-with-david-mitchell/id1271294378?i=1000393252771&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1b5de0c867ae",
+        "feed_title": "This Writing Life",
+        "source_rss_url": "https://thiswritinglife.co.uk/feed.xml",
+        "dedupe_key": "8fc46476d395a85a73d95ea4c90882805e642aec",
+        "episode_key": "8fc46476d395a85a73d95ea4c90882805e642aec",
+        "title": "Episode 43 - David Mitchell and Michel Faber in conversation: Part 3",
+        "published_at": "2016-03-17T11:16:02Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the third, and penultimate, part of the David Mitchell and Michel Faber double-header, we start off by talking immortality and the status of fiction in the 21st century.----more---- 'I am something of an optimist,' Mitchell says before quoting the Rizzle Kicks' 'Skip to the Good Bit'. 'I like to think that starvatio",
+        "audio_url": "https://mcdn.podbean.com/mf/web/snnb4f/FaberMitchellPart3FINAL.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-43-david-mitchell-and-michel-faber-in/id1101837877?i=1000366471992&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1b5de0c867ae",
+        "feed_title": "This Writing Life",
+        "source_rss_url": "https://thiswritinglife.co.uk/feed.xml",
+        "dedupe_key": "0ee04e6bb717d4fa5493c474a1d7f226fee11ed7",
+        "episode_key": "0ee04e6bb717d4fa5493c474a1d7f226fee11ed7",
+        "title": "Episode 42 - David Mitchell and Michel Faber in conversation: Part 2",
+        "published_at": "2016-03-12T10:27:39Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In part two of my interview with Michel Faber and David Mitchell, we begin by talking big books and the attempt to say everything in fiction. ----more---- As Mitchell puts it: 'I feel clobbered by the impossibility of translating into words as much of this enormous world we live in – the world itself and the human worl",
+        "audio_url": "https://mcdn.podbean.com/mf/web/ijf864/FaberMitchellPart2FINAL.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-42-david-mitchell-and-michel-faber-in/id1101837877?i=1000366471984&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
