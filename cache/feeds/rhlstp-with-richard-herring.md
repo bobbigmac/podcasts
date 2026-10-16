@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-14T04:59:53+00:00`
-- checked_at: `2026-10-14T04:59:53+00:00`
-- etag: `"djEuMi4wOjE3OTE5NDY2NTkyNjc="`
+- fetched_at: `2026-10-16T04:30:40+00:00`
+- checked_at: `2026-10-16T04:30:40+00:00`
+- etag: `"djEuMi4wOjE3OTIxMTk0NTkzMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-14T04:59:53+00:00",
+  "fetched_at": "2026-10-16T04:30:40+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cfd030fec2a19a598314cf5d468bc23a9588a30c",
+      "title": "Jonn Elledge on 31 Inventions That Built Our World - Book Club",
+      "published_at": "2026-10-16T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #197 - 31 Inventions That Built Our World - In a book club first an author (that I am not married to) has come to Hitchin for a face to face chat. Jonn Elledge is here to discuss his latest book 31 Inventions That Built Our World as well as how close he came to being in a Harry Potter film. They chat about his previous books about borders and conspiracy theories (and a possibly true one about Britney Spears) and then discuss the infrastructure of our modern world that we take for granted and how it got here. This includes how the car helped create the concept of teenagers and changed the world of dating, why electric cars failed to gain traction the first time they were introduced and why people thought they were only for women, how lighting destroyed the concept of first and second sleeps, how William Huskisson might not be the first person to be killed by a train and how he was the third most famous aspect of his own death anyway and how this book changes the way you look at the world, Buy the book here - https://uk.bookshop.org/p/books/31-inventions-that-built-our-world-from-the-sunday-times-1-bestselling-author-of-a-history-of-the-world-in-47-borders-jonn-elledge/fcf314aacc4bcd9b SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791370006277-b4946cd3-2fd9-4594-80c3-0513d1887fcb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ac620e67ce338e8cd7e71ad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23573315",
+      "itunes_duration": "49:06",
+      "speakers": [
+        "Jonn Elledge",
+        "Book Club",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jonn",
+        "elledge",
+        "invention",
+        "world",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "07b884190f032cd4aa7a53ed09c7fb50b0f3a0d3",
       "title": "Felicity Ward - \"Champagne Supernova\"",
@@ -24240,6 +24265,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Jonn Elledge on 31 Inventions That Built Our World - Book Club — speakers: Jonn Elledge, Book Club, Richard Herring
 - 2026-10-14 — Felicity Ward - "Champagne Supernova" — speakers: Richard Herring
 - 2026-10-12 — Bridget Christie (Retro) - "Unchained Melody" — speakers: Bridget Christie, Richard Herring
 - 2026-10-10 — Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do — speakers: Craven Newsround Compilation, Randrew Andrew, No Can Do, Richard Herring

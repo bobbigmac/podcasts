@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-14T00:17:16+00:00`
-- checked_at: `2026-10-14T00:17:16+00:00`
-- etag: `"djEuMi4wOjE3OTE5MzQxMTkzODk="`
+- fetched_at: `2026-10-16T04:30:40+00:00`
+- checked_at: `2026-10-16T04:30:40+00:00`
+- etag: `"djEuMi4wOjE3OTIxMDU1OTkyNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-14T00:17:16+00:00",
+  "fetched_at": "2026-10-16T04:30:40+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "65ebc036e499640c09a0c94814faf7baa4b40dbb",
+      "title": "Kurt Cobain Had Been Dead For Two Years",
+      "published_at": "2026-10-15T23:06:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/kurt-cobain-had-been-dead-for-two-years",
+      "description": "Welcome to this week's Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero. This week we're taking a trip back to the golden age of television game shows, before heading into the tactical revolution that has changed football from the Champions League to the lowest reaches of the non-league pyramid. Two very different approaches to sport. One involving meticulous tactical planning. The other involving Jimmy Tarbuck and a set of rules nobody appears to understand. Documentary of the Week (Sort Of) Steff: Full Swing In place of the usual documentary, Steff has unearthed an absolute gem from the golden age of British television: Jimmy Tarbuck's Full Swing . It's a glorious car crash of a golf-based, general knowledge-adjacent game show, featuring celebrity contestants, questionable production decisions and a format whose rules the audience are apparently expected to work out for themselves as the programme unfolds. If the idea of Jimmy Tarbuck presiding over a golf quiz that appears to have been designed during a particularly long lunch doesn't make you want to watch it immediately, we're not sure this is the podcast for you. https://www.youtube.com/watch?v=6svRbCgDm8w&t=45s Book of the Week Elis: The Spectre of Pep — How Guardiola Haunts Modern Football by Jon Mackenzie Elis brings in Jon Mackenzie's fascinating examination of Pep Guardiola's influence on modern football . From his tactical philosophy and obsession with controlling space to the way teams across Europe's biggest leagues have adopted versions of his approach, the book explores how one manager's ideas have fundamentally changed the way the game is played. And it's not just the elite. From Manchester City to the lower reaches of non-league football, everybody now seems determined to play out from the back, regardless of whether the centre-half is entirely comfortable with the idea. Has Guardiola made football better? Or has he simply made everyone believe there's only one correct way to play it? Plenty for Elis, Mike and Steff to get stuck into. https://link.amazon/B0aGXHEoU Jimmy Tarbuck and Pep Guardiola. Two men who have approached the organisation of sport in very different ways. Thanks for listening. And if you want more from The Socially Distant Sports Bar, including exclusive episodes and extra content, join us on Patreon: https://www.patreon.com/distantpod 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6acd1f38f38f25c0f00231cd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36583549",
+      "itunes_duration": "38:06",
+      "speakers": [
+        "Kurt Cobain",
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "kurt",
+        "cobain",
+        "year"
+      ]
+    },
     {
       "key": "ffc3b62f79f7badea0bb216ba9154c3d0ac3f490",
       "title": "Those Bloody Hams",
@@ -16229,6 +16252,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Kurt Cobain Had Been Dead For Two Years — speakers: Kurt Cobain, Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-13 — Those Bloody Hams — speakers: Those Bloody Hams, Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-10 — The Liver King: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-08 — Rory — speakers: Mike Bubbins, Elis James, Steff Garrero, Mike ch

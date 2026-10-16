@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-12T00:32:01+00:00`
-- checked_at: `2026-10-12T00:32:01+00:00`
-- etag: `"djEuMi4wOjE3OTE3NTk3NTkzNDA="`
+- fetched_at: `2026-10-16T04:30:40+00:00`
+- checked_at: `2026-10-16T04:30:40+00:00`
+- etag: `"djEuMi4wOjE3OTIxMDUzNTkzMjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-12T00:32:01+00:00",
+  "fetched_at": "2026-10-16T04:30:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "17d7494092cc55fb44d648cb3ddcc86b6582dfaa",
+      "title": "My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John)",
+      "published_at": "2026-10-15T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-22-with-graham-fellows-aka-john-s",
+      "description": "Graham Fellows was our guest in episode 156 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Graham Fellows is best known for playing the character John Shuttleworth and the one-hit wonder Jilted John. Graham Fellows created John Shuttleworth in 1986, a middle-aged, aspiring singer-songwriter who expresses his musical talents through his Yamaha PSS680 portable keyboard. His songs include \"Pigeons in Flight\" which he attempted to have selected for the Eurovision Song Contest. Jilted John’s hit single “Jilted John” got to no.4 in the UK charts . Also, Mike and his producer and son John chat about this weeks episode with Oscar Nominated writer Paul Unwin and answer listener's emails and voice notes . To watch It's Nice Up North and buy tickets for the tour, visit - http://www.shuttleworths.co.uk . For everything Graham Fellows, visit - https://grahamfellowsmusic.com . Listen to Graham Fellows' original episode - https://mytimecapsulepodcast.com/episodes?q=156 . Donte to John's running challenge here! - https://prostateunited.prostatecanceruk.org/fundraising/john-fs-5km-a-day . Donate to Mike's walking challenge here! - https://step.diabetes.org.uk/fundraising/mikes-fundraising-page403 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1792076387321-ed94acdb-cddf-48f1-9089-5baa0f5cabc3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ad0ee3ff38f25c0f05f534f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70057712",
+      "itunes_duration": "58:22",
+      "speakers": [
+        "Graham Fellows",
+        "John Shuttleworth",
+        "Jilted John"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "graham",
+        "fellows",
+        "john",
+        "shuttleworth",
+        "wonder",
+        "jilted"
+      ]
+    },
     {
       "key": "260d8abd5a094a43537686f012d44fbacaec4306",
       "title": "Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty",
@@ -13679,6 +13706,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John) — speakers: Graham Fellows, John Shuttleworth, Jilted John
 - 2026-10-11 — Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty — speakers: Paul Unwin Oscar, Paul Unwin
 - 2026-10-08 — My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You) — speakers: Ahir Shah, Edinburgh Comedy Award Winner
 - 2026-10-04 — Ep. 608 - Mark Constantine OBE - CEO and Co-founder of LUSH — speakers: Mark Constantine Obe

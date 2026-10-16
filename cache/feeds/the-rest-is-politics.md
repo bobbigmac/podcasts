@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-15T04:36:39+00:00`
-- checked_at: `2026-10-15T04:36:39+00:00`
-- last_modified: `Wed, 14 Oct 2026 23:00:05 GMT`
+- fetched_at: `2026-10-16T04:30:40+00:00`
+- checked_at: `2026-10-16T04:30:40+00:00`
+- last_modified: `Thu, 15 Oct 2026 23:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T04:36:39+00:00",
+  "fetched_at": "2026-10-16T04:30:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,33 @@
   ],
   "episodes": [
     {
+      "key": "74582a52f267817f12ebebda6ac3991e19628314",
+      "title": "Addiction, Breakdown and Finding Persevilience: Rory Interviews Alastair",
+      "published_at": "2026-10-15T23:00:00+00:00",
+      "link": null,
+      "description": "How has Alastair managed to come back from some of the darkest places in his life, overcoming a breakdown while in the public eye? Is his obsession with work unhealthy, or necessary to achieving great things and what does it cost his family and those around him? And, beyond the personal, could the word he invented, “Persevilience”, be the antidote to populism, polarisation and post-truth? Listen to Rory Stewart interviewing Alastair Campbell for part one of Persevilience where they discuss all of this and more. Producer: India Dunkley Video Editor: Louis Mealing Social Producer: Emma Jackson Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5c92d68e-c89f-11f1-bcd7-4354ed9e2f36/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6607182470.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4054",
+      "speakers": [],
+      "topics": [
+        "addiction",
+        "breakdown",
+        "finding",
+        "persevilience",
+        "rory",
+        "interviews",
+        "alastair"
+      ]
+    },
+    {
       "key": "bb39b7b9b12f7dfb1ef0bf13cd1f986bc2fa1b4e",
       "title": "580. How to Solve Britain’s Youth Unemployment Crisis",
       "published_at": "2026-10-14T23:00:00+00:00",
       "link": null,
-      "description": "In Britain, we spend £25 on benefits for every £1 we spend helping young people find work. So why have successive governments failed to fix this – and what does Alan Milburn’s review, due this autumn, say needs to change? How have countries with the lowest youth unemployment rates tackled the issue, and what is the one intervention Andy Burnham’s government should put its money behind? How can we convince employers to take a chance on young people? Rory and Alastair are joined by Alan Milburn as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Andy Burnham by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. Move faster with daily global market analysis, the download on tokenisation and how to manage your company's energy transition all from Lloyds Corporate & Institutional Banking. Search Lloyds Corporate. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson, Bex Tyrrell Video Editor: Bruno Di Castri, Lorcan Moullier Assistant Producer: Daisy Alston-Horne, Evie Townend Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "In Britain, we spend £25 on benefits for every £1 we spend helping young people find work. So why have successive governments failed to fix this – and what does Alan Milburn’s review, due this autumn, say needs to change? How have countries with the lowest youth unemployment rates tackled the issue, and what is the one intervention Andy Burnham’s government should put its money behind? How can we convince employers to take a chance on young people? Rory and Alastair are joined by Alan Milburn as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Andy Burnham by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson, Bex Tyrrell Video Editor: Bruno Di Castri, Lorcan Moullier Assistant Producer: Daisy Alston-Horne, Evie Townend Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6df192c6-c741-11f1-bddc-2fe68fc51c8d/image/20150d1e82c773714829f98724026183.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8657494873.mp3",
       "enclosure_type": "audio/mpeg",
@@ -51,7 +73,7 @@
       "title": "579. Trump’s Public Execution Order and Burnham’s Brexit Intervention",
       "published_at": "2026-10-13T23:00:00+00:00",
       "link": null,
-      "description": "How does Marco Rubio’s Parthenon speech fit the Trump administration’s ideas on European “civilisational erasure” – and how does it depart from traditional Republican rhetoric? With Pete Hegseth’s announcement of America’s first public execution since 1936 sparking outrage, are Trump’s likely successors, Vance and Rubio, staying loyal to their boss or quietly breaking from him? As Iran-backed Houthi attacks hit Saudi Arabia, can anyone predict Trump’s next move in the Middle East? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Andy Burnham by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. Move faster with daily global market analysis, the download on tokenisation and how to manage your company's energy transition all from Lloyds Corporate & Institutional Banking. Search Lloyds Corporate. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson, Bex Tyrrell Video Editor: Caroline Kaye, Adam Thornton Assistant Producer: Daisy Alston-Horne, Evie Townend Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "How does Marco Rubio’s Parthenon speech fit the Trump administration’s ideas on European “civilisational erasure” – and how does it depart from traditional Republican rhetoric? With Pete Hegseth’s announcement of America’s first public execution since 1936 sparking outrage, are Trump’s likely successors, Vance and Rubio, staying loyal to their boss or quietly breaking from him? As Iran-backed Houthi attacks hit Saudi Arabia, can anyone predict Trump’s next move in the Middle East? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Andy Burnham by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson, Bex Tyrrell Video Editor: Caroline Kaye, Adam Thornton Assistant Producer: Daisy Alston-Horne, Evie Townend Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8c329452-c740-11f1-8b57-37bf2d864266/image/717a0c4830a39a1d926722b7a89115db.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4651495065.mp3",
       "enclosure_type": "audio/mpeg",
@@ -13200,6 +13222,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — Addiction, Breakdown and Finding Persevilience: Rory Interviews Alastair
 - 2026-10-14 — 580. How to Solve Britain’s Youth Unemployment Crisis — speakers: Solve Britain
 - 2026-10-13 — 579. Trump’s Public Execution Order and Burnham’s Brexit Intervention — speakers: Marco Rubio’s Parthenon
 - 2026-10-07 — 578. Alastair and Michael Gove Disagree Agreeably on Brexit and Israel — speakers: Andy Burnham

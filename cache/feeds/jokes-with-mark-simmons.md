@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-08-22T09:41:32+00:00`
-- checked_at: `2026-08-22T09:41:32+00:00`
-- etag: `"djEuMi4wOjE3ODczOTE1MzM3NzQ="`
+- fetched_at: `2026-10-16T04:30:40+00:00`
+- checked_at: `2026-10-16T04:30:40+00:00`
+- etag: `"djEuMi4wOjE3OTIxMjMyNDAyODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-08-22T09:41:32+00:00",
+  "fetched_at": "2026-10-16T04:30:40+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,92 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f3877c4fce593f2adb152aaa293b9a8f738dacff",
+      "title": "Tour Talk - Ireland, UHT milk & a strip search",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-ireland-uht-milk-a-strip-search",
+      "description": "The boys are in Ireland, Mark is preparing for New York & a joke each to chat through. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6ad176d97c5c47f85e0d3072/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51505465",
+      "itunes_duration": "35:44",
+      "speakers": [
+        "Tour Talk Ireland",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "ireland",
+        "milk",
+        "strip",
+        "search"
+      ]
+    },
+    {
+      "key": "38c239c4b55f85ba269d8942eaedd84122bbd566",
+      "title": "Elouise Eftos",
+      "published_at": "2026-10-03T10:25:39+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/elouise-eftos",
+      "description": "Eloise Eftos joins us to chat about her two solo shows and how she's liking living in London. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6ac0d82352a5384444207039/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58673194",
+      "itunes_duration": "40:42",
+      "speakers": [
+        "Eloise Eftos",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "elouise",
+        "eftos"
+      ]
+    },
+    {
+      "key": "3e40b39b9dafd6318dc720c20af4e163a2d50c39",
+      "title": "Tour Talk: Back on tour",
+      "published_at": "2026-09-24T14:07:48+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-back-on-tour",
+      "description": "Dallied post fringe chat and first week back on the tour. Big life changes happening Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6ab52eb4432e34fa45dfd9e5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47057201",
+      "itunes_duration": "32:39",
+      "speakers": [
+        "Tour Talk",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk"
+      ]
+    },
+    {
+      "key": "2c36594dce8e5bdfbe6b6f8bcc8a5946f995492f",
+      "title": "David Trent Returns",
+      "published_at": "2026-09-16T03:00:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/david-trent-returns",
+      "description": "David Trent joins up to reminsice about his time in comedy and to tell us some routines that didn't go well with the critics Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6aa9d9258a1508074d35224b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52753065",
+      "itunes_duration": "36:35",
+      "speakers": [
+        "David Trent Returns",
+        "David Trent",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "david",
+        "trent",
+        "return"
+      ]
+    },
     {
       "key": "2bf3015cdd8176838b358aec716e62287ac22d4b",
       "title": "Fringe Talk - Stage invasion & Danny's numbers",
@@ -7541,6 +7627,10 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Tour Talk - Ireland, UHT milk & a strip search — speakers: Tour Talk Ireland, Mark Simmons
+- 2026-10-03 — Elouise Eftos — speakers: Eloise Eftos, Mark Simmons
+- 2026-09-24 — Tour Talk: Back on tour — speakers: Tour Talk, Mark Simmons
+- 2026-09-16 — David Trent Returns — speakers: David Trent Returns, David Trent, Mark Simmons
 - 2026-08-22 — Fringe Talk - Stage invasion & Danny's numbers — speakers: Fringe Talk Stage, Mark Simmons
 - 2026-08-11 — Fringe Talk: And so it begins again — speakers: Fringe Talk, Mark Simmons
 - 2026-07-29 — Tour Talk: Edinburgh Fringe Preview — speakers: Edinburgh Fringe Preview, Mark Simmons
