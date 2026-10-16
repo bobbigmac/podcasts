@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-10-15T16:59:32+00:00`
-- checked_at: `2026-10-15T16:59:32+00:00`
-- etag: `"djEuMi4wOjE3OTIwNzI1MDE4NDQ="`
+- fetched_at: `2026-10-16T11:21:58+00:00`
+- checked_at: `2026-10-16T11:21:58+00:00`
+- etag: `"djEuMi4wOjE3OTIxMzc2Mzk0NDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-10-15T16:59:32+00:00",
+  "fetched_at": "2026-10-16T11:21:58+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "38c69169126864fd36e5213f17419e0e851364cd",
+      "title": "Elf Lyons Returns",
+      "published_at": "2026-10-16T08:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/519-elf-lyons-returns",
+      "description": "Elf Lyons, Queen of Edinburgh, returns to the show 8 years and 252 episodes later as we dig into the award winning show, The Woman on the Edge which combines the best of comedy, theatre, and performance art. We discuss: what happens the moment people start saying your work is good the post-Fringe comedown and why it feels like a break-up how her family taught her not to accept failure the need to debate why something is funny why all clowns should do stand-up first how we get agency from turning what hurts into art and we find out if Elf is happy… Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss learning to clown at Gaulier, the pressure on new artists to prove they deserve to be there and how lip-syncing keeps her safe on stage. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Elf: You can see Elf Lyons is The Woman on the Edge in New York RIGHT NOW and in London at the Soho Theatre Walthamstow in January . Find out all the info and more at elflyons.com . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Elf ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1792072217957-df38bf77-8bf3-44ff-a75c-80b1b4faf2c4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6ad0db35937a3c900ff97b63/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134766144",
+      "itunes_duration": "1:33:35",
+      "speakers": [
+        "Elf Lyons Returns Elf",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "lyons",
+        "return"
+      ]
+    },
     {
       "key": "0bf632fb12f7bf76016e3e1d13967eb88fb642fa",
       "title": "Larry Dean (2020): ComCompendium",
@@ -11798,6 +11818,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Elf Lyons Returns — speakers: Elf Lyons Returns Elf, Stuart Goldsmith
 - 2026-09-24 — Larry Dean (2020): ComCompendium — speakers: Larry Dean, Stuart Goldsmith
 - 2026-09-10 — Doc Brown (2019): ComCompendium — speakers: Doc Brown, Ben Bailey Smith, Stuart Goldsmith
 - 2026-09-03 — Greg Proops Returns — speakers: Greg Proops Returns, Stuart Goldsmith

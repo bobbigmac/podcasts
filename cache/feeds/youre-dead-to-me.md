@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-10-09T10:31:47+00:00`
-- checked_at: `2026-10-09T10:31:47+00:00`
-- etag: `"6848ff7c2be671929a338ef4e57d5d55"`
-- last_modified: `Fri, 09 Oct 2026 07:15:05 GMT`
+- fetched_at: `2026-10-16T11:21:58+00:00`
+- checked_at: `2026-10-16T11:21:58+00:00`
+- etag: `"acb519bc24de112c9a3fd87dcca122b0"`
+- last_modified: `Fri, 16 Oct 2026 05:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-10-09T10:31:47+00:00",
+  "fetched_at": "2026-10-16T11:21:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,51 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "549cbe4b8f7d21dae57e2bcf9895b11ee76f5d04",
+      "title": "The History of Fandom, 1700-1900 (Radio Edit)",
+      "published_at": "2026-10-16T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p9lld4",
+      "description": "Greg Jenner is joined by Dr Corin Throsby and Stuart Goldsmith to look at early cultural fandom in the 18th and 19th centuries. Although many consider Beatlemania to be the start of what is now considered fan culture, Greg and his guests consider some much earlier and often hilarious examples of the birth of fandom. This episode was recorded live at the 2022 Hay Festival. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Research by Emmie Rose Price-Goodfellow Written by Emma Nagouse and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Abi Paterson",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9ps7q.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
+      "itunes_duration": "1714",
+      "speakers": [
+        "Greg Jenner",
+        "Corin Throsby",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "history",
+        "fandom",
+        "radio",
+        "edit"
+      ]
+    },
+    {
+      "key": "9a37f6a8e753fdb600709b7aa0e90dbe950d6374",
+      "title": "New: The Hitler Diaries Scandal (from The History Podcast)",
+      "published_at": "2026-10-13T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pg8srx",
+      "description": "When Germany's biggest magazine Stern announced in 1983 that they'd found the long-lost diaries of Adolf Hitler, the world was poised to rewrite history. Unfortunately, they were fake. In this new series of The History Podcast, The Hitler Diaries Scandal, Andrew Hunter Murray goes back to the 1980s to uncover last century’s biggest ever publishing scandal, a forgery which rocked the world and destroyed reputations. It’s a tale of greed, obsession and mass delusion. It includes Hermann Göring’s yacht, Nazi-themed honeymoons, Idi Amin’s underpants, and more details almost too unbelievable for words. This is a teaser of episode one. If you enjoy it, you can hear the full series in The History Podcast on BBC Sounds.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8cc9g.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfnnhh.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9824000",
+      "itunes_duration": "614",
+      "speakers": [
+        "When Germany"
+      ],
+      "topics": [
+        "hitler",
+        "diaries",
+        "scandal",
+        "history",
+        "podcast"
+      ]
+    },
     {
       "key": "37c7635c7e10063591247c771ada49340af166a7",
       "title": "Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period",
@@ -6300,6 +6345,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — The History of Fandom, 1700-1900 (Radio Edit) — speakers: Greg Jenner, Corin Throsby, Stuart Goldsmith
+- 2026-10-13 — New: The Hitler Diaries Scandal (from The History Podcast) — speakers: When Germany
 - 2026-10-09 — Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period — speakers: Greg Jenner, Martha McGill, Marjolein Robertson
 - 2026-10-02 — Special Episode: 1066 and the Battle of Hastings — speakers: Erin Goeres, Alison Spittle
 - 2026-09-25 — Medieval Korea: from the Goryeo to Joseon periods — speakers: Medieval Korea, Greg Jenner, John Lee, Erika Ehler

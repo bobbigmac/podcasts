@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-13T10:33:36+00:00`
-- checked_at: `2026-10-13T10:33:36+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RFNE5qYzFOemt5T0RFPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-16T11:21:58+00:00`
+- checked_at: `2026-10-16T11:21:58+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RJeE1qWTNOemt5T0RNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-13T10:33:36+00:00",
+  "fetched_at": "2026-10-16T11:21:58+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ce9737917426ce0ed7d72cb4f5da3d2348c20b51",
+      "title": "Middle Class Problems | And How To Wipe Your Willy",
+      "published_at": "2026-10-16T04:59:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/middle-class-problems-and-how-to-wipe-your-willy",
+      "description": "Jordan North has recently become ‘aloof’ with pantry moths, which William Hanson deemed dead posh. Naturally, this got the boys wondering about YOUR most middle-class problems. But before we get too carried away with the Waitrose lifestyle, the boys bring things firmly back to the gutter with a debate about how you wash your willy. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1792079476513-43000310-641d-4c38-a5ce-8240ab180582.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ad0e640dd3e2d9fcadf1e00/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8VjLcS7Z1-Rsjt4Yvq5SizNWbNWKbo_wv_Ix98jTO9U",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32495490",
+      "itunes_duration": "33:50",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "middle",
+        "class",
+        "problem",
+        "willy"
+      ]
+    },
     {
       "key": "9a3ff13aa75cacd65d748e5a5ef491079c6ca643",
       "title": "Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding",
@@ -15242,6 +15264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Middle Class Problems | And How To Wipe Your Willy — speakers: Jordan North, William Hanson
 - 2026-10-13 — Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding — speakers: Jordan’s Moonlanding William Hanson, William Hanson, Jordan North
 - 2026-10-09 — Jordan Gets A Filling | And Our Most Hated Cutlery — speakers: Jordan North, William Hanson
 - 2026-10-06 — Help I Hate His Name | And Mr Pantry Moth — speakers: William Hanson, Jordan North

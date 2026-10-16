@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-10-16T04:30:40+00:00`
-- checked_at: `2026-10-16T04:30:40+00:00`
+- fetched_at: `2026-10-16T11:21:58+00:00`
+- checked_at: `2026-10-16T11:21:58+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-10-16T04:30:40+00:00",
+  "fetched_at": "2026-10-16T11:21:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "36f9075115f5cb5a0837a33feb78b9ee5897b4ba",
+      "guid": "20004822-126e-49cc-b23b-cba2a2b33481",
+      "title": "Peacock and Gamble (16th October)",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-16th-october1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1792145079-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=20004822-126e-49cc-b23b-cba2a2b33481&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "57edf38726259e438a082c386f7e639d2c55f138",
       "guid": "f8870096-0303-46f2-94a6-1e5190e082e2",
@@ -3151,6 +3164,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — Peacock and Gamble (16th October)
 - 2026-10-09 — Peacock and Gamble (9th October)
 - 2026-10-02 — Peacock and Gamble (2nd October)
 - 2026-09-25 — Peacock and Gamble (25th September)
