@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-15T16:59:32+00:00`
-- checked_at: `2026-10-15T16:59:32+00:00`
-- etag: `"djEuMi4wOjE3OTIwNzQ5OTc2NDc="`
+- fetched_at: `2026-10-17T20:35:38+00:00`
+- checked_at: `2026-10-17T20:35:38+00:00`
+- etag: `"djEuMi4wOjE3OTIyNTI4Mzk1MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-15T16:59:32+00:00",
+  "fetched_at": "2026-10-17T20:35:38+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "beb61179cf94e7f3100d4bba826dd72a20359576",
+      "title": "Reform slips to third in the polls",
+      "published_at": "2026-10-17T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/reform-slips-to-third-in-the-polls-after-badenoch-bounce",
+      "description": "Reform falls behind Labour and the Tories for the first time since the general election, how animals shape our voting patterns and 100 years of Winnie-the-Pooh. Anoosh Chakelian and Will Dunn round up the stories of the week. READ: https://www.newstatesman.com/politics/bursting-the-bubble/2026/10/our-mania-for-animals-warps-politics-priorities-and-personal-lives https://www.newstatesman.com/politics/the-sketch/2026/10/tiktoks-irreverent-slop-was-made-for-nigel-farage https://www.newstatesman.com/culture/books/2026/10/in-praise-of-winnie-the-poohs-idleness LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792060505727-c10be973-44b0-4dc4-948a-86319eab2146.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ad0ac46475166cf900c4128/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41198654",
+      "itunes_duration": "42:54",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "reform",
+        "poll"
+      ]
+    },
     {
       "key": "c46998684cde82527e88cfface281b03d6d13ac9",
       "title": "Burnham's Brexit reversal",
@@ -32635,6 +32655,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-17 — Reform slips to third in the polls — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-15 — Burnham's Brexit reversal — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-12 — The Green Party is in crisis — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
 - 2026-10-10 — Reform clears its own officials over donations sting — speakers: Kemi Badenoch, Anoosh Chakelian, Oli Dugmore
