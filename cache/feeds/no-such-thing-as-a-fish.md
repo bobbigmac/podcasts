@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-10-04T23:57:35+00:00`
-- checked_at: `2026-10-04T23:57:35+00:00`
-- etag: `W/"daf80190b4cefdc15d7ccd5c6dc33817"`
-- last_modified: `Sun, 04 Oct 2026 22:55:00 GMT`
+- fetched_at: `2026-10-17T15:33:14+00:00`
+- checked_at: `2026-10-17T15:33:14+00:00`
+- etag: `W/"abf578d83d29892427df1d7722f59ec6"`
+- last_modified: `Thu, 15 Oct 2026 22:57:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-10-04T23:57:35+00:00",
+  "fetched_at": "2026-10-17T15:33:14+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,76 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "709dd8e5e602afd44fa661ac1c605d09a147acef",
+      "title": "No Such Thing As Ultrasonic Shark Welding",
+      "published_at": "2026-10-15T22:57:00+00:00",
+      "link": "https://audioboom.com/posts/8964845",
+      "description": "Live from the London Podcast Festival, Dan, James, Anna and Andy discuss wet wood, Catholic calendars and nutless noise. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43885935.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964845.mp3?modified=1792083396&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3087",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "ultrasonic",
+        "shark",
+        "welding"
+      ]
+    },
+    {
+      "key": "8ce8bf96c1a9fee1e8bcdd6d16e6799da765fdf3",
+      "title": "This Podcast may contain traces of the Peanut Podcast",
+      "published_at": "2026-10-12T08:21:19+00:00",
+      "link": "https://audioboom.com/posts/8963189",
+      "description": "We find out why Dan is considered to be so smooth, while he, James and Andy discuss YOUR facts . This week's subjects include Kidneys, Korea, peanuts and Peter Pan. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963189.mp3?modified=1791793334&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1824",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "podcast",
+        "trace",
+        "peanut"
+      ]
+    },
+    {
+      "key": "ed5ef4384dca1bed25527e35453f0f4d44e7e045",
+      "title": "No Such Thing As Going To Spoiler Prison",
+      "published_at": "2026-10-08T22:57:00+00:00",
+      "link": "https://audioboom.com/posts/8962255",
+      "description": "Russell T Davies joins Dan, Anna and Andy to discuss scandalous lives, Swansea brides, and slipping through time. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by Dan Schreiber Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43875207.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1791482358&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3428",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "spoiler",
+        "prison"
+      ]
+    },
     {
       "key": "be441668db26687cdb9a39257bd2ad7c60c43e82",
       "title": "Little Fish: Ant Tower",
@@ -315,10 +385,10 @@
       "link": "https://audioboom.com/posts/8945974",
       "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss boffins, blankets, baldness and Binks. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Shopify: Stop waiting for permission to build something. Your next revenue stream starts free at shopify.co.uk",
       "image_url": "https://audioboom.com/i/43811432.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945974.mp3?modified=1787837025&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945974.mp3?modified=1791561342&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3375",
+      "itunes_duration": "3269",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",
@@ -359,12 +429,12 @@
       "title": "No Such Thing As The Have An Ice Cream Bird",
       "published_at": "2026-08-20T22:55:00+00:00",
       "link": "https://audioboom.com/posts/8943368",
-      "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss bird songs, big starfish, basic security and Bertha Suttner. Grey lourie bird media used with permission from @StoriesOfTheKruger | www.storiesofthekruger.com Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss bird songs, big starfish, basic security and Bertha Suttner. Grey lourie bird media used with permission from @StoriesOfTheKruger | www.storiesofthekruger.com Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
       "image_url": "https://audioboom.com/i/43801354.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943368.mp3?modified=1787235295&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943368.mp3?modified=1791560914&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3193",
+      "itunes_duration": "3034",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",
@@ -406,10 +476,10 @@
       "link": "https://audioboom.com/posts/8939250",
       "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss warmed fog, weird fines and wind farms. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
       "image_url": "https://audioboom.com/i/43786736.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939250.mp3?modified=1786622984&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939250.mp3?modified=1791560681&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3245",
+      "itunes_duration": "3139",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",
@@ -17246,6 +17316,9 @@
 
 ## Episodes (newest first)
 
+- 2026-10-15 — No Such Thing As Ultrasonic Shark Welding — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-10-12 — This Podcast may contain traces of the Peanut Podcast — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-10-08 — No Such Thing As Going To Spoiler Prison — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-04 — Little Fish: Ant Tower — speakers: Ant Tower Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-01 — No Such Thing As Alfred Hedgehog — speakers: Alfred Hedgehog Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-27 — Little Fish: Checking the Mark Hoppus — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
