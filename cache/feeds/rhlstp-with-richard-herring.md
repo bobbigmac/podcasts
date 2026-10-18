@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-16T04:30:40+00:00`
-- checked_at: `2026-10-16T04:30:40+00:00`
-- etag: `"djEuMi4wOjE3OTIxMTk0NTkzMzc="`
+- fetched_at: `2026-10-18T20:41:08+00:00`
+- checked_at: `2026-10-18T20:41:08+00:00`
+- etag: `"djEuMi4wOjE3OTIzNTQwMzU1MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-16T04:30:40+00:00",
+  "fetched_at": "2026-10-18T20:41:08+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8765c38e4b1da8d7668afadd5a14aa0d7199a1d1",
+      "title": "Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar",
+      "published_at": "2026-10-18T20:07:15+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-andy-burnham-is",
+      "description": "13/10/26 Andy Burnham Is a Liar - Rich and Ally are back to discuss the result of the Pottery Throwdown and the proof that Andy Burnham’s pants on on fire, with proof straight from the crocodile’s mouth. Also how did Ziggy lose her arms? We might find out today. Don’t miss it. Makes GB News look woke as fudge. 14/10/26 Are You Taking The P*ss - Rich and Ally are back for a post-prandial Newsround which you probably don’t want to watch while you’re eating, especially if you’re eating a Solero, about a dastardly criminal and his propensity for destruction. No kink shaming intended. Though you should be ashamed of your kinks. Or at the very least not proud of them. 16/10/26 Time Tinkerer - Rich and Ally get into some quite personal territory that you might wish to skip through, before being the only media outlet being brave enough to turn against the dictatorial star at the centre of our solar system. Should it wear clothing of any kind? Probably not. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1792353865475-4ddfe38a-9f18-43d3-bceb-6d8fc05f8ae4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ad526f3c81d0717f1d43cb9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27920064",
+      "itunes_duration": "58:09",
+      "speakers": [
+        "Andy Burnham",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "andy",
+        "burnham",
+        "liar"
+      ]
+    },
     {
       "key": "cfd030fec2a19a598314cf5d468bc23a9588a30c",
       "title": "Jonn Elledge on 31 Inventions That Built Our World - Book Club",
@@ -100,7 +125,7 @@
       "title": "Rich and Ally's Craven Newsround Compilation - Randrew Andrew’s No Can Do",
       "published_at": "2026-10-10T17:40:26+00:00",
       "link": "https://rhlstp.co.uk",
-      "description": "5th October 2026 - Randrew Andrew’s No Can Do - It’s a new week on Newsround, but same old rubbish. Today Rich, Ally and channel-mandated co-host Ziggy look at Andrew Mountbattenburg-Iceburg-Lettuce-Withagladsomemind- Windsor-Peppapigland attempt to prosecute the police who dared arrest him when he’s (apparently) done nothing wrong. With the interview that the lamestreamers would kill for Randrew Andrew himself. 7th October 2026 - Penile System - It’s a serious topic for today’s Newsround - is it OK to kill a murderer or does that just make you a murderer too? Who better to work this out than a washed-up comedian, a 134 year old ventriloquist dummy and a naked baby with a disembodied arm? No one that is who. 8th October 2026 - Flea Glob - Rich and Ally (and Ziggy?) look at the upcoming new pandemic and the return of the plague and try to accentuate the positive. A brave reporter is over at the Russian plague lab now and will let the world know how close to extinction we are. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "5th October 2026 - Randrew Andrew’s No Can Do - It’s a new week on Newsround, but same old rubbish. Today Rich, Ally and channel-mandated co-host Ziggy look at Andrew Mountbattenburg-Iceburg-Lettuce-Withagladsomemind- Windsor-Peppapigland attempt to prosecute the police who dared arrest him when he’s (apparently) done nothing wrong. With the interview that the lamestreamers would kill for Randrew Andrew himself. 7th October 2026 - Penile System - It’s a serious topic for today’s Newsround - is it OK to kill a murderer or does that just make you a murderer too? Who better to work this out than a washed-up comedian, a 134 year old ventriloquist dummy and a naked baby with a disembodied arm? No one that is who. 8th October 2026 - Flea Glob - Rich and Ally (and Ziggy?) look at the upcoming new pandemic and the return of the plague and try to accentuate the positive. A brave reporter is over at the Russian plague lab now and will let the world know how close to extinction we are. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791653831348-a79427bb-5602-4956-bf8a-f5449c368f88.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aca788aeea51f2aa33dcb30/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -24265,6 +24290,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-18 — Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar — speakers: Andy Burnham, Richard Herring
 - 2026-10-16 — Jonn Elledge on 31 Inventions That Built Our World - Book Club — speakers: Jonn Elledge, Book Club, Richard Herring
 - 2026-10-14 — Felicity Ward - "Champagne Supernova" — speakers: Richard Herring
 - 2026-10-12 — Bridget Christie (Retro) - "Unchained Melody" — speakers: Bridget Christie, Richard Herring
