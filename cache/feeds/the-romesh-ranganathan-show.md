@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-15T04:36:39+00:00`
-- checked_at: `2026-10-15T04:36:39+00:00`
-- last_modified: `Wed, 14 Oct 2026 23:00:00 GMT`
+- fetched_at: `2026-10-18T23:11:19+00:00`
+- checked_at: `2026-10-18T23:11:19+00:00`
+- last_modified: `Sun, 18 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T04:36:39+00:00",
+  "fetched_at": "2026-10-18T23:11:19+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e554a0949214ff8fab8032d8d39b80352368db06",
+      "title": "Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave",
+      "published_at": "2026-10-18T23:00:00+00:00",
+      "link": null,
+      "description": "Why did Katherine Ryan fly home from Spain on her own? In this episode of The Romesh Ranganathan Show, Romesh is joined by comedian, presenter and author Katherine Ryan, ahead of her new book Confessions of a Firstborn Daughter (out 22nd October). They get into eldest daughter syndrome, juggling four kids and a career, and why Katherine thinks women should misbehave a little more. Plus, there’s a Romesh gift with a very questionable backstory, a game of Misquoted involving maple syrup and a Bolognese, and some strong opinions on how to clean a toilet properly. A Ranga Bee Production. Chapters: 00:00 Intro 02:29 Katherine's Spanish escape 07:47 Celine Dion in Paris 13:26 A gift for Katherine 17:18 Kids' birthday parties and drunk mums 23:17 Parenting with a nanny rota 28:04 The double standards women face 29:07 Katherine's secret life in the TikTok comments 36:26 Hollywood and Nikki Glaser 39:39 Hiding a pregnancy on a sitcom 41:38 Confessions of a Firstborn Daughter 42:34 What is eldest daughter syndrome? 47:41 A question from Shanthi 48:22 Katherine's 17-year-old daughter, Violet 51:36 Cosmetic procedures and confidence 58:49 Misquoted 1:09:09 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bf6329c0-c95e-11f1-9b34-cbe20b715a4b/image/f4cab7729a633b4a967c4792278ed66e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6605803548.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4372",
+      "speakers": [
+        "Katherine Ryan",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "katherine",
+        "ryan",
+        "firstborn",
+        "daughters",
+        "celine",
+        "dion",
+        "women"
+      ]
+    },
     {
       "key": "81fd7bb3c0a337b1e78e8500f8d586ac21050517",
       "title": "Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing",
@@ -2575,6 +2600,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-18 — Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave — speakers: Katherine Ryan, Romesh Ranganathan
 - 2026-10-14 — Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing — speakers: Free Holiday, Vegan Teasing How, Romesh Ranganathan
 - 2026-10-11 — Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid — speakers: Tom Hiddleston, Romesh Ranganathan
 - 2026-10-07 — Shanthi's Reincarnation, Gym Etiquette & Getting Caught In The Act — speakers: Gym Etiquette, Act What, Romesh Ranganathan

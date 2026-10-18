@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-16T04:30:40+00:00`
-- checked_at: `2026-10-16T04:30:40+00:00`
-- etag: `"djEuMi4wOjE3OTIxMDUzNTkzMjg="`
+- fetched_at: `2026-10-18T23:11:19+00:00`
+- checked_at: `2026-10-18T23:11:19+00:00`
+- etag: `"djEuMi4wOjE3OTIzNjQ1NjAzOTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-16T04:30:40+00:00",
+  "fetched_at": "2026-10-18T23:11:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f29ebf9520618a61a1045cfc1506327682e36c7a",
+      "title": "Ep. 610 - Rachel Parris - The Mash Report, Live at the Apollo, Have I Got News for You, QI, Would I Lie to You",
+      "published_at": "2026-10-18T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-610-rachel-parris-the-mash-report-live-at-the-apollo-have",
+      "description": "Rachel Parris is a BAFTA-nominated comedian, musician, actor and author, best known for The Mash Report and Late Night Mash . She has appeared on Live at the Apollo , Have I Got News for You , Mock the Week , QI and Would I Lie to You? , and is a regular on BBC Radio 4’s Just a Minute and I’m Sorry I Haven’t a Clue . She is a founding member of the award-winning improvised comedy show Austentatious and is known for her sharp satire, stand-up and musical comedy. She is also the author of Advice from Strangers and the novel Introducing Mrs Collins . Rachel Parris is our guest in episode 610 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For Rachel’s live dates, books and everything else, visit - https://www.rachelparris.co.uk . Follow Rachel Parris on Instagram : @rachelsvparris . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ad205ce0c6b30397b472a30/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75449385",
+      "itunes_duration": "1:02:52",
+      "speakers": [
+        "Rachel Parris",
+        "Got News"
+      ],
+      "topics": [
+        "rachel",
+        "parris",
+        "mash",
+        "report",
+        "apollo",
+        "news"
+      ]
+    },
     {
       "key": "17d7494092cc55fb44d648cb3ddcc86b6582dfaa",
       "title": "My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John)",
@@ -13706,6 +13730,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-18 — Ep. 610 - Rachel Parris - The Mash Report, Live at the Apollo, Have I Got News for You, QI, Would I Lie to You — speakers: Rachel Parris, Got News
 - 2026-10-15 — My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John) — speakers: Graham Fellows, John Shuttleworth, Jilted John
 - 2026-10-11 — Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty — speakers: Paul Unwin Oscar, Paul Unwin
 - 2026-10-08 — My Time Capsule The Dig - Ep. 21. With Ahir Shah (Edinburgh Comedy Award Winner, Live at the Apollo, QI, Have I Got News For You) — speakers: Ahir Shah, Edinburgh Comedy Award Winner
