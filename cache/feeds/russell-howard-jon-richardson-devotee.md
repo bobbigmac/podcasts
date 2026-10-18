@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-14T21:40:10+00:00`
-- checked_at: `2026-10-14T21:40:10+00:00`
-- etag: `W/"5c7c2-hyBkod6dc6vgYSMUykMMsKNu5xU"`
+- fetched_at: `2026-10-18T11:02:41+00:00`
+- checked_at: `2026-10-18T11:02:41+00:00`
+- etag: `W/"5cbab-UM7DbK1pO0ZhSOmW717/aHPRDno"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,54 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-14T21:40:10+00:00",
+  "fetched_at": "2026-10-18T11:02:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "34837a6559409040f99f45553b2cfd95048833ab",
+      "title": "#9 The Jon Richardson Podcast #9 – Featuring Al Pitcher",
+      "published_at": "2026-10-16T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/9-The-Jon-Richardson-Podcast-9--Featuring-Al-Pitcher-e3qii8e",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792089680761-102269b16ada6.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4042394704.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75700190",
+      "itunes_duration": "01:18:00",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "pitcher"
+      ]
+    },
+    {
+      "key": "50fd15dd63a10ccce9222f138420534a27429581",
+      "title": "#8 The Jon Richardson Podcast #8 – Featuring Jarred Christmas",
+      "published_at": "2026-10-15T05:32:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/8-The-Jon-Richardson-Podcast-8--Featuring-Jarred-Christmas-e3qba50",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1791736638262-6824de10eb6a1.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9127962424.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62831868",
+      "itunes_duration": "01:04:45",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "jarred",
+        "christmas"
+      ]
+    },
     {
       "key": "24253519cb668aef6d536a8406fd922aebf4a399",
       "title": "#7 The Jon Richardson Podcast #7 – Featuring Paul Sinha",
@@ -6064,67 +6105,6 @@
         "podcast",
         "pitcher"
       ]
-    },
-    {
-      "key": "b5a812b7bf1550fbe3ff4946f85348fb95aba59f",
-      "title": "#8 Jon Richardson Podcast with Jarred Christmas",
-      "published_at": "2026-02-20T19:17:04+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/8-Jon-Richardson-Podcast-with-Jarred-Christmas-e3fchl8",
-      "description": "#8 Jon Richardson Podcast with Jarred Christmas",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771615011501-5e8ad037da32e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115803240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2F710ee911-cb3f-0f43-59f0-dcaee45d0893.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "46621760",
-      "itunes_duration": "01:04:44",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "jarred",
-        "christmas"
-      ]
-    },
-    {
-      "key": "3ded11e33f9d138e72818ca261a3aec734886a81",
-      "title": "#7 Jon Richardson Podcast with Paul Sinha",
-      "published_at": "2026-02-20T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/7-Jon-Richardson-Podcast-with-Paul-Sinha-e3faspn",
-      "description": "#7 Jon Richardson Podcast with Paul Sinha",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771525095635-04e77a615f972.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115749111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2Fa998e649-6e13-69c8-abf7-cd7410e09872.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "42327392",
-      "itunes_duration": "00:58:47",
-      "speakers": [
-        "Paul Sinha"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "paul",
-        "sinha"
-      ]
-    },
-    {
-      "key": "15c3ca1fa4359aac28a64f9fc6efa5090888e02b",
-      "title": "#6 Jon Richardson Podcast with Rufus Hound",
-      "published_at": "2026-02-19T18:14:59+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/6-Jon-Richardson-Podcast-with-Rufus-Hound-e3faskp",
-      "description": "#6 Jon Richardson Podcast with Rufus Hound",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771524885088-a9822a3c06387.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115748953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F3c72be40-fbbf-fe9e-5218-b1220dd3c200.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "48809120",
-      "itunes_duration": "01:07:47",
-      "speakers": [
-        "Rufus Hound"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "rufus",
-        "hound"
-      ]
     }
   ]
 }
@@ -6133,6 +6113,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-16 — #9 The Jon Richardson Podcast #9 – Featuring Al Pitcher — speakers: Jon Richardson
+- 2026-10-15 — #8 The Jon Richardson Podcast #8 – Featuring Jarred Christmas — speakers: Jon Richardson
 - 2026-10-14 — #7 The Jon Richardson Podcast #7 – Featuring Paul Sinha — speakers: Paul Sinha, Jon Richardson
 - 2026-10-13 — #6 The Jon Richardson Podcast #6 – Featuring Rufus Hound — speakers: Hound Step, Jon Richardson
 - 2026-10-12 — #5 The Jon Richardson Podcast #5 – Featuring Stephen Grant — speakers: Stephen Grant Step, Jon Richardson
@@ -6396,6 +6378,3 @@
 - 2026-02-23 — #11 Jon Richardson Podcast with Hal Cruttenden
 - 2026-02-22 — #10 Jon Richardson Podcast with Arnab Chandra — speakers: Arnab Chandra
 - 2026-02-21 — #9 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
-- 2026-02-20 — #8 Jon Richardson Podcast with Jarred Christmas
-- 2026-02-20 — #7 Jon Richardson Podcast with Paul Sinha — speakers: Paul Sinha
-- 2026-02-19 — #6 Jon Richardson Podcast with Rufus Hound — speakers: Rufus Hound
