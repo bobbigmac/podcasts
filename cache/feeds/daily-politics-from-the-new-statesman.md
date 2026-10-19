@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-17T20:35:38+00:00`
-- checked_at: `2026-10-17T20:35:38+00:00`
-- etag: `"djEuMi4wOjE3OTIyNTI4Mzk1MTE="`
+- fetched_at: `2026-10-19T20:35:08+00:00`
+- checked_at: `2026-10-19T20:35:08+00:00`
+- etag: `"djEuMi4wOjE3OTI0MjM4Mzk1Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-17T20:35:38+00:00",
+  "fetched_at": "2026-10-19T20:35:08+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1feb6028938c6c9c6540dc087a0c1f7e695f1850",
+      "title": "Can Reform weather the scandals?",
+      "published_at": "2026-10-19T15:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/can-reform-weather-the-scandals",
+      "description": "Reform UK is in crisis, amid a cascade of scandals The party’s poll rating has fallen from mid-thirties highs to the low twenties, with a recent poll showing them slipping to third place. This has come amid the “Burnham bounce” - Labour’s improved polling triggered by the change in Prime Minister. Anoosh Chakelian is joined by Megan Kenyon to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792419479429-07f1847b-6505-4b1f-9c4b-1d5959b81927.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ad626705233d43389241c03/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69387640",
+      "itunes_duration": "28:52",
+      "speakers": [
+        "Can Reform",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "reform",
+        "scandal"
+      ]
+    },
     {
       "key": "beb61179cf94e7f3100d4bba826dd72a20359576",
       "title": "Reform slips to third in the polls",
@@ -32655,6 +32676,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Can Reform weather the scandals? — speakers: Can Reform, Anoosh Chakelian, Oli Dugmore
 - 2026-10-17 — Reform slips to third in the polls — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-15 — Burnham's Brexit reversal — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-12 — The Green Party is in crisis — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
