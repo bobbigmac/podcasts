@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-10-12T21:16:31+00:00`
-- checked_at: `2026-10-12T21:16:31+00:00`
-- etag: `"11c482-65da62ad97939"`
-- last_modified: `Mon, 12 Oct 2026 15:15:25 GMT`
+- fetched_at: `2026-10-19T13:11:46+00:00`
+- checked_at: `2026-10-19T13:11:46+00:00`
+- etag: `"11cc50-65e3034081793"`
+- last_modified: `Mon, 19 Oct 2026 11:56:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-10-12T21:16:31+00:00",
+  "fetched_at": "2026-10-19T13:11:46+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ed42050062916feebe08ea4573441c7d3c000ba8",
+      "title": "First Tingle in a Measuring Shop - S22, Ep.7",
+      "published_at": "2026-10-19T11:35:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack are back to discuss series 22, episode 7. If you're someone who ever got their first tingle in the measuring shop or may be living in or around Edgware, then this episode is for you. Plus, do we need cutlery plaits? Why was Matt's plate of chocolate no match for Chloe's Caramac? How fast was that tiny train going? And one listener writes in to give us a hot tip on Noel Fielding's paintings. Send your Taskmaster thoughts to fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9a755335-c192-4593-8c77-e19d47df6bf4.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=9a755335-c192-4593-8c77-e19d47df6bf4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63451214",
+      "itunes_duration": "01:06:00",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "tingle",
+        "measuring",
+        "shop"
+      ]
+    },
     {
       "key": "d5638746b83bcc09f39e765cbaa48bddf5088fa2",
       "title": "Jiggery-Pokery - S22, Ep. 6",
@@ -4976,6 +4997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — First Tingle in a Measuring Shop - S22, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-12 — Jiggery-Pokery - S22, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-05 — Sexy Shetland Pony - S22, Ep.5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-28 — The Mona Lisa Doesn't Have Googly Eyes - S22, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt

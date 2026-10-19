@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-10-12T21:16:31+00:00`
-- checked_at: `2026-10-12T21:16:31+00:00`
-- last_modified: `Mon, 12 Oct 2026 11:01:31 GMT`
+- fetched_at: `2026-10-19T13:11:46+00:00`
+- checked_at: `2026-10-19T13:11:46+00:00`
+- last_modified: `Mon, 19 Oct 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-12T21:16:31+00:00",
+  "fetched_at": "2026-10-19T13:11:46+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -28,11 +28,36 @@
   ],
   "episodes": [
     {
+      "key": "473ac5c85974f29fbcb1fbeba05e3833714a71dd",
+      "title": "505. Misinformation with Catherine Bohart and special guest Isabella Heaver",
+      "published_at": "2026-10-19T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 505. Misinformation Presented by Deborah Frances-White and Catherine Bohart with special guest Isabella Heaver and music from Flo & Joan Recorded 23 August 2026 at Gilded Balloon at the Museum. Released 19 October. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Catherine Bohart https://www.instagram.com/catherinebohart https://www.catherinebohart.com More about Isabella Heaver https://www.instagram.com/izzyheaven https://www.instagram.com/racistsrecessionsrevolutions More about Flo & Joan https://www.instagram.com/floandjoan https://floandjoan.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Deborah in conversation with Fran Lebowitz . https://www.fane.co.uk/an-evening-with-fran-lebowitz-tickets/dublin-the-convention-centre/2026-10-25-19-30 Interview with Cody Dahler . https://www.fane.co.uk/cody-dahler#event-listing Stand up for Gaza . https://www.komedia.co.uk/shows/stand-up-for-gaza/ The Museum of Comedy, 6 December . https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873668406 Australia / NZ tour . https://guiltyfeminist.com/australia-new-zealand-2027 Royal Albert Hall . https://www.royalalberthall.com/tickets/events/2027/the-guilty-feminist Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8549f7e2-cb33-11f1-b814-4b1bd6dc4608/image/6936b3e6d749ac78e1f9356e6e01f973.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL1274526835.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3829",
+      "speakers": [
+        "Catherine Bohart",
+        "Isabella Heaver",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "misinformation",
+        "catherine",
+        "bohart",
+        "guest",
+        "isabella",
+        "heaver"
+      ]
+    },
+    {
       "key": "9e8ac52bc4df114969ca3895b6b0fcbfab02139b",
       "title": "504. Thelma and Louise with Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie and Nadia Fall",
       "published_at": "2026-10-12T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 504. Thelma and Louise Presented by Deborah Frances-White and Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie and Nadia Fall Recorded 24 September 2026 at The Young Vic and and 3 October via Riverside. Released 12 October. Thelma and Louise is at The Young Vic until 24 October. Book now. https://www.youngvic.org/whats-on/thelma-louise The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our guests https://www.instagram.com/khouri__official https://www.instagram.com/youngvictheatre https://www.instagram.com/racheltucker01 https://www.instagram.com/amyflorencelennox https://www.instagram.com/youngvictheatre For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 504. Thelma and Louise Presented by Deborah Frances-White and Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie and Nadia Fall Recorded 24 September 2026 at The Young Vic and and 3 October via Riverside. Released 12 October. Thelma and Louise is at The Young Vic until 24 October. Book now. If you’re ready to launch your business before Black Friday, go to shopify.com to start your free trial https://www.youngvic.org/whats-on/thelma-louise The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our guests https://www.instagram.com/khouri__official https://www.instagram.com/youngvictheatre https://www.instagram.com/racheltucker01 https://www.instagram.com/amyflorencelennox https://www.instagram.com/youngvictheatre For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c9ff8f4a-c576-11f1-a5da-3f92cf9b6692/image/c9fe9ad6ba19978d87cab92b9185b7a6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL9292476077.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18678,6 +18703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — 505. Misinformation with Catherine Bohart and special guest Isabella Heaver — speakers: Catherine Bohart, Isabella Heaver, Deborah Frances-White
 - 2026-10-12 — 504. Thelma and Louise with Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie and Nadia Fall — speakers: Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie, Louise Presented, Deborah Frances-White
 - 2026-10-05 — 503. London Podcast Festival with Alice Fraser and Shoulder to Shoulder — speakers: Alice Fraser, Deborah Frances-White
 - 2026-09-28 — 502. Homophobia with Freya Parker and Linus Karp — speakers: Freya Parker, Deborah Frances-White
