@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-18T20:41:08+00:00`
-- checked_at: `2026-10-18T20:41:08+00:00`
-- etag: `"djEuMi4wOjE3OTIzNTQwMzU1MTA="`
+- fetched_at: `2026-10-19T04:38:47+00:00`
+- checked_at: `2026-10-19T04:38:47+00:00`
+- etag: `"djEuMi4wOjE3OTIzNzg2NTkzMjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-18T20:41:08+00:00",
+  "fetched_at": "2026-10-19T04:38:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a9302a53cc0055ec1d0289742645488758c1f8ae",
+      "title": "Adam Rowe (Retro) - \"Thigh-Eyed\"",
+      "published_at": "2026-10-19T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#454 Thigh-Eyed - Richard’s non-Edinburgh Edinburgh Fringe continues as he reveals the latest put downs from his much-funnier-than-him children. His guest is podcast king and fine stand up Adam Rowe. They discuss how doing an advert led to threats of violence, putting your stand up specials on Youtube for free, turning romantic heartbreak into comedy, how the Have A Word podcast has taken the UK by storm, whether sharks are better than dolphins, how you can still say whatever you like in comedy and whether therapy is good for comedians. Links for tour tickets, podcasts and Adam’s specials here https://www.adamrowe.co.uk/ Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1792367538599-393987ea-8c02-4909-9fad-425097e8a787.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ad55b6e336b44639e10d53c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33799523",
+      "itunes_duration": "1:10:24",
+      "speakers": [
+        "Adam Rowe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "adam",
+        "rowe",
+        "retro",
+        "thigh",
+        "eyed"
+      ]
+    },
     {
       "key": "8765c38e4b1da8d7668afadd5a14aa0d7199a1d1",
       "title": "Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar",
@@ -24290,6 +24313,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Adam Rowe (Retro) - "Thigh-Eyed" — speakers: Adam Rowe, Richard Herring
 - 2026-10-18 — Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar — speakers: Andy Burnham, Richard Herring
 - 2026-10-16 — Jonn Elledge on 31 Inventions That Built Our World - Book Club — speakers: Jonn Elledge, Book Club, Richard Herring
 - 2026-10-14 — Felicity Ward - "Champagne Supernova" — speakers: Richard Herring

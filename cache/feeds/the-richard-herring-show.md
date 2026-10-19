@@ -2,8 +2,8 @@
 
 - slug: `the-richard-herring-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-richard-herring-show/`
-- fetched_at: `2026-10-12T10:46:55+00:00`
-- checked_at: `2026-10-12T10:46:55+00:00`
+- fetched_at: `2026-10-19T04:38:47+00:00`
+- checked_at: `2026-10-19T04:38:47+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "image_url": "",
-  "fetched_at": "2026-10-12T10:46:55+00:00",
+  "fetched_at": "2026-10-19T04:38:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,19 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "6fe58a5b46bec7ecc0f5060ca28855e429145cf8",
+      "guid": "ef3c4fc9-f7e8-42f8-8664-06a701f685c0",
+      "title": "The Richard Herring Show (19th October)",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-richard-herring-show-19th-october/",
+      "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
+      "image_url": "https://mm.aiircdn.com/177/865364.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1792378842-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=ef3c4fc9-f7e8-42f8-8664-06a701f685c0&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "72cf6c6bf13f9ddb798d7c2a897478b4d156730b",
       "guid": "a1c1dfb7-b675-409d-8b20-acbffb621499",
@@ -1503,6 +1516,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — The Richard Herring Show (19th October)
 - 2026-10-12 — The Richard Herring Show (12th October)
 - 2026-10-05 — The Richard Herring Show (5th October)
 - 2026-09-28 — The Richard Herring Show (28th September)

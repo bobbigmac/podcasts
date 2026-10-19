@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-16T16:37:58+00:00`
-- checked_at: `2026-10-16T16:37:58+00:00`
-- etag: `"djEuMi4wOjE3OTIxNjMzOTA1NDE="`
+- fetched_at: `2026-10-19T04:38:47+00:00`
+- checked_at: `2026-10-19T04:38:47+00:00`
+- etag: `"djEuMi4wOjE3OTIzODA2Mzk0MDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-16T16:37:58+00:00",
+  "fetched_at": "2026-10-19T04:38:47+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2546312d28e1ce86a4dd861d813a049b9e4696bb",
+      "title": "645 Street Fighter 2026!",
+      "published_at": "2026-10-19T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/645-street-fighter-2026",
+      "description": "Street Fighter has returned in live action form! And third times a charm is what we say we invented that saying. We review that plus take a look at the first reactions for DCU’s Clayface, an update on Lanterns Season 2, Mr Miracle casting, The Batman Part II gets a second director, trailers for Narnia: The Magician’s Nephew, The Exorcist: Martyrs and the tragic passing of RJ Mitte. Thanks for listening! New bonus clickbait special podcast and video out now for Big Sandwich members! Available on bigsandwich.co, patreon.com/mrsundaymovies and via 'YouTube Memberships' on youtube.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 04:57 RJ Mitte RIP 10:00 Clayface Early Reactions 12:52 Mister Miracle Series Casting 21:39 Latest on Lanterns Season 2 22:14 New Director on The Batman: Part 2 25:46 Narnia: The Magician's Nephew Trailer 31:56 The Exorcist: Martyrs Trailer 35:09 The Mummy 4 First Look & Title 37:12 Street Fighter 2026 Movie Review 56:20 Street Fighter 2026 Spoiler Segment 01:01:56 What We Reading, What We Gonna Read 01:10:12 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ad23e3e6203da9f28714d3d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "126044191",
+      "itunes_duration": "1:27:31",
+      "speakers": [
+        "Street Fighter",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "street",
+        "fighter"
+      ]
+    },
     {
       "key": "833863b08e806015c4114167e5b113160f827375",
       "title": "Street Fighter II: The Animated Movie - Caravan Of Garbage",
@@ -23297,6 +23318,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — 645 Street Fighter 2026! — speakers: Street Fighter, James Clement, Nick Mason
 - 2026-10-15 — Street Fighter II: The Animated Movie - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-10-12 — 644 The Social Reckoning & Skydance Swallowing — speakers: Skydance Swallowing Social, James Clement, Nick Mason
 - 2026-10-08 — Blade Runner 2049 - Caravan Of Garbage — speakers: Blade Runner, James Clement, Nick Mason

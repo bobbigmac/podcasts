@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-10-12T10:46:55+00:00`
-- checked_at: `2026-10-12T10:46:55+00:00`
-- etag: `"37f6ee604d0d1d05eff3acab1c033007"`
-- last_modified: `Mon, 12 Oct 2026 04:12:34 GMT`
+- fetched_at: `2026-10-19T04:38:47+00:00`
+- checked_at: `2026-10-19T04:38:47+00:00`
+- etag: `"37f4cb983c0df04d879b407ae3aad51a"`
+- last_modified: `Mon, 19 Oct 2026 04:13:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-10-12T10:46:55+00:00",
+  "fetched_at": "2026-10-19T04:38:47+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3c2d7287b4eca26e5074fdfe3d4dcff765977d3c",
+      "title": "Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386)",
+      "published_at": "2026-10-19T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-is-considering-a-full-return-to-exclusivity-xbox-in-ten-an-xbox-podcast-ep-386",
+      "description": "Week of: 10-12-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/9/e/9/f/9e9fc45e8ef4b77fa04421dee9605cbd/386.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/386.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15818008",
+      "itunes_duration": "11:26",
+      "speakers": [
+        "Full Return",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "return",
+        "exclusivity",
+        "podcast"
+      ]
+    },
     {
       "key": "5233752d7a135ab9b6b1f04d9f87be6f956e869f",
       "title": "Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385)",
@@ -9730,6 +9754,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386) — speakers: Full Return, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-12 — Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385) — speakers: Asha Sharma, Brandon Rosa
 - 2026-10-05 — Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384) — speakers: New Mythic Achievements, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-28 — Halo Under Activision Blizzard - Continuing the Xbox Reset - (Xbox In Ten: An Xbox Podcast - Ep. 383) — speakers: Halo Under Activision Blizzard, Xbox Reset, Xbox Gaming News, Fun Fact, Brandon Rosa

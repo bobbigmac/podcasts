@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-10-12T00:32:01+00:00`
-- checked_at: `2026-10-12T00:32:01+00:00`
-- last_modified: `Sun, 11 Oct 2026 23:01:00 GMT`
+- fetched_at: `2026-10-19T04:38:47+00:00`
+- checked_at: `2026-10-19T04:38:47+00:00`
+- last_modified: `Sun, 18 Oct 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-12T00:32:01+00:00",
+  "fetched_at": "2026-10-19T04:38:47+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d7e56ee75fd34253fbb06baa2fc78ae347aba723",
+      "title": "ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy",
+      "published_at": "2026-10-18T23:05:00+00:00",
+      "link": null,
+      "description": "Alexei Sayle, talks about getting excluded from school, how his time at art school taught him to be a fully free thinking creative and how all that lead to becoming a figurehead of the alternative comedy scene. Today's episode is sponsored by Shopify https://www.shopify.com/uk Check the Class Clown merch store! https://classclownpodcast.myshopify.com/ Get Alexei's ⁠brilliant new book here⁠ https://www.waterstones.com/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399629140 See Seann Walsh ⁠Live On Tour⁠ https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8593906812.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3046",
+      "speakers": [
+        "Getting Excluded",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "alexei",
+        "sayle",
+        "school",
+        "taught",
+        "founding",
+        "modern",
+        "comedy"
+      ]
+    },
     {
       "key": "e91ccdd345d4e611f23bb8b1f126402025e6b048",
       "title": "ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student",
@@ -1995,6 +2020,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-18 — ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy — speakers: Getting Excluded, Seann Walsh
 - 2026-10-11 — ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student — speakers: Having Communist Parents, Difficult Student Alexei Sayle, Seann Walsh
 - 2026-10-04 — How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview — speakers: Seann Walsh
 - 2026-09-27 — JACOB HAWLEY: Why I Started Screen Rot, Playing in a Band in Greece, Studying Drama At Uni — speakers: Jacob Hawley, Seann Walsh
