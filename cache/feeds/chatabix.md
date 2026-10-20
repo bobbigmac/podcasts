@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-09-04T04:31:24+00:00`
-- checked_at: `2026-09-04T04:31:24+00:00`
-- etag: `"djEuMi4wOjE3ODg0ODcyMzk1NDc="`
+- fetched_at: `2026-10-20T00:19:22+00:00`
+- checked_at: `2026-10-20T00:19:22+00:00`
+- etag: `"djEuMi4wOjE3OTI0MzYwMzM5OTA="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-09-04T04:31:24+00:00",
+  "fetched_at": "2026-10-20T00:19:22+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -31,7 +31,7 @@
   "episodes": [
     {
       "key": "fe03a01384ea4db884d94516757e10eab5fbcefc",
-      "title": "S16 Ep 903 - The Great ‘Men In Tight Shorts’ Debate",
+      "title": "S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate",
       "published_at": "2026-09-04T02:00:00+00:00",
       "link": "https://shows.acast.com/chatabix/episodes/mailbag-27-aug-the-great-men-in-tight-shorts-debate",
       "description": "In this week’s bulging Mailbag, there’s messages about a Rovers review, some very thin shorts, the Chatabix theme tune, a collection of comments about sports clothing and men’s toggers, some cosy parent memories and a scary story from Jersey. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
@@ -45,6 +45,8 @@
         "David Earl"
       ],
       "topics": [
+        "listener",
+        "mailbag",
         "short",
         "debate"
       ]
@@ -16292,7 +16294,7 @@
 
 ## Episodes (newest first)
 
-- 2026-09-04 — S16 Ep 903 - The Great ‘Men In Tight Shorts’ Debate — speakers: Joe Wilkinson, David Earl
+- 2026-09-04 — S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate — speakers: Joe Wilkinson, David Earl
 - 2026-09-03 — S16 Ep 902: David’s Mega Holiday Debrief - Part 3 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-09-02 — S16 Ep 901: David’s Mega Holiday Debrief - Part 2 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-09-01 — S16 Ep 900: David’s Mega Holiday Debrief - Part 1 — speakers: David’s Mega, Joe Wilkinson, David Earl

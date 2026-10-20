@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-15T21:22:03+00:00`
-- checked_at: `2026-10-15T21:22:03+00:00`
-- last_modified: `Thu, 15 Oct 2026 21:00:10 GMT`
+- fetched_at: `2026-10-20T00:19:22+00:00`
+- checked_at: `2026-10-20T00:19:22+00:00`
+- last_modified: `Mon, 19 Oct 2026 23:15:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T21:22:03+00:00",
+  "fetched_at": "2026-10-20T00:19:22+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,51 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d593ff91d65053c4ef05d2069a53223513c5b0ae",
+      "title": "Russell Brand: Trial By Podcast",
+      "published_at": "2026-10-19T23:05:00+00:00",
+      "link": null,
+      "description": "Are Russell Brand podcasts a case for good? Why is an anonymous male celeb trying to censor the press? Will shock Elizabeth Holmes doc win big at the Oscars? Richard Osman and Marian Hyde discuss the growing trend of turning criminal trials into podcasts. Is this blatant sensationalism, or a good thing for court reporting? A “well-known” man has asked the courts to stop two media organisations from publishing allegations of sexual offences against him. How would an injunction like this work? Nathan Fielder’s documentary about tech fraudster Elizabeth Holmes has proved a critical and commercial hit. Could it shake things up at the Oscars early next year? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ ⁠www.goalhanger.com⁠ ⁠ Video Editor: Louis Mealing & Caroline Kaye Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ ⁠www.westdigitalstudios.com⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d38547ca-cbd0-11f1-a0ee-cbf11cc5e99c/image/e7cafc9017e2fa285eed690b2cf6473d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3260561657.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2840",
+      "speakers": [
+        "Russell Brand",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "russell",
+        "brand",
+        "trial",
+        "podcast"
+      ]
+    },
+    {
+      "key": "ddb4e8184bd940a36dab0f5b1bad296653c8b119",
+      "title": "Can You Out Think The Show? - Celeb Traitors Reaction (Episode 6)",
+      "published_at": "2026-10-16T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE SIX OF CELEBRITY TRAITORS What obvious clues are the Faithful missing? Why is Michael Sheen about to fall apart? Who’s been the best booking so far? Richard Osman and Marina Hyde are back for another episode reviewing this week’s castle crises! The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ ⁠therestisentertainment.com ⁠⁠ For more Goalhanger Podcasts, head to ⁠ ⁠www.goalhanger.com⁠⁠ Video Editor: Lorcan Moullier and James Clayden Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ccf23ecc-c969-11f1-a471-d7a7d200d10f/image/9c23cc925a83d2406ae6c49a44c8ede4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6799003392.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2451",
+      "speakers": [
+        "Celeb Traitors Reaction",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
     {
       "key": "e44c4d7cd7514be958662538f0f5a9b6c83cbe52",
       "title": "“It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5)",
@@ -7028,6 +7073,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Russell Brand: Trial By Podcast — speakers: Russell Brand, Richard Osman, Marina Hyde
+- 2026-10-16 — Can You Out Think The Show? - Celeb Traitors Reaction (Episode 6) — speakers: Celeb Traitors Reaction, Richard Osman, Marina Hyde
 - 2026-10-15 — “It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5) — speakers: Richard Osman, Marina Hyde
 - 2026-10-14 — Why Paramount Merger Spells Disaster For British Film — speakers: Why Paramount Merger Spells, Warner Bros, Richard Osman, Marina Hyde
 - 2026-10-12 — Are Nonsense Memes The New Punk Rock? — speakers: New Punk Rock, Richard Osman, Marina Hyde

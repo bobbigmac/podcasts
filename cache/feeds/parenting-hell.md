@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-17T10:42:22+00:00`
-- checked_at: `2026-10-17T10:42:22+00:00`
-- last_modified: `Sat, 17 Oct 2026 05:58:04 GMT`
+- fetched_at: `2026-10-20T00:19:22+00:00`
+- checked_at: `2026-10-20T00:19:22+00:00`
+- last_modified: `Mon, 19 Oct 2026 23:21:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-17T10:42:22+00:00",
+  "fetched_at": "2026-10-20T00:19:22+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e2e9242529bdad8e9478a7f6d65622e6af0951fe",
+      "title": "⚽ The Worlds Slowest Penalty Kick⚽",
+      "published_at": "2026-10-19T23:13:00+00:00",
+      "link": null,
+      "description": "Manchester United hit the 'reset' button with a draw away at Leeds. But is the axe inevitable for Carrick and who is the favourite for the job? Is the entire season a waste of time if Sham City don't get punished soon? And who are your favourite niche foreign players from yesteryear? Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3443443969.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2916",
+      "speakers": [
+        "Penalty Kick",
+        "Manchester United",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "worlds",
+        "slowest",
+        "penalty",
+        "kick"
+      ]
+    },
     {
       "key": "9a4359b7af65deea1c4adea01ca4e386486afae1",
       "title": "S13 EP26: Matt Willis",
@@ -13079,6 +13103,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — ⚽ The Worlds Slowest Penalty Kick⚽ — speakers: Penalty Kick, Manchester United, Rob Beckett, Josh Widdicombe
 - 2026-10-16 — S13 EP26: Matt Willis — speakers: Matt Willis, Rob Beckett, Josh Widdicombe
 - 2026-10-12 — S13 EP25: Josh locks himself out and has to sleep in the car... — speakers: Rob Beckett, Josh Widdicombe
 - 2026-10-12 — ⚽ El Sackio and the Man City Transfer Draft Punishment⚽ — speakers: El Sackio, Rob Beckett, Josh Widdicombe
