@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-20T00:19:22+00:00`
-- checked_at: `2026-10-20T00:19:22+00:00`
-- last_modified: `Mon, 19 Oct 2026 23:21:36 GMT`
+- fetched_at: `2026-10-20T08:30:33+00:00`
+- checked_at: `2026-10-20T08:30:33+00:00`
+- last_modified: `Tue, 20 Oct 2026 07:46:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-20T00:19:22+00:00",
+  "fetched_at": "2026-10-20T08:30:33+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "aa70f4b6f11a210dc145d9c77c8ee3485b7b1c48",
+      "title": "S13 EP27: I get coarse when I'm tired",
+      "published_at": "2026-10-20T05:54:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2204826638.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3172",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "coarse",
+        "tired"
+      ]
+    },
     {
       "key": "e2e9242529bdad8e9478a7f6d65622e6af0951fe",
       "title": "⚽ The Worlds Slowest Penalty Kick⚽",
@@ -13103,6 +13123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — S13 EP27: I get coarse when I'm tired — speakers: Rob Beckett, Josh Widdicombe
 - 2026-10-19 — ⚽ The Worlds Slowest Penalty Kick⚽ — speakers: Penalty Kick, Manchester United, Rob Beckett, Josh Widdicombe
 - 2026-10-16 — S13 EP26: Matt Willis — speakers: Matt Willis, Rob Beckett, Josh Widdicombe
 - 2026-10-12 — S13 EP25: Josh locks himself out and has to sleep in the car... — speakers: Rob Beckett, Josh Widdicombe

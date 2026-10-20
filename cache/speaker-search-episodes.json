@@ -10836,6 +10836,29 @@
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
+        "episode_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
+        "title": "Leigh Francis: Following Richard and Judy in Character, Lord Byron’s Many Affairs and Harry's freaky ex!",
+        "published_at": "2026-10-19T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harry’s ex Mandy crashes the cold open with a few home truths set to music, then Keith Lemon and Bo’ Selecta creator Lee Francis stops by to talk getting discovered by Davina McCall, “manifesting” Keith Lemon on his kitchen wall, following Richard and Judy in character, and testing Celebrity Juice games with Johnny Veg",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6ad24d6c3dc1c1be4a152819/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/leigh-francis-following-richard-and-judy-in-character/id1742178595?i=1000797018855&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
         "dedupe_key": "5f1788f39dbc3970ca4d3bb2fe453ae915e7f8b5",
         "episode_key": "5f1788f39dbc3970ca4d3bb2fe453ae915e7f8b5",
         "title": "Paul Sinha: The Racist Admissions Computer, International Quizzing and a Name The Seed Poem.",
@@ -19978,6 +20001,29 @@
       }
     ],
     "alex-horne": [
+      {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
+        "episode_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
+        "title": "Leigh Francis: Following Richard and Judy in Character, Lord Byron’s Many Affairs and Harry's freaky ex!",
+        "published_at": "2026-10-19T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harry’s ex Mandy crashes the cold open with a few home truths set to music, then Keith Lemon and Bo’ Selecta creator Lee Francis stops by to talk getting discovered by Davina McCall, “manifesting” Keith Lemon on his kitchen wall, following Richard and Judy in character, and testing Celebrity Juice games with Johnny Veg",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6ad24d6c3dc1c1be4a152819/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/leigh-francis-following-richard-and-judy-in-character/id1742178595?i=1000797018855&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:db391500f9df",
         "feed_title": "Please Don't Take Me Home",

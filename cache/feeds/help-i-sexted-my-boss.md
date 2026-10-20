@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-16T11:21:58+00:00`
-- checked_at: `2026-10-16T11:21:58+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RJeE1qWTNOemt5T0RNPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-20T08:30:33+00:00`
+- checked_at: `2026-10-20T08:30:33+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RJME56STBNems0TURrPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-16T11:21:58+00:00",
+  "fetched_at": "2026-10-20T08:30:33+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "62a382afdc48070daa7b5ade070e5c7b44e4fc01",
+      "title": "Help There’s An Old Man Watching | And William's Coffee Whinge",
+      "published_at": "2026-10-20T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-theres-an-old-man-watching-and-williams-coffee-whinge",
+      "description": "After Jordan falls asleep in a meeting, William has his own bone to pick with feeling tired and filter coffee! The boys also decide which one of them is the most assertive and help with a dilemma involving an unexpected audience in the bedroom. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1792425664458-b6a830c2-0ed7-4e61-89c0-ae857cc3256e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ad626e24d6cad8445cda924/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=uXG7g2Dq1DaZG0504pj1hm6FaRWddK82lOZxB_Kiuhc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40508186",
+      "itunes_duration": "42:11",
+      "speakers": [
+        "Coffee Whinge",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "coffee",
+        "whinge"
+      ]
+    },
     {
       "key": "ce9737917426ce0ed7d72cb4f5da3d2348c20b51",
       "title": "Middle Class Problems | And How To Wipe Your Willy",
@@ -15264,6 +15286,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — Help There’s An Old Man Watching | And William's Coffee Whinge — speakers: Coffee Whinge, William Hanson, Jordan North
 - 2026-10-16 — Middle Class Problems | And How To Wipe Your Willy — speakers: Jordan North, William Hanson
 - 2026-10-13 — Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding — speakers: Jordan’s Moonlanding William Hanson, William Hanson, Jordan North
 - 2026-10-09 — Jordan Gets A Filling | And Our Most Hated Cutlery — speakers: Jordan North, William Hanson
