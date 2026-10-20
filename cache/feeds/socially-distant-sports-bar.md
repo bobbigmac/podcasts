@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-19T13:11:46+00:00`
-- checked_at: `2026-10-19T13:11:46+00:00`
-- etag: `"djEuMi4wOjE3OTI0MDEzNTYyMjU="`
+- fetched_at: `2026-10-20T23:52:19+00:00`
+- checked_at: `2026-10-20T23:52:19+00:00`
+- etag: `"djEuMi4wOjE3OTI1MzkzOTkzMDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-19T13:11:46+00:00",
+  "fetched_at": "2026-10-20T23:52:19+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "a708ed9a0316362f362264a4ce00bbb747cb9537",
+      "title": "Blood and Guts",
+      "published_at": "2026-10-20T23:36:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/blood-and-guts",
+      "description": "Another week at The Socially Distant Sports Bar , where Mike Bubbins, Elis James and Steff Garrero once again tackle the big sporting issues of the day. Or at least watch some clips and see where the conversation takes them. This week we're heading across the Atlantic for a bit of ice hockey, digging out some tennis rackets that should probably have stayed in the garage, and bringing together two of football's greats. Mike takes us to NHL opening night , where the Americans once again demonstrate that nobody does sporting spectacle quite like them. Steff has found Andy and Jamie Murray attempting to play tennis with some decidedly old-fashioned rackets , proving just how much technology has changed the game — and how difficult it is to look like a world-class tennis player when your equipment belongs in a museum. And Elis brings us Roy Keane and Zinedine Zidane . Two footballing legends. Clips Mike: NHL Opening Night https://x.com/Buccigross/status/2105017215724798320 Steff: Andy and Jamie Murray Hitting With Old Rackets https://www.youtube.com/shorts/hVnyflisJN8 https://www.youtube.com/shorts/oJdm7PL-GcI https://www.youtube.com/shorts/bd-bTgqOPHs Elis: Keane and Zidane https://www.instagram.com/reel/DeJ9KWQsF7T/?hl=en-gb Ice hockey. Wooden rackets. Roy Keane. Zinedine Zidane. Blood and guts. And probably quite a lot of nonsense. Thanks for listening. For even more from The Socially Distant Sports Bar, including extra episodes, bonus content and everything else from the Distant Pod universe, join us on Patreon: https://www.patreon.com/distantpod 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ad5d8ba3243d006bbebb7c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71816254",
+      "itunes_duration": "1:14:48",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "blood"
+      ]
+    },
     {
       "key": "2da950ac0473536def1a3947d8722327ca55725b",
       "title": "Champions League Final: Pint Size",
@@ -16279,6 +16299,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — Blood and Guts — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-16 — Champions League Final: Pint Size — speakers: Champions League Final, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-15 — Kurt Cobain Had Been Dead For Two Years — speakers: Kurt Cobain, Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-13 — Those Bloody Hams — speakers: Those Bloody Hams, Mike Bubbins, Elis James, Steff Garrero
