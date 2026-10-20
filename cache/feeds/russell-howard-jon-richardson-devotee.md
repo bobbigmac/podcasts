@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-20T08:30:33+00:00`
-- checked_at: `2026-10-20T08:30:33+00:00`
-- etag: `W/"5dcd9-ndBuSYk3naPN4zbepRsTgznqt9Y"`
+- fetched_at: `2026-10-20T19:15:31+00:00`
+- checked_at: `2026-10-20T19:15:31+00:00`
+- etag: `W/"5d3d0-q+ObQ4rVA3nrmZGDRk+2dT0OpOM"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-20T08:30:33+00:00",
+  "fetched_at": "2026-10-20T19:15:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4dfb4144e230abad44966456fbff8da417beb842",
+      "title": "#13 The Jon Richardson Podcast – Featuring Lloyd Langford",
+      "published_at": "2026-10-20T18:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/13-The-Jon-Richardson-Podcast--Featuring-Lloyd-Langford-e3qq8tc",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792514160849-9180f1d5e6069.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8328621565.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78251866",
+      "itunes_duration": "01:20:38",
+      "speakers": [
+        "Lloyd Langford",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "lloyd",
+        "langford"
+      ]
+    },
     {
       "key": "46d1a273eb32dd93a0fc0e8f456998b472260325",
       "title": "#12 The Jon Richardson Podcast #12 – Featuring Will Smith",
@@ -6047,86 +6069,6 @@
         "stephen",
         "amos"
       ]
-    },
-    {
-      "key": "c23d8bf96f7407164c5fe545c83d40ee3ff9b345",
-      "title": "#14 Jon Richardson Podcast with Sarah Millican",
-      "published_at": "2026-02-25T11:26:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/14-Jon-Richardson-Podcast-with-Sarah-Millican-e3fi8i0",
-      "description": "#14 Jon Richardson Podcast with Sarah Millican",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771961232773-0670518a6fd22.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115990528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2Feac36443-1661-c738-53b2-aab6d1ff6ce0.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63588704",
-      "itunes_duration": "01:28:18",
-      "speakers": [
-        "Sarah Millican"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "sarah",
-        "millican"
-      ]
-    },
-    {
-      "key": "4ff1b97680d11eafd3e733f939898441d3c90a1e",
-      "title": "#13 Jon Richardson Podcast with Lloyd Langford",
-      "published_at": "2026-02-24T19:25:26+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/13-Jon-Richardson-Podcast-with-Lloyd-Langford-e3fi8ek",
-      "description": "#13 Jon Richardson Podcast with Lloyd Langford",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771961107588-09919d39ddc9d.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115990420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F98528c92-7457-8941-716b-48dbbc6f55e5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58063424",
-      "itunes_duration": "01:20:38",
-      "speakers": [
-        "Lloyd Langford"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "lloyd",
-        "langford"
-      ]
-    },
-    {
-      "key": "92500fac287dacedec7545574f8c4136191fd88d",
-      "title": "#12 Jon Richardson Podcast with Will Smith",
-      "published_at": "2026-02-23T19:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/12-Jon-Richardson-Podcast-with-Will-Smith-e3feq46",
-      "description": "#12 Jon Richardson Podcast with Will Smith",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771784892477-37bc524c61041.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115877446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-22%2F237e3b32-acbb-f4c2-0adf-b06209befa3c.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "54500000",
-      "itunes_duration": "01:15:41",
-      "speakers": [
-        "Will Smith"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "smith"
-      ]
-    },
-    {
-      "key": "104f585d4f23e18647562a4c97d7e6e58c9123d6",
-      "title": "#11 Jon Richardson Podcast with Hal Cruttenden",
-      "published_at": "2026-02-23T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/11-Jon-Richardson-Podcast-with-Hal-Cruttenden-e3fem6l",
-      "description": "#11 Jon Richardson Podcast with Hal Cruttenden",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1771778686686-701fc92ec53af.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115873429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-22%2Fd566f9ff-0e5c-e4c0-7d45-f400e3fcd606.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50707328",
-      "itunes_duration": "01:10:25",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "cruttenden"
-      ]
     }
   ]
 }
@@ -6135,6 +6077,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-20 — #13 The Jon Richardson Podcast – Featuring Lloyd Langford — speakers: Lloyd Langford, Jon Richardson
 - 2026-10-20 — #12 The Jon Richardson Podcast #12 – Featuring Will Smith — speakers: Will Smith, Jon Richardson
 - 2026-10-19 — #11 The Jon Richardson Podcast #11 – Featuring Hal Cruttenden — speakers: Jon Richardson
 - 2026-10-19 — #10 The Jon Richardson Podcast #10 – Featuring Arnab Chanda — speakers: Arnab Chanda, Jon Richardson
@@ -6397,7 +6340,3 @@
 - 2026-02-27 — #17 Jon Richardson Podcast with Tom Wrigglesworth — speakers: Tom Wrigglesworth
 - 2026-02-27 — #16 Jon Richardson Podcast with Dan Evans — speakers: Dan Evans
 - 2026-02-26 — #15 Jon Richardson Podcast with Stephen K Amos
-- 2026-02-25 — #14 Jon Richardson Podcast with Sarah Millican — speakers: Sarah Millican
-- 2026-02-24 — #13 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford
-- 2026-02-23 — #12 Jon Richardson Podcast with Will Smith — speakers: Will Smith
-- 2026-02-23 — #11 Jon Richardson Podcast with Hal Cruttenden
