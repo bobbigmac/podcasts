@@ -38,9 +38,9 @@
       "etag": "\"djEuMi4wOjE3NzE1MDMwMTE5NzA=\""
     },
     "bugle": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602700,
-      "etag": "\"djEuMi4wOjE3OTI1OTk4NDM3NzE=\""
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
+      "etag": "\"djEuMi4wOjE3OTI2MDkzNzE5MDE=\""
     },
     "athletico-mince": {
       "last_checked_at": "2026-06-18T15:52:36+00:00",
@@ -125,8 +125,8 @@
       "last_modified": "Tue, 20 Oct 2026 16:29:28 GMT"
     },
     "katherine-ryan": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602705,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
       "etag": "\"djEuMi4wOjE3OTIxNTgyNTU4ODA=\""
     },
     "frank-off-the-radio": {
@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602695,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
       "etag": "\"djEuMi4wOjE3OTIxMjMyNDAyODE=\""
     },
     "judge-dredd": {
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602699,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
       "etag": "W/\"1be90-IfgW5MURW4xMXYnYonZQmZzei0c\""
     },
     "the-romesh-ranganathan-show": {
@@ -383,8 +383,8 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602699,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
       "etag": "\"djEuMi4wOjE3OTIzODA2Mzk0MDE=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
@@ -394,8 +394,8 @@
       "etag": "\"djEuMi4wOjE3OTI1NDgwMzk1MDQ=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602699,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618913,
       "etag": "W/\"464ac-gw3WHW7wXoYx3cJm/l+/amnVyi8\""
     },
     "xbox-casuals-an-xbox-podcast": {
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 16 Oct 2026 02:38:01 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602705,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618914,
       "last_modified": "Mon, 12 Oct 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTI1NDA4OTk0NjA=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602705,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618914,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -553,8 +553,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602706,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618915,
       "etag": "\"3091d55efa3d6e501e95699f674a2209\"",
       "last_modified": "Fri, 02 Oct 2026 15:20:41 GMT"
     },
@@ -628,8 +628,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-10-21T17:11:31+00:00",
-      "last_checked_unix": 1792602706,
+      "last_checked_at": "2026-10-21T21:41:50+00:00",
+      "last_checked_unix": 1792618924,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -638,5 +638,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-10-21T17:11:31+00:00"
+  "updated_at": "2026-10-21T21:41:50+00:00"
 }

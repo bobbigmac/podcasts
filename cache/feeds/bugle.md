@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-21T17:11:31+00:00`
-- checked_at: `2026-10-21T17:11:31+00:00`
-- etag: `"djEuMi4wOjE3OTI1OTk4NDM3NzE="`
+- fetched_at: `2026-10-21T21:41:50+00:00`
+- checked_at: `2026-10-21T21:41:50+00:00`
+- etag: `"djEuMi4wOjE3OTI2MDkzNzE5MDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-21T17:11:31+00:00",
+  "fetched_at": "2026-10-21T21:41:50+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,24 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a9ab509c648f16cd0c0428bbf3f6a8406ce5e72f",
+      "title": "Holy Sh*t it’s Been a Whole Decade",
+      "published_at": "2026-10-21T15:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/holy-sht-its-been-a-whole-decade",
+      "description": "It's been 10 years since the relaunch of The Bugle, and joining Andy on this, issue 4395 of The Bugle, as they did a decade ago, Nish Kumar and Hari Kondabolu! As the trio look back over the last 10 years to realise nothing has changed. Trump News, Zelensky update and the sacking of Katie Zacharia after 5 days, Corpse maxxing and protests in India. Plus Apu returns to The Simpson after a 9-year-hiatus. All this and more on this week's issue of The Bugle! Here's to 10 more years! 🌍 10 years since the Relaunch: 10-year-anniversary since the relaunch of The Bugle 🇺🇸 Katie Zacharia shown the door: The Bugle reports on the breaking news following Katie Zacharia 5 day tenure coming to an end 🇮🇳 Protests in India: Andy, Nish and Hari report the on news of protest in India, and youth-led party, the Cockroach Janta Party Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk & https://en.wikipedia.org/wiki/Nish_Kumar Hari Kondabolu's Links: https://harikondabolu.com & https://en.wikipedia.org/wiki/Hari_Kondabolu 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1792598044254-78690322-e5aa-45a6-aca5-54b8d494f5ee.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ad8c790b6aefcca992bd137/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": null,
+      "itunes_duration": "0",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "decade"
+      ]
+    },
     {
       "key": "76871c2b2f05d63b5bca27895dad88680c2dfaee",
       "title": "Surprise Nobel snub for Trump",
@@ -14645,6 +14663,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Holy Sh*t it’s Been a Whole Decade — speakers: Andy Zaltzman
 - 2026-10-15 — Surprise Nobel snub for Trump — speakers: Joining Andy, Andy Zaltzman
 - 2026-10-07 — Outstandingly Spectacular Terrorist Failures — speakers: Joining Andy, Alice Fraser, Anuvab Pal, Andy Zaltzman
 - 2026-09-30 — World Leaders Forced to meet Trump — speakers: Joining Andy, Josh Gondelman, Catherine Bohart, Andy Zaltzman
