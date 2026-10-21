@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-10-14T04:59:53+00:00`
-- checked_at: `2026-10-14T04:59:53+00:00`
-- etag: `"djEuMi4wOjE3OTE5MzYwMzk3MjM="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NDA4OTk0NjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-10-14T04:59:53+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4b18529c2f242cba2d0331672959efb4d735a138",
+      "title": "Ashley Walters",
+      "published_at": "2026-10-21T00:01:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/ashley-walters",
+      "description": "The brilliant Ashley Walters is over for dinner this week. From his days as Asher D in So Solid Crew, to Top Boy and Adolescence, Ashley has had an incredible career and now he’s stepping behind the camera for his directorial debut ‘Animol'. Mum made sea bass with tomato and anchovy dressing followed by a vegan apple and apricot cake. We chatted about growing up in Peckham, his early days in Oliver! in the West End, how he ended up in prison, working with Stephen Graham and the comfort foods that take him back to childhood - including oysters! Thank you Ashley for such an honest and lovely evening. ‘Animol’ will be released in cinemas from 30th October. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1792505939792-a48156a9-3832-46eb-ac81-1383a72f6ff7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6ad728ba9caa7b04d6e278de/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50344019",
+      "itunes_duration": "52:26",
+      "speakers": [
+        "Ashley Walters",
+        "Solid Crew"
+      ],
+      "topics": [
+        "ashley",
+        "walters"
+      ]
+    },
     {
       "key": "10352abaa7262e53e817c02052eba289bc734cc5",
       "title": "Christine Baranski",
@@ -7497,6 +7517,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Ashley Walters — speakers: Ashley Walters, Solid Crew
 - 2026-10-14 — Christine Baranski — speakers: Christine Baranski
 - 2026-10-07 — Stephen Graham — speakers: Stephen Graham
 - 2026-09-30 — Kelly Rowland — speakers: Kelly Rowland

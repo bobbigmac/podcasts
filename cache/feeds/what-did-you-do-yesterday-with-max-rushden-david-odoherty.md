@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-10-19T13:11:46+00:00`
-- checked_at: `2026-10-19T13:11:46+00:00`
-- etag: `"djEuMi4wOjE3OTI0MTM2NjA5NTk="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NDgwMzk1MDQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-10-19T13:11:46+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a5c05c5c765899d675a6688ba779a842bd9a069b",
+      "title": "WDWDY #92.1: That's Not A Clue (David's Yesterday)",
+      "published_at": "2026-10-21T02:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-921-thats-not-a-clue-davids-yesterday",
+      "description": "On this early release fan club episode of midweek mayhem we find out what David did with his yesterday... And there's a big new announcement - we're doing our first ever live stream episode! On Thursday 22nd Oct at 8pm GMT we'll be recording the midweek mayhem episodes and you can watch along and interract with Max and David. There will be a listener live Q+A and we may even try some real time audience 'Interruption!' moments. If you want to join live on the night you'll need to be a member of the fan club (sign up below) and you'll get a link on the day to join the session. Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1792056875480-031181b2-b75d-4a0f-b724-68955a1a47f6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ad09ebed3bfab176ee8fd1f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113144143",
+      "itunes_duration": "47:01",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "clue",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "99c5f9f973523027b1aa44167eefa92e8872cd68",
       "title": "S6 EP6: Catherine Bohart",
@@ -4290,6 +4311,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — WDWDY #92.1: That's Not A Clue (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-18 — S6 EP6: Catherine Bohart — speakers: Catherine Bohart, Max Rushden, David O'Doherty
 - 2026-10-14 — WDWDY #91.1: Ever heard of a penguin? (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-11 — S6 EP5: Emma Sidi — speakers: Sidi Joining, Max Rushden, David O'Doherty

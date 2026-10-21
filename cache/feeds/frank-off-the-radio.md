@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- last_modified: `Mon, 19 Oct 2026 00:07:01 GMT`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- last_modified: `Wed, 21 Oct 2026 00:06:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "2354feb999b29108b35181e31886f35888daaf9c",
+      "title": "Frank Skinner's Radio Days: Beatrix Potter",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "link": null,
+      "description": "The gang talk about animals in children's stories, children choosing presents for family members and tennis. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/22db7f96-cc9a-11f1-b74c-778cd9d88f11/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6123953455.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2345",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "beatrix",
+        "potter"
+      ]
+    },
     {
       "key": "a6246bfb4744f692478695b39728ced87b5f4715",
       "title": "Got Your Nose!",
@@ -25029,6 +25051,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Frank Skinner's Radio Days: Beatrix Potter — speakers: Frank Skinner
 - 2026-10-19 — Got Your Nose! — speakers: Brennan Reece, Frank Skinner
 - 2026-10-16 — Hanging Around Stage Doors — speakers: Frank Skinner
 - 2026-10-14 — Frank Skinner's Radio Days: Embarrassing Injuries — speakers: Frank Skinner

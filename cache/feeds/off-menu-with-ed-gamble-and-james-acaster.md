@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-10-14T04:59:53+00:00`
-- checked_at: `2026-10-14T04:59:53+00:00`
-- etag: `"djEuMi4wOjE3OTE5NDY4Mzk2ODE="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NTE2Mzk2NjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-10-14T04:59:53+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "13d6f316a4fea37a6023e9ec28b1ed61b631109e",
+      "title": "Lara Ricote",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/lara-ricote",
+      "description": "Award-winning stand-up comedian and actor – star of Channel 4’s ‘Break Clause’ and ‘Make That Movie’ – Lara Ricote joins us in the Dream Restaurant this week. Did anyone else have teeth like rice (but not cooked)? Lara Ricote stars in ‘Break Clause’. All episodes are available to watch now on Channel 4 . Follow Lara on Instagram @lararicote Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1791447175746-29f14ce8-14f0-4a56-88d3-b1d56301dc6d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac60b683dc1c1be4a953503/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74845622",
+      "itunes_duration": "1:17:57",
+      "speakers": [
+        "Lara Ricote Award",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "lara",
+        "ricote"
+      ]
+    },
     {
       "key": "0bedc9ade7f85f822d42392c5e9ff90d264c02f9",
       "title": "John Cena",
@@ -9058,6 +9080,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Lara Ricote — speakers: Lara Ricote Award, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-14 — John Cena — speakers: John Cena Wwe, John Cena, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-07 — Paul F. Tompkins (Tasting Menu) — speakers: Bojack Horseman, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-30 — Melvin Odoom — speakers: Melvin Odoom, Ed Gamble, James Acaster, Ben Williams

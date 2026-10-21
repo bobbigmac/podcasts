@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-16T16:37:58+00:00`
-- checked_at: `2026-10-16T16:37:58+00:00`
-- etag: `"djEuMi4wOjE3OTIxNTAwMzU1ODY="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NTI4MzkzMDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-16T16:37:58+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "40f35c2a8651cb34ef5aa5bda73f83e5982f4788",
+      "title": "STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692",
+      "published_at": "2026-10-21T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week is a celebration of INTERNATIONAL STAMMER AWARENESS DAY , recorded at Stamma Fest 2026 ! A wonderfully different episode this week, as Pip joins hosting duties with the glorious (previous guest!) JESSIE ROUX to answer questions and just have a nice hangout with some of the younger folks involved in Stamma Fest. You'll very quickly detect that this episode is more about the community vibe, support network and representation that comes with such an event and organisation, and less about the fact that there's a huge and fabulous TV star in attendance (although come on, that does add to the greatness!). Not to mention the fact that we're hearing from younger people who stammer - voices we don't hear from nearly as much as we should. It's a really supportive, present, and inspiring atmosphere in this one, and a very welcome break from the regular podcasting schedule. Here's to more of these voices in the future... Huge thanks to everyone at Stamma, the young people involved, and Jessie for all being amazing. INTERNATIONAL STAMMER AWARENESS DAY is on the 22nd of October! PIP'S PATREON PAGE if you're of a supporting nature STAMMA IG STAMMA SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1792403024854-e223a1be-6ace-4851-b7b4-810329ddc9d0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ad5ea53d69b40ef5e06036a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114113973",
+      "itunes_duration": "47:28",
+      "speakers": [
+        "Jessie Roux"
+      ],
+      "topics": [
+        "stamma",
+        "fest",
+        "podcast",
+        "jessie",
+        "roux",
+        "question",
+        "folk"
+      ]
+    },
     {
       "key": "058dc4ecc42f03575a536b4bbf336d5fc45ff842",
       "title": "SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind",
@@ -19810,6 +19834,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692 — speakers: Jessie Roux
 - 2026-10-16 — SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind
 - 2026-10-14 — LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691
 - 2026-10-09 — KAE TEMPEST (Self Titled / Having Spent Life Seeking / The Line Is A Curve) • Friday Rewind

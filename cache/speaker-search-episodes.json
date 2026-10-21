@@ -41387,6 +41387,28 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:2fe9fb95f0de",
+        "feed_title": "Dave Moore",
+        "source_rss_url": "https://rss.podplaystudio.com/2792.xml",
+        "dedupe_key": "66c1afbf16082bf7df2c2674ea2838a734ee86f6",
+        "episode_key": "66c1afbf16082bf7df2c2674ea2838a734ee86f6",
+        "title": "Jack Dee Chats To Dave Ahead Of His Gig In Cork Tonight",
+        "published_at": "2026-10-20T11:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the real capital, allegedly.",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/ie/2792/podcast_jack_dee_d3470ea6_normal.mp3?aw_0_1st.episodeid=427251&aw_0_1st.collectionid=2792",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee-chats-to-dave-ahead-of-his-gig-in-cork-tonight/id989751560?i=1000797251440&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cb1c4836aa9b",
         "feed_title": "The Trina Mara Podcast",
         "source_rss_url": "https://rss.podplaystudio.com/2879.xml",

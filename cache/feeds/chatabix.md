@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-20T19:15:31+00:00`
-- checked_at: `2026-10-20T19:15:31+00:00`
-- etag: `"djEuMi4wOjE3OTI1MDYwMDE4MzQ="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NDgwMzk1MDk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-20T19:15:31+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "7cbe94c626ffb59b93d4aa89ce59e1e51b1707ae",
+      "title": "S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy",
+      "published_at": "2026-10-21T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-904-last-of-the-summer-eps-davids-getting-a-puppy",
+      "description": "After a bit of a break, Chatabix is back next week with Series 17. But before all that, we still have three episodes for you to hear that were recorded at the end of the summer. So here’s the first of them… David and his family have finally decided to take the plunge and get a puppy. So after he and Joe have a quick chat about going on Virgin Radio to promote their new TV show, the two of them have a proper deep dive into all things puppy related. You can expect a lot talk about different dog breeds, researching all the do’s and dont’s, the all-important toilet training, dog walking etiquette and very opinionated dog owners too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ad5bda7c81d0717f1fb4960/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49809449",
+      "itunes_duration": "51:53",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "summer",
+        "david",
+        "puppy"
+      ]
+    },
     {
       "key": "fe03a01384ea4db884d94516757e10eab5fbcefc",
       "title": "S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate",
@@ -16294,6 +16315,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy — speakers: Joe Wilkinson, David Earl
 - 2026-09-04 — S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate — speakers: Joe Wilkinson, David Earl
 - 2026-09-03 — S16 Ep 902: David’s Mega Holiday Debrief - Part 3 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-09-02 — S16 Ep 901: David’s Mega Holiday Debrief - Part 2 — speakers: David’s Mega, Joe Wilkinson, David Earl

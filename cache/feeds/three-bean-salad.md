@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-10-14T00:17:16+00:00`
-- checked_at: `2026-10-14T00:17:16+00:00`
-- etag: `"ab56a-65dc1d3c7bf8a"`
-- last_modified: `Wed, 14 Oct 2026 00:15:23 GMT`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"ac13d-65e4ea4aeb31f"`
+- last_modified: `Wed, 21 Oct 2026 00:15:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-10-14T00:17:16+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fe9990445d98587fc13c6fef9bf2f57d92c9af4d",
+      "title": "Wool",
+      "published_at": "2026-10-21T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/wool",
+      "description": "This week’s topic is wool aka nature’s denim. Wool is a material that has been worn by princes, paupers and everyone in between for thousands if not millions of years. In fact, the wearing of woollen garments is one of the few things which sets us apart from the rest of the animal kingdom (other examples include close-up magic and humming. For a full list see the Three Beancyclopaedia). Thanks then to Russell of Nova Scotia for shoving wool into the Bean Machine. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/6627a3b0-a0db-43f6-a2b5-b706689bf211/S22-E07-Wool-1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/d91cb74b-18fb-4d3d-8fbf-8ab8d70eec9c.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=d91cb74b-18fb-4d3d-8fbf-8ab8d70eec9c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61328867",
+      "itunes_duration": "01:03:53",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "wool"
+      ]
+    },
     {
       "key": "98532d37a9ac2df5d1d111c666309cd338519674",
       "title": "Trees",
@@ -4608,6 +4628,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Wool — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-14 — Trees — speakers: Trees Which, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-07 — Cowboys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-30 — Fifth Wednesday semi-demi-non-ep — speakers: Fifth Wednesday, Three Bean Salad, Wednesday September, Mike Wozniak, Henry Paker, Benjamin Partridge

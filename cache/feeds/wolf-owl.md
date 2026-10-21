@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-10-14T04:59:53+00:00`
-- checked_at: `2026-10-14T04:59:53+00:00`
-- last_modified: `Tue, 13 Oct 2026 12:54:04 GMT`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- last_modified: `Tue, 20 Oct 2026 16:29:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-14T04:59:53+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -28,11 +28,63 @@
   ],
   "episodes": [
     {
+      "key": "5c02c13f85f0bb0179131794ced6858d42d12c47",
+      "title": "Peking Jackfruit, Percy Pigs and Tom’s Worst One Night Stand",
+      "published_at": "2026-10-19T23:00:00+00:00",
+      "link": null,
+      "description": "Romesh was cornered at a networking event and pitched a dildo of himself. That’s only the start of this week’s Wolf & Owl episode... Tom has had a full medical for his tour indluding a hernia check, a seductive removal of ECG stickers and a height revelation he’s not coping with. He also relives the night he lay silent in bed while a woman in the next room told someone on the phone exactly what she thought of him. Romesh confesses to a Percy Pig habit that’s out of hand and the boys settle (or fail to settle) pop chips versus proper chips,. Got a question, dilemma or poem? Email us at wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 01:02 Tom’s got nothing 04:08 Romesh’s function 08:16 Tom’s one night stand 12:22 Tom’s tour medical 16:08 Peptides 18:08 Percy Pigs 20:44 Pop chips vs proper chips 29:28 Barbecue sauce on the tube 32:03 Dippy fingers 33:36 Martin Kemp’s soirée 40:21 The peking jackfruit incident 44:56 Curry on the train 51:04 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/11f23dc4-c96a-11f1-be23-bbc3a556a50e/image/46d2effae1b5945fc39eab6b9ce114da.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT3872293582.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Percy Pigs",
+        "Tom’s Worst",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "peking",
+        "jackfruit",
+        "percy",
+        "pigs",
+        "worst",
+        "night",
+        "stand"
+      ]
+    },
+    {
+      "key": "beb88f90457b08b0862b8c031d28a746a1cbcbf0",
+      "title": "Body image, Bum Wiping Technique and Football Academies",
+      "published_at": "2026-10-15T23:00:00+00:00",
+      "link": null,
+      "description": "Have Romesh & Tom ever embarrassed their wives? It’s time for another email episode, where we tackle everything you’ve sent in to us, from bad advice that nearly derailed Tom’s stand-up career to the scrutiny young footballers like JJ Gabriel face online, plus a wiping technique masterclass nobody asked for. Got a question, dilemma or poem? Email wolfandowlpod@gmail.com A Ranga Bee Production Chapters 00:00 Intro 00:38 Tom’s Post Partum Advice 04:45 Romesh’s Body Image Advice 07:18 Partner Public Embarrassment 08:22 Toilet Paper Queries & Shocking Wiping Revelations 14:55 Football Academies & Bad Advice 21:58 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18ed38e2-c64d-11f1-81ed-4375acccea8d/image/65a6aea515d2f3af95e39a3bf0aa1d7f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT3706797397.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1497",
+      "speakers": [
+        "Bum Wiping Technique",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "body",
+        "image",
+        "wiping",
+        "technique",
+        "football",
+        "academies"
+      ]
+    },
+    {
       "key": "424ece1c46f13861010e4b1fa1c504ce3bb99af1",
       "title": "Contentment, The M.A.S.K. movie and Steven Bartlett",
       "published_at": "2026-10-12T23:00:00+00:00",
       "link": null,
-      "description": "Why Is Tom Pitching a M.A.S.K. Movie To Romesh? Strap in, this one is is exactly as unhinged as it sounds. In this episode of Wolf & Owl, a chat about Terry Pratchett somehow turns into a full-blown debate on contentment, imposter syndrome and why winning an award never fills the gap. The boys then argue over whether Coco Pops are a justifiable expense if you’re living in a park. Then, Tom introduces Mister Fart and pitches Romesh a live-action M.A.S.K. movie... Got a question, dilemma or poem? Email wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 02:02 Terry Pratchett 03:32 What is contentment? 06:03 Social media and comparing yourself 08:08 Imposter syndrome 14:51 The Back to the Future ending 22:36 Mister Fart 28:12 Pitching a M.A.S.K. movie 39:56 Tom’s closer: Megan Fox and the squirrels 42:30 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Why Is Tom Pitching a M.A.S.K. Movie To Romesh? Strap in, this one is is exactly as unhinged as it sounds. In this episode of Wolf & Owl, a chat about Terry Pratchett somehow turns into a full-blown debate on contentment, imposter syndrome and why winning an award never fills the gap. The boys then argue over whether Coco Pops are a justifiable expense if you’re living in a park. Then, Tom introduces Mister Fart and pitches Romesh a live-action M.A.S.K. movie... Got a question, dilemma or poem? Email wolfandowlpod@gmail.com If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl A Ranga Bee Production. Chapters: 00:00 Intro 02:02 Terry Pratchett 03:32 What is contentment? 06:03 Social media and comparing yourself 08:08 Imposter syndrome 14:51 The Back to the Future ending 22:36 Mister Fart 28:12 Pitching a M.A.S.K. movie 39:56 Tom’s closer: Megan Fox and the squirrels 42:30 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1750334c-c3e4-11f1-9a87-d715583457e8/image/0e52947800cd20e67985a9a208a038c9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT7634423086.mp3",
       "enclosure_type": "audio/mpeg",
@@ -7756,6 +7808,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-19 — Peking Jackfruit, Percy Pigs and Tom’s Worst One Night Stand — speakers: Percy Pigs, Tom’s Worst, Romesh Ranganathan, Tom Davis
+- 2026-10-15 — Body image, Bum Wiping Technique and Football Academies — speakers: Bum Wiping Technique, Romesh Ranganathan, Tom Davis
 - 2026-10-12 — Contentment, The M.A.S.K. movie and Steven Bartlett — speakers: Steven Bartlett, Tom Pitching, Romesh Ranganathan, Tom Davis
 - 2026-10-08 — Vicks In A Nebulizer, Awkward Pub Rounds and Joining The Army — speakers: Awkward Pub Rounds, Tom Survive, Romesh Ranganathan, Tom Davis
 - 2026-10-05 — Therapy Role Play, Skims Underwear and Rodimus Prime — speakers: Therapy Role Play, Romesh Ranganathan, Tom Davis

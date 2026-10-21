@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- etag: `"djEuMi4wOjE3OTIzNzg2NTkzMjM="`
+- fetched_at: `2026-10-21T04:44:21+00:00`
+- checked_at: `2026-10-21T04:44:21+00:00`
+- etag: `"djEuMi4wOjE3OTI1NTE0NTkyNDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-21T04:44:21+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2df4f9240fee9b0d3b0972d5a28851cb675e6d88",
+      "title": "Mark Thomas - \"Bin Face vs Bin Juice\"",
+      "published_at": "2026-10-21T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #632 - Bin Face vs Bin Juice - Rich is feeling a bit better. Is it because of God? If so God has also sent him a loquacious guest at this difficult 8th gig of the Fringe - it’s stand-up veteran and agitator Mark Thomas. Mark reminisces about the crazy acts that populated the circuit when he started 40 years ago, how he got the Kurdish National Medal of Honour, how he is the world’s most arrested comedian (impressive given the competition), what it’s like to have the red dot of a sniper rifle appear on your forehead, how activism got him a free trip to the cinema, his surprising love of Kung Fu films and much more. See Mark on tour - https://markthomasinfo.co.uk/tour-dates/ See RHLSTP live - http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1792518016749-e3da65c5-4a05-458e-be53-ee1175016994.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ad7a82685adacac7d6b29cb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29030608",
+      "itunes_duration": "1:00:28",
+      "speakers": [
+        "Bin Juice",
+        "Bin Juice Rich",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mark",
+        "thomas",
+        "face",
+        "juice"
+      ]
+    },
     {
       "key": "a9302a53cc0055ec1d0289742645488758c1f8ae",
       "title": "Adam Rowe (Retro) - \"Thigh-Eyed\"",
@@ -24313,6 +24336,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Mark Thomas - "Bin Face vs Bin Juice" — speakers: Bin Juice, Bin Juice Rich, Richard Herring
 - 2026-10-19 — Adam Rowe (Retro) - "Thigh-Eyed" — speakers: Adam Rowe, Richard Herring
 - 2026-10-18 — Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar — speakers: Andy Burnham, Richard Herring
 - 2026-10-16 — Jonn Elledge on 31 Inventions That Built Our World - Book Club — speakers: Jonn Elledge, Book Club, Richard Herring
