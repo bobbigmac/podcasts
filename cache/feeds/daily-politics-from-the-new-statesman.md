@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-20T19:15:31+00:00`
-- checked_at: `2026-10-20T19:15:31+00:00`
-- etag: `"djEuMi4wOjE3OTI0OTE3NTUyMzA="`
+- fetched_at: `2026-10-21T17:11:31+00:00`
+- checked_at: `2026-10-21T17:11:31+00:00`
+- etag: `"djEuMi4wOjE3OTI1OTgxMzU5Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-20T19:15:31+00:00",
+  "fetched_at": "2026-10-21T17:11:31+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d557fcb04600d52889cd15a703ab7d9a15745a70",
+      "title": "US midterms: Where are the key battlegrounds?",
+      "published_at": "2026-10-21T15:55:15+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/us-midterms-where-are-the-key-battlegrounds",
+      "description": "On 3 November, Americans will head to the polls for the midterm elections. We will be publishing one episode a week for the next three weeks, every Wednesday, taking in the lead up and results. In this first episode, we ask: Where are the key battlegrounds these elections will be fought? US correspondent Freddie Hayward is joined by the NS’s senior data journalist, Ben Walker, political scientist Lisa Bryant and New York Times White House reporter Shawn McCreesh. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792597696609-2af343d0-95d3-46b0-9b3d-1d6de73ad13a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ad8dcdeca668e65a485ed7d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49881705",
+      "itunes_duration": "20:42",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "midterm",
+        "battleground"
+      ]
+    },
     {
       "key": "1feb6028938c6c9c6540dc087a0c1f7e695f1850",
       "title": "Can Reform weather the scandals?",
@@ -32676,6 +32696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — US midterms: Where are the key battlegrounds? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-19 — Can Reform weather the scandals? — speakers: Can Reform, Anoosh Chakelian, Oli Dugmore
 - 2026-10-17 — Reform slips to third in the polls — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-15 — Burnham's Brexit reversal — speakers: Anoosh Chakelian, Oli Dugmore

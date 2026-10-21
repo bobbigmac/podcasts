@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- etag: `"djEuMi4wOjE3OTI0MTYyODk2MTM="`
+- fetched_at: `2026-10-21T17:11:31+00:00`
+- checked_at: `2026-10-21T17:11:31+00:00`
+- etag: `"djEuMi4wOjE3OTI1OTk4NDM3NzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-21T17:11:31+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -33,7 +33,7 @@
       "published_at": "2026-10-15T17:00:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/public-executions-back-in-the-us",
       "description": "Joining Andy on issue 4394 of The Bugle is sister Helen and Nato Green, as the trio divo into this week's news from Trump's peace talks with Russia and Ukraine to being snubbed once against for a Nobel Peace Prize. Hitler and Mussolini are back. Plus Andrew Mountbatten-Windsor slapped with a £1.8m repair bill after leaving Royal Lodge All and more on this week's issue of The Bugle! 🌍 Snubbed Again: The trio delve into the news of yet another Nobel snub for Trump 🇵🇪 Hitler and Mussolini are back: The Bugle reports on the breaking Peruvian politics, and one politician in particular with a familiar name 👑 Andrew's bill: Andy, Helen and Nato report the on news of former 'Prince' Andrew's repair bill Andy's Links: https://www.andyzaltzman.co.uk/ Helen Zaltzman's Links: https://linktr.ee/helenzaltzman Nato Green's Links: https://natogreen.net/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1792598123426-266bb60b-6694-4336-bf57-0304fde3f7cb.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ad0fe09d097311d0015c90b/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46384692",

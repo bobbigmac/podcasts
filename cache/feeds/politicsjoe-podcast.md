@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-19T20:35:08+00:00`
-- checked_at: `2026-10-19T20:35:08+00:00`
-- etag: `"djEuMi4wOjE3OTI0MjkwNzI5NjA="`
+- fetched_at: `2026-10-21T17:11:31+00:00`
+- checked_at: `2026-10-21T17:11:31+00:00`
+- etag: `"djEuMi4wOjE3OTI1OTg4OTE2MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-19T20:35:08+00:00",
+  "fetched_at": "2026-10-21T17:11:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "922a7e317836e86f57418115f48c7ff62c8d5eb4",
+      "title": "Going Deep on Andy Burnham's Jackdaw Drilling Deal",
+      "published_at": "2026-10-21T16:08:11+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ad8e36b3ad7f68551131933",
+      "description": "Today Andy Burnham's government decided to approve new gas licences for the Jackdaw field in the North Sea. Ava and Seán jumped into the studio to chew over the plan. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ad8e36b3ad7f68551131933/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32919485",
+      "itunes_duration": "22:50",
+      "speakers": [
+        "Andy Burnham",
+        "Jackdaw Drilling Deal"
+      ],
+      "topics": [
+        "deep",
+        "andy",
+        "burnham",
+        "jackdaw",
+        "drilling",
+        "deal"
+      ]
+    },
     {
       "key": "fd93b9ea113541bd26b35c9c7d83dee100d550dd",
       "title": "Why don't Brits protest like the French?",
@@ -13901,6 +13925,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Going Deep on Andy Burnham's Jackdaw Drilling Deal — speakers: Andy Burnham, Jackdaw Drilling Deal
 - 2026-10-19 — Why don't Brits protest like the French?
 - 2026-10-16 — How Andy Burnham can save Labour | Tariq Ali interview — speakers: Andy Burnham, Tariq Ali
 - 2026-10-15 — Going Deep on the Zionism is Racism Motion with NoJusticeMTG
