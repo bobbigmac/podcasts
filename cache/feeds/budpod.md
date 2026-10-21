@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-10-14T11:50:11+00:00`
-- checked_at: `2026-10-14T11:50:11+00:00`
-- etag: `"djEuMi4wOjE3OTE5NTQwOTkyOTg="`
+- fetched_at: `2026-10-21T11:47:04+00:00`
+- checked_at: `2026-10-21T11:47:04+00:00`
+- etag: `"djEuMi4wOjE3OTI1NzM5NDMzODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-10-14T11:50:11+00:00",
+  "fetched_at": "2026-10-21T11:47:04+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "abb21215c9c74e2e4dcd3503a47e734296a9be65",
+      "title": "S2E71 | Azteca Syndrome",
+      "published_at": "2026-10-21T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e71-azteca-syndrome",
+      "description": "Youtube version here! This week the buds discuss The Traitors, 'News Knight', reality shows and Muse. This week's sketch: 'Mr Tumble's Cake' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! November 3rd, 2026 - Tickets available https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6ad7ffd785adacac7d8d0b7a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76963268",
+      "itunes_duration": "53:13",
+      "speakers": [
+        "Azteca Syndrome Youtube",
+        "News Knight",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "azteca",
+        "syndrome"
+      ]
+    },
     {
       "key": "ad91b41fef51b61c1a1d0c826d1f70217ad3704c",
       "title": "S2E70 | Log Dogs",
@@ -8180,6 +8202,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — S2E71 | Azteca Syndrome — speakers: Azteca Syndrome Youtube, News Knight, Phil Wang, Pierre Novellie
 - 2026-10-14 — S2E70 | Log Dogs — speakers: Log Dogs, Phil Wang, Pierre Novellie
 - 2026-10-07 — S2E69 | Big the Bear — speakers: Honey Badger, Phil Wang, Pierre Novellie
 - 2026-09-30 — S2E568 | Geists & Dolls — speakers: Phil Wang, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-20T19:15:31+00:00`
-- checked_at: `2026-10-20T19:15:31+00:00`
-- etag: `W/"5d3d0-q+ObQ4rVA3nrmZGDRk+2dT0OpOM"`
+- fetched_at: `2026-10-21T11:47:04+00:00`
+- checked_at: `2026-10-21T11:47:04+00:00`
+- etag: `W/"5e8e2-0BUoos4Oq7zPqWuqcWFkLomEc7o"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,56 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-20T19:15:31+00:00",
+  "fetched_at": "2026-10-21T11:47:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ca5a4ab2d74d2e36ef22f37c88d2e1120613a252",
+      "title": "#15 The Jon Richardson Podcast – Featuring Stephen K Amos",
+      "published_at": "2026-10-21T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-The-Jon-Richardson-Podcast--Featuring-Stephen-K-Amos-e3qqatu",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792516720567-102850ed5538a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5078282447.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84798650",
+      "itunes_duration": "01:27:23",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "stephen",
+        "amos"
+      ]
+    },
+    {
+      "key": "fdab489c8fa5734e6f6a5fd6f46e1c7a03dfba4c",
+      "title": "#14 The Jon Richardson Podcast – Featuring Sarah Millican",
+      "published_at": "2026-10-21T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/14-The-Jon-Richardson-Podcast--Featuring-Sarah-Millican-e3qqacs",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792515863351-39443618350f8.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2544122105.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85698503",
+      "itunes_duration": "01:28:18",
+      "speakers": [
+        "Sarah Millican",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "sarah",
+        "millican"
+      ]
+    },
     {
       "key": "4dfb4144e230abad44966456fbff8da417beb842",
       "title": "#13 The Jon Richardson Podcast – Featuring Lloyd Langford",
@@ -2673,6 +2716,32 @@
       ],
       "topics": [
         "asleep",
+        "winner",
+        "play",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "43c0e6873dbbebec921157903b87f3798c3194e4",
+      "title": "#1 Winner Plays On The Complete Collection PART 1 - with Elis James and John Robins",
+      "published_at": "2026-07-29T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/1-Winner-Plays-On-The-Complete-Collection-PART-1---with-Elis-James-and-John-Robins-e3mm1kp",
+      "description": "Are you on email?",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785276337035-bde253ea038ab.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2575413412.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "688198634",
+      "itunes_duration": "11:56:52",
+      "speakers": [
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
         "winner",
         "play",
         "complete",
@@ -6077,6 +6146,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — #15 The Jon Richardson Podcast – Featuring Stephen K Amos — speakers: Jon Richardson
+- 2026-10-21 — #14 The Jon Richardson Podcast – Featuring Sarah Millican — speakers: Sarah Millican, Jon Richardson
 - 2026-10-20 — #13 The Jon Richardson Podcast – Featuring Lloyd Langford — speakers: Lloyd Langford, Jon Richardson
 - 2026-10-20 — #12 The Jon Richardson Podcast #12 – Featuring Will Smith — speakers: Will Smith, Jon Richardson
 - 2026-10-19 — #11 The Jon Richardson Podcast #11 – Featuring Hal Cruttenden — speakers: Jon Richardson
@@ -6198,6 +6269,7 @@
 - 2026-08-01 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-07-31 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
 - 2026-07-29 — Fall Asleep to ALL of Winner Plays On The Complete Collection - with Elis James and John Robins — speakers: Elis James, John Robins
+- 2026-07-29 — #1 Winner Plays On The Complete Collection PART 1 - with Elis James and John Robins — speakers: Elis James, John Robins
 - 2026-07-27 — Fall Asleep To All of JAMES ACASTERS SCRAPES from the Josh Widdicombe XFM SHOW — speakers: Josh Widdicombe
 - 2026-07-27 — Best of James Acaster Podcast - Fubar Radio — speakers: Fubar Radio
 - 2026-07-26 — Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar — speakers: Edinburgh Fringe, James Acaster, Ed Gamble, Joe Lycett, Joe Ly
