@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-21T17:11:31+00:00`
-- checked_at: `2026-10-21T17:11:31+00:00`
-- etag: `"djEuMi4wOjE3OTI1OTgxMzU5Njg="`
+- fetched_at: `2026-10-22T17:09:26+00:00`
+- checked_at: `2026-10-22T17:09:26+00:00`
+- etag: `"djEuMi4wOjE3OTI2ODM2MzkzODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-21T17:11:31+00:00",
+  "fetched_at": "2026-10-22T17:09:26+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "efb3320fdc732cfa3245f2d6f453f0eb276493ee",
+      "title": "Labour split over Jackdaw",
+      "published_at": "2026-10-22T15:40:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/labour-split-over-jackdaw",
+      "description": "The government has approved drilling at the Jackdaw gas field in the North Sea. It is a decision that has split the Labour Party. It may only be the beginning - the far more controversial decision on the Rosebank gas field is still to come. Anoosh Chakelian is joined today by Megan Kenyon to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792674329621-767ef9de-c4f1-4c9d-86a5-8532841ff453.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ada0957ca668e65a485ed7e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50181863",
+      "itunes_duration": "20:53",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "labour",
+        "jackdaw"
+      ]
+    },
     {
       "key": "d557fcb04600d52889cd15a703ab7d9a15745a70",
       "title": "US midterms: Where are the key battlegrounds?",
@@ -32696,6 +32716,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Labour split over Jackdaw — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-21 — US midterms: Where are the key battlegrounds? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-19 — Can Reform weather the scandals? — speakers: Can Reform, Anoosh Chakelian, Oli Dugmore
 - 2026-10-17 — Reform slips to third in the polls — speakers: Anoosh Chakelian, Oli Dugmore

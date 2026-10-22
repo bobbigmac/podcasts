@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- etag: `"djEuMi4wOjE3OTIzODA2Mzk0MDE="`
+- fetched_at: `2026-10-22T17:09:26+00:00`
+- checked_at: `2026-10-22T17:09:26+00:00`
+- etag: `"djEuMi4wOjE3OTI2NzIyMzkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-22T17:09:26+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "38cd069bd517a0e23609a86df79d8f9e1f91e303",
+      "title": "Street Fighter: The Legend of Chun-Li - Caravan Of Garbage",
+      "published_at": "2026-10-22T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/street-fighter-the-legend-of-chun-li-caravan-of-garbage",
+      "description": "You can blame the MCU for giving the good people over at Street Fighter HQ the idea they could make a series of prequels leading up to an actual Street Fighter movie. Street Fighter: The Legend of Chun-Li from 2009 tells the origin of Chun Li as played by Kristin Kreuk as she takes on the villaneous Shadaloo headed up by the always Irish M. Bison. Hilarious and baffling movie all round with an incredible performace by Chris Klein and the inclusion of some of your favourite characters like Balrog and Vega handled completely wrong. There's a lot to unpack with this one and I'm not even sure we covered it all. Thanks for watching our Caravan Of Garbage review! SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ac8252268b7ce6ffb5b689e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31784230",
+      "itunes_duration": "30:26",
+      "speakers": [
+        "Street Fighter",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "street",
+        "fighter",
+        "legend",
+        "chun",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "2546312d28e1ce86a4dd861d813a049b9e4696bb",
       "title": "645 Street Fighter 2026!",
@@ -23318,6 +23343,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Street Fighter: The Legend of Chun-Li - Caravan Of Garbage — speakers: Street Fighter, James Clement, Nick Mason
 - 2026-10-19 — 645 Street Fighter 2026! — speakers: Street Fighter, James Clement, Nick Mason
 - 2026-10-15 — Street Fighter II: The Animated Movie - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-10-12 — 644 The Social Reckoning & Skydance Swallowing — speakers: Skydance Swallowing Social, James Clement, Nick Mason

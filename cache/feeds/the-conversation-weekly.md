@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-22T11:50:20+00:00`
-- checked_at: `2026-10-22T11:50:20+00:00`
-- etag: `"26c529-65e684e1f41b2"`
-- last_modified: `Thu, 22 Oct 2026 06:52:20 GMT`
+- fetched_at: `2026-10-22T17:09:26+00:00`
+- checked_at: `2026-10-22T17:09:26+00:00`
+- etag: `"26d637-65e6f242a7122"`
+- last_modified: `Thu, 22 Oct 2026 15:01:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-22T11:50:20+00:00",
+  "fetched_at": "2026-10-22T17:09:26+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "45da671e97fc878551db0d02dc9dbab5db162ef4",
+      "title": "America's death penalty: why executions are rising again",
+      "published_at": "2026-10-22T15:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "In Tennessee, death row inmate Christa Pike survived an attempt to execute her by lethal injection in late September. Meanwhile, plans to livestream a US military execution recently sparked outrage, prompting President Donald Trump to walk back the broadcast. These controversies come after a sharp rise in executions in the United States in 2025, reversing a decline that had lasted two decades. In this episode, historian Carolyn Strange , emeritus professor at the Australian National University, talks us through the history of capital punishment in America, from public hangings to lethal injections. She explains why failed executions are nothing new, what's driving the resurgence, and why the death penalty remains so deeply political. This episode was produced by Justin Bergman, Isabella Podwinski and Gemma Ware. Grace Jennings-Edquist was the executive producer. Mixing by Dan Semo and theme music by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/90d43c10-5e3c-4654-b0dd-d496b7136835.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33735789",
+      "itunes_duration": "23:26",
+      "speakers": [
+        "Christa Pike",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "america",
+        "death",
+        "penalty",
+        "execution"
+      ]
+    },
     {
       "key": "31ed4366167a38e651683ff403a55ceae832449a",
       "title": "In Alberta, far-right populism drives bid to leave Canada",
@@ -6402,6 +6424,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — America's death penalty: why executions are rising again — speakers: Christa Pike, Gemma Ware
 - 2026-10-15 — In Alberta, far-right populism drives bid to leave Canada — speakers: Gemma Ware
 - 2026-10-08 — Nobel laureate Karl Deisseroth on how light is changing what we know about the brain — speakers: Karl Deisseroth, Gemma Ware
 - 2026-10-01 — Could a former IDF chief break Benjamin Netanyahu’s grip on power in Israel? — speakers: Benjamin Netanyahu, Gemma Ware
