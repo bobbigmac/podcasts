@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-18T23:11:19+00:00`
-- checked_at: `2026-10-18T23:11:19+00:00`
-- last_modified: `Sun, 18 Oct 2026 23:00:00 GMT`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- last_modified: `Wed, 21 Oct 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-18T23:11:19+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -27,11 +27,36 @@
   ],
   "episodes": [
     {
+      "key": "da496a32a8a4538b9380c2bda5196371cb0b2ffd",
+      "title": "Shanthi Gives Advice on Flying, Grandparents & Fighting in Relationships",
+      "published_at": "2026-10-21T23:00:00+00:00",
+      "link": null,
+      "description": "What’s the best way to cure a fear of flying? According to Shanthi, pray...or fly to Portsmouth. It’s Thursday, which means Romesh’s mum Shanthi is back to answer your questions and family dilemmas on The Romesh Ranganathan Show. There’s a lottery win dream purchase, a trigonometry refresher with a questionable acronym, a garden centre saga that Shanthi has been waiting to tell, and a flight attendant role play that goes completely off the rails. A Ranga Bee Production. Chapters: 00:00 Intro 02:52 Shanthi's nail dilemma 06:14 Shanthi's pep talk for the show 08:26 Who is Shanthi's best friend? 09:45 Listener questions 10:11 Ruby's fear of flying 15:31 The mystery noise 19:40 Shanthi's advice for new parents 24:15 Romesh's rapper days 25:15 Shanthi's garden centre saga 28:23 Could Shanthi have been a flight attendant? 30:08 Flight attendant role play 33:38 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8fb58a46-cc8e-11f1-b91c-4f46fd4b1a70/image/ba8377e5b4162e42a3df6c230203d2ee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5955928599.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2235",
+      "speakers": [
+        "Shanthi Gives Advice",
+        "Relationships What",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "advice",
+        "flying",
+        "grandparents",
+        "fighting",
+        "relationship"
+      ]
+    },
+    {
       "key": "e554a0949214ff8fab8032d8d39b80352368db06",
       "title": "Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave",
       "published_at": "2026-10-18T23:00:00+00:00",
       "link": null,
-      "description": "Why did Katherine Ryan fly home from Spain on her own? In this episode of The Romesh Ranganathan Show, Romesh is joined by comedian, presenter and author Katherine Ryan, ahead of her new book Confessions of a Firstborn Daughter (out 22nd October). They get into eldest daughter syndrome, juggling four kids and a career, and why Katherine thinks women should misbehave a little more. Plus, there’s a Romesh gift with a very questionable backstory, a game of Misquoted involving maple syrup and a Bolognese, and some strong opinions on how to clean a toilet properly. A Ranga Bee Production. Chapters: 00:00 Intro 02:29 Katherine's Spanish escape 07:47 Celine Dion in Paris 13:26 A gift for Katherine 17:18 Kids' birthday parties and drunk mums 23:17 Parenting with a nanny rota 28:04 The double standards women face 29:07 Katherine's secret life in the TikTok comments 36:26 Hollywood and Nikki Glaser 39:39 Hiding a pregnancy on a sitcom 41:38 Confessions of a Firstborn Daughter 42:34 What is eldest daughter syndrome? 47:41 A question from Shanthi 48:22 Katherine's 17-year-old daughter, Violet 51:36 Cosmetic procedures and confidence 58:49 Misquoted 1:09:09 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Why did Katherine Ryan fly home from Spain on her own? In this episode of The Romesh Ranganathan Show, Romesh is joined by comedian, presenter and author Katherine Ryan, ahead of her new book Confessions of a Firstborn Daughter (out 22nd October). They get into eldest daughter syndrome, juggling four kids and a career, and why Katherine thinks women should misbehave a little more. Plus, there’s a Romesh gift with a very questionable backstory, a game of Misquoted involving maple syrup and a Bolognese, and some strong opinions on how to clean a toilet properly. Get an exclusive 15% discount on Saily data plans! Use code 'romesh' at checkout. Download the Saily app or visit Sally's website here . A Ranga Bee Production. Chapters: 00:00 Intro 02:29 Katherine's Spanish escape 07:47 Celine Dion in Paris 13:26 A gift for Katherine 17:18 Kids' birthday parties and drunk mums 23:17 Parenting with a nanny rota 28:04 The double standards women face 29:07 Katherine's secret life in the TikTok comments 36:26 Hollywood and Nikki Glaser 39:39 Hiding a pregnancy on a sitcom 41:38 Confessions of a Firstborn Daughter 42:34 What is eldest daughter syndrome? 47:41 A question from Shanthi 48:22 Katherine's 17-year-old daughter, Violet 51:36 Cosmetic procedures and confidence 58:49 Misquoted 1:09:09 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/bf6329c0-c95e-11f1-9b34-cbe20b715a4b/image/f4cab7729a633b4a967c4792278ed66e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT6605803548.mp3",
       "enclosure_type": "audio/mpeg",
@@ -2600,6 +2625,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Shanthi Gives Advice on Flying, Grandparents & Fighting in Relationships — speakers: Shanthi Gives Advice, Relationships What, Romesh Ranganathan
 - 2026-10-18 — Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave — speakers: Katherine Ryan, Romesh Ranganathan
 - 2026-10-14 — Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing — speakers: Free Holiday, Vegan Teasing How, Romesh Ranganathan
 - 2026-10-11 — Tom Hiddleston on Conquering Everest, the Marvel Universe & Soccer Aid — speakers: Tom Hiddleston, Romesh Ranganathan

@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "dd2be9b6cc6561b6fc7a00bd9ec5f9716b14322d",
+        "episode_key": "dd2be9b6cc6561b6fc7a00bd9ec5f9716b14322d",
+        "title": "Lara Ricote",
+        "published_at": "2026-10-21T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Award-winning stand-up comedian and actor – star of Channel 4’s ‘Break Clause’ and ‘Make That Movie’ – Lara Ricote joins us in the Dream Restaurant this week. Did anyone else have teeth like rice (but not cooked)?\nLara Ricote stars in ‘Break Clause’. All episodes are available to watch now on Channel 4. \nFollow Lara on",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac60b683dc1c1be4a953503/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lara-ricote/id1442950743?i=1000797369377&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
         "episode_key": "de0132b4ad1aa1a29525b28f221e756a522bdc04",
         "title": "John Cena",
@@ -6352,6 +6375,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "dd2be9b6cc6561b6fc7a00bd9ec5f9716b14322d",
+        "episode_key": "dd2be9b6cc6561b6fc7a00bd9ec5f9716b14322d",
+        "title": "Lara Ricote",
+        "published_at": "2026-10-21T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Award-winning stand-up comedian and actor – star of Channel 4’s ‘Break Clause’ and ‘Make That Movie’ – Lara Ricote joins us in the Dream Restaurant this week. Did anyone else have teeth like rice (but not cooked)?\nLara Ricote stars in ‘Break Clause’. All episodes are available to watch now on Channel 4. \nFollow Lara on",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac60b683dc1c1be4a953503/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lara-ricote/id1442950743?i=1000797369377&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-10-15T04:36:39+00:00`
-- checked_at: `2026-10-15T04:36:39+00:00`
-- last_modified: `Wed, 14 Oct 2026 23:09:47 GMT`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- last_modified: `Wed, 21 Oct 2026 23:10:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T04:36:39+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,27 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "3dea92e6a642cc92069c83e164f92f14d11d6e0c",
+      "title": "Terrible Times: Who’s Got it the Worst?",
+      "published_at": "2026-10-21T23:00:00+00:00",
+      "link": null,
+      "description": "We've all had one of those days: just missing the bus, stepping in a deep puddle, pissing ourselves a little bit. But none of us have had the kinds of days that gaming protagonists routinely face. From severed limbs to shipwrecks, we subject our digital avatars to the worst possible experiences. This week the Boys discuss the absolute worst of it. Crawling through sewers, being flayed alive, catching TB or living under a tyrannical Sims player. All bad stuff, but who has it the worst? Before that, though, we catch up on what the Boys have been playing. Sarah's finally catching up on a sequel in one of their favourite franchises, Pierre's finding he's not getting the same hit from a cosy classic and Glenn's mildly underwhelmed but not surprised by an emerging sequel. To follow along with the Button Boys outside the podcast: Thanks again to all those who came to Button Boys Live at Leicester Square Theatre. If you missed it, we're doing another live date on October 15th in Balham at the Cheerful Earful festival. Link below! ⁠ ⁠⁠Cheerful Earful Festival Live Show⁠⁠ ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Dredge Outlast Marvel's Spider-Man Marvel's Spider-Man 2 Baldur's Gate 3 Alan Wake II Starfield Marvel's Spider-Man: Miles Morales Dorfromantik 007 First Light Indiana Jones and the Great Circle HITMAN World of Assassination GoldenEye 007 Marvel's Wolverine Big Walk Split Fiction Star Wars: Galactic Racer Gears of War: E-Day The Last of Us Counter-Strike Silent Hill: Townfall Clive Barker's Hellraiser: Revival Resident Evil 7: Biohazard Dead Space 2 DOOM Age of Empires Kingdom Come: Deliverance Resident Evil 2 Resident Evil Requiem Papers, Please INSIDE The Sims Red Dead Redemption 2 The Drifter Dark Souls Luigi's Mansion Bloodborne Heavy Rain Angry Birds Little Nightmares Tomb Raider Rise of the Tomb Raider PAC-MAN Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4748797534.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3564",
+      "speakers": [
+        "Terrible Times",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "times"
+      ]
+    },
     {
       "key": "a155e8b375498f64bcb855605159fea2a5718e74",
       "title": "Side Quests Vol. 1",
@@ -1568,6 +1589,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Terrible Times: Who’s Got it the Worst? — speakers: Terrible Times, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-14 — Side Quests Vol. 1 — speakers: Side Quests Vol, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-07 — The Eras Tour: Best Historical or Futuristic Setting — speakers: Best Historical, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-30 — Non-Fatal Flaws: Bad Bits in Good Games — speakers: Fatal Flaws, Bad Bits, Glenn Moore, Sarah Keyworth, Pierre Novellie

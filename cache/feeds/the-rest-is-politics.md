@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-20T23:52:19+00:00`
-- checked_at: `2026-10-20T23:52:19+00:00`
-- last_modified: `Tue, 20 Oct 2026 23:22:16 GMT`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- last_modified: `Wed, 21 Oct 2026 23:00:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-20T23:52:19+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,36 @@
   ],
   "episodes": [
     {
+      "key": "2a1d462f8ef4b9f62d524b2d3f77d7de9bb0d213",
+      "title": "582. Netanyahu’s Fight for Survival and the Gaza Film That Shocked Rory and Alastair",
+      "published_at": "2026-10-21T23:00:00+00:00",
+      "link": null,
+      "description": "What is at stake for Israelis and Palestinians in the upcoming parliamentary elections and, if Netanyahu loses, will anything actually change given the major parties reject a two state solution? Why does the IDF’s ‘bureaucracy of mass murder’ and its ‘NAZA’ collateral damage policy in Gaza feature so little in Israel’s domestic political debates? From Trump’s new press secretary’s disastrous five-day tenure, to the fallout from the Reform UK documentary, are we all now living in parallel political universes where scandals have less impact than they used to? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Mary Trump by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. The Lloyds £5k house deposit. If you have a deposit of £5k you could get on the ladder sooner than you think. Search £5k first time buyer. Subject to status. You could lose your home if you don't keep up your mortgage repayments. Conditions apply. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: James Clayden, Josh Smith Assistant Producer: Evie Townend, Daisy Alston-Horne, Jake Preston Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/91b79514-cd51-11f1-9ed2-77d584fdff63/image/77f57c9584012c398cde2a6bd129dd1c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4980845374.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3740",
+      "speakers": [
+        "Netanyahu’s Fight"
+      ],
+      "topics": [
+        "netanyahu",
+        "fight",
+        "survival",
+        "gaza",
+        "film",
+        "shocked",
+        "rory",
+        "alastair"
+      ]
+    },
+    {
       "key": "a8f40fe507602854d2fd39b16708c5301546e61e",
       "title": "581. Trump and Putin vs. Zelensky: Is Europe Sleepwalking into Disaster?",
       "published_at": "2026-10-20T23:00:00+00:00",
       "link": null,
-      "description": "After another devastating week for Ukraine, is Trump now firmly on Putin’s side, and how much leverage does Elon Musk have over Zelensky’s war effort through his ownership of Starlink? With more civil unrest in France, what does this mean for a protest movement increasingly overshadowed by rioting, and could it play into Marine Le Pen’s hands ahead of next year's presidential election? What do we know about the attack on Australian MP Helen Haines, after she was hit by a car twice in what the Australian Prime Minister Anthony Albanese has described as a “deliberate” act? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Mary Trump by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Sponsored by Lloyds. The Lloyds £5k house deposit. If you have a deposit of £5k you could get on the ladder sooner than you think. Search £5k first time buyer. Subject to status. You could lose your home if you don't keep up your mortgage repayments. Conditions apply. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Caroline Kaye, Tom McCagherty, James Clayden, Bruno Di Castri Assistant Producer: Daisy Alston-Horne, Evie Townend, Jake Preston Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "After another devastating week for Ukraine, is Trump now firmly on Putin’s side, and how much leverage does Elon Musk have over Zelensky’s war effort through his ownership of Starlink? With more civil unrest in France, what does this mean for a protest movement increasingly overshadowed by rioting, and could it play into Marine Le Pen’s hands ahead of next year's presidential election? What do we know about the attack on Australian MP Helen Haines, after she was hit by a car twice in what the Australian Prime Minister Anthony Albanese has described as a “deliberate” act? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Mary Trump by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Sponsored by Lloyds. Get up to £400 in rewards. Apply for a Business Account by 30 November 2026. Search Lloyds Business Account. Eligability criteria and T&Cs apply. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Caroline Kaye, Tom McCagherty, James Clayden, Bruno Di Castri Assistant Producer: Daisy Alston-Horne, Evie Townend, Jake Preston Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3aa0adb6-cc9c-11f1-bd38-133f282f0df9/image/9ec0221e755a4dbba40572401da4022a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6820370068.mp3",
       "enclosure_type": "audio/mpeg",
@@ -13242,6 +13267,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — 582. Netanyahu’s Fight for Survival and the Gaza Film That Shocked Rory and Alastair — speakers: Netanyahu’s Fight
 - 2026-10-20 — 581. Trump and Putin vs. Zelensky: Is Europe Sleepwalking into Disaster?
 - 2026-10-15 — Addiction, Breakdown and Finding Persevilience: Rory Interviews Alastair
 - 2026-10-14 — 580. How to Solve Britain’s Youth Unemployment Crisis — speakers: Solve Britain

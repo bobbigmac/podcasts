@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-10-15T04:36:39+00:00`
-- checked_at: `2026-10-15T04:36:39+00:00`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 15 Oct 2026 04:14:28 GMT`
+- last_modified: `Thu, 22 Oct 2026 04:07:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T04:36:39+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1d2622bcea2bce6577563573f1fc0ad8bce519ca",
+      "title": "Jenna Russell",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by bona fide musical theatre royalty, the utterly fabulous Jenna Russell ! 🎭🌿 A true West End icon, I have been a huge fan of Jenna’s for many, many years, so it was an absolute treat to sit down and talk all things theatre! From the thrill of performing live to the rather less glamorous matter of some very unexpected audience interruptions... We also bond over our shared love of Cockney Angela Lansbury and discuss the brave new world of the ‘visualised podcast’. So, grab the Maltesers, no rustling please, take your seats before the overture, and come Pottering with us. ✨🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f916c522-ccb1-11f1-994c-df424e0e043b/image/d7fb0610879cc88ac66e8f31e8f0b290.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3888376190.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4029",
+      "speakers": [
+        "Jenna Russell",
+        "Tom Allen"
+      ],
+      "topics": [
+        "jenna",
+        "russell"
+      ]
+    },
     {
       "key": "b5e791233f833321af1fadf5b1b16fbc5dd48f47",
       "title": "George Fouracres",
@@ -1184,6 +1204,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Jenna Russell — speakers: Jenna Russell, Tom Allen
 - 2026-10-15 — George Fouracres — speakers: George Fouracres, Tom Allen
 - 2026-10-08 — Emma Willis — speakers: Emma Willis Fresh, Tom Allen
 - 2026-10-01 — The Reverend Richard Coles — speakers: Richard Coles, Tom Allen

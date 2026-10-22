@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-10-15T04:36:39+00:00`
-- checked_at: `2026-10-15T04:36:39+00:00`
-- etag: `W/"6c43961c7551e35e476a51cd154636f5"`
-- last_modified: `Thu, 15 Oct 2026 01:00:00 GMT`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- etag: `W/"a36492eb5fba05baf9798edfbb003b2e"`
+- last_modified: `Thu, 22 Oct 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-10-15T04:36:39+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -30,8 +30,36 @@
   ],
   "episodes": [
     {
+      "key": "c3488756fb204516fb0d56ab79cef8e34ea0755e",
+      "title": "Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker",
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8967606",
+      "description": "It’s a bumper episode this week! Put on your big brain hats, as Nish & Coco are joined by two incredible thinkers from around the world: PSUK goes global. First up, it’s pioneering (or ‘OG’) trans historian Susan Stryker who discusses her new book, ‘Changing Gender’: charting the history and development of the concept and language of gender, weaving in elements of memoir and observations from the present day. As “gender” has become the bogeyman for gender-critical campaigners, ethno-nationalists and religious conservatives alike, Susan traces the development of these transphobic ideologies, and sets out how the existence of ‘transness’ itself could offer the potential for human liberation. Next, we’re joined by academic and economist Thomas Piketty, who runs Nish & Coco through the Global Justice Report that was released this summer: a comprehensive roadmap to achieving global equality and planetary sustainability by 2100. What’s the catch? Look away, billionaires– it’s time for global redistribution. He also explains the significance of the mass student protests in France, and the role they may play in next year’s presidential election. No prizes for guessing the common enemy in both conversations… What a treat! Let us know what you think of the episode in the comments, and don’t forget you can email podsavetheuk@crooked.com with any questions, musings, or thoughts! USEFUL LINKS Read the Global Justice Report: https://globaljusticeproject.wid.world/global-justice-report/ Buy Susan’s book: https://www.hive.co.uk/product/susan-stryker/changing-gender--the-history-and-future-of-a-concept/26517789 Justice for Joelle: https://www.translegalclinic.com/justice-for-joelle Further information about the NHS’s ‘single sex spaces’ guidance: https://genderedintelligence.co.uk/news/37-nhs-single-sex-guidance CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://www.shopify.co.uk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43896687/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967606.mp3?modified=1792626534&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5091",
+      "speakers": [
+        "Thomas Piketty",
+        "Susan Stryker",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "save",
+        "world",
+        "justice",
+        "thomas",
+        "piketty",
+        "gender",
+        "susan",
+        "stryker"
+      ]
+    },
+    {
       "key": "e783680c06600434cc7fb7cddc3646ef4a99297d",
-      "title": "The Brexit Cinematic Universe w/ Anand Menon: will Brexit dominate the next ten years of political debate? Plus Premier League pitfalls ft. Man City",
+      "title": "The Brexit Cinematic Universe w/ Anand Menon, and Premier League pitfalls ft. Man City",
       "published_at": "2026-10-15T01:00:00+00:00",
       "link": "https://audioboom.com/posts/8964294",
       "description": "This week, Nish & Coco reckon with the latest act of political desperation from Farage and his ailing Reform party: returning to their single-issue roots and promising to shut down England’s asylum system altogether. Plus, amidst the ongoing Manchester City scandal, we dive into the PSUK vault and return to an interview from June 2023 with then-mayor Andy Burnham, where Nish & Coco quizzed him on Abu Dhabi investment in the city. Back then, he said broader issues were a “matter for government”. Now he is the government–what next? Also, Nish outs himself as a football nerd. And, Brexit’s back on the table– again?! We’re joined by Professor of European Politics Anand Menon, to talk about whether rejoining the EU is desirable, or even possible anymore. Will this dominate the next ten years’ worth of political debate? Does Europe even want us back? We discuss, using a lot of Marvel metaphors… USEFUL LINKS Manchester Mill’s reporting on Abu Dhabi’s relationship with Manchester City Council: https://manchestermill.co.uk/exclusive-sheikh-mansour-contract-manchester/ UK in a Changing Europe website and resources: https://ukandeu.ac.uk/ Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
@@ -50,8 +78,6 @@
         "universe",
         "anand",
         "menon",
-        "year",
-        "debate",
         "premier",
         "league",
         "city"
@@ -646,10 +672,10 @@
       "link": "https://audioboom.com/posts/8894165",
       "description": "British politics was shaken to its core this week when we all realised that, maybe, Keir Starmer isn’t as quite across the detail as he tries to make out. He had to explain exactly what he did and didn’t know about the developed vetting carried out for Peter Mandelson’s appointment as the UK’s Ambassador to the US. Right on the heels of that, came Olly Robbins, who was sacked last week from his role as the chief official at the Foreign Office. In a very civil servant way, he revealed the internal pressures and machinations that were happening during the appointment process. Both men had serious questions to answer about what they did but Coco and Nish are joined by political journalist Zoë Grünewald to ask why everyone is obsessing over the process while almost totally ignoring the larger, moral decision to make the appointment in the first place. Plus the comedian Rosie Jones arrives to totally derail the whole podcast with a mix of funny jabs at Nish while still telling us about the work of her brilliant foundation which is celebrating its first birthday! Don’t forget to leave a review - it gives the show a boost and we love to see your comments. **Warning: use of a racial slur during the Labour May election segment** CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk WISE: https://shopify.co.uk/podsavetheuk AURA FRAMES: https://www.auraframes.com Code: PSTUK SHIPSTATION: https://www.shipstation.com Code: PSTUK GUESTS Zoë Grünewald - Journalist, broadcaster and political commentator Rosie Jones - Comedian USEFUL LINKS The Rosie Jones Foundation: https://www.rosiejonesfoundation.com/ CREDITS Sir Keir Starmer MP - Parliament TV Emily Thornberry MP - The Mirror, YouTube Sir Oliver Robbins - Parliament TV David Miliband MP - Mornings with Ridge and Frost, Sky News Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43610253.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8894165.mp3?modified=1776970290&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8894165.mp3?modified=1792472666&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4217",
+      "itunes_duration": "3875",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4337,7 +4363,8 @@
 
 ## Episodes (newest first)
 
-- 2026-10-15 — The Brexit Cinematic Universe w/ Anand Menon: will Brexit dominate the next ten years of political debate? Plus Premier League pitfalls ft. Man City — speakers: Anand Menon, Nish Kumar, Coco Khan
+- 2026-10-22 — Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker — speakers: Thomas Piketty, Susan Stryker, Nish Kumar, Coco Khan
+- 2026-10-15 — The Brexit Cinematic Universe w/ Anand Menon, and Premier League pitfalls ft. Man City — speakers: Anand Menon, Nish Kumar, Coco Khan
 - 2026-10-08 — It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP — speakers: Iron Domes, Lara Bird, Megan Kenyon, Nish Kumar, Coco Khan
 - 2026-10-01 — Burnham’s barnstormer - ‘Hope Again’ for Labour? Plus, ‘the most dangerous story ever told’: Naomi Klein and Astra Taylor on ‘End Times Fascism’ — speakers: Naomi Klein, Astra Taylor, Andy Burnham, Nish Kumar, Coco Khan
 - 2026-09-24 — “The world is a casino”: polling, politics & Palantir w/ Galen Druke — speakers: Galen Druke, Tom Watson, Nish Kumar, Coco Khan

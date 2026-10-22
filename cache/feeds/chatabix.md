@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- etag: `"djEuMi4wOjE3OTI1NDgwMzk1MDk="`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- etag: `"djEuMi4wOjE3OTI2MzQ0Mzk1NjQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "fcb108a1250f51213961b34269245727bbd55b37",
+      "title": "S16 Ep 905 Last of the Summer Eps: Pod Titbits and Dick Whittington Boots",
+      "published_at": "2026-10-22T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-905-last-of-the-summer-eps-pod-titbits-and-dick-whitt",
+      "description": "Continuing our warm up for the new series starting next week, here’s the second of three episodes recorded at the end of the summer. Enjoy! On today’s episode, Joe’s got a new idea for a ‘Pod Tidbits’ show, David suggests a Chatabix version of The Late Review and they both of have a general health check-in with each other. Plus, there’s news about David’s short-lived return to cricket, Joe gets confused about some new net curtains and they also discuss the fashion trend of ladies wearing Dick Whittington boots. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ad5bf77aa02353b87e25de7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29649606",
+      "itunes_duration": "30:53",
+      "speakers": [
+        "Dick Whittington Boots Continuing",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "summer",
+        "titbits",
+        "dick",
+        "whittington",
+        "boots"
+      ]
+    },
     {
       "key": "7cbe94c626ffb59b93d4aa89ce59e1e51b1707ae",
       "title": "S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy",
@@ -16315,6 +16339,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — S16 Ep 905 Last of the Summer Eps: Pod Titbits and Dick Whittington Boots — speakers: Dick Whittington Boots Continuing, Joe Wilkinson, David Earl
 - 2026-10-21 — S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy — speakers: Joe Wilkinson, David Earl
 - 2026-09-04 — S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate — speakers: Joe Wilkinson, David Earl
 - 2026-09-03 — S16 Ep 902: David’s Mega Holiday Debrief - Part 3 — speakers: David’s Mega, Joe Wilkinson, David Earl

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-20T00:19:22+00:00`
-- checked_at: `2026-10-20T00:19:22+00:00`
-- last_modified: `Mon, 19 Oct 2026 23:15:02 GMT`
+- fetched_at: `2026-10-22T04:42:29+00:00`
+- checked_at: `2026-10-22T04:42:29+00:00`
+- last_modified: `Thu, 22 Oct 2026 00:31:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-20T00:19:22+00:00",
+  "fetched_at": "2026-10-22T04:42:29+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9f133ab474446787b03d5d83e5b2040b8ffb9136",
+      "title": "Will George RR Martin Ever Finish Game Of Thrones?",
+      "published_at": "2026-10-21T23:10:00+00:00",
+      "link": null,
+      "description": "What happens if George RR Martin dies before he finishes his book series? How do famous actors learn their lines? What are the dark secrets of celebrity publicists? Marina Hyde and Richard Osman answer your questions on unfinished manuscripts, gay romance on screen and the world of tabloid kiss and tells. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0e99fc12-cd42-11f1-b30c-6b4964ece595/image/21b013aa60cf8fb498c1c7aac10ba464.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9253546521.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1856",
+      "speakers": [
+        "Martin Ever",
+        "George RR Martin",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "george",
+        "martin",
+        "finish",
+        "game",
+        "thrones"
+      ]
+    },
     {
       "key": "d593ff91d65053c4ef05d2069a53223513c5b0ae",
       "title": "Russell Brand: Trial By Podcast",
@@ -7073,6 +7098,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-21 — Will George RR Martin Ever Finish Game Of Thrones? — speakers: Martin Ever, George RR Martin, Richard Osman, Marina Hyde
 - 2026-10-19 — Russell Brand: Trial By Podcast — speakers: Russell Brand, Richard Osman, Marina Hyde
 - 2026-10-16 — Can You Out Think The Show? - Celeb Traitors Reaction (Episode 6) — speakers: Celeb Traitors Reaction, Richard Osman, Marina Hyde
 - 2026-10-15 — “It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5) — speakers: Richard Osman, Marina Hyde
