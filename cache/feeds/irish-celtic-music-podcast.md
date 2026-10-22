@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-10-15T11:26:53+00:00`
-- checked_at: `2026-10-15T11:26:53+00:00`
-- etag: `"1b192961da6e0a5b3fd7857dab1c3b50"`
-- last_modified: `Thu, 15 Oct 2026 08:34:10 GMT`
+- fetched_at: `2026-10-22T11:50:20+00:00`
+- checked_at: `2026-10-22T11:50:20+00:00`
+- etag: `"3d2cd6d2bc020c011c338e327b9d640e"`
+- last_modified: `Thu, 22 Oct 2026 08:35:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-10-15T11:26:53+00:00",
+  "fetched_at": "2026-10-22T11:50:20+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,27 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "6ff987af47d27307e943b77ee627552ae68107dc",
+      "title": "Unquiet Spirits Arise #779",
+      "published_at": "2026-10-22T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/unquiet-spirits-arise-779",
+      "description": "This week's playlist travels from the pubs of Ireland to the hills of Appalachia and back across the water. Celtic Underground takes on Spancil Hill, Boiled In Lead sails away, Jim Moray gives the Lily of the West a fresh coat of paint, and Some One's Sons wake Finnegan all over again. Fifteen artists, one long road home. It's the Irish & Celtic Music Podcast #779. - - Subscribe now at CelticMusicPodcast.com ! Caitlin Finley & Will Woodson, Trí, Jesse Ferguson, Tulua, Mairi McGillivray, Irish Millie, Celtic Underground, Avourneen, Slugger's Rule, Maggie MacInnes, Some One's Sons, Mick Flannery, Anaïs Mitchell, Boiled In Lead, The Elders, Jim Moray GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Tiffany Kerruish of Fynoderee Distillery 0:53 - Caitlin Finley & Will Woodson - \"Miss Langford's / Big Pat's / The Dairy Maid\" from Once Through the Hall 4:28 - WELCOME 6:17 - Trí - \"The Connaught Man's Rambles / The Races of Castlebar / The Bohola Jig\" (Mayo set) from The Cuckoo Sings in May (pronunciation: Trí = TREE, Bohola = buh - HOH - luh) 9:49 - Jesse Ferguson - \"The Unquiet Grave\" from Carried Forward 14:24 - Tulua - \"Sandy Horizon / The Big Reel of Ballynacally / The Wild Irishman\" (reels) from In The Snug (pronunciation: Ballynacally = bal - ee - nuh - KAL - ee) 17:02 - Mairi McGillivray - \"Starlings\" from Mo Thìr (pronunciation: Mo Thìr = moh HEER) 21:21 - FEEDBACK 23:18 - Irish Millie - \"Am I Enough\" from Can You See Me? 27:36 - Celtic Underground - \"Spancil Hill\" from You Can Always Go Home 31:44 - Avourneen - \"Austin Station\" from Way Stations (pronunciation: Avourneen = ah - VOOR - neen) 35:46 - Slugger's Rule - \"He Loves Her Still ft. Far Away Waltz\" from Clusterfolk 38:58 - Maggie MacInnes - \"Cumha Hiortach\" from Uiseagan Bharraigh (pronunciation: Cumha Hiortach = KOO - uh HEERSH - tukh, Uiseagan Bharraigh = OOSH - uh - gan VAR - ee) 44:46 - THANKS 46:33 - Some One's Sons - \"Finnegan's Wake\" from The Boom is Back 49:35 - Mick Flannery feat. Anaïs Mitchell - \"Rising Tide\" from The House Must Win (pronunciation: Anaïs = ah - nah - EES) 53:38 - Boiled In Lead - \"(I'll Sing You) Sail Away, Ladies\" from King of the Dogwoods 58:18 - The Elders - \"The Celtic Warrior\" from The Spirits and The Sea 1:02:47 - CLOSING 1:03:44 - Jim Moray - \"Flora (The Lily of the West)\" from Gallants 1:07:32 - CREDITS Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from John Sharkey White, II. Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from Hank Woodward. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen of Cyanwoode with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Here's some good news about your electricity. A July 2026 report from the International Renewable Energy Agency found that more than 90 percent of the new utility - scale renewable projects built in 2025 produced power more cheaply than the cheapest new fossil fuel option. Battery storage costs fell about 30 percent in the same year. That's real opportunity, and a lot of it gets decided close to home. Many utilities and state regulators publish long - term energy plans and invite public comment before they're approved. City councils weigh in on solar on public buildings and community solar programs too. This week, search your utility's website for its next long - term energy plan. Then send one short comment, or attend one meeting. A few friendly voices from neighbors who want affordable, clean power can go a long way. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. Because we are more than just a radio show. We are a community. A community of Celtic music and culture lovers. We support small and local artists. We spend money on things that truly matter. The personal and heart felt. You can do that with each of the artists on today's show OR your favorite artists. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . CELTIC PODFEST AND NERDY ARTS MARKET The 2nd Annual Celtic PodFest and Nerdy Arts Market happens Sunday, February 28, 2027, at The Lost Druid Brewery in Avondale Estates, Georgia, from 11:30 in the morning until 5:30 in the evening. We've got a wonderful lineup: Olivia Bradley, The BorderCollies, May Will Bloom, and a solo set from yours truly, The Celtfather. Plus a Nerdy Arts Market full of independent makers. To learn more and mark your calendar, head to celticmusic.org ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Every week, your support pays the graphic designer, the audio engineer, and the server bills that keep this podcast online. It also helps me promote the show, and it buys music from the artists I feature. That's a lot of good work happening because of you. Thank you to every patron who gives each month. Members get a say in the best songs of the year, free copy of the Great St Patrick's Day Songbook , and a friendly place to talk Celtic music with people who love it as much as you do. All of it lives at SongHenge.com. HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. In 2027, we're hiking the Isle of Skye. Head on over to http://celticinvasion.com/ . #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Jan Turner emailed last December: \"Thank you and Merry Christmas to you and the entire Marc Gunn \"family\" as well. Thanks for the music! May the coming year bring all of you good health, happiness and love.\" Tracy Lucky emailed a photo and wrote: \"I almost forgot. ! I love the way you pronounce my name 😄 coming from French Quebec not many people say my name correctly and you always pull the a in O'Shea just a little and it makes it sound so musical! Picture of Shar for tax.\"",
+      "image_url": "https://static.libsyn.com/p/assets/a/8/a/9/a8a9e91677a8d2645f2e77a3093c12a1/779-Unquiet_Spirits_Arise-Slugger_sRule-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-779.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67128192",
+      "itunes_duration": "01:09:30",
+      "speakers": [
+        "Unquiet Spirits Arise",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "unquiet",
+        "spirits",
+        "arise"
+      ]
+    },
     {
       "key": "89a420e215d3923490a790a083f44c8eccd16ddb",
       "title": "Ravens with a Celtic Heart #778",
@@ -16672,6 +16693,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Unquiet Spirits Arise #779 — speakers: Unquiet Spirits Arise, Marc Gunn
 - 2026-10-15 — Ravens with a Celtic Heart #778 — speakers: Marc Gunn
 - 2026-10-08 — House of Hamill Interview #777 — speakers: Marc Gunn
 - 2026-09-28 — Celtic PodFest Highlight Reel 5.1 Bonus #776 — speakers: Highlight Reel, Marc Gunn

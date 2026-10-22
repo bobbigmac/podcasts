@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-10-15T11:26:53+00:00`
-- checked_at: `2026-10-15T11:26:53+00:00`
-- last_modified: `Thu, 15 Oct 2026 09:30:00 GMT`
+- fetched_at: `2026-10-22T11:50:20+00:00`
+- checked_at: `2026-10-22T11:50:20+00:00`
+- last_modified: `Thu, 22 Oct 2026 09:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-15T11:26:53+00:00",
+  "fetched_at": "2026-10-22T11:50:20+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,53 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "72a8d8fc0ac13528e9b0088b123dd1b0f24c5ed6",
+      "title": "Musk, Bezos, and the Battle to Control Space",
+      "published_at": "2026-10-22T09:30:00+00:00",
+      "link": null,
+      "description": "For the last few years, the global space race has been dominated by two billionaires: Elon Musk and Jeff Bezos. They’ve launched thousands of satellites, designed lunar landing modules, and drawn up ambitious plans to build AI data centers in space. We wanted to understand why these two are so obsessed with galaxies far, far away. And, more importantly, what their efforts to conquer the cosmos mean for the rest of us down here on Earth. So we called up Josh Tyrangiel. He wrote the cover story for the latest issue of The Atlantic. It’s called “Choose Your Overlord: Musk vs. Bezos.” 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — The 100% human-made stock media library built for creators. Get 15% off any annual plan, available only at storyblocks.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4242987994.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3257",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "musk",
+        "bezos",
+        "battle",
+        "control",
+        "space"
+      ]
+    },
+    {
+      "key": "72ca5f1cce8d161b92c204cdfd96cd5768edd18f",
+      "title": "The Modern Science of Ancient Wisdom",
+      "published_at": "2026-10-19T09:30:00+00:00",
+      "link": null,
+      "description": "June Cohen has spent her career shaping the future, from bringing TED Talks online to launching Masters of Scale. But she has come to believe that some of the best solutions to what ails us today lie in our distant past. Our ancestors developed extraordinarily sophisticated social technologies — what June calls “wisdom systems” — designed to meet our deepest human needs. To help us grieve, build trust, find meaning, experience rapturous joy. In her new book, The Great Remembering , she looks at six of those ancient traditions and unpacks the cutting-edge science of why they work. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — The 100% human-made stock media library built for creators. Get 15% off any annual plan, available only at storyblocks.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2602220028.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4863",
+      "speakers": [
+        "June Cohen",
+        "Ted Talks",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "modern",
+        "science",
+        "ancient",
+        "wisdom"
+      ]
+    },
     {
       "key": "bbe48a6c0c5425da040a1a62fbfabbd21f53d42b",
       "title": "How to Become the Most Interesting Person You Know",
@@ -8656,6 +8703,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Musk, Bezos, and the Battle to Control Space — speakers: Rufus Griscom, Caleb Bissinger
+- 2026-10-19 — The Modern Science of Ancient Wisdom — speakers: June Cohen, Ted Talks, Rufus Griscom, Caleb Bissinger
 - 2026-10-15 — How to Become the Most Interesting Person You Know — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-10-08 — Feel the AGI: Kevin Roose on the Strange, Intoxicating Race to Superintelligence — speakers: Kevin Roose, Rufus Griscom, Caleb Bissinger
 - 2026-10-05 — Daniel Pink and Angela Duckworth on Friction-Maxxing, Becoming a Mentor Magnet and the Problem with Solo Striving — speakers: Daniel Pink, Angela Duckworth, Rufus Griscom, Caleb Bissinger
