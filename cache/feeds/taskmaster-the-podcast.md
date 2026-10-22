@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-10-15T21:22:03+00:00`
-- checked_at: `2026-10-15T21:22:03+00:00`
-- etag: `"e0626-65de720d0306d"`
-- last_modified: `Thu, 15 Oct 2026 20:45:29 GMT`
+- fetched_at: `2026-10-22T21:34:37+00:00`
+- checked_at: `2026-10-22T21:34:37+00:00`
+- etag: `"e1210-65e73f17a14cc"`
+- last_modified: `Thu, 22 Oct 2026 20:45:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-10-15T21:22:03+00:00",
+  "fetched_at": "2026-10-22T21:34:37+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "40940e247ebd94203f964fd4618ba1a6b41fde7f",
+      "title": "Joanna Page - Series 22 Ep.8",
+      "published_at": "2026-10-22T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's podcast Ed is joined by Series 21 champ, the unforgettable, Joanna Page! Joanna has lots of great things to say about the new line up, despite feeling sad that the show has moved on with out her... Ed and Joanna discuss Nina's swearing, Isy's creativity and Joanna reveals what she would have done in the self portrait task. All of this plus Joanna thinks hard about who she would like to go up against in Champion of Champions! To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com For tickets to see Phil Ellis host a series of work-in-progress gigs for new Taskmaster For Kids: Live On Stage visit taskmaster.tv/kids-live-signup And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel.",
+      "image_url": "https://artwork.captivate.fm/c28b8982-be5f-44ac-9d0e-59cf0f3ef13b/TASKMASTER-PODCAST-ARTWORK-Joanna-v2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8bf1a9db-e69d-4173-8a28-0bba48a196f2.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=8bf1a9db-e69d-4173-8a28-0bba48a196f2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56101251",
+      "itunes_duration": "58:26",
+      "speakers": [
+        "Joanna Page",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "joanna",
+        "page",
+        "series"
+      ]
+    },
     {
       "key": "35dfd8902b08496f32845e306d90bf66206f1dda",
       "title": "Armando Iannucci - Series 22 Ep.7",
@@ -5758,6 +5779,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Joanna Page - Series 22 Ep.8 — speakers: Joanna Page, Ed Gamble
 - 2026-10-15 — Armando Iannucci - Series 22 Ep.7 — speakers: Joining Ed, Ed Gamble
 - 2026-10-08 — Nina Conti - Series 22 Ep.6 — speakers: Nina Conti, Ed Gamble
 - 2026-10-01 — Richard Ayoade - Series 22 Ep.5 — speakers: Richard Ayoad, Ed Gamble
