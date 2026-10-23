@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- etag: `"djEuMi4wOjE3OTI1NTE0NTkyNDc="`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- etag: `"djEuMi4wOjE3OTI3MjQyNTkzMjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ee85d295ab95516a88b164fe8bedfe8557dcf22d",
+      "title": "Andrew Hankinson on Felled - Book Club",
+      "published_at": "2026-10-23T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #198 - Felled - Richard chats to author Andrew Hankinson about his new book about the destruction of the Sycamore Gap, Felled. They also discuss his previous books about Raoul Moat and New York’s Comedy Cellar, plus whether modern UK comedy is failing to push boundaries in the same was as US comics. Then they chat about the new book and how it’s as much about Andrew as the tree or the crime. What does it all say about the crisis of masculinity? Are we all trying to impress our repressed dads and how do we cope when we lose them? Why did people get so upset about the loss of a tree when there might not be the same level of anger over an actual murder? What drove the men who did this and can we ever be sure? And is there a new trend of authors questioning themselves and their own lives in their work? Buy this fascinating book here - https://uk.bookshop.org/p/books/felled-the-killing-at-sycamore-gap-andrew-hankinson/6c702f9374218f79 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1791814396525-7dc3a0b9-7637-4dd5-8796-4c9b7eea8e01.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6accebc0e53019e890614429/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25354796",
+      "itunes_duration": "48:18",
+      "speakers": [
+        "Andrew Hankinson",
+        "Richard Herring"
+      ],
+      "topics": [
+        "andrew",
+        "hankinson",
+        "felled",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "2df4f9240fee9b0d3b0972d5a28851cb675e6d88",
       "title": "Mark Thomas - \"Bin Face vs Bin Juice\"",
@@ -24336,6 +24359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — Andrew Hankinson on Felled - Book Club — speakers: Andrew Hankinson, Richard Herring
 - 2026-10-21 — Mark Thomas - "Bin Face vs Bin Juice" — speakers: Bin Juice, Bin Juice Rich, Richard Herring
 - 2026-10-19 — Adam Rowe (Retro) - "Thigh-Eyed" — speakers: Adam Rowe, Richard Herring
 - 2026-10-18 — Rich and Ally's Craven Newsround Compilation - Andy Burnham Is a Liar — speakers: Andy Burnham, Richard Herring

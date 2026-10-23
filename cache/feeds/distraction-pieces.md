@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- etag: `"djEuMi4wOjE3OTI1NTI4MzkzMDg="`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- etag: `"djEuMi4wOjE3OTI3MjU2MzkyODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1b61bfafd04b3a6dc47515f5b68b3556552f9982",
+      "title": "KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind",
+      "published_at": "2026-10-23T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with KONNIE HUQ , originally episode 278 from 2019-07-17. Original writeup: The weather conditions at the time of podcasting (monsoon season) seem to make for a perfect sit down and chat session with Pip and Konnie, as the two hunker down and address a whole gang of pertinent issues and situations - which starts quite literally moments into the conversation. This all sets the tone for some extremely entertaining and very mind opening topic tackling, which includes such menu items as the smoking ban and how we all adapted, the issue of stuff and things and the accumulation of possessions, moving house to a shoebox (with kid in tow), social media and the multitude of attitudes towards it (including where they stand on it all), the idea of manners on social media and how people conduct themselves, minorities, sexual preference, change and evolution in society, being the first Bangladeshi presenter of Blue Peter, slow progression, the bullshit filter of being a parent, the importance of nomalising inclusivity, pasta tangents and of COURSE, her own podcast ‘Switch Off’ and forthcoming book ‘Cookie And The Most Annoying Boy In The World’! SO MUCH GOODNESS. Listen in! PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1792406239346-d585416c-19e6-458c-9bfd-7efc5a9f9385.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ad5f3c46fcbe8d850f07f9f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "200299103",
+      "itunes_duration": "1:23:22",
+      "speakers": [],
+      "topics": [
+        "cookie",
+        "world",
+        "podcast",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "40f35c2a8651cb34ef5aa5bda73f83e5982f4788",
       "title": "STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692",
@@ -19834,6 +19854,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind
 - 2026-10-21 — STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692 — speakers: Jessie Roux
 - 2026-10-16 — SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind
 - 2026-10-14 — LEILA FARZAD • bring the truth and unblock the emotion (I Hate Suzie / Black Mirror / The Decameron) #691

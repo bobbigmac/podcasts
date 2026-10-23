@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-20T23:52:19+00:00`
-- checked_at: `2026-10-20T23:52:19+00:00`
-- etag: `"djEuMi4wOjE3OTI1MzkzOTkzMDM="`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- etag: `"djEuMi4wOjE3OTI3MTIzMTkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-20T23:52:19+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "36e44d7d1840dccc1a92496ca4e56b770e66a719",
+      "title": "Moulding Young Minds",
+      "published_at": "2026-10-22T23:38:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/moulding-young-minds",
+      "description": "Welcome to the second half of this week's Socially Distant Sports Bar , where Mike Bubbins, Elis James and Steff Garrero turn their attention to the documentary and book of the week. This time we're travelling back to 1988, when England's future football stars were being moulded at a residential school in Shropshire, before heading across the Atlantic to meet a man who helped create the only perfect season in modern NFL history. Two very different approaches to sporting excellence. Both involving a considerable amount of shouting, presumably. Documentary of the Week Elis: 1988 — Life at the FA School of Excellence Elis has uncovered a wonderful piece of BBC archive footage from 1988, following a group of 14-year-old footballers arriving at the FA's School of Excellence at Lilleshall. More than 400 promising youngsters are offered trials, but just 16 are selected for two years of intensive football training, schooling and life away from home. Under the watchful eye of FA Technical Director Dave Sexton , the boys are being prepared for careers in professional football at a time when the modern academy system was still a distant dream. It's a fascinating glimpse into football development in the late 1980s, complete with the hairstyles, training gear, coaching methods and extraordinary confidence that only British television of that period could capture. https://m.youtube.com/watch?v=viEnIRCR0hU&pp=ugUHEgVlbi1HQg%3D%3D&ra=m Book of the Week Mike: Head On by Larry Csonka Mike heads to America with Head On , the autobiography of legendary Miami Dolphins fullback Larry Csonka . A Hall of Famer, two-time Super Bowl champion and one of the toughest players of his generation, Csonka was at the heart of the Dolphins' extraordinary undefeated 1972 season . But this is about considerably more than American football. Csonka recounts his complicated relationship with legendary coach Don Shula, the personalities and excesses of the NFL in the 1970s, and a life away from sport that was frequently every bit as eventful as anything that happened on the field. It's a story of toughness, ambition, larger-than-life characters and an era when professional athletes appeared to live by an entirely different set of rules. https://www.amazon.co.uk/Head-Memoir-Larry-Csonka/dp/1637743254 Sixteen teenage footballers in Shropshire. One enormous American footballer in Miami. And three middle-aged Welshmen discussing how it all went. Thanks for listening. For even more from The Socially Distant Sports Bar, including extra episodes and exclusive content, join us on Patreon: https://www.patreon.com/distantpod 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ad5d9a0336b44639e32071b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40878915",
+      "itunes_duration": "42:34",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis Jam",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "moulding",
+        "young",
+        "minds"
+      ]
+    },
     {
       "key": "a708ed9a0316362f362264a4ce00bbb747cb9537",
       "title": "Blood and Guts",
@@ -16299,6 +16322,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — Moulding Young Minds — speakers: Mike Bubbins, Elis Jam, Elis James, Steff Garrero
 - 2026-10-20 — Blood and Guts — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-10-16 — Champions League Final: Pint Size — speakers: Champions League Final, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-15 — Kurt Cobain Had Been Dead For Two Years — speakers: Kurt Cobain, Mike Bubbins, Elis James, Steff Garrero

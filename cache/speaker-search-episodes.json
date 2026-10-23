@@ -12601,6 +12601,29 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:3adb5ccf639f",
+        "feed_title": "Last One Laughing Official Podcast",
+        "source_rss_url": "https://rss.art19.com/last-one-laughing",
+        "dedupe_key": "c604933f96a0bc42957a48ce9db965df982f6b6f",
+        "episode_key": "c604933f96a0bc42957a48ce9db965df982f6b6f",
+        "title": "Halloween: Ep 1 with Jack Dee and Harriet Kemsley",
+        "published_at": "2026-10-22T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jack Dee and Harriet Kemsley join Roisin Conaty to dissect all the ghoulish goings-on from Episode One of Last One Laughing: Halloween. Jack shares his thoughts on his fellow Halloween players, while Harriet weighs in on her Series 1 alumni going back into the game.Contains strong language and adult themes.An Audible O",
+        "audio_url": "https://rss.art19.com/episodes/eb76a44b-f1f0-462b-9da2-66035bd9862b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/halloween-ep-1-with-jack-dee-and-harriet-kemsley/id1885620207?i=1000797691773&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee",
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
@@ -41432,6 +41455,29 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:3adb5ccf639f",
+        "feed_title": "Last One Laughing Official Podcast",
+        "source_rss_url": "https://rss.art19.com/last-one-laughing",
+        "dedupe_key": "c604933f96a0bc42957a48ce9db965df982f6b6f",
+        "episode_key": "c604933f96a0bc42957a48ce9db965df982f6b6f",
+        "title": "Halloween: Ep 1 with Jack Dee and Harriet Kemsley",
+        "published_at": "2026-10-22T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jack Dee and Harriet Kemsley join Roisin Conaty to dissect all the ghoulish goings-on from Episode One of Last One Laughing: Halloween. Jack shares his thoughts on his fellow Halloween players, while Harriet weighs in on her Series 1 alumni going back into the game.Contains strong language and adult themes.An Audible O",
+        "audio_url": "https://rss.art19.com/episodes/eb76a44b-f1f0-462b-9da2-66035bd9862b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/halloween-ep-1-with-jack-dee-and-harriet-kemsley/id1885620207?i=1000797691773&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee",
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:2fe9fb95f0de",
         "feed_title": "Dave Moore",

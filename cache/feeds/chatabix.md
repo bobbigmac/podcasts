@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-22T04:42:29+00:00`
-- checked_at: `2026-10-22T04:42:29+00:00`
-- etag: `"djEuMi4wOjE3OTI2MzQ0Mzk1NjQ="`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- etag: `"djEuMi4wOjE3OTI3MjA4Mzk0NjM="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-22T04:42:29+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "3a70bf590436524e8210afb4e559257ee66da1b3",
+      "title": "S16 Ep 906 Last of the Summer Eps: Sex Noises and Men’s Health",
+      "published_at": "2026-10-23T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-906-last-of-the-summer-eps-sex-noises-and-mens-health",
+      "description": "No mailbag today - as we still have the third episode of our final summer recordings for you to hear. Then stand by for our brand new Series 17 which kicks off next week! When Joe was walking home the other day, he heard some very loud ‘sex noises’ coming from the flats at the end of his road. So a discussion about that takes up the first half of today’s show. Then later on, as a friend of David and Joe has just been featured in Men’s Health magazine, they have a good old chat about fitness, photoshoots, looking great and losing weight. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ad5bfe47198e8df7fc0ab97/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40449671",
+      "itunes_duration": "42:08",
+      "speakers": [
+        "Sex Noises",
+        "Health No",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "summer",
+        "noises",
+        "health"
+      ]
+    },
     {
       "key": "fcb108a1250f51213961b34269245727bbd55b37",
       "title": "S16 Ep 905 Last of the Summer Eps: Pod Titbits and Dick Whittington Boots",
@@ -16339,6 +16362,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — S16 Ep 906 Last of the Summer Eps: Sex Noises and Men’s Health — speakers: Sex Noises, Health No, Joe Wilkinson, David Earl
 - 2026-10-22 — S16 Ep 905 Last of the Summer Eps: Pod Titbits and Dick Whittington Boots — speakers: Dick Whittington Boots Continuing, Joe Wilkinson, David Earl
 - 2026-10-21 — S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy — speakers: Joe Wilkinson, David Earl
 - 2026-09-04 — S16 Ep 903 Listener's Mailbag: The Great ‘Men In Tight Shorts’ Debate — speakers: Joe Wilkinson, David Earl

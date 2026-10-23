@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-10-02T09:44:41+00:00`
-- checked_at: `2026-10-02T09:44:41+00:00`
-- last_modified: `Fri, 02 Oct 2026 03:57:40 GMT`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- last_modified: `Fri, 23 Oct 2026 04:04:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-02T09:44:41+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,140 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "181fd824fab4ace6471f9bc73393fa2867fcae5a",
+      "title": "An unlikely lube, a parkour ick and Chris has beef with Halloween decorations",
+      "published_at": "2026-10-23T03:55:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed Chris is annoyed at Halloween decorations, Rosie shares her in-depth knowledge and love of Real Housewives and the pair have soe non beef beefs. There's a Carl Hutchinson story (obvs!) some food kink chat, a Lake Como update and the couple speculate on who the next Bond will be! All of this plus some brilliant emails and voice notes! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8993046321.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3476",
+      "speakers": [
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "lube",
+        "parkour",
+        "chris",
+        "beef",
+        "halloween",
+        "decoration"
+      ]
+    },
+    {
+      "key": "71a336696cde7a6d9aa983153738298ea71daeec",
+      "title": "Please Keep Me Anonymous with Mathew Baynton",
+      "published_at": "2026-10-21T03:55:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by actor, comedian, Taskmaster Champ and all round national treasure, Mathew Baynton! Mathew Baynton joins Chris and Rosie to discuss the Ghosts movie which The Ramsey's are are new converts of! They also chat about British comedy and what influenced the team behind Horrible Histories, Yonderland and Ghosts! Plus they talk Clown School, the North South divide and Mathew reveals that Take That performed at his school in the 90's... All this and a brilliant story from one of you lovely lot! The upcoming feature-length film Ghosts: The Possession of Button House is released in UK and Irish cinemas on 23 October 2026 If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e0aab9d0-cc7a-11f1-b1ec-b73004ae35f0/image/9f96c178a9d236f9d5c36c30c792d4d9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1516133048.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2424",
+      "speakers": [
+        "Mathew Baynton",
+        "Taskmaster Champ",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "mathew",
+        "baynton"
+      ]
+    },
+    {
+      "key": "f40a018ea4d004a9ca6f7cd93e2480c05c99d753",
+      "title": "The Traitors, mid-week drinking and Mario #3",
+      "published_at": "2026-10-16T03:38:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, the couple discuss Halloween Costumes, the nostalgic joy of an FCUK top, and Chris reveals why he couldn't do Celebrity Traitors. Unusually it's a 'cat heavy' episode which includes a Carl Hutchinson story, plus the pair talk 3D glasses, getting old, AI, and Rosie has some long lived beef about leaving food in the sink... All of this plus voice notes and some brilliant emails from the smas and das! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5330420411.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3940",
+      "speakers": [
+        "Shagged Married Annoyed",
+        "Halloween Costumes",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "traitors",
+        "week",
+        "drinking",
+        "mario"
+      ]
+    },
+    {
+      "key": "ca12dfa691ae3379bf526cfa65e3163cbd5d6123",
+      "title": "Please Keep Me Anonymous with Asim Chaudhry",
+      "published_at": "2026-10-14T03:30:00+00:00",
+      "link": null,
+      "description": "On this week's Please Keep Me Anonymous, Chris and Rosie are joined by the brilliant comedian, actor and adopted Geordie, Asim Chaudhry! Asim is on to talk about The Reluctant Vampire but of course that chat goes in all kinds of directions including Asim's calves, his love for Newcastle and what life is like on a movie set. The Reluctant Vampire stars Lenny Rush, Tom Davis, Sian Clifford and Asim Chaudhry. You can watch the whole Series on BBC Ipayer! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ee6abbda-c6e7-11f1-bb96-a36c02398b7b/image/a398bf3417440c10666a3a46ff764834.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3149600455.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3383",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "asim",
+        "chaudhry"
+      ]
+    },
+    {
+      "key": "a703b7971cdf03f1580ad2c47400265bdc66118f",
+      "title": "Public faux pas, oversharing and who would Rosie play in Shrek?",
+      "published_at": "2026-10-09T03:40:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris an Rosie catch up on their various public faux pas and bond over concerns about oversharing. Rosie shares her love for amateur dramatics after being the recipient of two awards! Chris has more tales from his tour and they get to the bottom of some 5 star hotel reviews... There's one beef and it's a sweet one, icks, and of course some contributions to the new feature... If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1883035207.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3215",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "rosie",
+        "shrek"
+      ]
+    },
+    {
+      "key": "3a00886601e8d06665228320824cd4f62b2683b0",
+      "title": "Please Keep Me Anonymous with The Thomas Brothers",
+      "published_at": "2026-10-07T04:00:00+00:00",
+      "link": null,
+      "description": "Get ready for a fun filled, chaotic episode of the podcast becasue this week Chris and Rosie are joined by The Thomas Brothers! That's right, The Ramsey's are reunited with Adam, Scott and Ryan to chat about their podcast ' At Home with The Thomas Brothers '. But of course the chat goes in all directions, including manifesting, hobbies, drinking, co-sleeping and what life was like in Manchester for the Thomas Brothers in the teenage years! All this plus a great story from one of you lovely lot! You can listen to At Home with The Thomas Brothers wherever you get your podcasts and you can subscribe to the podcast for extra content. You can also find the podcast on YouTube youtube.com/@AtHomeWithTheThomasBros If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/035a7898-c0c4-11f1-a717-bb5f8350b04c/image/bf30fcc7024c9537035e863b7806c3a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8367387600.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2462",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "thomas",
+        "brothers"
+      ]
+    },
     {
       "key": "0109bed3311cd848e2de1db6be131dec2ec54031",
       "title": "It's lamp season, Chris is a hypocrite, and can we take a minute for Lake Garda?!",
@@ -9274,6 +9408,12 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — An unlikely lube, a parkour ick and Chris has beef with Halloween decorations — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
+- 2026-10-21 — Please Keep Me Anonymous with Mathew Baynton — speakers: Mathew Baynton, Taskmaster Champ, Chris Ramsey, Rosie Ramsey
+- 2026-10-16 — The Traitors, mid-week drinking and Mario #3 — speakers: Shagged Married Annoyed, Halloween Costumes, Chris Ramsey, Rosie Ramsey
+- 2026-10-14 — Please Keep Me Anonymous with Asim Chaudhry — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-10-09 — Public faux pas, oversharing and who would Rosie play in Shrek? — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-10-07 — Please Keep Me Anonymous with The Thomas Brothers — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-10-02 — It's lamp season, Chris is a hypocrite, and can we take a minute for Lake Garda?! — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-09-30 — Please Keep Me Anonymous with Joe Wicks — speakers: Joe Wicks, Chris Ramsey, Rosie Ramsey
 - 2026-09-25 — A wet one, wind on the golf course and Rosie needs a minute — speakers: Chris Ramsey, Rosie Ramsey

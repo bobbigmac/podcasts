@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-18T23:11:19+00:00`
-- checked_at: `2026-10-18T23:11:19+00:00`
-- etag: `"djEuMi4wOjE3OTIzNjQ1NjAzOTA="`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- etag: `"djEuMi4wOjE3OTI3MTAxNjA1MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-18T23:11:19+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f1320354ba084b11f422988b3de2cc5e20c7b7f5",
+      "title": "My Time Capsule The Dig - Ep. 23 - With Chris Cantrill (Winner of 2026 Edinburgh Comedy Award)",
+      "published_at": "2026-10-22T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-23-with-chris-cantrill-winner-of",
+      "description": "Chris Cantrill was our guest in episode 432 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Chris Cantrill is an award-winning comedian, writer and actor who won the 2026 Edinburgh Comedy Award for Best Show for his solo show Rewilding . He also won a 2026 BBC Audio Award for Best Comedy Performance for the Radio 4 sitcom Icklewick FM , which he co-wrote with comedy partner Amy Gledhill. He is also one of the main writers for Saturday Night Live UK. Also, Mike and his producer and son John chat about this weeks episode with Rachel Parris and answer listener's emails and voice notes . For Chris's award winning tour tickets, visit. - https://linktr.ee/ChrisCantrill . Listen to Chris Cantrill's original episode - h ttps://mytimecapsulepodcast.com/episodes?q=432 . Donte to John's running challenge here! - https://prostateunited.prostatecanceruk.org/fundraising/john-fs-5km-a-day . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1792681582287-edf19fc7-3164-4720-b6cf-1421da4ff5d0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ada274f3ad7f68551584ea1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63700552",
+      "itunes_duration": "53:04",
+      "speakers": [
+        "Edinburgh Comedy Award",
+        "Chris Cantrill"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "chris",
+        "cantrill",
+        "winner",
+        "edinburgh",
+        "comedy",
+        "award"
+      ]
+    },
     {
       "key": "f29ebf9520618a61a1045cfc1506327682e36c7a",
       "title": "Ep. 610 - Rachel Parris - The Mash Report, Live at the Apollo, Have I Got News for You, QI, Would I Lie to You",
@@ -13730,6 +13756,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-22 — My Time Capsule The Dig - Ep. 23 - With Chris Cantrill (Winner of 2026 Edinburgh Comedy Award) — speakers: Edinburgh Comedy Award, Chris Cantrill
 - 2026-10-18 — Ep. 610 - Rachel Parris - The Mash Report, Live at the Apollo, Have I Got News for You, QI, Would I Lie to You — speakers: Rachel Parris, Got News
 - 2026-10-15 — My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John) — speakers: Graham Fellows, John Shuttleworth, Jilted John
 - 2026-10-11 — Ep. 609 - Paul Unwin - Oscar nominated writer and director, co-created Casualty — speakers: Paul Unwin Oscar, Paul Unwin

@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- last_modified: `Wed, 21 Oct 2026 00:06:35 GMT`
+- fetched_at: `2026-10-23T04:47:49+00:00`
+- checked_at: `2026-10-23T04:47:49+00:00`
+- last_modified: `Fri, 23 Oct 2026 00:06:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-23T04:47:49+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "a020b99df95fc184f9808627dc01e8aa665cac3c",
+      "title": "LEGEND! Kathy Burke",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em can barely contain their excitement today, as they’re joined by the one and only Kathy Burke! The comedian, actress, director and all-round LEGEND chats about her incredible life and career, and her brilliant book 'A Mind of My Own' (which even brought Frank to tears)! If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5104917692.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2354",
+      "speakers": [
+        "Kathy Burke Frank",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "legend",
+        "kathy",
+        "burke"
+      ]
+    },
     {
       "key": "2354feb999b29108b35181e31886f35888daaf9c",
       "title": "Frank Skinner's Radio Days: Beatrix Potter",
@@ -25051,6 +25072,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — LEGEND! Kathy Burke — speakers: Kathy Burke Frank, Frank Skinner
 - 2026-10-21 — Frank Skinner's Radio Days: Beatrix Potter — speakers: Frank Skinner
 - 2026-10-19 — Got Your Nose! — speakers: Brennan Reece, Frank Skinner
 - 2026-10-16 — Hanging Around Stage Doors — speakers: Frank Skinner
