@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-23T04:47:49+00:00`
-- checked_at: `2026-10-23T04:47:49+00:00`
-- last_modified: `Thu, 22 Oct 2026 23:15:00 GMT`
+- fetched_at: `2026-10-23T21:23:32+00:00`
+- checked_at: `2026-10-23T21:23:32+00:00`
+- last_modified: `Fri, 23 Oct 2026 19:21:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-23T04:47:49+00:00",
+  "fetched_at": "2026-10-23T21:23:32+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4875453682.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3234",
+      "itunes_duration": "3264",
       "speakers": [
         "Katherine Ryan",
         "Rob Beckett",
@@ -58,7 +58,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2204826638.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3172",
+      "itunes_duration": "3202",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -78,7 +78,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3443443969.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2916",
+      "itunes_duration": "2901",
       "speakers": [
         "Penalty Kick",
         "Manchester United",
@@ -102,7 +102,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3152962843.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3758",
+      "itunes_duration": "3788",
       "speakers": [
         "Matt Willis",
         "Rob Beckett",
@@ -123,7 +123,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6809301022.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3016",
+      "itunes_duration": "3031",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -142,7 +142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8841057921.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3434",
+      "itunes_duration": "3419",
       "speakers": [
         "El Sackio",
         "Rob Beckett",
@@ -166,7 +166,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7826484970.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2919",
+      "itunes_duration": "2949",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -185,7 +185,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2464522643.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2731",
+      "itunes_duration": "2761",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -204,7 +204,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5025058802.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2947",
+      "itunes_duration": "2962",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -224,7 +224,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4846281139.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3268",
+      "itunes_duration": "3313",
       "speakers": [
         "Nina Conti",
         "Rob Beckett",
@@ -245,7 +245,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9445861430.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3373",
+      "itunes_duration": "3403",
       "speakers": [
         "Sneaky Sasquatch",
         "Rob Beckett",
@@ -266,7 +266,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9796951345.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3337",
+      "itunes_duration": "3352",
       "speakers": [
         "Nations League",
         "Rob Beckett",
@@ -289,7 +289,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9511142008.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2822",
+      "itunes_duration": "2852",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -310,7 +310,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1803359119.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2357",
+      "itunes_duration": "2402",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -329,7 +329,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9600931090.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3283",
+      "itunes_duration": "3268",
       "speakers": [
         "El Snapico",
         "Rob Beckett",
@@ -354,7 +354,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4119433603.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3200",
+      "itunes_duration": "3245",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -371,7 +371,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6413108201.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4013",
+      "itunes_duration": "4058",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -388,7 +388,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9954935158.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3361",
+      "itunes_duration": "3376",
       "speakers": [
         "Tony Mowbray",
         "Rob Beckett",
@@ -411,7 +411,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3426016912.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2892",
+      "itunes_duration": "2907",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -430,7 +430,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6515637814.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3314",
+      "itunes_duration": "3329",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -449,7 +449,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7109594605.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3593",
+      "itunes_duration": "3608",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -468,7 +468,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2339230296.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2891",
+      "itunes_duration": "2936",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -485,7 +485,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2669574627.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2482",
+      "itunes_duration": "2602",
       "speakers": [
         "Online Safety",
         "Rob Beckett",
@@ -511,7 +511,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2249789612.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2975",
+      "itunes_duration": "3005",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -553,7 +553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2479319451.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3523",
+      "itunes_duration": "3553",
       "speakers": [
         "Andy Parsons",
         "Rob Beckett",
@@ -574,7 +574,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4529111956.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2764",
+      "itunes_duration": "2884",
       "speakers": [
         "Online Safety",
         "Pre Teens",
@@ -601,7 +601,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6969723670.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3217",
+      "itunes_duration": "3262",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -621,7 +621,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3175418291.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3498",
+      "itunes_duration": "3528",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -641,7 +641,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9068548807.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3344",
+      "itunes_duration": "3374",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -660,7 +660,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4522762203.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2614",
+      "itunes_duration": "2644",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -701,7 +701,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9718317758.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3131",
+      "itunes_duration": "3176",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -721,7 +721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6593809040.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3424",
+      "itunes_duration": "3409",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -741,7 +741,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6555624503.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3176",
+      "itunes_duration": "3191",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -760,7 +760,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2273473556.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3222",
+      "itunes_duration": "3237",
       "speakers": [
         "lorry smashes",
         "Rob Beckett",
@@ -822,7 +822,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1102080094.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3048",
+      "itunes_duration": "3063",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -864,7 +864,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5440526439.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3473",
+      "itunes_duration": "3488",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -881,7 +881,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7026029554.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3312",
+      "itunes_duration": "3342",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -936,7 +936,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2933450275.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3126",
+      "itunes_duration": "3141",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -955,7 +955,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5817854731.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3191",
+      "itunes_duration": "3206",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -974,7 +974,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9229128060.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3318",
+      "itunes_duration": "3333",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -993,7 +993,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2918081874.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3217",
+      "itunes_duration": "3232",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1033,7 +1033,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7634616797.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3727",
+      "itunes_duration": "3742",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1052,7 +1052,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5611400172.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2923",
+      "itunes_duration": "2938",
       "speakers": [
         "Laura Smyth",
         "Rob Beckett",
@@ -1074,7 +1074,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6624022841.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2807",
+      "itunes_duration": "2822",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1093,7 +1093,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9518661404.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3481",
+      "itunes_duration": "3496",
       "speakers": [
         "Jack Savoretti",
         "Rob Beckett",
@@ -1114,7 +1114,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8171745634.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3072",
+      "itunes_duration": "3087",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1133,7 +1133,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5857144285.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3963",
+      "itunes_duration": "3978",
       "speakers": [
         "Tinie Tempah Joining",
         "Rob Beckett",
@@ -1154,7 +1154,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2731101566.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3048",
+      "itunes_duration": "3063",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1173,7 +1173,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5518030569.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3211",
+      "itunes_duration": "3226",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1194,7 +1194,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9643976338.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2751",
+      "itunes_duration": "2766",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1213,7 +1213,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3920731487.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3401",
+      "itunes_duration": "3416",
       "speakers": [
         "Eddie Marsan Joining",
         "Rob Beckett",
@@ -1275,7 +1275,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6725149760.mp3?updated=1777947014",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2712",
+      "itunes_duration": "2727",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1295,7 +1295,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9599796589.mp3?updated=1777612360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2969",
+      "itunes_duration": "2984",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1336,7 +1336,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4165042781.mp3?updated=1777002188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3599",
+      "itunes_duration": "3614",
       "speakers": [
         "Hal Cruttenden",
         "Rob Beckett",
@@ -1356,7 +1356,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3686869833.mp3?updated=1777346842",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3464",
+      "itunes_duration": "3479",
       "speakers": [
         "May Williams",
         "Rob Beckett",
@@ -1377,7 +1377,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4030617369.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3440",
+      "itunes_duration": "3455",
       "speakers": [
         "Michelle Wolf",
         "Rob Beckett",
@@ -1398,7 +1398,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8418159279.mp3?updated=1776111360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2919",
+      "itunes_duration": "2934",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1419,7 +1419,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2118061273.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3921",
+      "itunes_duration": "3936",
       "speakers": [
         "Emma Doran",
         "Rob Beckett",
@@ -1440,7 +1440,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9399100578.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3179",
+      "itunes_duration": "3194",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1460,7 +1460,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6189320087.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4116",
+      "itunes_duration": "4131",
       "speakers": [
         "Jamie Laing",
         "Rob Beckett",
@@ -1481,7 +1481,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1649237555.mp3?updated=1774822109",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2781",
+      "itunes_duration": "2796",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1498,7 +1498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7564866487.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3337",
+      "itunes_duration": "3352",
       "speakers": [
         "Chantel Nash",
         "Rob Beckett",
@@ -1519,7 +1519,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8580498018.mp3?updated=1779269146",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3247",
+      "itunes_duration": "3262",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1559,7 +1559,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5260544163.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3384",
+      "itunes_duration": "3399",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1578,7 +1578,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4419584276.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3739",
+      "itunes_duration": "3754",
       "speakers": [
         "Charlie Baker",
         "Rob Beckett",
@@ -1600,7 +1600,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5625253618.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3363",
+      "itunes_duration": "3378",
       "speakers": [
         "Tom Rosenthal",
         "Rob Beckett",
@@ -1620,7 +1620,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6739130840.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3503",
+      "itunes_duration": "3518",
       "speakers": [
         "Kamille Joining",
         "Rob Beckett",
@@ -1640,7 +1640,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9990375926.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3231",
+      "itunes_duration": "3246",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1660,7 +1660,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3595329017.mp3?updated=1772990213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3691",
+      "itunes_duration": "3706",
       "speakers": [
         "Tom Davis",
         "Rob Beckett",
@@ -1681,7 +1681,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3752585284.mp3?updated=1771918893",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3420",
+      "itunes_duration": "3465",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1700,7 +1700,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4473386682.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3236",
+      "itunes_duration": "3281",
       "speakers": [
         "Seann Walsh",
         "Rob Beckett",
@@ -1721,7 +1721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4613032001.mp3?updated=1771292531",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3193",
+      "itunes_duration": "3208",
       "speakers": [
         "Playground Sha gers",
         "Rob Beckett",
@@ -1743,7 +1743,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9647740395.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3713",
+      "itunes_duration": "3728",
       "speakers": [
         "Lou Beckett",
         "Rob Beckett",
@@ -1764,7 +1764,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7205437421.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3650",
+      "itunes_duration": "3665",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1784,7 +1784,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1471870637.mp3?updated=1770369783",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3871",
+      "itunes_duration": "3886",
       "speakers": [
         "Ray Bradshaw",
         "Rob Beckett",
@@ -1804,7 +1804,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1133584818.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3526",
+      "itunes_duration": "3541",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1823,7 +1823,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9490541177.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4002",
+      "itunes_duration": "4017",
       "speakers": [
         "John Bishop",
         "Rob Beckett",
@@ -1844,7 +1844,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2462196960.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3345",
+      "itunes_duration": "3360",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1864,7 +1864,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4405293340.mp3?updated=1769732608",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2785",
+      "itunes_duration": "2800",
       "speakers": [
         "Harry Hill",
         "Rob Beckett",
@@ -1886,7 +1886,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1960942525.mp3?updated=1779281161",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3295",
+      "itunes_duration": "3340",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1905,7 +1905,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6923384354.mp3?updated=1779285910",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3614",
+      "itunes_duration": "3629",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1922,7 +1922,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1288684554.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3378",
+      "itunes_duration": "3393",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1941,7 +1941,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6767495984.mp3?updated=1767999926",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2797",
+      "itunes_duration": "2812",
       "speakers": [
         "Prince Naseem Hamed Joining",
         "Rob Beckett",
@@ -1962,7 +1962,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6290864330.mp3?updated=1767700694",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3242",
+      "itunes_duration": "3272",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -1981,7 +1981,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1350203894.mp3?updated=1780193101",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3769",
+      "itunes_duration": "3799",
       "speakers": [
         "Russell Howard",
         "Rob Beckett",
@@ -2002,7 +2002,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7076631016.mp3?updated=1767056033",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2743",
+      "itunes_duration": "2773",
       "speakers": [
         "Rich Mans Porridge",
         "Rob Beckett",
@@ -2024,7 +2024,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7165676894.mp3?updated=1766716190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3257",
+      "itunes_duration": "3287",
       "speakers": [
         "Kate Garraway",
         "Rob Beckett",
@@ -2045,7 +2045,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9838181027.mp3?updated=1767056079",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3092",
+      "itunes_duration": "3122",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2066,7 +2066,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3200910978.mp3?updated=1766131881",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3443",
+      "itunes_duration": "3473",
       "speakers": [
         "Jason Donovan",
         "Rob Beckett",
@@ -2087,7 +2087,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6426978310.mp3?updated=1767056035",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3448",
+      "itunes_duration": "3478",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2106,7 +2106,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5135142892.mp3?updated=1765535855",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3620",
+      "itunes_duration": "3650",
       "speakers": [
         "Lindsey Santoro",
         "Rob Beckett",
@@ -2127,7 +2127,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6517053991.mp3?updated=1767055881",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3199",
+      "itunes_duration": "3229",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe",
@@ -2149,7 +2149,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7812816474.mp3?updated=1767056130",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3604",
+      "itunes_duration": "3634",
       "speakers": [
         "Andy Goldstein",
         "Rob Beckett",
@@ -2170,7 +2170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2278320773.mp3?updated=1764636558",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3142",
+      "itunes_duration": "3172",
       "speakers": [
         "Advent Calendar Error",
         "Rob Beckett",
@@ -2192,7 +2192,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8251161376.mp3?updated=1767056075",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2779",
+      "itunes_duration": "2809",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2211,7 +2211,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3628037610.mp3?updated=1767055992",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3188",
+      "itunes_duration": "3218",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2230,7 +2230,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5221252762.mp3?updated=1763661673",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3405",
+      "itunes_duration": "3435",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2249,7 +2249,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1915802900.mp3?updated=1767056019",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3637",
+      "itunes_duration": "3667",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2269,7 +2269,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7630102263.mp3?updated=1763100684",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3867",
+      "itunes_duration": "3897",
       "speakers": [
         "Jo Whiley",
         "Rob Beckett",
@@ -2289,7 +2289,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5313030021.mp3?updated=1762836593",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3332",
+      "itunes_duration": "3362",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2308,7 +2308,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9526516320.mp3?updated=1762489258",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3733",
+      "itunes_duration": "3763",
       "speakers": [
         "Amol Rajan",
         "Rob Beckett",
@@ -2329,7 +2329,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4062395288.mp3?updated=1762227294",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2555",
+      "itunes_duration": "2585",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2349,7 +2349,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8571440100.mp3?updated=1761865851",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2997",
+      "itunes_duration": "3027",
       "speakers": [
         "Joe Thomas",
         "Rob Beckett",
@@ -2369,7 +2369,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6164741684.mp3?updated=1761622838",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3041",
+      "itunes_duration": "3071",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2388,7 +2388,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3626856569.mp3?updated=1761293953",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3044",
+      "itunes_duration": "3074",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2409,7 +2409,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4729881337.mp3?updated=1760992401",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2402",
+      "itunes_duration": "2432",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2429,7 +2429,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7069378089.mp3?updated=1760408063",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3358",
+      "itunes_duration": "3388",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2448,7 +2448,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5730346833.mp3?updated=1760056554",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3467",
+      "itunes_duration": "3497",
       "speakers": [
         "Chris McCausland",
         "Rob Beckett",
@@ -2470,7 +2470,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2252919413.mp3?updated=1759816832",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3101",
+      "itunes_duration": "3131",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2489,7 +2489,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3435426130.mp3?updated=1767056182",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3678",
+      "itunes_duration": "3708",
       "speakers": [
         "Alan Davies",
         "Rob Beckett",
@@ -2511,7 +2511,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8951529428.mp3?updated=1759474249",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3660",
+      "itunes_duration": "3690",
       "speakers": [
         "My Life",
         "Chaos Perhaps",
@@ -2533,7 +2533,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2549794901.mp3?updated=1758847808",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3638",
+      "itunes_duration": "3668",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2553,7 +2553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1261868804.mp3?updated=1758583946",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2792",
+      "itunes_duration": "2822",
       "speakers": [
         "Josh Widdicombe",
         "Rob Beckett"
@@ -2574,7 +2574,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4147610251.mp3?updated=1758267298",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3971",
+      "itunes_duration": "4001",
       "speakers": [
         "Elizabeth Day Joining",
         "Rob Beckett",
@@ -2594,7 +2594,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1343460844.mp3?updated=1767056123",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2680",
+      "itunes_duration": "2710",
       "speakers": [
         "Josh Widdicombe",
         "Rob Beckett"
@@ -2615,7 +2615,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7270161158.mp3?updated=1767056153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3250",
+      "itunes_duration": "3280",
       "speakers": [
         "Barry Hearn Joining",
         "Barry Hearn Obe",
@@ -2637,7 +2637,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3127200163.mp3?updated=1757401404",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3401",
+      "itunes_duration": "3431",
       "speakers": [
         "Rick Astley",
         "Rob Beckett",
@@ -2658,7 +2658,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7064643508.mp3?updated=1767055997",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2690",
+      "itunes_duration": "2720",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2677,7 +2677,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2892590764.mp3?updated=1756670268",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2833",
+      "itunes_duration": "2863",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2697,7 +2697,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4627234680.mp3?updated=1756423027",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3649",
+      "itunes_duration": "3679",
       "speakers": [
         "Zoe Ball",
         "Rob Beckett",
@@ -2717,7 +2717,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7463518509.mp3?updated=1767055946",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3256",
+      "itunes_duration": "3286",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2736,7 +2736,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2823234346.mp3?updated=1767055971",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3523",
+      "itunes_duration": "3553",
       "speakers": [
         "Olly Murs Joining",
         "Rob Beckett",
@@ -2757,7 +2757,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6397630693.mp3?updated=1755554080",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3140",
+      "itunes_duration": "3170",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2777,7 +2777,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6811267127.mp3?updated=1755220891",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3660",
+      "itunes_duration": "3690",
       "speakers": [
         "Ross Noble",
         "Rob Beckett",
@@ -2798,7 +2798,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8970900546.mp3?updated=1754950222",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3250",
+      "itunes_duration": "3280",
       "speakers": [
         "Mick Jagger",
         "Rob Beckett",
@@ -2821,7 +2821,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5226008542.mp3?updated=1754602273",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3370",
+      "itunes_duration": "3400",
       "speakers": [
         "Stephen Mangan",
         "Rob Beckett",
@@ -2843,7 +2843,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4486116504.mp3?updated=1754350477",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2985",
+      "itunes_duration": "3015",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2863,7 +2863,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1263880752.mp3?updated=1754007237",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3371",
+      "itunes_duration": "3401",
       "speakers": [
         "Loose Neck",
         "Rob Beckett",
@@ -2885,7 +2885,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8580171656.mp3?updated=1767056049",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3397",
+      "itunes_duration": "3427",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2904,7 +2904,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2844959749.mp3?updated=1767056151",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3611",
+      "itunes_duration": "3641",
       "speakers": [
         "Tamzin Outhwaite Joining",
         "Rob Beckett",
@@ -2925,7 +2925,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9233361095.mp3?updated=1767055879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3150",
+      "itunes_duration": "3180",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2945,7 +2945,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3160004066.mp3?updated=1767056076",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4075",
+      "itunes_duration": "4105",
       "speakers": [
         "Mel Giedroyc",
         "Rob Beckett",
@@ -2965,7 +2965,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1184016066.mp3?updated=1752530277",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3191",
+      "itunes_duration": "3221",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -2984,7 +2984,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8203136966.mp3?updated=1752188050",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3195",
+      "itunes_duration": "3225",
       "speakers": [
         "Frank Warren",
         "Rob Beckett",
@@ -3005,7 +3005,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4417613000.mp3?updated=1767056073",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2496",
+      "itunes_duration": "2526",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3024,7 +3024,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3522223805.mp3?updated=1751590057",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4065",
+      "itunes_duration": "4095",
       "speakers": [
         "Aisling Bea",
         "Rob Beckett",
@@ -3042,7 +3042,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9097651713.mp3?updated=1767056142",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3095",
+      "itunes_duration": "3125",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3062,7 +3062,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6357975995.mp3?updated=1767055869",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3256",
+      "itunes_duration": "3286",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3084,7 +3084,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2682677922.mp3?updated=1767055887",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3021",
+      "itunes_duration": "3051",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3103,7 +3103,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8485983965.mp3?updated=1767056181",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3493",
+      "itunes_duration": "3523",
       "speakers": [
         "Jack Skipper",
         "Rob Beckett",
@@ -3124,7 +3124,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4197277080.mp3?updated=1767056020",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2996",
+      "itunes_duration": "3026",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3146,7 +3146,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3060042665.mp3?updated=1749796864",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3931",
+      "itunes_duration": "3961",
       "speakers": [
         "Tom Basden Joining",
         "Rob Beckett",
@@ -3166,7 +3166,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6553539002.mp3?updated=1749536921",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4001",
+      "itunes_duration": "4031",
       "speakers": [
         "Jacinda Ardern",
         "Rob Beckett",
@@ -3187,7 +3187,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7848978546.mp3?updated=1767056149",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3680",
+      "itunes_duration": "3710",
       "speakers": [
         "Suzi Ruffell",
         "Rob Beckett",
@@ -3209,7 +3209,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2674058193.mp3?updated=1767056075",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2562",
+      "itunes_duration": "2592",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3229,7 +3229,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6773621973.mp3?updated=1748591631",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3282",
+      "itunes_duration": "3312",
       "speakers": [
         "George Egg",
         "Rob Beckett",
@@ -3249,7 +3249,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4671477686.mp3?updated=1767055896",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3194",
+      "itunes_duration": "3224",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3268,7 +3268,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3243075013.mp3?updated=1747963078",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3352",
+      "itunes_duration": "3382",
       "speakers": [
         "Ivo Graham",
         "Rob Beckett",
@@ -3289,7 +3289,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3975850101.mp3?updated=1747721821",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3109",
+      "itunes_duration": "3139",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3311,7 +3311,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1911515060.mp3?updated=1767055919",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4118",
+      "itunes_duration": "4148",
       "speakers": [
         "Charlie Brooker",
         "Rob Beckett",
@@ -3332,7 +3332,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7404203565.mp3?updated=1747084765",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3040",
+      "itunes_duration": "3070",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3352,7 +3352,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7829898415.mp3?updated=1767055917",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3440",
+      "itunes_duration": "3470",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3371,7 +3371,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2524916717.mp3?updated=1778344304",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3316",
+      "itunes_duration": "3346",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3391,7 +3391,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3251693939.mp3?updated=1746174942",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3203",
+      "itunes_duration": "3233",
       "speakers": [
         "Pete Doherty",
         "Rob Beckett",
@@ -3412,7 +3412,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9919759083.mp3?updated=1767056018",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2865",
+      "itunes_duration": "2895",
       "speakers": [
         "Monkey Cuck",
         "Rob Beckett",
@@ -3433,7 +3433,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8294030517.mp3?updated=1767056034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3712",
+      "itunes_duration": "3742",
       "speakers": [
         "Leanne Quigley",
         "Rob Beckett",
@@ -3454,7 +3454,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9378441381.mp3?updated=1745304921",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3087",
+      "itunes_duration": "3117",
       "speakers": [
         "Easter Lost Keys Chaos",
         "Stiff Neck",
@@ -3478,7 +3478,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7626409866.mp3?updated=1767056028",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3087",
+      "itunes_duration": "3117",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3498,7 +3498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5249265607.mp3?updated=1744325999",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3875",
+      "itunes_duration": "3905",
       "speakers": [
         "Stacey Solomon",
         "Joe Swash",
@@ -3522,7 +3522,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8427762303.mp3?updated=1767055999",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3196",
+      "itunes_duration": "3226",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3542,7 +3542,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1137476630.mp3?updated=1743137245",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3987",
+      "itunes_duration": "4017",
       "speakers": [
         "Gyles Brandreth",
         "Rob Beckett",
@@ -3563,7 +3563,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6546783975.mp3?updated=1742876994",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2825",
+      "itunes_duration": "2855",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe",
@@ -3583,7 +3583,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6981515339.mp3?updated=1742531550",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4401",
+      "itunes_duration": "4431",
       "speakers": [
         "Adebayo Akinfenwa Joining",
         "Rob Beckett",
@@ -3604,7 +3604,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1194869059.mp3?updated=1767056150",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3016",
+      "itunes_duration": "3046",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3624,7 +3624,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6400580129.mp3?updated=1741920412",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3221",
+      "itunes_duration": "3251",
       "speakers": [
         "Stacey Dooley",
         "Rob Beckett",
@@ -3645,7 +3645,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3662374950.mp3?updated=1767056105",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2927",
+      "itunes_duration": "2957",
       "speakers": [
         "Siân Welby",
         "Rob Beckett",
@@ -3665,7 +3665,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7293026102.mp3?updated=1767056030",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3139",
+      "itunes_duration": "3169",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3684,7 +3684,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4559160883.mp3?updated=1741064773",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3270",
+      "itunes_duration": "3300",
       "speakers": [
         "Parenting Hell Mixtape Here",
         "Parenting Hell",
@@ -3706,7 +3706,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7842291070.mp3?updated=1767056136",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3498",
+      "itunes_duration": "3528",
       "speakers": [
         "Danny Jones",
         "Rob Beckett",
@@ -3727,7 +3727,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4386222569.mp3?updated=1767056098",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2968",
+      "itunes_duration": "2998",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3746,7 +3746,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3543120587.mp3?updated=1739838804",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2990",
+      "itunes_duration": "3020",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -3768,7 +3768,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3454694310.mp3?updated=1767055987",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3295",
+      "itunes_duration": "3325",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -3790,7 +3790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7195737164.mp3?updated=1739454603",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2517",
+      "itunes_duration": "2547",
       "speakers": [
         "Valentines Playground",
         "Rob Beckett",
@@ -3812,7 +3812,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4275446851.mp3?updated=1767055900",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3874",
+      "itunes_duration": "3904",
       "speakers": [
         "Jack Dee",
         "Rob Beckett",
@@ -3833,7 +3833,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4254969165.mp3?updated=1767055959",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3537",
+      "itunes_duration": "3567",
       "speakers": [
         "Lou Beckett",
         "Rob Beckett",
@@ -3855,7 +3855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2763869457.mp3?updated=1738049593",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3343",
+      "itunes_duration": "3373",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3872,7 +3872,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2411636858.mp3?updated=1738862983",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4177",
+      "itunes_duration": "4207",
       "speakers": [
         "Rangan Chatterjee",
         "Rob Beckett",
@@ -3893,7 +3893,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5421313860.mp3?updated=1737442946",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3248",
+      "itunes_duration": "3278",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3913,7 +3913,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5183788188.mp3?updated=1737100539",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2916",
+      "itunes_duration": "2946",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3932,7 +3932,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7773111508.mp3?updated=1737101234",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3188",
+      "itunes_duration": "3218",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3951,7 +3951,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6891117547.mp3?updated=1767055904",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2790",
+      "itunes_duration": "2820",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3972,7 +3972,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1035611796.mp3?updated=1767056103",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2724",
+      "itunes_duration": "2754",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -3994,7 +3994,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2830975137.mp3?updated=1767056135",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2794",
+      "itunes_duration": "2824",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4016,7 +4016,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3188586480.mp3?updated=1734679915",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2903",
+      "itunes_duration": "2933",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4035,7 +4035,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7476131704.mp3?updated=1767055882",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2588",
+      "itunes_duration": "2618",
       "speakers": [
         "Rob Gets",
         "Rob Beckett",
@@ -4056,7 +4056,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1366006420.mp3?updated=1767056010",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3362",
+      "itunes_duration": "3392",
       "speakers": [
         "Vogue Williams",
         "Rob Beckett",
@@ -4077,7 +4077,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4636825811.mp3?updated=1767055924",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3822",
+      "itunes_duration": "3852",
       "speakers": [
         "Kerry Godliman",
         "Rob Beckett",
@@ -4099,7 +4099,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8245644918.mp3?updated=1732577438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3171",
+      "itunes_duration": "3201",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4119,7 +4119,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2204262504.mp3?updated=1767056178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3514",
+      "itunes_duration": "3544",
       "speakers": [
         "Joe Lycett",
         "Rob Beckett",
@@ -4139,7 +4139,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4139628039.mp3?updated=1731648430",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3137",
+      "itunes_duration": "3167",
       "speakers": [
         "Special More",
         "Rob Beckett",
@@ -4161,7 +4161,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2649297794.mp3?updated=1767056203",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3837",
+      "itunes_duration": "3867",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -4183,7 +4183,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2198867993.mp3?updated=1739837947",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3639",
+      "itunes_duration": "3669",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -4205,7 +4205,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3043409836.mp3?updated=1730456754",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2603",
+      "itunes_duration": "2633",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4224,7 +4224,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7380387736.mp3?updated=1730160442",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2602",
+      "itunes_duration": "2632",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4246,7 +4246,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8249294881.mp3?updated=1767056058",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3328",
+      "itunes_duration": "3358",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4265,7 +4265,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7344070885.mp3?updated=1767056091",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2957",
+      "itunes_duration": "2987",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4284,7 +4284,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9273090418.mp3?updated=1729237594",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3506",
+      "itunes_duration": "3536",
       "speakers": [
         "Daisy May Cooper Joining",
         "Rob Beckett",
@@ -4305,7 +4305,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2024043070.mp3?updated=1767056017",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2935",
+      "itunes_duration": "2965",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4324,7 +4324,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6584111633.mp3?updated=1728631007",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3254",
+      "itunes_duration": "3284",
       "speakers": [
         "Kiri Pritchard-McLean",
         "Rob Beckett",
@@ -4346,7 +4346,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2842913164.mp3?updated=1767055936",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2984",
+      "itunes_duration": "3014",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4365,7 +4365,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7892117957.mp3?updated=1767056124",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3212",
+      "itunes_duration": "3242",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4385,7 +4385,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3973439930.mp3?updated=1727739119",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2946",
+      "itunes_duration": "2976",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4404,7 +4404,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7206332363.mp3?updated=1727424178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4179",
+      "itunes_duration": "4209",
       "speakers": [
         "Rose Hanson",
         "Rob Beckett",
@@ -4426,7 +4426,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3122031199.mp3?updated=1727133948",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2807",
+      "itunes_duration": "2837",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4445,7 +4445,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9199102944.mp3?updated=1726809842",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3594",
+      "itunes_duration": "3624",
       "speakers": [
         "Russell Kane",
         "Rob Beckett",
@@ -4467,7 +4467,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2514081746.mp3?updated=1726531564",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3318",
+      "itunes_duration": "3348",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4488,7 +4488,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7752538899.mp3?updated=1726184906",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3718",
+      "itunes_duration": "3748",
       "speakers": [
         "Joe Marler",
         "Rob Beckett",
@@ -4508,7 +4508,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8917261045.mp3?updated=1725952425",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2938",
+      "itunes_duration": "2968",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4528,7 +4528,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4333307000.mp3?updated=1725607624",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3024",
+      "itunes_duration": "3054",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4549,7 +4549,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9581958322.mp3?updated=1767056020",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3752",
+      "itunes_duration": "3782",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4570,7 +4570,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1775357767.mp3?updated=1767056209",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3486",
+      "itunes_duration": "3516",
       "speakers": [
         "Max Rushden",
         "Rob Beckett",
@@ -4590,7 +4590,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5841586060.mp3?updated=1737077777",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3454",
+      "itunes_duration": "3484",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4609,7 +4609,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5955204208.mp3?updated=1767056114",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3724",
+      "itunes_duration": "3754",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -4631,7 +4631,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3276062730.mp3?updated=1767056232",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3674",
+      "itunes_duration": "3704",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -4653,7 +4653,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3605143698.mp3?updated=1739837841",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3665",
+      "itunes_duration": "3695",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -4675,7 +4675,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7526272277.mp3?updated=1767056309",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2945",
+      "itunes_duration": "2975",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4694,7 +4694,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2343109841.mp3?updated=1723180467",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3763",
+      "itunes_duration": "3793",
       "speakers": [
         "Tom Kerridge",
         "Rob Beckett",
@@ -4714,7 +4714,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3879362052.mp3?updated=1722919325",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3380",
+      "itunes_duration": "3410",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4731,7 +4731,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2959474269.mp3?updated=1767056068",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3670",
+      "itunes_duration": "3700",
       "speakers": [
         "Frank Skinner",
         "Rob Beckett",
@@ -4752,7 +4752,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8419285789.mp3?updated=1722295862",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3286",
+      "itunes_duration": "3316",
       "speakers": [
         "Josh Widdicombe",
         "Rob Beckett"
@@ -4773,7 +4773,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2830518945.mp3?updated=1721973606",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3086",
+      "itunes_duration": "3116",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4792,7 +4792,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9717868622.mp3?updated=1721690165",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3156",
+      "itunes_duration": "3186",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4812,7 +4812,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4621088687.mp3?updated=1767055901",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3351",
+      "itunes_duration": "3381",
       "speakers": [
         "Natalie Cassidy",
         "Rob Beckett",
@@ -4833,7 +4833,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3834540410.mp3?updated=1721081387",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2870",
+      "itunes_duration": "2900",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4855,7 +4855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9480922767.mp3?updated=1720740587",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3575",
+      "itunes_duration": "3605",
       "speakers": [
         "Jeff Innocent Joining",
         "Rob Beckett",
@@ -4876,7 +4876,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1457391941.mp3?updated=1720478146",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2864",
+      "itunes_duration": "2894",
       "speakers": [
         "Playground Shaggers",
         "Rob Beckett",
@@ -4897,7 +4897,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2844130981.mp3?updated=1767056075",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3390",
+      "itunes_duration": "3420",
       "speakers": [
         "Nick Mohammed Joining",
         "Rob Beckett",
@@ -4918,7 +4918,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2484990561.mp3?updated=1767055965",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2897",
+      "itunes_duration": "2927",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4937,7 +4937,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6801080105.mp3?updated=1719550595",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3517",
+      "itunes_duration": "3547",
       "speakers": [
         "Janine Harouni",
         "Rob Beckett",
@@ -4958,7 +4958,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1091167334.mp3?updated=1719269071",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3340",
+      "itunes_duration": "3370",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4978,7 +4978,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9756127397.mp3?updated=1767055920",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3893",
+      "itunes_duration": "3923",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -4997,7 +4997,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6678641142.mp3?updated=1767056221",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2717",
+      "itunes_duration": "2747",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5017,7 +5017,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7010316893.mp3?updated=1767056124",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4027",
+      "itunes_duration": "4057",
       "speakers": [
         "Marcus Brigstocke",
         "Rob Beckett",
@@ -5038,7 +5038,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2926607667.mp3?updated=1767056177",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3087",
+      "itunes_duration": "3117",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5058,7 +5058,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7797847966.mp3?updated=1717710225",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3783",
+      "itunes_duration": "3813",
       "speakers": [
         "Ranvir Singh Joining",
         "Rob Beckett",
@@ -5079,7 +5079,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3942458037.mp3?updated=1717445874",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2884",
+      "itunes_duration": "2914",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5096,7 +5096,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3721685439.mp3?updated=1767056052",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3483",
+      "itunes_duration": "3513",
       "speakers": [
         "George Lewis Joining",
         "Rob Beckett",
@@ -5117,7 +5117,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6161661306.mp3?updated=1767056030",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3434",
+      "itunes_duration": "3464",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5136,7 +5136,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2037745263.mp3?updated=1767056055",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3919",
+      "itunes_duration": "3949",
       "speakers": [
         "Cush Jumbo Joining",
         "Rob Beckett",
@@ -5157,7 +5157,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9447838736.mp3?updated=1716239322",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3260",
+      "itunes_duration": "3290",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5177,7 +5177,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8154579384.mp3?updated=1715935408",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3628",
+      "itunes_duration": "3658",
       "speakers": [
         "Al Murray",
         "Rob Beckett",
@@ -5197,7 +5197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8124306284.mp3?updated=1715642579",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3011",
+      "itunes_duration": "3041",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5218,7 +5218,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7340464363.mp3?updated=1767056212",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3261",
+      "itunes_duration": "3291",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5237,7 +5237,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3559513244.mp3?updated=1715038818",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3151",
+      "itunes_duration": "3181",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5256,7 +5256,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7141479720.mp3?updated=1767056023",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3553",
+      "itunes_duration": "3583",
       "speakers": [
         "Alison Hammond",
         "Rob Beckett",
@@ -5278,7 +5278,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1366419728.mp3?updated=1767056119",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3724",
+      "itunes_duration": "3754",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5299,7 +5299,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3289930023.mp3?updated=1714098960",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3989",
+      "itunes_duration": "4019",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5318,7 +5318,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5381424458.mp3?updated=1714097894",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2940",
+      "itunes_duration": "2970",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5335,7 +5335,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1927308170.mp3?updated=1767056146",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4287",
+      "itunes_duration": "4317",
       "speakers": [
         "Dan Nightingale",
         "Rob Beckett",
@@ -5355,7 +5355,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2546743682.mp3?updated=1713219553",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2969",
+      "itunes_duration": "2999",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5374,7 +5374,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9167889258.mp3?updated=1712881726",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3334",
+      "itunes_duration": "3364",
       "speakers": [
         "Lily Allen",
         "Rob Beckett",
@@ -5395,7 +5395,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8848732034.mp3?updated=1712609781",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3333",
+      "itunes_duration": "3363",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5418,7 +5418,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9011021227.mp3?updated=1767056223",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3874",
+      "itunes_duration": "3904",
       "speakers": [
         "Miquita Oliver Joining",
         "Rob Beckett",
@@ -5440,7 +5440,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6114344295.mp3?updated=1712030021",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2905",
+      "itunes_duration": "2935",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5459,7 +5459,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1752720442.mp3?updated=1767056148",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4042",
+      "itunes_duration": "4072",
       "speakers": [
         "Jonathan Ross",
         "Honey Ross Joining",
@@ -5482,7 +5482,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7178574425.mp3?updated=1711409277",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3486",
+      "itunes_duration": "3516",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5500,7 +5500,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1331266185.mp3?updated=1711069636",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3486",
+      "itunes_duration": "3516",
       "speakers": [
         "Simon Mayo",
         "Rob Beckett",
@@ -5521,7 +5521,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5922172871.mp3?updated=1767056016",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2735",
+      "itunes_duration": "2765",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5540,7 +5540,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9703773161.mp3?updated=1710472885",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3504",
+      "itunes_duration": "3534",
       "speakers": [
         "Susie Dent Joining",
         "Rob Beckett",
@@ -5561,7 +5561,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7645110813.mp3?updated=1710227979",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2928",
+      "itunes_duration": "2958",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5580,7 +5580,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2844997504.mp3?updated=1767056158",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3498",
+      "itunes_duration": "3528",
       "speakers": [
         "Ashley Blaker",
         "Rob Beckett",
@@ -5601,7 +5601,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2939670636.mp3?updated=1767056139",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3246",
+      "itunes_duration": "3276",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5623,7 +5623,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4793804944.mp3?updated=1767056225",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4238",
+      "itunes_duration": "4268",
       "speakers": [
         "Shaun Keaveny",
         "Rob Beckett",
@@ -5644,7 +5644,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5735980609.mp3?updated=1708993591",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3570",
+      "itunes_duration": "3600",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5664,7 +5664,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8040722034.mp3?updated=1708647445",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3588",
+      "itunes_duration": "3618",
       "speakers": [
         "Tom Aspinall",
         "Rob Beckett",
@@ -5684,7 +5684,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4149866160.mp3?updated=1708390840",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2805",
+      "itunes_duration": "2835",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5704,7 +5704,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3690651219.mp3?updated=1767056101",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4136",
+      "itunes_duration": "4166",
       "speakers": [
         "Sara Barron",
         "Rob Beckett",
@@ -5725,7 +5725,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6498958555.mp3?updated=1767055889",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3107",
+      "itunes_duration": "3137",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5746,7 +5746,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6221609658.mp3?updated=1767056125",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3969",
+      "itunes_duration": "3999",
       "speakers": [
         "Jason Bell",
         "Rob Beckett",
@@ -5767,7 +5767,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1084762332.mp3?updated=1767055918",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3038",
+      "itunes_duration": "3068",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5788,7 +5788,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5046404308.mp3?updated=1767056156",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3569",
+      "itunes_duration": "3599",
       "speakers": [
         "Laura Smyth",
         "Rob Beckett",
@@ -5809,7 +5809,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7242950421.mp3?updated=1767056152",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2740",
+      "itunes_duration": "2770",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5830,7 +5830,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7286514066.mp3?updated=1706264190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3591",
+      "itunes_duration": "3621",
       "speakers": [
         "Miles Jupp",
         "Rob Beckett",
@@ -5851,7 +5851,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7743964201.mp3?updated=1705966202",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3317",
+      "itunes_duration": "3347",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5872,7 +5872,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3788782539.mp3?updated=1705650932",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3998",
+      "itunes_duration": "4028",
       "speakers": [
         "Ranganathan Iii",
         "Rob Beckett",
@@ -5893,7 +5893,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1718641727.mp3?updated=1767056132",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3172",
+      "itunes_duration": "3202",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -5913,7 +5913,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6157928544.mp3?updated=1705008615",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3106",
+      "itunes_duration": "3136",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5933,7 +5933,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1342416202.mp3?updated=1704784354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3134",
+      "itunes_duration": "3164",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5950,7 +5950,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5824925041.mp3?updated=1739837794",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2853",
+      "itunes_duration": "2883",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -5972,7 +5972,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3639247472.mp3?updated=1703862676",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3383",
+      "itunes_duration": "3413",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -5993,7 +5993,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4168627225.mp3?updated=1703558115",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3575",
+      "itunes_duration": "3605",
       "speakers": [
         "Scott Bennett",
         "Rob Beckett",
@@ -6015,7 +6015,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1157732856.mp3?updated=1703200741",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2990",
+      "itunes_duration": "3020",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6035,7 +6035,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6456731457.mp3?updated=1702946756",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3272",
+      "itunes_duration": "3302",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6055,7 +6055,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5095949458.mp3?updated=1702613239",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2754",
+      "itunes_duration": "2784",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6075,7 +6075,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6478187758.mp3?updated=1702342782",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2770",
+      "itunes_duration": "2800",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6094,7 +6094,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3239314321.mp3?updated=1701998635",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3718",
+      "itunes_duration": "3748",
       "speakers": [
         "Angela Scanlon",
         "Rob Beckett",
@@ -6115,7 +6115,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9092139126.mp3?updated=1701764366",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3342",
+      "itunes_duration": "3372",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6136,7 +6136,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1451945113.mp3?updated=1701386417",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3483",
+      "itunes_duration": "3513",
       "speakers": [
         "Kimberley Nixon",
         "Rob Beckett",
@@ -6157,7 +6157,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4370616127.mp3?updated=1701420631",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2871",
+      "itunes_duration": "2901",
       "speakers": [
         "Rob Beckett",
         "Parenting Hell",
@@ -6177,7 +6177,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6617810114.mp3?updated=1700790793",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4171",
+      "itunes_duration": "4201",
       "speakers": [
         "Adam Kay",
         "Rob Beckett",
@@ -6197,7 +6197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9930698696.mp3?updated=1700527727",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2813",
+      "itunes_duration": "2843",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6218,7 +6218,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4745594607.mp3?updated=1700180489",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3920",
+      "itunes_duration": "3950",
       "speakers": [
         "Scarlett Moffatt",
         "Rob Beckett",
@@ -6239,7 +6239,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9264905850.mp3?updated=1699936505",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2934",
+      "itunes_duration": "2964",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6260,7 +6260,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2421627295.mp3?updated=1699543662",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3757",
+      "itunes_duration": "3787",
       "speakers": [
         "Kevin Bridges",
         "Rob Beckett",
@@ -6281,7 +6281,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2090712613.mp3?updated=1699319441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3102",
+      "itunes_duration": "3132",
       "speakers": [
         "previous gues",
         "Rob Beckett",
@@ -6303,7 +6303,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1105594804.mp3?updated=1698992399",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3468",
+      "itunes_duration": "3498",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6321,7 +6321,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6528635716.mp3?updated=1698710437",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2832",
+      "itunes_duration": "2862",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6341,7 +6341,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6236224009.mp3?updated=1698359970",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3416",
+      "itunes_duration": "3446",
       "speakers": [
         "Tom Skinner",
         "Rob Beckett",
@@ -6361,7 +6361,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2908224611.mp3?updated=1698110290",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2616",
+      "itunes_duration": "2646",
       "speakers": [
         "Snuggle Calls",
         "Parenting Hell",
@@ -6384,7 +6384,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7908617643.mp3?updated=1698358855",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3753",
+      "itunes_duration": "3783",
       "speakers": [
         "Clair Buckley",
         "Rob Beckett",
@@ -6406,7 +6406,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1447893114.mp3?updated=1697497323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2531",
+      "itunes_duration": "2561",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6426,7 +6426,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4669130641.mp3?updated=1697164264",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3791",
+      "itunes_duration": "3821",
       "speakers": [
         "Jessica Ennis-Hill",
         "Rob Beckett",
@@ -6449,7 +6449,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1679970899.mp3?updated=1696915352",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2895",
+      "itunes_duration": "2925",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6469,7 +6469,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6738912940.mp3?updated=1696575939",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3627",
+      "itunes_duration": "3657",
       "speakers": [
         "Nick Frost",
         "Rob Beckett",
@@ -6490,7 +6490,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5037746091.mp3?updated=1696306212",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2968",
+      "itunes_duration": "2998",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6510,7 +6510,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8006363793.mp3?updated=1695954497",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3849",
+      "itunes_duration": "3879",
       "speakers": [
         "Carol Vorderman",
         "Rob Beckett",
@@ -6531,7 +6531,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2915211819.mp3?updated=1695709177",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3241",
+      "itunes_duration": "3271",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6549,7 +6549,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4239713229.mp3?updated=1695649247",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3731",
+      "itunes_duration": "3761",
       "speakers": [
         "Ed Balls Joining",
         "Rob Beckett",
@@ -6569,7 +6569,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7084323102.mp3?updated=1695649423",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2811",
+      "itunes_duration": "2841",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6590,7 +6590,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1336919149.mp3?updated=1695649466",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3527",
+      "itunes_duration": "3557",
       "speakers": [
         "Richard Osman",
         "Rob Beckett",
@@ -6611,7 +6611,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2113163546.mp3?updated=1695649537",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3277",
+      "itunes_duration": "3307",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6629,7 +6629,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5920714933.mp3?updated=1695650015",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3175",
+      "itunes_duration": "3205",
       "speakers": [
         "Jessica Fostekew Joining",
         "Rob Beckett",
@@ -6650,7 +6650,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2591391488.mp3?updated=1695650362",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3475",
+      "itunes_duration": "3505",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6670,7 +6670,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9470013070.mp3?updated=1695650393",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3606",
+      "itunes_duration": "3636",
       "speakers": [
         "Jon Richardson",
         "Rob Beckett",
@@ -6691,7 +6691,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8420265888.mp3?updated=1695650462",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2680",
+      "itunes_duration": "2710",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6710,7 +6710,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7957527754.mp3?updated=1695650552",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3169",
+      "itunes_duration": "3199",
       "speakers": [
         "Mike Birbiglia",
         "Rob Beckett",
@@ -6731,7 +6731,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3254493448.mp3?updated=1695650623",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2687",
+      "itunes_duration": "2717",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6751,7 +6751,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1311710020.mp3?updated=1695650665",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2977",
+      "itunes_duration": "3007",
       "speakers": [
         "Joel Dommett",
         "Rob Beckett",
@@ -6772,7 +6772,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1121559564.mp3?updated=1695650696",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2681",
+      "itunes_duration": "2711",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6793,7 +6793,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3124170860.mp3?updated=1695650769",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3519",
+      "itunes_duration": "3549",
       "speakers": [
         "Annie Mac",
         "Rob Beckett",
@@ -6813,7 +6813,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7508748393.mp3?updated=1695650814",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2610",
+      "itunes_duration": "2640",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6833,7 +6833,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4384382794.mp3?updated=1695650903",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3349",
+      "itunes_duration": "3379",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6855,7 +6855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9054249185.mp3?updated=1695650956",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2722",
+      "itunes_duration": "2752",
       "speakers": [
         "Parenting Hell",
         "Rob Beckett",
@@ -6876,7 +6876,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4259417950.mp3?updated=1695650989",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3049",
+      "itunes_duration": "3079",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6896,7 +6896,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5782897081.mp3?updated=1696260996",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2778",
+      "itunes_duration": "2808",
       "speakers": [
         "Father Christmas",
         "Rob Beckett",
@@ -6916,7 +6916,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1794184551.mp3?updated=1696261216",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2729",
+      "itunes_duration": "2759",
       "speakers": [
         "Alex James",
         "Rob Beckett",
@@ -6937,7 +6937,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1876523360.mp3?updated=1689028592",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2730",
+      "itunes_duration": "2760",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6954,7 +6954,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8972629603.mp3?updated=1688440626",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2817",
+      "itunes_duration": "2847",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -6974,7 +6974,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7097621153.mp3?updated=1688087927",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2887",
+      "itunes_duration": "2917",
       "speakers": [
         "David Cross",
         "Rob Beckett",
@@ -6995,7 +6995,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5710847055.mp3?updated=1687843642",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3138",
+      "itunes_duration": "3168",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7014,7 +7014,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3896678537.mp3?updated=1687485729",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2787",
+      "itunes_duration": "2817",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7031,7 +7031,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6686569423.mp3?updated=1687225744",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2735",
+      "itunes_duration": "2765",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7050,7 +7050,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9824698176.mp3?updated=1686873780",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3309",
+      "itunes_duration": "3339",
       "speakers": [
         "Jack Whitehall",
         "Rob Beckett",
@@ -7071,7 +7071,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7627105562.mp3?updated=1686612859",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3050",
+      "itunes_duration": "3080",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7090,7 +7090,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5899322628.mp3?updated=1736399013",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4351",
+      "itunes_duration": "4381",
       "speakers": [
         "Scott Bennett",
         "Rob Beckett",
@@ -7111,7 +7111,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5290649863.mp3?updated=1686611441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2431",
+      "itunes_duration": "2461",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7131,7 +7131,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6826559481.mp3?updated=1685663598",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2906",
+      "itunes_duration": "2936",
       "speakers": [
         "Rick Edwards",
         "Rob Beckett",
@@ -7152,7 +7152,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2784165713.mp3?updated=1685412180",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2580",
+      "itunes_duration": "2610",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7172,7 +7172,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9426163664.mp3?updated=1685066080",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2940",
+      "itunes_duration": "2970",
       "speakers": [
         "Peter Andre",
         "Rob Beckett",
@@ -7193,7 +7193,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8020840405.mp3?updated=1684805005",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2843",
+      "itunes_duration": "2873",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7212,7 +7212,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3929288446.mp3?updated=1684641113",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2838",
+      "itunes_duration": "2868",
       "speakers": [
         "Omid Djalili Joining",
         "Rob Beckett",
@@ -7233,7 +7233,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6750734736.mp3?updated=1684200622",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3210",
+      "itunes_duration": "3240",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7253,7 +7253,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5946337144.mp3?updated=1683885184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3519",
+      "itunes_duration": "3549",
       "speakers": [
         "Alastair Campbell",
         "Rob Beckett",
@@ -7274,7 +7274,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3791022067.mp3?updated=1683594763",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2968",
+      "itunes_duration": "2998",
       "speakers": [
         "Mike Bubbins",
         "Rob Beckett",
@@ -7295,7 +7295,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7877376670.mp3?updated=1683250966",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3425",
+      "itunes_duration": "3455",
       "speakers": [
         "Jim Jefferies",
         "Rob Beckett",
@@ -7315,7 +7315,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1794988188.mp3?updated=1682981049",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2564",
+      "itunes_duration": "2594",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7334,7 +7334,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1297804151.mp3?updated=1682640712",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2940",
+      "itunes_duration": "2970",
       "speakers": [
         "George Foreman",
         "Rob Beckett",
@@ -7355,7 +7355,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2449034465.mp3?updated=1682435603",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2529",
+      "itunes_duration": "2559",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7374,7 +7374,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6478877059.mp3?updated=1682638998",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2730",
+      "itunes_duration": "2760",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7393,7 +7393,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7860564640.mp3?updated=1682435840",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3112",
+      "itunes_duration": "3142",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7413,7 +7413,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6922389275.mp3?updated=1682981146",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3595",
+      "itunes_duration": "3625",
       "speakers": [
         "JB Gill",
         "Rob Beckett",
@@ -7433,7 +7433,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8874084009.mp3?updated=1682981184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2639",
+      "itunes_duration": "2669",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7453,7 +7453,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9020509893.mp3?updated=1682981310",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3134",
+      "itunes_duration": "3164",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7473,7 +7473,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6312322961.mp3?updated=1682981335",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3210",
+      "itunes_duration": "3240",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7493,7 +7493,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5214250676.mp3?updated=1682981379",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3639",
+      "itunes_duration": "3669",
       "speakers": [
         "Fin Taylor",
         "Rob Beckett",
@@ -7513,7 +7513,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7316628042.mp3?updated=1682981363",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2844",
+      "itunes_duration": "2874",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7532,7 +7532,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4120051037.mp3?updated=1682981412",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3767",
+      "itunes_duration": "3797",
       "speakers": [
         "Rose Hanson Lou",
         "Rob Beckett",
@@ -7553,7 +7553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7128839273.mp3?updated=1682981436",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2991",
+      "itunes_duration": "3021",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7573,7 +7573,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6830637515.mp3?updated=1679090283",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3346",
+      "itunes_duration": "3376",
       "speakers": [
         "Alex Jones",
         "Rob Beckett",
@@ -7594,7 +7594,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6951967849.mp3?updated=1678745892",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3147",
+      "itunes_duration": "3177",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7613,7 +7613,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5890079872.mp3?updated=1682981506",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3412",
+      "itunes_duration": "3442",
       "speakers": [
         "Tom Daley",
         "Rob Beckett",
@@ -7633,7 +7633,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4694600283.mp3?updated=1678150482",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3365",
+      "itunes_duration": "3395",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7652,7 +7652,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2507879335.mp3?updated=1677849676",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3554",
+      "itunes_duration": "3584",
       "speakers": [
         "Sara Cox",
         "Rob Beckett",
@@ -7672,7 +7672,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1930010718.mp3?updated=1724131247",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2877",
+      "itunes_duration": "2907",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7694,7 +7694,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5126635402.mp3?updated=1724131266",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2941",
+      "itunes_duration": "2971",
       "speakers": [
         "Suzi Ruffell",
         "Rob Beckett",
@@ -7715,7 +7715,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8960655378.mp3?updated=1724131314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3082",
+      "itunes_duration": "3112",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7735,7 +7735,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9041734906.mp3?updated=1724240810",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2669",
+      "itunes_duration": "2699",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7755,7 +7755,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5319158614.mp3?updated=1724671779",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3012",
+      "itunes_duration": "3042",
       "speakers": [
         "Lou Beckett",
         "Valentine’s Day",
@@ -7778,7 +7778,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6902429251.mp3?updated=1724247408",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2954",
+      "itunes_duration": "2984",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7797,7 +7797,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6198456951.mp3?updated=1724247051",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3608",
+      "itunes_duration": "3638",
       "speakers": [
         "Billie Faiers",
         "Rob Beckett",
@@ -7818,7 +7818,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4399040419.mp3?updated=1724247301",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2970",
+      "itunes_duration": "3000",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7835,7 +7835,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1906325528.mp3?updated=1724247109",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4033",
+      "itunes_duration": "4063",
       "speakers": [
         "David Gandy",
         "Rob Beckett",
@@ -7856,7 +7856,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9651254055.mp3?updated=1724247161",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3044",
+      "itunes_duration": "3074",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7875,7 +7875,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6489012969.mp3?updated=1724247201",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3840",
+      "itunes_duration": "3870",
       "speakers": [
         "Alesha Dixon",
         "Rob Beckett",
@@ -7896,7 +7896,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5995031132.mp3?updated=1724247160",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3158",
+      "itunes_duration": "3188",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7915,7 +7915,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5432859226.mp3?updated=1724247174",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3084",
+      "itunes_duration": "3114",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7936,7 +7936,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6612870604.mp3?updated=1724247208",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3041",
+      "itunes_duration": "3071",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7955,7 +7955,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7133490277.mp3?updated=1682982071",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3071",
+      "itunes_duration": "3101",
       "speakers": [
         "Call Parenting Hell",
         "Happy New Year",
@@ -7978,7 +7978,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6147840447.mp3?updated=1733007188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2564",
+      "itunes_duration": "2594",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -7997,7 +7997,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8582418483.mp3?updated=1733007184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2970",
+      "itunes_duration": "3000",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8018,7 +8018,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7080293883.mp3?updated=1733007218",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3044",
+      "itunes_duration": "3074",
       "speakers": [
         "Seann Walsh",
         "Rob Beckett",
@@ -8039,7 +8039,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8048484033.mp3?updated=1724369568",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3333",
+      "itunes_duration": "3363",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8059,7 +8059,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2484335634.mp3?updated=1734680048",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3211",
+      "itunes_duration": "3241",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8080,7 +8080,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4658632743.mp3?updated=1734680075",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3473",
+      "itunes_duration": "3503",
       "speakers": [
         "Adrian Chiles Joining",
         "Rob Beckett",
@@ -8101,7 +8101,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6024198373.mp3?updated=1734680193",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3228",
+      "itunes_duration": "3258",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8118,7 +8118,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1784382316.mp3?updated=1736399175",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3651",
+      "itunes_duration": "3681",
       "speakers": [
         "Tom Parry",
         "Rob Beckett",
@@ -8139,7 +8139,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1426735141.mp3?updated=1736399062",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2905",
+      "itunes_duration": "2935",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8159,7 +8159,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3907091236.mp3?updated=1736399220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3733",
+      "itunes_duration": "3763",
       "speakers": [
         "Joe Wilkinson",
         "Rob Beckett",
@@ -8179,7 +8179,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5673941335.mp3?updated=1737886261",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2853",
+      "itunes_duration": "2883",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8198,7 +8198,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1545383727.mp3?updated=1737886306",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3620",
+      "itunes_duration": "3650",
       "speakers": [
         "Dan Schreiber",
         "Rob Beckett",
@@ -8218,7 +8218,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7619266030.mp3?updated=1737886280",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2785",
+      "itunes_duration": "2815",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8238,7 +8238,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6807012036.mp3?updated=1737886327",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3634",
+      "itunes_duration": "3664",
       "speakers": [
         "Giovanna Fletcher",
         "Rob Beckett",
@@ -8259,7 +8259,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8108143625.mp3?updated=1737886355",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2647",
+      "itunes_duration": "2677",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8279,7 +8279,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8916251752.mp3?updated=1737886377",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2791",
+      "itunes_duration": "2821",
       "speakers": [
         "Simon Gregson",
         "Rob Beckett",
@@ -8300,7 +8300,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3490134356.mp3?updated=1737886379",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2705",
+      "itunes_duration": "2735",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8319,7 +8319,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9697816093.mp3?updated=1737886405",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4289",
+      "itunes_duration": "4319",
       "speakers": [
         "Gary Neville",
         "Rob Beckett",
@@ -8340,7 +8340,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4566253102.mp3?updated=1737886371",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3231",
+      "itunes_duration": "3261",
       "speakers": [
         "Rachel Parris",
         "Rob Beckett",
@@ -8361,7 +8361,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6966141052.mp3?updated=1740759624",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4103",
+      "itunes_duration": "4133",
       "speakers": [
         "Fearne Cotton Joining",
         "Rob Beckett",
@@ -8382,7 +8382,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5286094850.mp3?updated=1737886474",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2589",
+      "itunes_duration": "2619",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8401,7 +8401,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9823967109.mp3?updated=1737886511",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3790",
+      "itunes_duration": "3820",
       "speakers": [
         "Denise Welch",
         "Rob Beckett",
@@ -8422,7 +8422,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1568516957.mp3?updated=1736400088",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2705",
+      "itunes_duration": "2735",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8441,7 +8441,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8510654387.mp3?updated=1736400054",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3656",
+      "itunes_duration": "3686",
       "speakers": [
         "Stacey Solomon Joining",
         "Rob Beckett",
@@ -8462,7 +8462,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1543488652.mp3?updated=1736400006",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2737",
+      "itunes_duration": "2767",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8482,7 +8482,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8709337449.mp3?updated=1740760099",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3811",
+      "itunes_duration": "3841",
       "speakers": [
         "Myleene Klass",
         "Rob Beckett",
@@ -8503,7 +8503,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7974354523.mp3?updated=1740762984",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3036",
+      "itunes_duration": "3066",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8523,7 +8523,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6456767401.mp3?updated=1740762983",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2707",
+      "itunes_duration": "2737",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8542,7 +8542,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5934290907.mp3?updated=1740763024",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3109",
+      "itunes_duration": "3139",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8563,7 +8563,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8447479689.mp3?updated=1740763544",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3107",
+      "itunes_duration": "3137",
       "speakers": [
         "Kelly Convey",
         "Rob Beckett",
@@ -8584,7 +8584,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7893877226.mp3?updated=1740763178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3156",
+      "itunes_duration": "3186",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8603,7 +8603,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2459414194.mp3?updated=1740763902",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4267",
+      "itunes_duration": "4297",
       "speakers": [
         "Nihal Arthanayake Joining",
         "Rob Beckett",
@@ -8624,7 +8624,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5921875328.mp3?updated=1740763663",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3259",
+      "itunes_duration": "3289",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8644,7 +8644,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4538758945.mp3?updated=1740763498",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2962",
+      "itunes_duration": "2992",
       "speakers": [
         "Brian Conley",
         "Rob Beckett",
@@ -8665,7 +8665,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1172069950.mp3?updated=1736399272",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3143",
+      "itunes_duration": "3173",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8684,7 +8684,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6532124187.mp3?updated=1736399278",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3543",
+      "itunes_duration": "3573",
       "speakers": [
         "Martin Lewis",
         "Rob Beckett",
@@ -8705,7 +8705,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2539779425.mp3?updated=1738049037",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2635",
+      "itunes_duration": "2665",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8726,7 +8726,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4400050720.mp3?updated=1738049204",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3938",
+      "itunes_duration": "3968",
       "speakers": [
         "Sara Pascoe Joining",
         "Rob Beckett",
@@ -8747,7 +8747,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2188768580.mp3?updated=1738049091",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3183",
+      "itunes_duration": "3213",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8764,7 +8764,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9265678184.mp3?updated=1738049098",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3180",
+      "itunes_duration": "3210",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8785,7 +8785,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7436015293.mp3?updated=1738049111",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3350",
+      "itunes_duration": "3380",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8804,7 +8804,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7386493973.mp3?updated=1738049126",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2522",
+      "itunes_duration": "2552",
       "speakers": [
         "Julian Deane",
         "Rob Beckett",
@@ -8825,7 +8825,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9077312016.mp3?updated=1738049872",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3515",
+      "itunes_duration": "3545",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8848,7 +8848,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8761378679.mp3?updated=1738049810",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2741",
+      "itunes_duration": "2771",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -8870,7 +8870,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3811653793.mp3?updated=1738877581",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2969",
+      "itunes_duration": "2999",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8890,7 +8890,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8846828178.mp3?updated=1738877685",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3341",
+      "itunes_duration": "3371",
       "speakers": [
         "Ibiza Stag-Do Special",
         "Rob Beckett",
@@ -8913,7 +8913,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3761231457.mp3?updated=1738877609",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3174",
+      "itunes_duration": "3204",
       "speakers": [
         "Josh Pugh",
         "Rob Beckett",
@@ -8934,7 +8934,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2156799298.mp3?updated=1738877616",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3153",
+      "itunes_duration": "3183",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8951,7 +8951,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6389283535.mp3?updated=1738877628",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3442",
+      "itunes_duration": "3472",
       "speakers": [
         "David Earl",
         "Rob Beckett",
@@ -8972,7 +8972,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2000213984.mp3?updated=1738880571",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3222",
+      "itunes_duration": "3252",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -8989,7 +8989,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5967161801.mp3?updated=1738880580",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3587",
+      "itunes_duration": "3617",
       "speakers": [
         "Katherine Ryan",
         "Rob Beckett",
@@ -9011,7 +9011,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4460409855.mp3?updated=1738880553",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2853",
+      "itunes_duration": "2883",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9030,7 +9030,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4132261933.mp3?updated=1738880576",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3517",
+      "itunes_duration": "3547",
       "speakers": [
         "Rich Wilson",
         "Rob Beckett",
@@ -9051,7 +9051,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2388727455.mp3?updated=1738880560",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3279",
+      "itunes_duration": "3309",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9071,7 +9071,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1536675005.mp3?updated=1739652235",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3726",
+      "itunes_duration": "3756",
       "speakers": [
         "Benn Joining",
         "Rob Beckett",
@@ -9092,7 +9092,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6329588666.mp3?updated=1739652169",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2693",
+      "itunes_duration": "2723",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9113,7 +9113,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4526838752.mp3?updated=1739652210",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3025",
+      "itunes_duration": "3055",
       "speakers": [
         "Esther Manito",
         "Rob Beckett",
@@ -9134,7 +9134,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2447192036.mp3?updated=1739652199",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2885",
+      "itunes_duration": "2915",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9153,7 +9153,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1535538426.mp3?updated=1739652259",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3569",
+      "itunes_duration": "3599",
       "speakers": [
         "Hanson Joining",
         "Rob Beckett",
@@ -9173,7 +9173,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6878300029.mp3?updated=1739652137",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2577",
+      "itunes_duration": "2607",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9197,7 +9197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5780192860.mp3?updated=1739652265",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3390",
+      "itunes_duration": "3420",
       "speakers": [
         "James Bay",
         "Rob Beckett",
@@ -9217,7 +9217,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8816618952.mp3?updated=1739656206",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3260",
+      "itunes_duration": "3290",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9236,7 +9236,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4799577193.mp3?updated=1739656184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3905",
+      "itunes_duration": "3935",
       "speakers": [
         "Tom Craine",
         "Rob Beckett",
@@ -9256,7 +9256,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7000928156.mp3?updated=1739656183",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2866",
+      "itunes_duration": "2896",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9276,7 +9276,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5017137219.mp3?updated=1739838769",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3086",
+      "itunes_duration": "3116",
       "speakers": [
         "Mickey Mouse",
         "Rob Beckett",
@@ -9300,7 +9300,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7349538912.mp3?updated=1739838702",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3135",
+      "itunes_duration": "3165",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9321,7 +9321,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7905734899.mp3?updated=1739838791",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2678",
+      "itunes_duration": "2708",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -9343,7 +9343,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3423783583.mp3?updated=1739838839",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3019",
+      "itunes_duration": "3049",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -9365,7 +9365,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3192834574.mp3?updated=1739838879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3431",
+      "itunes_duration": "3461",
       "speakers": [
         "Kate Ferdinand",
         "Rob Beckett",
@@ -9386,7 +9386,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8326436712.mp3?updated=1739652258",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3349",
+      "itunes_duration": "3379",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9405,7 +9405,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8120046345.mp3?updated=1739652269",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3794",
+      "itunes_duration": "3824",
       "speakers": [
         "Bill Bailey",
         "Rob Beckett",
@@ -9426,7 +9426,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1516772024.mp3?updated=1739652269",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2656",
+      "itunes_duration": "2686",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9447,7 +9447,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9923613350.mp3?updated=1740763133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3068",
+      "itunes_duration": "3098",
       "speakers": [
         "Ben Mee",
         "Rob Beckett",
@@ -9465,7 +9465,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5761302285.mp3?updated=1740763112",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3058",
+      "itunes_duration": "3088",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9485,7 +9485,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3153318788.mp3?updated=1739838922",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3670",
+      "itunes_duration": "3700",
       "speakers": [
         "Kate Lawler",
         "Rob Beckett",
@@ -9506,7 +9506,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6495912817.mp3?updated=1739838799",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2817",
+      "itunes_duration": "2847",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9523,7 +9523,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9980197494.mp3?updated=1740562176",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3591",
+      "itunes_duration": "3621",
       "speakers": [
         "Joe Wicks",
         "Rob Beckett",
@@ -9543,7 +9543,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3574879179.mp3?updated=1740562137",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2530",
+      "itunes_duration": "2560",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9560,7 +9560,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2895177729.mp3?updated=1740562215",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3828",
+      "itunes_duration": "3858",
       "speakers": [
         "Tom Davis",
         "Rob Beckett",
@@ -9580,7 +9580,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7183236708.mp3?updated=1740562188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3155",
+      "itunes_duration": "3185",
       "speakers": [
         "Rob Helps Out",
         "Rob Beckett",
@@ -9601,7 +9601,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8158121445.mp3?updated=1740562224",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3690",
+      "itunes_duration": "3720",
       "speakers": [
         "Jenas Joining",
         "Rob Beckett",
@@ -9622,7 +9622,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8192034458.mp3?updated=1740700183",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3223",
+      "itunes_duration": "3253",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9641,7 +9641,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1268479579.mp3?updated=1740700215",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3635",
+      "itunes_duration": "3665",
       "speakers": [
         "Harriet Kemsley Joining",
         "Rob Beckett",
@@ -9662,7 +9662,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8059389894.mp3?updated=1740700250",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2918",
+      "itunes_duration": "2948",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9682,7 +9682,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3672815196.mp3?updated=1740700273",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4447",
+      "itunes_duration": "4477",
       "speakers": [
         "Adam Buxton",
         "Rob Beckett",
@@ -9703,7 +9703,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4905938640.mp3?updated=1740700253",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2673",
+      "itunes_duration": "2703",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9722,7 +9722,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3633289156.mp3?updated=1740700380",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4210",
+      "itunes_duration": "4240",
       "speakers": [
         "Adam Hills",
         "Rob Beckett",
@@ -9743,7 +9743,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7636887443.mp3?updated=1740700268",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3170",
+      "itunes_duration": "3200",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9764,7 +9764,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6195332286.mp3?updated=1740700257",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2935",
+      "itunes_duration": "2965",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9783,7 +9783,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7584273910.mp3?updated=1740700391",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3001",
+      "itunes_duration": "3031",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9802,7 +9802,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2332648110.mp3?updated=1740700624",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3672",
+      "itunes_duration": "3702",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9822,7 +9822,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5156955010.mp3?updated=1743137525",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2607",
+      "itunes_duration": "2637",
       "speakers": [
         "Call Parenting Hell",
         "Rob Beckett",
@@ -9844,7 +9844,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5024989667.mp3?updated=1743137570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3466",
+      "itunes_duration": "3496",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9863,7 +9863,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5192791277.mp3?updated=1743137479",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1536",
+      "itunes_duration": "1566",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9883,7 +9883,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6090138188.mp3?updated=1743137587",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3115",
+      "itunes_duration": "3145",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9903,7 +9903,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3530528541.mp3?updated=1743137531",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3679",
+      "itunes_duration": "3709",
       "speakers": [
         "Martine McCutcheon",
         "Rob Beckett",
@@ -9924,7 +9924,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5696119662.mp3?updated=1767056059",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2862",
+      "itunes_duration": "2892",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9944,7 +9944,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1296000860.mp3?updated=1743137634",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3511",
+      "itunes_duration": "3541",
       "speakers": [
         "Ugo Monye",
         "Rob Beckett",
@@ -9964,7 +9964,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1451963408.mp3?updated=1743489382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2627",
+      "itunes_duration": "2657",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -9984,7 +9984,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4779650781.mp3?updated=1743489407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4515",
+      "itunes_duration": "4545",
       "speakers": [
         "Louis Theroux",
         "Rob Beckett",
@@ -10005,7 +10005,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7952265130.mp3?updated=1743721271",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3116",
+      "itunes_duration": "3146",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10022,7 +10022,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3223674897.mp3?updated=1743721385",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3462",
+      "itunes_duration": "3492",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10042,7 +10042,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1617363370.mp3?updated=1743721304",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3482",
+      "itunes_duration": "3512",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10061,7 +10061,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5505730283.mp3?updated=1743941538",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4355",
+      "itunes_duration": "4385",
       "speakers": [
         "Paris Fury",
         "Paris Fury Joining",
@@ -10083,7 +10083,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8774755524.mp3?updated=1743941368",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2778",
+      "itunes_duration": "2808",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10102,7 +10102,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7788919227.mp3?updated=1743941489",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3414",
+      "itunes_duration": "3444",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10123,7 +10123,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9992680145.mp3?updated=1743941404",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2884",
+      "itunes_duration": "2914",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10142,7 +10142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9883978442.mp3?updated=1743941512",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3409",
+      "itunes_duration": "3439",
       "speakers": [
         "Harry Hill",
         "Rob Beckett",
@@ -10163,7 +10163,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5232535359.mp3?updated=1767056102",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2929",
+      "itunes_duration": "2959",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10182,7 +10182,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5987900178.mp3?updated=1767056191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3494",
+      "itunes_duration": "3524",
       "speakers": [
         "Jimmy Carr",
         "Rob Beckett",
@@ -10203,7 +10203,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8378719583.mp3?updated=1767056144",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2907",
+      "itunes_duration": "2937",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10222,7 +10222,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2516000329.mp3?updated=1767056186",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3925",
+      "itunes_duration": "3955",
       "speakers": [
         "Jessie Ware",
         "Rob Beckett",
@@ -10242,7 +10242,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5860456033.mp3?updated=1767056064",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2892",
+      "itunes_duration": "2922",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10262,7 +10262,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1354123422.mp3?updated=1743721983",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3702",
+      "itunes_duration": "3732",
       "speakers": [
         "Michael McIntyre",
         "Rob Beckett",
@@ -10283,7 +10283,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7608254418.mp3?updated=1743721928",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3031",
+      "itunes_duration": "3061",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10302,7 +10302,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8059439730.mp3?updated=1767056152",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3024",
+      "itunes_duration": "3054",
       "speakers": [
         "Charlotte Church",
         "Charlotte Church Joining",
@@ -10324,7 +10324,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3559734627.mp3?updated=1744669069",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2700",
+      "itunes_duration": "2730",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10343,7 +10343,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6989758383.mp3?updated=1740854990",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3389",
+      "itunes_duration": "3419",
       "speakers": [
         "Lucy Beaumont",
         "Rob Beckett",
@@ -10365,7 +10365,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2991609638.mp3?updated=1740854926",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3062",
+      "itunes_duration": "3092",
       "speakers": [
         "Viva La",
         "Viva La Bath",
@@ -10390,7 +10390,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4373327123.mp3?updated=1740854908",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2923",
+      "itunes_duration": "2953",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10410,7 +10410,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3493724344.mp3?updated=1740854897",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3051",
+      "itunes_duration": "3081",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10429,7 +10429,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3896695922.mp3?updated=1740854839",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3448",
+      "itunes_duration": "3478",
       "speakers": [
         "Stephen Mangan",
         "Rob Beckett",
@@ -10450,7 +10450,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2474398775.mp3?updated=1740435708",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3292",
+      "itunes_duration": "3322",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10469,7 +10469,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8826449471.mp3?updated=1740854891",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2900",
+      "itunes_duration": "2930",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10489,7 +10489,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6364611977.mp3?updated=1740854095",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2775",
+      "itunes_duration": "2805",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10508,7 +10508,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9887400610.mp3?updated=1704787257",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4415",
+      "itunes_duration": "4445",
       "speakers": [
         "Josh Widdicombe'S",
         "Geoff Norcott",
@@ -10530,7 +10530,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2610539313.mp3?updated=1739839108",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3083",
+      "itunes_duration": "3113",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10551,7 +10551,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2642838414.mp3?updated=1739839079",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3600",
+      "itunes_duration": "3630",
       "speakers": [
         "Frankie Bridge",
         "Rob Beckett",
@@ -10572,7 +10572,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8845667910.mp3?updated=1739839061",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2801",
+      "itunes_duration": "2831",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10592,7 +10592,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9193211857.mp3?updated=1739839236",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4206",
+      "itunes_duration": "4236",
       "speakers": [
         "Chris McCausland",
         "Rob Beckett",
@@ -10613,7 +10613,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7877696083.mp3?updated=1739839147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2914",
+      "itunes_duration": "2944",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10632,7 +10632,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1744457633.mp3?updated=1740435708",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4340",
+      "itunes_duration": "4370",
       "speakers": [
         "Pat Sharp",
         "Rob Beckett",
@@ -10652,7 +10652,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6519528284.mp3?updated=1740435513",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2954",
+      "itunes_duration": "2984",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10673,7 +10673,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6854744768.mp3?updated=1740435616",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3325",
+      "itunes_duration": "3355",
       "speakers": [
         "Babatundé Aléshé",
         "Rob Beckett",
@@ -10691,7 +10691,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2090750776.mp3?updated=1740435599",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3317",
+      "itunes_duration": "3347",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10713,7 +10713,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5349060845.mp3?updated=1740435599",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4130",
+      "itunes_duration": "4160",
       "speakers": [
         "Isy Suttie",
         "Rob Beckett",
@@ -10734,7 +10734,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7380906013.mp3?updated=1740435534",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3253",
+      "itunes_duration": "3283",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10753,7 +10753,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6973890079.mp3?updated=1740435487",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3395",
+      "itunes_duration": "3425",
       "speakers": [
         "Ellie Taylor",
         "Rob Beckett",
@@ -10775,7 +10775,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7022178341.mp3?updated=1740435470",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3160",
+      "itunes_duration": "3190",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10795,7 +10795,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3700977649.mp3?updated=1740435635",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4101",
+      "itunes_duration": "4131",
       "speakers": [
         "Mike Wozniak",
         "Rob Beckett",
@@ -10816,7 +10816,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5305557557.mp3?updated=1740433322",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2932",
+      "itunes_duration": "2962",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10836,7 +10836,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4552630811.mp3?updated=1740433371",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2966",
+      "itunes_duration": "2996",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10855,7 +10855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4529971188.mp3?updated=1740433420",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3493",
+      "itunes_duration": "3523",
       "speakers": [
         "Paul McCaffrey",
         "Rob Beckett",
@@ -10876,7 +10876,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3362961127.mp3?updated=1740433276",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2947",
+      "itunes_duration": "2977",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10896,7 +10896,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9940731128.mp3?updated=1740433469",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4486",
+      "itunes_duration": "4516",
       "speakers": [
         "Helen Russell",
         "Rob Beckett",
@@ -10917,7 +10917,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1182112833.mp3?updated=1740433381",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3193",
+      "itunes_duration": "3223",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10936,7 +10936,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3769215741.mp3?updated=1740433432",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4457",
+      "itunes_duration": "4487",
       "speakers": [
         "Abbey Clancy",
         "Abbey Clancy Joining",
@@ -10958,7 +10958,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3637372027.mp3?updated=1740433334",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3439",
+      "itunes_duration": "3469",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -10977,7 +10977,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8142386655.mp3?updated=1740433211",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3813",
+      "itunes_duration": "3843",
       "speakers": [
         "Iain Stirling",
         "Iain Stirling Joining",
@@ -10999,7 +10999,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8026095406.mp3?updated=1739930248",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3046",
+      "itunes_duration": "3076",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11018,7 +11018,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7012333137.mp3?updated=1739930333",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3564",
+      "itunes_duration": "3594",
       "speakers": [
         "Sam Quek",
         "Rob Beckett",
@@ -11038,7 +11038,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3623238273.mp3?updated=1767056075",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2896",
+      "itunes_duration": "2926",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11058,7 +11058,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6650896114.mp3?updated=1739930202",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4124",
+      "itunes_duration": "4154",
       "speakers": [
         "Tony Bellew",
         "Rob Beckett",
@@ -11079,7 +11079,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8139530194.mp3?updated=1739929925",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3712",
+      "itunes_duration": "3742",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11099,7 +11099,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8207740194.mp3?updated=1739929951",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4189",
+      "itunes_duration": "4219",
       "speakers": [
         "Elis James",
         "Rob Beckett",
@@ -11121,7 +11121,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5492147087.mp3?updated=1739929777",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3133",
+      "itunes_duration": "3163",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11141,7 +11141,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7214666617.mp3?updated=1739929876",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3519",
+      "itunes_duration": "3549",
       "speakers": [
         "Charlie Baker",
         "Rob Beckett",
@@ -11162,7 +11162,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4461918073.mp3?updated=1739929731",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2978",
+      "itunes_duration": "3008",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11182,7 +11182,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8305131537.mp3?updated=1739839047",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3721",
+      "itunes_duration": "3751",
       "speakers": [
         "Fay Ripley Joining",
         "Rob Beckett",
@@ -11202,7 +11202,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5058407016.mp3?updated=1739839036",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2834",
+      "itunes_duration": "2864",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11221,7 +11221,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7012023337.mp3?updated=1739839103",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3821",
+      "itunes_duration": "3851",
       "speakers": [
         "Jessica Knappett",
         "Rob Beckett",
@@ -11242,7 +11242,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3619725570.mp3?updated=1739839043",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3067",
+      "itunes_duration": "3097",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11261,7 +11261,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3755591314.mp3?updated=1739839082",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3522",
+      "itunes_duration": "3552",
       "speakers": [
         "Jarred Christmas",
         "Jarred Christmas Joining",
@@ -11283,7 +11283,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7766229610.mp3?updated=1738880632",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2790",
+      "itunes_duration": "2820",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11303,7 +11303,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6260101714.mp3?updated=1738880636",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3014",
+      "itunes_duration": "3044",
       "speakers": [
         "Tom Parry Rob",
         "Tom Parry",
@@ -11324,7 +11324,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4727736631.mp3?updated=1738880656",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3432",
+      "itunes_duration": "3462",
       "speakers": [
         "Banter Juice",
         "Banter Juice More",
@@ -11346,7 +11346,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5826746563.mp3?updated=1738835309",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4403",
+      "itunes_duration": "4433",
       "speakers": [
         "Josh Widdicombe'S",
         "Nadiya Hussain",
@@ -11368,7 +11368,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3984819838.mp3?updated=1738835220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2703",
+      "itunes_duration": "2733",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11389,7 +11389,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4716445875.mp3?updated=1738835283",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4221",
+      "itunes_duration": "4251",
       "speakers": [
         "Gabby Logan",
         "Rob Beckett",
@@ -11410,7 +11410,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2842598351.mp3?updated=1738835268",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2665",
+      "itunes_duration": "2695",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11431,7 +11431,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3122305509.mp3?updated=1738835255",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4046",
+      "itunes_duration": "4076",
       "speakers": [
         "Joe Swash",
         "Rob Beckett",
@@ -11451,7 +11451,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9373353906.mp3?updated=1738835259",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2925",
+      "itunes_duration": "2955",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11470,7 +11470,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4774508948.mp3?updated=1738872503",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3293",
+      "itunes_duration": "3323",
       "speakers": [
         "Sean Lock",
         "Rob Beckett",
@@ -11491,7 +11491,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4469661809.mp3?updated=1738835193",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2612",
+      "itunes_duration": "2642",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11511,7 +11511,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7905222805.mp3?updated=1738835182",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3633",
+      "itunes_duration": "3663",
       "speakers": [
         "Josh Widdicombe'S",
         "Jamelia Joining",
@@ -11532,7 +11532,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7235994929.mp3?updated=1738835165",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2699",
+      "itunes_duration": "2729",
       "speakers": [
         "Wheelie Bin-gate",
         "Rob Beckett",
@@ -11553,7 +11553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5291712420.mp3?updated=1738242096",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3186",
+      "itunes_duration": "3216",
       "speakers": [
         "Paloma Faith",
         "Paloma Faith Joining",
@@ -11575,7 +11575,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6623861943.mp3?updated=1738242045",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2268",
+      "itunes_duration": "2298",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11595,7 +11595,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2331222030.mp3?updated=1738242233",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4288",
+      "itunes_duration": "4318",
       "speakers": [
         "Michael Sheen",
         "Rob Beckett",
@@ -11616,7 +11616,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8531924467.mp3?updated=1738241957",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2624",
+      "itunes_duration": "2654",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11635,7 +11635,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6136632441.mp3?updated=1738241989",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3412",
+      "itunes_duration": "3442",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11655,7 +11655,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4647691374.mp3?updated=1767056217",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3003",
+      "itunes_duration": "3033",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11674,7 +11674,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3808593215.mp3?updated=1753931608",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2724",
+      "itunes_duration": "2754",
       "speakers": [
         "Stiffy McGee",
         "Rob Beckett",
@@ -11696,7 +11696,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9897737037.mp3?updated=1738241895",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2237",
+      "itunes_duration": "2267",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11717,7 +11717,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8652277201.mp3?updated=1738052368",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2338",
+      "itunes_duration": "2368",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11737,7 +11737,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3087795349.mp3?updated=1738052370",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2489",
+      "itunes_duration": "2519",
       "speakers": [
         "Andy Day",
         "Rob Beckett",
@@ -11758,7 +11758,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8992473702.mp3?updated=1738052552",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4555",
+      "itunes_duration": "4585",
       "speakers": [
         "Philippa Perry Rob",
         "Philippa Perry",
@@ -11780,7 +11780,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6618451544.mp3?updated=1738052353",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2633",
+      "itunes_duration": "2663",
       "speakers": [
         "wet hair",
         "Rob Beckett",
@@ -11800,7 +11800,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9097484157.mp3?updated=1738050101",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4009",
+      "itunes_duration": "4039",
       "speakers": [
         "Field Williams",
         "Rob Beckett",
@@ -11823,7 +11823,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2914608572.mp3?updated=1738049995",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2430",
+      "itunes_duration": "2460",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11842,7 +11842,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5497366143.mp3?updated=1738049951",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3228",
+      "itunes_duration": "3258",
       "speakers": [
         "Sindhu Vee",
         "Rob Beckett",
@@ -11862,7 +11862,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6616447784.mp3?updated=1738049924",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2959",
+      "itunes_duration": "2989",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11881,7 +11881,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8191835774.mp3?updated=1738050014",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3430",
+      "itunes_duration": "3460",
       "speakers": [
         "David Baddiel Rob",
         "David Baddiel Joining",
@@ -11903,7 +11903,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7322570746.mp3?updated=1737335167",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2370",
+      "itunes_duration": "2400",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11922,7 +11922,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5408519813.mp3?updated=1737335231",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3330",
+      "itunes_duration": "3360",
       "speakers": [
         "Tom Allen",
         "Rob Beckett",
@@ -11942,7 +11942,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6590391115.mp3?updated=1737335094",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2347",
+      "itunes_duration": "2377",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -11962,7 +11962,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5267022573.mp3?updated=1737335121",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2332",
+      "itunes_duration": "2362",
       "speakers": [
         "Burj Khalifa",
         "Burj Khalifa More",
@@ -11984,7 +11984,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9075862652.mp3?updated=1737335112",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3366",
+      "itunes_duration": "3396",
       "speakers": [
         "Josh Widdicombe'S",
         "Konnie Huq",
@@ -12005,7 +12005,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6421132406.mp3?updated=1737334451",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2244",
+      "itunes_duration": "2274",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12025,7 +12025,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4874194777.mp3?updated=1737334609",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4341",
+      "itunes_duration": "4371",
       "speakers": [
         "Josh Widdicombe'S",
         "Carl Donnelly",
@@ -12047,7 +12047,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4123794215.mp3?updated=1737334382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2439",
+      "itunes_duration": "2469",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12067,7 +12067,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6267908764.mp3?updated=1737334463",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3850",
+      "itunes_duration": "3880",
       "speakers": [
         "Mark Watson",
         "Rob Beckett",
@@ -12088,7 +12088,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1938572579.mp3?updated=1737334353",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2189",
+      "itunes_duration": "2219",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12108,7 +12108,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8163815154.mp3?updated=1737092752",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3059",
+      "itunes_duration": "3089",
       "speakers": [
         "Eddie Hearn",
         "Rob Beckett",
@@ -12129,7 +12129,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2398608748.mp3?updated=1737092697",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2285",
+      "itunes_duration": "2315",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12149,7 +12149,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7033622285.mp3?updated=1737092778",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4095",
+      "itunes_duration": "4125",
       "speakers": [
         "Gaby Roslin",
         "Rob Beckett",
@@ -12170,7 +12170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9449031307.mp3?updated=1737092703",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2608",
+      "itunes_duration": "2638",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12191,7 +12191,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2453959868.mp3?updated=1737092741",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3581",
+      "itunes_duration": "3611",
       "speakers": [
         "Doc Brown",
         "Ben Baily Smith",
@@ -12212,7 +12212,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7523746343.mp3?updated=1737092689",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2515",
+      "itunes_duration": "2545",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12231,7 +12231,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4050702045.mp3?updated=1737092745",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3290",
+      "itunes_duration": "3320",
       "speakers": [
         "Porter Joining",
         "Rob Beckett",
@@ -12252,7 +12252,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7444996228.mp3?updated=1737092601",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2253",
+      "itunes_duration": "2283",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12269,7 +12269,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9434236939.mp3?updated=1737092655",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3503",
+      "itunes_duration": "3533",
       "speakers": [
         "Peter Crouch",
         "Rob Beckett",
@@ -12290,7 +12290,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1030084634.mp3?updated=1737092640",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2283",
+      "itunes_duration": "2313",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12311,7 +12311,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6015842901.mp3?updated=1737082671",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3584",
+      "itunes_duration": "3614",
       "speakers": [
         "Matthew Crosby",
         "Rob Beckett",
@@ -12332,7 +12332,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9493252213.mp3?updated=1737082577",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2236",
+      "itunes_duration": "2266",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12353,7 +12353,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3533852395.mp3?updated=1737334454",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3253",
+      "itunes_duration": "3283",
       "speakers": [
         "Josh Widdicombe'S",
         "Rob Beckett",
@@ -12373,7 +12373,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5124148257.mp3?updated=1737082583",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2711",
+      "itunes_duration": "2741",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12394,7 +12394,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7504759855.mp3?updated=1737082613",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3437",
+      "itunes_duration": "3467",
       "speakers": [
         "Jo Brand",
         "Rob Beckett",
@@ -12414,7 +12414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7076181246.mp3?updated=1737080047",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2220",
+      "itunes_duration": "2250",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12434,7 +12434,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2532176862.mp3?updated=1737080033",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3160",
+      "itunes_duration": "3190",
       "speakers": [
         "Chris Stark",
         "Rob Beckett",
@@ -12455,7 +12455,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3219831977.mp3?updated=1737079974",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2123",
+      "itunes_duration": "2153",
       "speakers": [
         "Aled Jones",
         "Rob Beckett",
@@ -12477,7 +12477,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2052424471.mp3?updated=1737080111",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3474",
+      "itunes_duration": "3504",
       "speakers": [
         "Josh Widdicombe'S",
         "Elis James",
@@ -12499,7 +12499,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3937872939.mp3?updated=1737079979",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2288",
+      "itunes_duration": "2318",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12518,7 +12518,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7345729163.mp3?updated=1737079504",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3675",
+      "itunes_duration": "3705",
       "speakers": [
         "Jen Brister",
         "Jen Brister Joining",
@@ -12539,7 +12539,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1473911949.mp3?updated=1737079430",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2363",
+      "itunes_duration": "2393",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12558,7 +12558,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6059073282.mp3?updated=1737079568",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3572",
+      "itunes_duration": "3602",
       "speakers": [
         "Josh Widdicombe'S",
         "Rob Beckett",
@@ -12579,7 +12579,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7529222764.mp3?updated=1737079443",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2900",
+      "itunes_duration": "2930",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12599,7 +12599,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3262102076.mp3?updated=1737078166",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2291",
+      "itunes_duration": "2321",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12619,7 +12619,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7694658210.mp3?updated=1737078143",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3114",
+      "itunes_duration": "3144",
       "speakers": [
         "Judi Love",
         "Judi Love Joining",
@@ -12641,7 +12641,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2429076498.mp3?updated=1737078098",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2306",
+      "itunes_duration": "2336",
       "speakers": [
         "Josh Widdicombe'S",
         "Rob Beckett",
@@ -12662,7 +12662,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6473767688.mp3?updated=1737078085",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2252",
+      "itunes_duration": "2282",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12681,7 +12681,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6538285518.mp3?updated=1767056157",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3117",
+      "itunes_duration": "3147",
       "speakers": [
         "Russell Kane",
         "Rob Beckett",
@@ -12702,7 +12702,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9811027264.mp3?updated=1767056117",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1979",
+      "itunes_duration": "2009",
       "speakers": [
         "Heat Wave",
         "Heat Wave Enjoy",
@@ -12725,7 +12725,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3558950858.mp3?updated=1767056161",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2959",
+      "itunes_duration": "2989",
       "speakers": [
         "Chris Ramsey Rob",
         "Chris Ramsey",
@@ -12747,7 +12747,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8139165743.mp3?updated=1767056100",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1761",
+      "itunes_duration": "1791",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12767,7 +12767,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8617778580.mp3?updated=1767056138",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2497",
+      "itunes_duration": "2527",
       "speakers": [
         "Lorraine Kelly",
         "Lorraine KellyJoining",
@@ -12789,7 +12789,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3486405487.mp3?updated=1737077831",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1878",
+      "itunes_duration": "1908",
       "speakers": [
         "Correspondence Special",
         "Rob Beckett",
@@ -12810,7 +12810,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8681893222.mp3?updated=1753936217",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2564",
+      "itunes_duration": "2594",
       "speakers": [
         "Alex Brooker",
         "Rob Beckett",
@@ -12831,7 +12831,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8443330184.mp3?updated=1753936237",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2365",
+      "itunes_duration": "2395",
       "speakers": [
         "Shappi Khorsandi",
         "Rob Beckett",
@@ -12852,7 +12852,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5213591535.mp3?updated=1753936435",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2740",
+      "itunes_duration": "2770",
       "speakers": [
         "Daisy May Cooper Joining",
         "Rob Beckett",
@@ -12873,7 +12873,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3776184076.mp3?updated=1753936410",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2290",
+      "itunes_duration": "2320",
       "speakers": [
         "Alison Hammond",
         "Rob Beckett",
@@ -12894,7 +12894,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4740343630.mp3?updated=1767056063",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2811",
+      "itunes_duration": "2841",
       "speakers": [
         "Jack Dee Joining",
         "Rob Beckett",
@@ -12914,7 +12914,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6149661398.mp3?updated=1757618470",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3441",
+      "itunes_duration": "3471",
       "speakers": [
         "Isy Suttie Joining",
         "Rob Beckett",
@@ -12934,7 +12934,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5988530969.mp3?updated=1767056147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2403",
+      "itunes_duration": "2433",
       "speakers": [
         "Alan Davies",
         "Rob Beckett",
@@ -12955,7 +12955,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5947946357.mp3?updated=1778338133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2748",
+      "itunes_duration": "2733",
       "speakers": [
         "Alex Horne",
         "Rob Beckett",
@@ -12976,7 +12976,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5932358044.mp3?updated=1778338034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2802",
+      "itunes_duration": "2787",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12996,7 +12996,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8280275346.mp3?updated=1778338037",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2402",
+      "itunes_duration": "2387",
       "speakers": [
         "Jason Manford",
         "Rob Beckett",
@@ -13017,7 +13017,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7727312883.mp3?updated=1778337894",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2716",
+      "itunes_duration": "2701",
       "speakers": [
         "Kerry Godliman",
         "Rob Beckett",
@@ -13038,7 +13038,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3923749202.mp3?updated=1778337837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2523",
+      "itunes_duration": "2508",
       "speakers": [
         "Jonathan Ross",
         "Rob Beckett",
@@ -13059,7 +13059,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7178658612.mp3?updated=1778337874",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2336",
+      "itunes_duration": "2321",
       "speakers": [
         "Lucy Beaumont",
         "Rob Beckett",
@@ -13080,7 +13080,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7538330806.mp3?updated=1777611249",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2584",
+      "itunes_duration": "2569",
       "speakers": [
         "Jon Richardson",
         "Rob Beckett",
@@ -13100,7 +13100,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7400959682.mp3?updated=1777609593",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2649",
+      "itunes_duration": "2634",
       "speakers": [
         "Katherine Ryan",
         "Rob Beckett",
@@ -13121,7 +13121,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9220589338.mp3?updated=1660335997",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "209",
+      "itunes_duration": "239",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe",

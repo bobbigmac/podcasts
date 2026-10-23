@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-10-16T21:06:48+00:00`
-- checked_at: `2026-10-16T21:06:48+00:00`
-- etag: `"5ff34454f94477ac1d5805539868106a"`
-- last_modified: `Fri, 16 Oct 2026 18:00:03 GMT`
+- fetched_at: `2026-10-23T21:23:32+00:00`
+- checked_at: `2026-10-23T21:23:32+00:00`
+- etag: `"883e766a369dbd9122ece740c7cd9545"`
+- last_modified: `Fri, 23 Oct 2026 18:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-10-16T21:06:48+00:00",
+  "fetched_at": "2026-10-23T21:23:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "f1bfaa67d35bf9bea78423e4c1580452638ba0bc",
+      "title": "The News Quiz: Ep7. Team Calm vs Team Panic",
+      "published_at": "2026-10-23T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ph202z",
+      "description": "How did Zelensky’s visit to Downing Street go? What exactly is Starlink? And which tiny creatures are making a comeback? The panel is Lucy Porter, Stephen Bush, John Tothill and Sara Barron. Written by Andy Zaltzman. With additional material by JoJo Maberley, Mike Shephard and Peter Tellouche. Producer: Georgia Keating Executive Producer: Richard Morris Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ph3yx4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26960000",
+      "itunes_duration": "1685",
+      "speakers": [
+        "Panic How"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "team",
+        "calm",
+        "panic"
+      ]
+    },
     {
       "key": "0022094c641eb1b78a085184c27478b636264063",
       "title": "The News Quiz: Ep6. The Iron Dome",
@@ -5469,26 +5491,6 @@
         "jess",
         "robinson"
       ]
-    },
-    {
-      "key": "947600774212a7dd89f3083e849ea9155b33fc1a",
-      "title": "News Quiz 22nd October 2021",
-      "published_at": "2021-10-22T18:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09zs1gs",
-      "description": "In the last of the current series, Andy Zaltzman and the panel take on the week's headlines. Ayesha Hazarika, Matt Winning, Geoff Norcott and Elis James join Andy in 'convivial, fraternal spirit' to look take a close look at COP26, and whether Brian Cox is right about earth's extinction leaving the galaxy bereft of meaning. They also discuss Southend's newly-minted city status, online anonymity and Sajid Javid's winter plan. The chair's script is written by Andy Zaltzman, with additional material by Alice Fraser, Mike Shephard, Hannah Platt and Rajiv Karia. Producer: Gwyn Rhys Davies Production Co-ordinator: Katie Baum Sound Editor: Marc Willcox A BBC Studios Production.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09zs01z.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26640000",
-      "itunes_duration": "1665",
-      "speakers": [
-        "Andy Zaltzman"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "october"
-      ]
     }
   ]
 }
@@ -5497,6 +5499,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — The News Quiz: Ep7. Team Calm vs Team Panic — speakers: Panic How
 - 2026-10-16 — The News Quiz: Ep6. The Iron Dome — speakers: Iron Dome, Britannia Shield
 - 2026-10-09 — The News Quiz: Ep5. 'Manchester Sausage' — speakers: Manchester Sausage, Andy Burnham
 - 2026-10-02 — The News Quiz: Ep4. 'Demonstrable lies' — speakers: Ed Davey
@@ -5756,4 +5759,3 @@
 - 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt
 - 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt
 - 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt
-- 2021-10-22 — News Quiz 22nd October 2021 — speakers: Andy Zaltzman
