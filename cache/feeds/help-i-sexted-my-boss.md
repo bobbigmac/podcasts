@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-20T08:30:33+00:00`
-- checked_at: `2026-10-20T08:30:33+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RJME56STBNems0TURrPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-23T11:36:50+00:00`
+- checked_at: `2026-10-23T11:36:50+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RJM05UTTJNREU1T1RBPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-20T08:30:33+00:00",
+  "fetched_at": "2026-10-23T11:36:50+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "deac35de0cbe87e4921248c207ca61f657e32a08",
+      "title": "Sexted Spelling Bee And Jordan’s Weekend Candle",
+      "published_at": "2026-10-23T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/sexted-spelling-bee-and-jordans-weekend-candle",
+      "description": "Things get SAVAGE in today’s episode as Jordan North and William Hanson go head to head in a Sexted-style spelling bee - but who will come out victorious? We also discover Jordan’s latest weekend obsession. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1792685487951-f2199af2-375b-4c47-922c-1bbdfc9024cb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ada1be61e90b3bd335c92c5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=TYgpJBDyjX2Jr_T-w268saUBFFk7bvgQFEzcwpNbD0o",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34468257",
+      "itunes_duration": "35:54",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "spelling",
+        "jordan",
+        "weekend",
+        "candle"
+      ]
+    },
     {
       "key": "62a382afdc48070daa7b5ade070e5c7b44e4fc01",
       "title": "Help There’s An Old Man Watching | And William's Coffee Whinge",
@@ -15286,6 +15308,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — Sexted Spelling Bee And Jordan’s Weekend Candle — speakers: Jordan North, William Hanson
 - 2026-10-20 — Help There’s An Old Man Watching | And William's Coffee Whinge — speakers: Coffee Whinge, William Hanson, Jordan North
 - 2026-10-16 — Middle Class Problems | And How To Wipe Your Willy — speakers: Jordan North, William Hanson
 - 2026-10-13 — Help She’s Eating A Kebab Out Of My Anus | And Jordan’s Moonlanding — speakers: Jordan’s Moonlanding William Hanson, William Hanson, Jordan North

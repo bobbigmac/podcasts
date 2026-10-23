@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-10-16T11:21:58+00:00`
-- checked_at: `2026-10-16T11:21:58+00:00`
-- etag: `"acb519bc24de112c9a3fd87dcca122b0"`
-- last_modified: `Fri, 16 Oct 2026 05:00:06 GMT`
+- fetched_at: `2026-10-23T11:36:50+00:00`
+- checked_at: `2026-10-23T11:36:50+00:00`
+- etag: `"0a4d20aefc8e55802de42eee28e21bc7"`
+- last_modified: `Fri, 23 Oct 2026 05:00:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-10-16T11:21:58+00:00",
+  "fetched_at": "2026-10-23T11:36:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "627d3c2a9e03aebc499ab75348a47d3f01b5a83a",
+      "title": "The Iliad and Odyssey (Radio Edit)",
+      "published_at": "2026-10-23T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pc7rcm",
+      "description": "Greg Jenner is joined in ancient Greece by historian Dr Emily Hauser and comedian and actor Kiell Smith-Bynoe to learn about the epic poems the Iliad and Odyssey. Traditionally attributed to the poet Homer, these works tell parts of a legend that has fascinated us for centuries: the story of the Trojan War. Featuring a cast of unforgettable characters – Achilles, Odysseus, Paris, Helen, Hector and Agamemnon – the war between ancient Greece and Troy has inspired writers, artists and filmmakers for over a millennium. But the Iliad and Odyssey only recount episodes of this much bigger story. The Iliad, focusing on the hero Achilles, takes place in the closing stretches of the war. And the Odyssey tells the tale of Odysseus’s perilous voyage home after the Greeks have triumphed In this episode, we trace the origins of the poems in the 8th century BCE, looking at whether Homer really wrote them and how these originally oral tales came to be written down, before exploring the fantastical tales they tell. Along the way, we also look at whether or not the Trojan war really happened, how the ancient Greeks defined heroism, and examine the role of gods and monsters in the poems and the lives of their heroes. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Auréliane Perrin Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nv0hd9.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc7vlf.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27024000",
+      "itunes_duration": "1689",
+      "speakers": [
+        "Greg Jenner",
+        "Emily Hauser",
+        "Kiell Sm"
+      ],
+      "topics": [
+        "iliad",
+        "odyssey",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "549cbe4b8f7d21dae57e2bcf9895b11ee76f5d04",
       "title": "The History of Fandom, 1700-1900 (Radio Edit)",
@@ -6345,6 +6368,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — The Iliad and Odyssey (Radio Edit) — speakers: Greg Jenner, Emily Hauser, Kiell Sm
 - 2026-10-16 — The History of Fandom, 1700-1900 (Radio Edit) — speakers: Greg Jenner, Corin Throsby, Stuart Goldsmith
 - 2026-10-13 — New: The Hitler Diaries Scandal (from The History Podcast) — speakers: When Germany
 - 2026-10-09 — Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period — speakers: Greg Jenner, Martha McGill, Marjolein Robertson
