@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-10-16T16:37:58+00:00`
-- checked_at: `2026-10-16T16:37:58+00:00`
-- etag: `"djEuMi4wOjE3OTIxNTgyNTU4ODA="`
+- fetched_at: `2026-10-23T17:05:26+00:00`
+- checked_at: `2026-10-23T17:05:26+00:00`
+- etag: `"djEuMi4wOjE3OTI3NjY1MjQwNjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-10-16T16:37:58+00:00",
+  "fetched_at": "2026-10-23T17:05:26+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "367ce0b7a2c0eee834cc343463519e1d26d651b8",
+      "title": "The Halloween Costume of 2026",
+      "published_at": "2026-10-23T14:42:03+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-halloween-costume-of-2026",
+      "description": "This week, Katherine's Telling Everybody Everything about being a stranger in her own kitchen following a busy week of book promotion and touring. As Halloween approaches, the Kardashians cleverly seed *THE* halloween costume of 2026. Is it wrong to dress as your own daughter? Especially when you're maybe the world's most beautiful woman and your daughter is at a very delicate age of adolescence? Do the rules even apply to this lot? Plus, Andrew Johnston joins us from Hollywood with news of a GIRLS reunion and a substitute teacher disaster, all because a woman who didn't receive her medication on time 'hates kids and wanted to f*ck around'. (LOL). Also, should a woman with two impressionable young daughters get a nose job? Finally, there's more bad news for Thomas Markle Sr and Meghan REACTS. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1792766115295-bc06c9d9-a8bd-4e42-bcc4-b2e3f7464072.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6adb723c3197b4c1effec60b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62313661",
+      "itunes_duration": "43:16",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "halloween",
+        "costume"
+      ]
+    },
     {
       "key": "130fd81917bda1aac6d94b98551e5fda0a9a5c7f",
       "title": "Would You Attend Your Husband's Assault Trial?",
@@ -6572,6 +6592,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — The Halloween Costume of 2026 — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-16 — Would You Attend Your Husband's Assault Trial? — speakers: Assault Trial, Katherine Ryan
 - 2026-10-03 — Celebrity Traitors — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-25 — The Mums WhatsApp Group — speakers: Telling Everybody Everything, Katherine Ryan

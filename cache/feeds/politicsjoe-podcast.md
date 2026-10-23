@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-21T17:11:31+00:00`
-- checked_at: `2026-10-21T17:11:31+00:00`
-- etag: `"djEuMi4wOjE3OTI1OTg4OTE2MDg="`
+- fetched_at: `2026-10-23T17:05:26+00:00`
+- checked_at: `2026-10-23T17:05:26+00:00`
+- etag: `"djEuMi4wOjE3OTI3NTkxNjc5MDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-21T17:11:31+00:00",
+  "fetched_at": "2026-10-23T17:05:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "eebfb3a0288140da26a5def12ad4a5786978066c",
+      "title": "How Big Tech Profit From Terror | Andrew Feinstein interview",
+      "published_at": "2026-10-23T12:39:25+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6adb5138d735b999b078f936",
+      "description": "Andrew Feinstein is one of the most versatile people in British politics today. Formerly a member of the South African Parliament for Nelson Mandela's ANC, he has gained notoriety in the UK in recent years, most notably for running against Keir Starmer in Holborn and St Pancras in the 2024 General Election. Today, he sits down with Ava to talk about the recent by-election in the seat, the failure of politicians across the globe to represent the most urgent needs of the people they represent, and the war machine propping up horror across the globe. Buy Making a Killing: How the West Profits From Slaughter in Gaza and Yemen here: https://www.versobooks.com/en-gb/products/3335-making-a-killing?srsltid=AYCX9vJ2PRrYS4wMlDqt1QHEUb9JFB9dkyeE8iusDTI9bY-NgEGTxxDh Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6adb5138d735b999b078f936/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52729730",
+      "itunes_duration": "54:55",
+      "speakers": [
+        "Andrew Feinstein"
+      ],
+      "topics": [
+        "tech",
+        "profit",
+        "terror",
+        "andrew",
+        "feinstein"
+      ]
+    },
     {
       "key": "922a7e317836e86f57418115f48c7ff62c8d5eb4",
       "title": "Going Deep on Andy Burnham's Jackdaw Drilling Deal",
@@ -13925,6 +13947,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-23 — How Big Tech Profit From Terror | Andrew Feinstein interview — speakers: Andrew Feinstein
 - 2026-10-21 — Going Deep on Andy Burnham's Jackdaw Drilling Deal — speakers: Andy Burnham, Jackdaw Drilling Deal
 - 2026-10-19 — Why don't Brits protest like the French?
 - 2026-10-16 — How Andy Burnham can save Labour | Tariq Ali interview — speakers: Andy Burnham, Tariq Ali
