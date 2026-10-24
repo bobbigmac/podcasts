@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-23T04:47:49+00:00`
-- checked_at: `2026-10-23T04:47:49+00:00`
-- etag: `"djEuMi4wOjE3OTI3MjQyNTkzMjQ="`
+- fetched_at: `2026-10-24T15:56:06+00:00`
+- checked_at: `2026-10-24T15:56:06+00:00`
+- etag: `"djEuMi4wOjE3OTI4MzI0Mzk1MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-23T04:47:49+00:00",
+  "fetched_at": "2026-10-24T15:56:06+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82737a7a4dfc1629ba29fc90088250ac3d720b5c",
+      "title": "Rich and Ally's Craven Newsround Compilation - Ameliorate the Situation",
+      "published_at": "2026-10-24T09:00:00+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-ameliorate-the-s",
+      "description": "19/10/26 Ameliorate the Situation - Rich and Ally start a brand new week covering the only news stories that matter: the non-discovery of Amelia Earhart’s plane and Andy Burnham coming down hard, but not hard enough on people playing music on public transport. All packed into five minutes as usual, with limited same phrases. 20/10/26 Potty Trained Interloper - Rich and Ally attempt to talk about a serious news story, but their studio is invaded by a malicious force which they have to deal with. At least they nearly kept to their time this time. 22/10/26 Dirty Pigeons - Rich and Ally are here to talk about Kyle Maclachlan and very expensive Pokemon cards. Lots of singing in this one, so if you don’t like that then best avoid this. I’d say best avoid the whole thing in general, but I can’t tell you what to do. 23/10/26 Sticky Globes - Rich and Ally would like to apologise to the pigeon community for any offence caused by yesterday’s Newsround. Today we look at smashed historical artefacts and who will be the next BondJamesBond. Will it be Ally? Watch this space. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1792776224966-2d26841c-a16c-45b7-a62e-970a837200d4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6adb9936296f30f8e3bc86be/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33240384",
+      "itunes_duration": "1:09:14",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "ameliorate",
+        "situation"
+      ]
+    },
     {
       "key": "ee85d295ab95516a88b164fe8bedfe8557dcf22d",
       "title": "Andrew Hankinson on Felled - Book Club",
@@ -24359,6 +24383,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-24 — Rich and Ally's Craven Newsround Compilation - Ameliorate the Situation — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-10-23 — Andrew Hankinson on Felled - Book Club — speakers: Andrew Hankinson, Richard Herring
 - 2026-10-21 — Mark Thomas - "Bin Face vs Bin Juice" — speakers: Bin Juice, Bin Juice Rich, Richard Herring
 - 2026-10-19 — Adam Rowe (Retro) - "Thigh-Eyed" — speakers: Adam Rowe, Richard Herring
