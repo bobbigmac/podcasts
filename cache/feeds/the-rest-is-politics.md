@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-23T04:47:49+00:00`
-- checked_at: `2026-10-23T04:47:49+00:00`
-- last_modified: `Thu, 22 Oct 2026 23:15:03 GMT`
+- fetched_at: `2026-10-24T04:34:38+00:00`
+- checked_at: `2026-10-24T04:34:38+00:00`
+- last_modified: `Fri, 23 Oct 2026 11:54:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-23T04:47:49+00:00",
+  "fetched_at": "2026-10-24T04:34:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -31,7 +31,7 @@
       "published_at": "2026-10-22T23:05:00+00:00",
       "link": null,
       "description": "This week, we bring you one of Alastair’s favourite interviews. He’s joined by Kim Leadbeater MP, whose sister Jo Cox was murdered in 2016, and his lifelong friend Lindsay Nicholson, who lost her husband John and nine-year-old daughter Ellie to the same rare cancer. They discuss grief, breakdowns, anger and faith, why they disagree on assisted dying, and how to find hope when the worst has already happened. To hear the whole interview and the rest of Alastair's series on Persevilience, sign up at therestispolitics.com Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Producer: India Dunkley Video Editor: Caroline Kay Social Producer: Celine Charles Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/939534dc-ce36-11f1-a373-4b4e0698121a/image/48dfa2075a8c3a0d51ed55a857843143.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/939534dc-ce36-11f1-a373-4b4e0698121a/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6002875674.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
