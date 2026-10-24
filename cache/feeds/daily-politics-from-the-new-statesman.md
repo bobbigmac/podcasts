@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-23T17:05:26+00:00`
-- checked_at: `2026-10-23T17:05:26+00:00`
-- etag: `"djEuMi4wOjE3OTI3NjUxMDgwOTk="`
+- fetched_at: `2026-10-24T20:47:37+00:00`
+- checked_at: `2026-10-24T20:47:37+00:00`
+- etag: `"djEuMi4wOjE3OTI4NTc2Mzk2Nzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-23T17:05:26+00:00",
+  "fetched_at": "2026-10-24T20:47:37+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7231df01fd2d64b1e1a47f999be7dedb2b804fd3",
+      "title": "Martin Lewis is \"on speed dial to Number 10\"",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/is-martin-lewis-the-real-shadow-chancellor",
+      "description": "Martin Lewis's direct line to the government, Burnham's parking fine crackdown, and do the British public prefer picky bits or holly bobs? Anoosh Chakelian and Will Dunn round up the stories of the week. READ: https://www.newstatesman.com/politics/economy/2026/10/martin-lewis-i-get-criticised-that-im-a-sticking-plaster https://www.newstatesman.com/politics/the-sketch/2026/10/in-space-no-one-can-hear-britain-scream LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1792764213110-fc2622a1-14c1-4650-9b99-cf085830ea71.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6adb67f3ca668e65a485ed7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100905216",
+      "itunes_duration": "42:00",
+      "speakers": [
+        "Martin Lewis",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "martin",
+        "lewis",
+        "speed",
+        "dial",
+        "number"
+      ]
+    },
     {
       "key": "efb3320fdc732cfa3245f2d6f453f0eb276493ee",
       "title": "Labour split over Jackdaw",
@@ -32716,6 +32740,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-24 — Martin Lewis is "on speed dial to Number 10" — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore
 - 2026-10-22 — Labour split over Jackdaw — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-21 — US midterms: Where are the key battlegrounds? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-19 — Can Reform weather the scandals? — speakers: Can Reform, Anoosh Chakelian, Oli Dugmore
