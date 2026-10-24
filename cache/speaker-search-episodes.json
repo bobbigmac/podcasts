@@ -2,6 +2,50 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:cf2ce12adac4",
+        "feed_title": "Talk the Line",
+        "source_rss_url": "https://anchor.fm/s/71af32c/podcast/rss",
+        "dedupe_key": "5e3448839e0d5235f01517b4605d8d84cd208af7",
+        "episode_key": "5e3448839e0d5235f01517b4605d8d84cd208af7",
+        "title": "James Acaster on skateboarding",
+        "published_at": "2026-10-23T08:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, experimental musician and traitor, James Acaster joins this week's episode of Talk The Line to share his fascination with skateboarding. This week James releases Star. A Verse and a Chorus – the debut from his new (but not really) project The Wow! Scenario – with help from longtime musician friend Graeme Wick",
+        "audio_url": "https://anchor.fm/s/71af32c/podcast/play/127909836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434761608-44100-2-8a2d81395fb14.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-on-skateboarding/id1227860649?i=1000797746762&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:ebfd16ad2acc",
+        "feed_title": "Talk Of The Townsends",
+        "source_rss_url": "https://feeds.captivate.fm/talk-of-the-townsends",
+        "dedupe_key": "c8d2fa736e349cee4dbc1b6597c9f0d3f8010e50",
+        "episode_key": "c8d2fa736e349cee4dbc1b6597c9f0d3f8010e50",
+        "title": "Celebrity Traitors EP. 7: James  Acaster’s Gamble",
+        "published_at": "2026-10-23T00:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster is finally enjoying being a Traitor. Just don’t ask him to take his blindfold off. Hannah and Benedict unpack episode seven, including a challenge that leaves Maya and King Kenny doing all the work.\nThey discuss Ross Kemp’s fatal yawn, Geri’s banishment and Michael Sheen’s increasingly ruthless approach t",
+        "audio_url": "https://episodes.captivate.fm/episode/73da6d1b-7cad-42f8-8e79-7c873c93e5dd.mp3?aw_0_1st.showid=79f4293d-a98f-4ff4-8748-e2c5de0af205&aw_0_1st.episodeid=73da6d1b-7cad-42f8-8e79-7c873c93e5dd",
+        "link_url": "https://podcasts.apple.com/gb/podcast/celebrity-traitors-ep-7-james-acasters-gamble/id1717324461?i=1000797698463&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -6375,6 +6419,28 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with Moneybox",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "52ed101dec59d57fe31a67061f181f8c095c6df7",
+        "episode_key": "52ed101dec59d57fe31a67061f181f8c095c6df7",
+        "title": "The one with Ed Gamble",
+        "published_at": "2026-10-23T10:01:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Cracking comic & Traitors superfan Ed Gamble has us giggling with news of his new special Ed Gamble Live.\nCatch up on all previous episodes of TFI Unplugged on the Virgin Radio UK YouTube channel.\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6adb30605de627c540be07c7/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-one-with-ed-gamble/id1450650136?i=1000797758801&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

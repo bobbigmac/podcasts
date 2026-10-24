@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-10-13T19:16:04+00:00`
-- checked_at: `2026-10-13T19:16:04+00:00`
-- etag: `W/"6ae5025446f210aa24127c9f3e75bba1"`
-- last_modified: `Tue, 13 Oct 2026 17:22:52 GMT`
+- fetched_at: `2026-10-24T10:58:06+00:00`
+- checked_at: `2026-10-24T10:58:06+00:00`
+- etag: `W/"d1516f9025096d51994dfbd813ddf14e"`
+- last_modified: `Wed, 14 Oct 2026 13:48:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-10-13T19:16:04+00:00",
+  "fetched_at": "2026-10-24T10:58:06+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -36,10 +36,10 @@
       "link": "https://audioboom.com/posts/8963829",
       "description": "A unique tribute to Lord Archer, plus we mark Ian Hislop’s 40 years as editor of the mag, and look ahead to what autumn holds in British politics.",
       "image_url": "https://audioboom.com/i/43881737/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963829.mp3?modified=1791912181&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963829.mp3?modified=1791925692&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2728",
+      "itunes_duration": "2722",
       "speakers": [
         "Ian Hislop",
         "Andrew Hunter Murray"
