@@ -20137,6 +20137,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:002def4cbc84",
+        "feed_title": "No Bad Ideas with Max Fosh",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6abd27f582177b9ab84b9681",
+        "dedupe_key": "6155f972ac7a38bcb22f07adabe1b51955bdd1f6",
+        "episode_key": "6155f972ac7a38bcb22f07adabe1b51955bdd1f6",
+        "title": "I Register a Crane As An Uber with Alex Horne",
+        "published_at": "2026-10-25T17:05:41Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Max Fosh is a silly boy with more silly ideas than he knows what’s to do with. This week, BAFTA winning comedian and the creator of Taskmaster Alex Horne joins him to bring three of the most ridiculous to life. \nThis week: getting Nobel prize winners to improve your life, registering a crane as an Uber, and entering yo",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6abd27f582177b9ab84b9681/e/6adbb99e19a146cdeb0e89e4/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/i-register-a-crane-as-an-uber-with-alex-horne/id6825726142?i=1000798042204&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",

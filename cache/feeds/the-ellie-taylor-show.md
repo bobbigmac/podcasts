@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-10-18T11:02:41+00:00`
-- checked_at: `2026-10-18T11:02:41+00:00`
+- fetched_at: `2026-10-25T23:16:09+00:00`
+- checked_at: `2026-10-25T23:16:09+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-10-18T11:02:41+00:00",
+  "fetched_at": "2026-10-25T23:16:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e1c79bd78193fb495bc6afd0bc2414fd40eac719",
+      "guid": "d23f5fe8-89f4-469f-997e-93e65b6dd97a",
+      "title": "The Ellie Taylor Show (25th October)",
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-25th-october/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1792915257-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d23f5fe8-89f4-469f-997e-93e65b6dd97a&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "b275be22ab2e9ae17c69f021f7fbe233466bca94",
       "guid": "d7777f2c-1da3-447e-a1da-7aed7d0195ba",
@@ -1708,6 +1721,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-25 — The Ellie Taylor Show (25th October)
 - 2026-10-18 — The Ellie Taylor Show (18th October)
 - 2026-10-11 — The Ellie Taylor Show (11th October)
 - 2026-10-04 — The Ellie Taylor Show (4th October)

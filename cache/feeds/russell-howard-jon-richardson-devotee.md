@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-21T11:47:04+00:00`
-- checked_at: `2026-10-21T11:47:04+00:00`
-- etag: `W/"5e8e2-0BUoos4Oq7zPqWuqcWFkLomEc7o"`
+- fetched_at: `2026-10-25T23:16:09+00:00`
+- checked_at: `2026-10-25T23:16:09+00:00`
+- etag: `W/"5f8b1-LG9h5XdqTp+3fSPvgL9A7KfY/TA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,163 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-21T11:47:04+00:00",
+  "fetched_at": "2026-10-25T23:16:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "46b20133aa3137f981c71f480007a2bfbd3b6d99",
+      "title": "#22 The Jon Richardson Podcast – Featuring Rhod Gilbert",
+      "published_at": "2026-10-25T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/22-The-Jon-Richardson-Podcast--Featuring-Rhod-Gilbert-e3qto28",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792686115335-4d6090dda84c2.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7921766731.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83975826",
+      "itunes_duration": "01:26:32",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "rhod",
+        "gilbert"
+      ]
+    },
+    {
+      "key": "80693ae7c74a5a036b8c762da0e796d98d39a514",
+      "title": "#21 The Jon Richardson Podcast – Featuring Pappys Fun Club",
+      "published_at": "2026-10-24T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/21-The-Jon-Richardson-Podcast--Featuring-Pappys-Fun-Club-e3qtnk9",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792685500887-1cb5854bd86e3.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2648094141.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77098537",
+      "itunes_duration": "01:19:27",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "pappys",
+        "club"
+      ]
+    },
+    {
+      "key": "5e507389204d7dfbfcda581d373e1edac21563a3",
+      "title": "#20 The Jon Richardson Podcast – Featuring Andy Zaltzman",
+      "published_at": "2026-10-23T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/20-The-Jon-Richardson-Podcast--Featuring-Andy-Zaltzman-e3qtjts",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792681092733-e9358e55fdf2e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7158529170.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82370894",
+      "itunes_duration": "01:24:53",
+      "speakers": [
+        "Andy Zaltzman",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "andy",
+        "zaltzman"
+      ]
+    },
+    {
+      "key": "5a7d1eca9a2376f7c555e697548f0d145ec1bb16",
+      "title": "#19 The Jon Richardson Podcast – Featuring Mark Olver",
+      "published_at": "2026-10-22T18:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/19-The-Jon-Richardson-Podcast--Featuring-Mark-Olver-e3qtjok",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792680574525-d2a14e363fa37.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3254323070.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75247342",
+      "itunes_duration": "01:17:32",
+      "speakers": [
+        "Mark Olver",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "mark",
+        "olver"
+      ]
+    },
+    {
+      "key": "c6f029d0d6ae4fbe57c3972490796a01b5885f05",
+      "title": "#18 The Jon Richardson Podcast – Featuring David O'Dotherty",
+      "published_at": "2026-10-22T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/18-The-Jon-Richardson-Podcast--Featuring-David-ODotherty-e3qs3to",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792604910099-7accd06be258a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3800414896.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74936981",
+      "itunes_duration": "01:17:13",
+      "speakers": [
+        "David O'Dotherty",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "david"
+      ]
+    },
+    {
+      "key": "33e895c657916e7833dc9723e366c9df690d65be",
+      "title": "#17 The Jon Richardson Podcast – Featuring Tom Wrigglesworth",
+      "published_at": "2026-10-22T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/17-The-Jon-Richardson-Podcast--Featuring-Tom-Wrigglesworth-e3qs3pl",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792604307742-837b254e3ffe6.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3050566166.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61930165",
+      "itunes_duration": "01:03:49",
+      "speakers": [
+        "Tom Wrigglesworth Step",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "wrigglesworth"
+      ]
+    },
+    {
+      "key": "bf1a5c49bdd44e78c86831719dade0088c58bbac",
+      "title": "#16 The Jon Richardson Podcast – Featuring Dan Evans",
+      "published_at": "2026-10-21T18:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/16-The-Jon-Richardson-Podcast--Featuring-Dan-Evans-e3qs3k0",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792604086937-c01180e8ce57d.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2733279910.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73360457",
+      "itunes_duration": "01:15:36",
+      "speakers": [
+        "Dan Evans",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "featuring",
+        "evans"
+      ]
+    },
     {
       "key": "ca5a4ab2d74d2e36ef22f37c88d2e1120613a252",
       "title": "#15 The Jon Richardson Podcast – Featuring Stephen K Amos",
@@ -5938,206 +6088,6 @@
         "richard",
         "herring"
       ]
-    },
-    {
-      "key": "45c168d3cbc0a2d6384e133fa654142adcf82b6f",
-      "title": "#24 Jon Richardson Podcast with Rob Deering",
-      "published_at": "2026-03-04T19:34:54+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-Jon-Richardson-Podcast-with-Rob-Deering-e3fuku5",
-      "description": "#24 Jon Richardson Podcast with Rob Deering",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772652867444-51e1884b27be3.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2Fa010e1ec-2547-9883-06c8-51e5f54e2544.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53539808",
-      "itunes_duration": "01:14:21",
-      "speakers": [
-        "Rob Deering"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "deering"
-      ]
-    },
-    {
-      "key": "98d67b87275cb4c73270c5ba7a43b1f32d0439e4",
-      "title": "#23 Jon Richardson Podcast with Danny Buckler",
-      "published_at": "2026-03-03T19:49:07+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-Jon-Richardson-Podcast-with-Danny-Buckler-e3ft1mu",
-      "description": "#23 Jon Richardson Podcast with Danny Buckler",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772567330738-e6283c22af8d3.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116343966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F7e03ec7d-7aa9-3f9f-9b81-913aab01c8b8.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53631104",
-      "itunes_duration": "01:14:29",
-      "speakers": [
-        "Danny Buckler"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "danny",
-        "buckler"
-      ]
-    },
-    {
-      "key": "7bdc118412480a14b7290f0c6256cf12a7b0a943",
-      "title": "#22 Jon Richardson Podcast with Rhod Gilbert",
-      "published_at": "2026-03-02T20:14:35+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/22-Jon-Richardson-Podcast-with-Rhod-Gilbert-e3frdj9",
-      "description": "#22 Jon Richardson Podcast with Rhod Gilbert",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772482454085-9a953a647f32e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116290601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fd06ad3db-4e3e-13cb-ee98-b0ab996f68b7.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "62310560",
-      "itunes_duration": "01:26:32",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "rhod",
-        "gilbert"
-      ]
-    },
-    {
-      "key": "5d5e4c57bd6680c82485f31cbb256ab738821d08",
-      "title": "#21 Jon Richardson Podcast with Pappys Fun Club",
-      "published_at": "2026-03-02T06:20:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/21-Jon-Richardson-Podcast-with-Pappys-Fun-Club-e3fpoit",
-      "description": "#21 Jon Richardson Podcast with Pappys Fun Club",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772396487452-9c34bf1c75f61.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116236317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-1%2F078b11b6-f2eb-80d8-faa6-257ebd535587.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57207776",
-      "itunes_duration": "01:19:27",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "pappys",
-        "club"
-      ]
-    },
-    {
-      "key": "75c448890d77bcc1e7dee8c20d4ced54bdbeef2d",
-      "title": "#20 Jon Richardson Podcast with Andy Zaltzman",
-      "published_at": "2026-03-01T18:45:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/20-Jon-Richardson-Podcast-with-Andy-Zaltzman-e3fljj7",
-      "description": "#20 Jon Richardson Podcast with Andy Zaltzman",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131582108-97651f42de1bc.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116100135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F5a9ba0c5-0ac3-3c7e-59e1-0cad6202d622.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "61119680",
-      "itunes_duration": "01:24:53",
-      "speakers": [
-        "Andy Zaltzman"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "andy",
-        "zaltzman"
-      ]
-    },
-    {
-      "key": "f73f1ac51135a71ea1322766e6cb16e8dd304651",
-      "title": "#19 Jon Richardson Podcast with Mark Olver",
-      "published_at": "2026-02-28T18:43:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/19-Jon-Richardson-Podcast-with-Mark-Olver-e3fljeb",
-      "description": "#19 Jon Richardson Podcast with Mark Olver",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131443134-1f5a47afa234.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2Fb99fa75b-3779-e9e8-2c17-c7b9c70760ef.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55834016",
-      "itunes_duration": "01:17:32",
-      "speakers": [
-        "Mark Olver"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "mark",
-        "olver"
-      ]
-    },
-    {
-      "key": "1b436241b712582b56928dc738ab188b44dce3f7",
-      "title": "#18 Jon Richardson Podcast with David O'Dotherty",
-      "published_at": "2026-02-27T18:40:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/18-Jon-Richardson-Podcast-with-David-ODotherty-e3fljaj",
-      "description": "#18 Jon Richardson Podcast with David O'Dotherty",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131320784-0a45176744a46.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F8cdc7d7e-667a-8279-6ee8-01b8fd7f585f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55603904",
-      "itunes_duration": "01:17:13",
-      "speakers": [
-        "David O'Dotherty"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "david"
-      ]
-    },
-    {
-      "key": "ba6867baccfb20bcaea75ba7ae6523c015f92cc0",
-      "title": "#17 Jon Richardson Podcast with Tom Wrigglesworth",
-      "published_at": "2026-02-27T11:38:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/17-Jon-Richardson-Podcast-with-Tom-Wrigglesworth-e3flj7l",
-      "description": "#17 Jon Richardson Podcast with Tom Wrigglesworth",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131190663-8f5495e71dfbf.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F0f7e6b5b-7527-555a-8779-0a4e1e57ce65.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "45952736",
-      "itunes_duration": "01:03:49",
-      "speakers": [
-        "Tom Wrigglesworth"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "wrigglesworth"
-      ]
-    },
-    {
-      "key": "c4bf11e7d1fd965ee8edd014eae25f32d512ba67",
-      "title": "#16 Jon Richardson Podcast with Dan Evans",
-      "published_at": "2026-02-27T06:36:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/16-Jon-Richardson-Podcast-with-Dan-Evans-e3flj4i",
-      "description": "#16 Jon Richardson Podcast with Dan Evans",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772131055655-2deb6b8d644fe.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2Fd8ce81ac-c9c5-cb11-f25b-6c224a315628.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55349888",
-      "itunes_duration": "01:16:52",
-      "speakers": [
-        "Dan Evans"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "evans"
-      ]
-    },
-    {
-      "key": "5d72bf270a468f6434f101b075b3fc33f72ffe47",
-      "title": "#15 Jon Richardson Podcast with Stephen K Amos",
-      "published_at": "2026-02-26T18:36:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-Jon-Richardson-Podcast-with-Stephen-K-Amos-e3flj2b",
-      "description": "#15 Jon Richardson Podcast with Stephen K Amos",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772130946624-eb7494d3273cf.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116099595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2Fddfa305d-8d21-f244-edf1-cd7c47f0e889.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "62921120",
-      "itunes_duration": "01:27:23",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "stephen",
-        "amos"
-      ]
     }
   ]
 }
@@ -6146,6 +6096,13 @@
 
 ## Episodes (newest first)
 
+- 2026-10-25 — #22 The Jon Richardson Podcast – Featuring Rhod Gilbert — speakers: Jon Richardson
+- 2026-10-24 — #21 The Jon Richardson Podcast – Featuring Pappys Fun Club — speakers: Jon Richardson
+- 2026-10-23 — #20 The Jon Richardson Podcast – Featuring Andy Zaltzman — speakers: Andy Zaltzman, Jon Richardson
+- 2026-10-22 — #19 The Jon Richardson Podcast – Featuring Mark Olver — speakers: Mark Olver, Jon Richardson
+- 2026-10-22 — #18 The Jon Richardson Podcast – Featuring David O'Dotherty — speakers: David O'Dotherty, Jon Richardson
+- 2026-10-22 — #17 The Jon Richardson Podcast – Featuring Tom Wrigglesworth — speakers: Tom Wrigglesworth Step, Jon Richardson
+- 2026-10-21 — #16 The Jon Richardson Podcast – Featuring Dan Evans — speakers: Dan Evans, Jon Richardson
 - 2026-10-21 — #15 The Jon Richardson Podcast – Featuring Stephen K Amos — speakers: Jon Richardson
 - 2026-10-21 — #14 The Jon Richardson Podcast – Featuring Sarah Millican — speakers: Sarah Millican, Jon Richardson
 - 2026-10-20 — #13 The Jon Richardson Podcast – Featuring Lloyd Langford — speakers: Lloyd Langford, Jon Richardson
@@ -6402,13 +6359,3 @@
 - 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
 - 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins
 - 2026-03-05 — #25 Jon Richardson Podcast with Richard Herring — speakers: Richard Herring
-- 2026-03-04 — #24 Jon Richardson Podcast with Rob Deering — speakers: Rob Deering
-- 2026-03-03 — #23 Jon Richardson Podcast with Danny Buckler — speakers: Danny Buckler
-- 2026-03-02 — #22 Jon Richardson Podcast with Rhod Gilbert
-- 2026-03-02 — #21 Jon Richardson Podcast with Pappys Fun Club
-- 2026-03-01 — #20 Jon Richardson Podcast with Andy Zaltzman — speakers: Andy Zaltzman
-- 2026-02-28 — #19 Jon Richardson Podcast with Mark Olver — speakers: Mark Olver
-- 2026-02-27 — #18 Jon Richardson Podcast with David O'Dotherty — speakers: David O'Dotherty
-- 2026-02-27 — #17 Jon Richardson Podcast with Tom Wrigglesworth — speakers: Tom Wrigglesworth
-- 2026-02-27 — #16 Jon Richardson Podcast with Dan Evans — speakers: Dan Evans
-- 2026-02-26 — #15 Jon Richardson Podcast with Stephen K Amos
