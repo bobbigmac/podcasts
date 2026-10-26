@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-10-17T15:33:14+00:00`
-- checked_at: `2026-10-17T15:33:14+00:00`
-- etag: `W/"abf578d83d29892427df1d7722f59ec6"`
-- last_modified: `Thu, 15 Oct 2026 22:57:00 GMT`
+- fetched_at: `2026-10-26T20:29:14+00:00`
+- checked_at: `2026-10-26T20:29:14+00:00`
+- etag: `W/"e10c4cab6893cffc9781bfc39334bec9"`
+- last_modified: `Sun, 25 Oct 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-10-17T15:33:14+00:00",
+  "fetched_at": "2026-10-26T20:29:14+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,75 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "301b48f1ae9d7f1d72ddc9c2512abbbdb83f6520",
+      "title": "Little Fish: Mike, can we say this?",
+      "published_at": "2026-10-25T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8968358",
+      "description": "Dan gets exclusive facts about a 1980s TV megastar, while he, Anna and James discuss YOUR facts. This week's subjects include Canada, Collops and the Coney Island Cyclone. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8968358.mp3?modified=1792759089&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1997",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "mike"
+      ]
+    },
+    {
+      "key": "b75b9d15b0f9b0aa58c0b468877c1af8e6c3dc09",
+      "title": "No Such Thing As Lithuanian Soap Ornaments",
+      "published_at": "2026-10-22T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8967963",
+      "description": "Dan, James, Anna and Andy discuss Portuguese politics, Indian indexing and Japanese johns. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43898115.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3407",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "lithuanian",
+        "soap",
+        "ornament"
+      ]
+    },
+    {
+      "key": "1d745bd6c128a86d65f3ca1eb4d497f1690255f5",
+      "title": "Little Fish: Crufsts",
+      "published_at": "2026-10-18T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8965627",
+      "description": "Andy and James explain why they can't do a high five without it being awkward, while they and Dan discuss YOUR facts. This week's subjects include chess, curling and curators. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8965627.mp3?modified=1792144842&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1967",
+      "speakers": [
+        "Dan di",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "crufst"
+      ]
+    },
     {
       "key": "709dd8e5e602afd44fa661ac1c605d09a147acef",
       "title": "No Such Thing As Ultrasonic Shark Welding",
@@ -57,7 +126,7 @@
     },
     {
       "key": "8ce8bf96c1a9fee1e8bcdd6d16e6799da765fdf3",
-      "title": "This Podcast may contain traces of the Peanut Podcast",
+      "title": "Little Fish: This Podcast may contain traces of the Peanut Podcast",
       "published_at": "2026-10-12T08:21:19+00:00",
       "link": "https://audioboom.com/posts/8963189",
       "description": "We find out why Dan is considered to be so smooth, while he, James and Andy discuss YOUR facts . This week's subjects include Kidneys, Korea, peanuts and Peter Pan. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
@@ -73,6 +142,7 @@
         "Andrew Hunter Murray"
       ],
       "topics": [
+        "fish",
         "podcast",
         "trace",
         "peanut"
@@ -17316,8 +17386,11 @@
 
 ## Episodes (newest first)
 
+- 2026-10-25 — Little Fish: Mike, can we say this? — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-10-22 — No Such Thing As Lithuanian Soap Ornaments — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-10-18 — Little Fish: Crufsts — speakers: Dan di, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-15 — No Such Thing As Ultrasonic Shark Welding — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
-- 2026-10-12 — This Podcast may contain traces of the Peanut Podcast — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-10-12 — Little Fish: This Podcast may contain traces of the Peanut Podcast — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-08 — No Such Thing As Going To Spoiler Prison — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-04 — Little Fish: Ant Tower — speakers: Ant Tower Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-01 — No Such Thing As Alfred Hedgehog — speakers: Alfred Hedgehog Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

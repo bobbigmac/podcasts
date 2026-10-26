@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-23T17:05:26+00:00`
-- checked_at: `2026-10-23T17:05:26+00:00`
-- etag: `"djEuMi4wOjE3OTI3NTkxNjc5MDA="`
+- fetched_at: `2026-10-26T20:29:14+00:00`
+- checked_at: `2026-10-26T20:29:14+00:00`
+- etag: `"djEuMi4wOjE3OTMwMzYxMzAyMTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-10-23T17:05:26+00:00",
+  "fetched_at": "2026-10-26T20:29:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9c2afdb51dd29f1eccef4b890d314bf3d0414ef9",
+      "title": "Is Andy Burnham reversing Brexit?",
+      "published_at": "2026-10-26T17:35:29+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6adf803ffeb8d1e39c0b4023",
+      "description": "Andy Burnham’s position on Brexit has been murky since the 2016 referendum, and he's recently called for a debate about Britain’s future with the EU. So what exactly is going on? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6adf803ffeb8d1e39c0b4023/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20417644",
+      "itunes_duration": "14:10",
+      "speakers": [
+        "Andy Burnham"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "brexit"
+      ]
+    },
     {
       "key": "eebfb3a0288140da26a5def12ad4a5786978066c",
       "title": "How Big Tech Profit From Terror | Andrew Feinstein interview",
@@ -13947,6 +13967,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Is Andy Burnham reversing Brexit? — speakers: Andy Burnham
 - 2026-10-23 — How Big Tech Profit From Terror | Andrew Feinstein interview — speakers: Andrew Feinstein
 - 2026-10-21 — Going Deep on Andy Burnham's Jackdaw Drilling Deal — speakers: Andy Burnham, Jackdaw Drilling Deal
 - 2026-10-19 — Why don't Brits protest like the French?
