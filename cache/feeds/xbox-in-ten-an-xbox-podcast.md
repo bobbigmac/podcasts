@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- etag: `"37f4cb983c0df04d879b407ae3aad51a"`
-- last_modified: `Mon, 19 Oct 2026 04:13:50 GMT`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- etag: `"3b4b52035d6a56e4a864f4ae86ef1e19"`
+- last_modified: `Mon, 26 Oct 2026 04:14:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7d7d1522a583954fbc06ba9f00558715ae5ef953",
+      "title": "Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387)",
+      "published_at": "2026-10-26T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-project-helix-targeting-2028-could-cost-up-to-1800-xbox-in-ten-an-xbox-podcast-ep-387",
+      "description": "Week of: 10-19-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/e/3/f/5/e3f5f2ff714a6266a04421dee9605cbd/387.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/387.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18588112",
+      "itunes_duration": "13:42",
+      "speakers": [
+        "Xbox Project Helix Targeting",
+        "Could Cost",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "project",
+        "helix",
+        "targeting",
+        "podcast"
+      ]
+    },
     {
       "key": "3c2d7287b4eca26e5074fdfe3d4dcff765977d3c",
       "title": "Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386)",
@@ -9754,6 +9780,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387) — speakers: Xbox Project Helix Targeting, Could Cost, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-19 — Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386) — speakers: Full Return, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-12 — Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385) — speakers: Asha Sharma, Brandon Rosa
 - 2026-10-05 — Xbox is Not for Sale & New Mythic Achievements - (Xbox In Ten: An Xbox Podcast - Ep. 384) — speakers: New Mythic Achievements, Xbox Gaming News, Fun Fact, Brandon Rosa

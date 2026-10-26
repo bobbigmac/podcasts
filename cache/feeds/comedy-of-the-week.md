@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- etag: `"c99678bb7e2357712a47993c6afd0086"`
-- last_modified: `Mon, 19 Oct 2026 04:00:03 GMT`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- etag: `"2b8aa0013d0e5d40766002f078af3a1b"`
+- last_modified: `Tue, 20 Oct 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -983,26 +983,6 @@
       ]
     },
     {
-      "key": "a9be0b035aeecd50a910832356ba4e551db363ca",
-      "title": "Mark Steel's In Town",
-      "published_at": "2025-10-20T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0m98hqm",
-      "description": "First stop of the new series is Oakham, nestled in the UK’s smallest county – Rutland. Rutland has a village that's proudly twinned with Paris (even if the Parisians don’t know), has Europe’s largest man-made lake (which required flooding a local village) and hangs its horseshoes the other way round (so the devil falls out, obviously). Joining Mark is Clare Balding, who’s also in town to take him on a ramble around Rutland. This is the 14th series of Mark's award winning show where he travels around the country visiting towns that have nothing in common but their uniqueness. After thoroughly researching each town, Mark writes and performs a bespoke evening of comedy for a local audience. As well as Oakham, in this series, Mark be will also be popping to Wrexham, Cambridge, Lewisham and, Lerwick and Unst in Shetland. To hear more episodes from this series, search \"Mark Steel's In Town\" on BBC Sounds. Written and performed by Mark Steel Additional material by Pete Sinclair Production co-ordinator Caroline Barlow and Katie Baum Sound Manager Jerry Peal Producer Carl Cooper A BBC Studios production for Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m98gsx.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39120000",
-      "itunes_duration": "2445",
-      "speakers": [
-        "Mark Steel"
-      ],
-      "topics": [
-        "mark",
-        "steel",
-        "town"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1081,5 +1061,4 @@
 - 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett
 - 2025-11-03 — Carbon Lifeforms — speakers: Carbon Lifeforms Jon Long, Tara Shine
 - 2025-10-27 — Humanwatch
-- 2025-10-20 — Mark Steel's In Town — speakers: Mark Steel
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore

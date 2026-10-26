@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-10-19T04:38:47+00:00`
-- checked_at: `2026-10-19T04:38:47+00:00`
-- last_modified: `Sun, 18 Oct 2026 23:05:00 GMT`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- last_modified: `Mon, 26 Oct 2026 02:59:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-19T04:38:47+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3392014232baf10d8efb556ca9ba442fb6a2ca25",
+      "title": "MOST PLAYED: Romesh Ranganathan",
+      "published_at": "2026-10-26T00:01:00+00:00",
+      "link": null,
+      "description": "Over the next few weeks we'll be uploading some of our most played older episodes of Class Clown and what better place to start than with our very first episode with Romesh Ranganathan. One of TV's most beloved stars, he's currently all over our screens with Traitors with his own hit Podcast... but let's throw it back to his childhood to see where it all began for Romesh. Get Class Clown Merch below! https://classclownpodcast.myshopify.com/ Catch Seann Walsh On tour! https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7603846034.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4192",
+      "speakers": [
+        "Seann Walsh"
+      ],
+      "topics": [
+        "played",
+        "romesh",
+        "ranganathan"
+      ]
+    },
     {
       "key": "d7e56ee75fd34253fbb06baa2fc78ae347aba723",
       "title": "ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy",
@@ -36,7 +56,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8593906812.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3046",
+      "itunes_duration": "3166",
       "speakers": [
         "Getting Excluded",
         "Seann Walsh"
@@ -61,7 +81,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9476170486.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2674",
+      "itunes_duration": "2734",
       "speakers": [
         "Having Communist Parents",
         "Difficult Student Alexei Sayle",
@@ -85,7 +105,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5468932754.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1436",
+      "itunes_duration": "1496",
       "speakers": [
         "Seann Walsh"
       ],
@@ -108,7 +128,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8916584420.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2543",
+      "itunes_duration": "2603",
       "speakers": [
         "Jacob Hawley",
         "Seann Walsh"
@@ -132,7 +152,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2291550696.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3059",
+      "itunes_duration": "3179",
       "speakers": [
         "Jacob Hawley Being Naughty",
         "Jacob Hawley",
@@ -159,7 +179,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8987822011.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2725",
+      "itunes_duration": "2785",
       "speakers": [
         "Stardom Andrew Mensah",
         "Seann Walsh"
@@ -184,7 +204,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9537117130.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2966",
+      "itunes_duration": "3086",
       "speakers": [
         "Andrew Mensah",
         "Seann Walsh"
@@ -2020,6 +2040,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — MOST PLAYED: Romesh Ranganathan — speakers: Seann Walsh
 - 2026-10-18 — ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy — speakers: Getting Excluded, Seann Walsh
 - 2026-10-11 — ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student — speakers: Having Communist Parents, Difficult Student Alexei Sayle, Seann Walsh
 - 2026-10-04 — How YouTube Changed Comedy: Breaking Down Max Fosh’s Class Clown Interview — speakers: Seann Walsh

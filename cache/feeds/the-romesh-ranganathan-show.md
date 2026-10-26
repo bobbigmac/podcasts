@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-25T23:16:09+00:00`
-- checked_at: `2026-10-25T23:16:09+00:00`
-- last_modified: `Sat, 24 Oct 2026 06:11:09 GMT`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- last_modified: `Mon, 26 Oct 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-25T23:16:09+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,35 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "15870c6b930489ef6c4aa3682cb5cc51dda7521e",
+      "title": "John Cena & Jessica Biel: Matchbox, Stunt Fears & Why London Food Is Great",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "link": null,
+      "description": "In this episode of The Romesh Ranganathan Show, Romesh is joined by Jessica Biel and John Cena to talk about their new action-comedy Matchbox: The Movie, streaming now on Apple TV. They discuss the stunts that terrified them, the realities of driving a car next to a man hanging underneath a moving truck, and the art of staying funny when you’re meant to be the straight man. They also get into their very different approaches to Halloween, John’s hip hop career, and why London’s food scene deserves more credit than it gets. Plus, there’s a question from Shanthi, a game of Misquoted featuring an unexpected movement, and some surprisingly good advice to finish. A Ranga Bee Production. Chapters: 00:00 Intro 03:50 A gift for Jessica and John 05:12 Is London's food scene really that bad? 07:52 Why they signed up for Matchbox: The Movie 14:26 Learning to spin a car 180 16:16 Delivering lines while hanging under a truck 20:20 A question from Shanthi 27:21 Karaoke and John's rap career 32:51 How to make action comedy work 37:55 Making a film with friends 40:46 Misquoted 41:12 The shower eating movement 48:27 Being the uncool parent 50:07 The best advice they've been given 52:50 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4bf5fa68-cefd-11f1-a972-539f1099f55e/image/36bec227751e22eea510ca4f5ea5c855.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7866989327.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3384",
+      "speakers": [
+        "John Cena Jessica Biel",
+        "Jessica Biel",
+        "John Cena",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "john",
+        "cena",
+        "jessica",
+        "biel",
+        "matchbox",
+        "stunt",
+        "fears",
+        "london",
+        "food"
+      ]
+    },
     {
       "key": "da496a32a8a4538b9380c2bda5196371cb0b2ffd",
       "title": "Shanthi Gives Advice on Flying, Grandparents & Fighting in Relationships",
@@ -2625,6 +2654,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — John Cena & Jessica Biel: Matchbox, Stunt Fears & Why London Food Is Great — speakers: John Cena Jessica Biel, Jessica Biel, John Cena, Romesh Ranganathan
 - 2026-10-21 — Shanthi Gives Advice on Flying, Grandparents & Fighting in Relationships — speakers: Shanthi Gives Advice, Relationships What, Romesh Ranganathan
 - 2026-10-18 — Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave — speakers: Katherine Ryan, Romesh Ranganathan
 - 2026-10-14 — Shanthi’s Free Holiday, Romesh’s Underwear & Vegan Teasing — speakers: Free Holiday, Vegan Teasing How, Romesh Ranganathan

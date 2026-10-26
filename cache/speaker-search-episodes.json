@@ -12667,6 +12667,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "3a8770f0a09c0699ab272644ae8f689b95b5edea",
+        "episode_key": "3a8770f0a09c0699ab272644ae8f689b95b5edea",
+        "title": "S6 EP7: Harriet Kemsley",
+        "published_at": "2026-10-25T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the stand-up comedian - Harriet Kemsley. \nWe asked Harriet what she did yesterday?\nShe told us.\nThat's it... enjoy!\nAre you 'IN IT FOR LIFE'?\n",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ad5d6f90c6b30397bf4b139/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s6-ep7-harriet-kemsley/id1765600990?i=1000797980133&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",
         "source_rss_url": "https://rss.art19.com/last-one-laughing",
@@ -37323,6 +37345,28 @@
     ],
     "richard-ayoade": [
       {
+        "feed_slug": "external:apple:b6e6a4790fe0",
+        "feed_title": "Funny Stories",
+        "source_rss_url": "https://www.spreaker.com/show/7453893/episodes/feed",
+        "dedupe_key": "4c1b9dc9276036f0b1b797a814ee2bb9dfe7f60b",
+        "episode_key": "4c1b9dc9276036f0b1b797a814ee2bb9dfe7f60b",
+        "title": "Big Fat Quiz Of The Year 2023 - Richard Ayoade Reveals His Real Voice",
+        "published_at": "2026-10-24T16:28:13Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75965900/big_fat_quiz_of_the_year_2023_richard_ayoade_reveals_his_real_voice.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/big-fat-quiz-of-the-year-2023-richard-ayoade-reveals/id6824004832?i=1000797934389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -41565,6 +41609,28 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Another Day Ruined",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "8cfa4ae12d2aece452a0dd24deaf02e3b19d42cb",
+        "episode_key": "8cfa4ae12d2aece452a0dd24deaf02e3b19d42cb",
+        "title": "Another Day Ruined Ep One: Weather, Voice Notes & “Fall”",
+        "published_at": "2026-10-26T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "A NEW PODCAST. THE SAME OLD COMPLAINTS. 🎉\nWelcome to Another Day Ruined — a comedy help desk for life, the universe and all the minor modern dilemmas that push us over the edge.\nJoin Jack Dee, Seann Walsh and Sara Morgan - three friends with plenty to complain about and some questionable solutions - as they tackle the ",
+        "audio_url": "https://traffic.megaphone.fm/APO1326299066.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/another-day-ruined-ep-one-weather-voice-notes-fall/id1675517221?i=1000798102774&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",

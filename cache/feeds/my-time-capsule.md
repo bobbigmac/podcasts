@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-25T23:16:09+00:00`
-- checked_at: `2026-10-25T23:16:09+00:00`
-- etag: `"djEuMi4wOjE3OTI3NTQyMDcwNzc="`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- etag: `"djEuMi4wOjE3OTI5NzI5NTkzNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-25T23:16:09+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3427357abc60470ab383b27bd19515fe2345bcfd",
+      "title": "Ep. 611 - Ben Hanlin - Award-winning magician and presenter best known for his ITV2 show Tricked",
+      "published_at": "2026-10-26T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-611-ben-hanlin-award-winning-magician-and-presenter-best",
+      "description": "Ben Hanlin is an award-winning magician and presenter best known for his ITV2 show Tricked , which won Best Entertainment Programme at the Broadcast Digital Awards. He has presented Discovery Channel’s Breaking Magic , appeared on The Tonight Show with Jimmy Fallon and reached the semi-finals of Dancing on Ice . His live credits include London’s West End show The Illusionists and ITV’s Live at the Palladium . With over two million social media followers, Ben’s magic has been watched by billions worldwide. In 2024, he was named Speaker of the Year at the Speaker Awards. Ben’s podcast, What’s The Trick, regularly gets over a million views a month across social media with guests including Derren Brown, Dom Joly, Andy Nyman, Paul Zerdin, Scott Bennett, Brian Conley and Cally Beaton . Ben Hanlin is our guest in episode 611 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Listen to Ben’s podcast What’s The Trick - https://linktr.ee/benhanlin . Follow Ben Hanlin on Instagram : @benhanlin . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6adb421e85adacac7d4deac1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66681646",
+      "itunes_duration": "55:33",
+      "speakers": [
+        "Ben Hanlin"
+      ],
+      "topics": [
+        "hanlin",
+        "award",
+        "magician"
+      ]
+    },
     {
       "key": "f1320354ba084b11f422988b3de2cc5e20c7b7f5",
       "title": "My Time Capsule The Dig - Ep. 23 - With Chris Cantrill (Winner of 2026 Edinburgh Comedy Award)",
@@ -13756,6 +13776,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Ep. 611 - Ben Hanlin - Award-winning magician and presenter best known for his ITV2 show Tricked — speakers: Ben Hanlin
 - 2026-10-22 — My Time Capsule The Dig - Ep. 23 - With Chris Cantrill (Winner of 2026 Edinburgh Comedy Award) — speakers: Edinburgh Comedy Award, Chris Cantrill
 - 2026-10-18 — Ep. 610 - Rachel Parris - The Mash Report, Live at the Apollo, Have I Got News for You, QI, Would I Lie to You — speakers: Rachel Parris, Got News
 - 2026-10-15 — My Time Capsule The Dig - Ep. 22 - With Graham Fellows ( AKA John Shuttleworth and the one-hit wonder Jilted John) — speakers: Graham Fellows, John Shuttleworth, Jilted John

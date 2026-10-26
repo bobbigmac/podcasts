@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-24T15:56:06+00:00`
-- checked_at: `2026-10-24T15:56:06+00:00`
-- etag: `"djEuMi4wOjE3OTI4MzI0Mzk1MDQ="`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- etag: `"djEuMi4wOjE3OTI5ODcwNTkzOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-24T15:56:06+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "92912705a7d3997040e6cd31ca542021d802d711",
+      "title": "Markus Birdman (Retro) - \"Platinum Heart\"",
+      "published_at": "2026-10-26T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#457 Platinum Heart - Rich is back in New Milton to continue his Edinburgh Fringe without going to Edinburgh run and is a bit perplexed by a T shirt that Twitter has been trying to make him buy. His guest is veteran stand-up and cheater of death Markus Birdman. They chat about his journeyman status on the circuit, whether being at a school where your dad worked propelled both Rich and Markus towards comedy, Markus' decision to go on Britain’s Got Talent and whether Simon Cowell understands comedy, how Markus has turned two strokes and a heart operation into comedy, a scary ghost story and why two motorcycle accidents was enough to stop Markus getting on a bike again (not Rich though - he loves motorcycling). Check out Markus’ tour dates here https://www.markusbirdmantour.com/book-tickets Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1792787936140-50e84cf1-42f2-49f5-83e5-423203d8f593.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6adbc4df8b1eeffaa28df459/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29861302",
+      "itunes_duration": "1:02:12",
+      "speakers": [
+        "Markus Birdman",
+        "Richard Herring"
+      ],
+      "topics": [
+        "markus",
+        "birdman",
+        "retro",
+        "platinum",
+        "heart"
+      ]
+    },
     {
       "key": "82737a7a4dfc1629ba29fc90088250ac3d720b5c",
       "title": "Rich and Ally's Craven Newsround Compilation - Ameliorate the Situation",
@@ -24383,6 +24406,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Markus Birdman (Retro) - "Platinum Heart" — speakers: Markus Birdman, Richard Herring
 - 2026-10-24 — Rich and Ally's Craven Newsround Compilation - Ameliorate the Situation — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-10-23 — Andrew Hankinson on Felled - Book Club — speakers: Andrew Hankinson, Richard Herring
 - 2026-10-21 — Mark Thomas - "Bin Face vs Bin Juice" — speakers: Bin Juice, Bin Juice Rich, Richard Herring

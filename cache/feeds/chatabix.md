@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-24T04:34:38+00:00`
-- checked_at: `2026-10-24T04:34:38+00:00`
-- etag: `"djEuMi4wOjE3OTI3NDk4NDk0NTk="`
+- fetched_at: `2026-10-26T04:44:53+00:00`
+- checked_at: `2026-10-26T04:44:53+00:00`
+- etag: `"djEuMi4wOjE3OTI5ODM2Mzk1MzU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-24T04:34:38+00:00",
+  "fetched_at": "2026-10-26T04:44:53+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "d06dbd7492c32857087803d8c719181db578772c",
+      "title": "S17 Ep 907 Vault Mondays: Wearing Make-Up and Teenage Songs",
+      "published_at": "2026-10-26T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-907-vault-mondays-wearing-make-up-and-teenage-songs",
+      "description": "For today’s archive show, it’s the second ever episode of Chatabix! In this one we mainly talked about wearing make up and terrible teenage songs. Oh boy, how things have changed!? First posted on 30th March 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6adb2b2bfc232549ba9f4329/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24865227",
+      "itunes_duration": "25:54",
+      "speakers": [
+        "Vault Mondays",
+        "Wearing Make",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "teenage",
+        "song"
+      ]
+    },
     {
       "key": "3a70bf590436524e8210afb4e559257ee66da1b3",
       "title": "S16 Ep 906 Last of the Summer Eps: Sex Noises and Men’s Health",
@@ -16362,6 +16386,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — S17 Ep 907 Vault Mondays: Wearing Make-Up and Teenage Songs — speakers: Vault Mondays, Wearing Make, Joe Wilkinson, David Earl
 - 2026-10-23 — S16 Ep 906 Last of the Summer Eps: Sex Noises and Men’s Health — speakers: Sex Noises, Health No, Joe Wilkinson, David Earl
 - 2026-10-22 — S16 Ep 905 Last of the Summer Eps: Pod Titbits and Dick Whittington Boots — speakers: Dick Whittington Boots Continuing, Joe Wilkinson, David Earl
 - 2026-10-21 — S16 Ep 904 Last of the Summer Eps: David’s Getting A Puppy — speakers: Joe Wilkinson, David Earl
