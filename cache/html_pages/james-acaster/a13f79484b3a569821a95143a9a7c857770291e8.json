@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=5",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=5",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-26T12:59:45+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=6",
   "episodes": [
+    {
+      "key": "d78bdad7244e5c7edb7c8d99f9f04d05fa71603f",
+      "guid": "bac06cea-e9ea-41f0-8191-770349f840c4",
+      "title": "James Acaster (18th November)",
+      "published_at": "2024-11-18T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-18th-november/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1731927848-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=bac06cea-e9ea-41f0-8191-770349f840c4&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "46303ab5a4bd6fba9ccd137a97bea7f2b8d0d90d",
       "guid": "43c71f02-5397-4bea-bbe5-6ec5d50edc4f",
@@ -380,19 +393,6 @@
       "description": "Join James and his studio guests as they throw caution to the wind and allow us access to their musical skeletons in the closet.",
       "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1723568818-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=067009ec-2095-44a0-a54a-e88434980860&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "ed044d1a345e9af927b6fba64462e72dceae84ca",
-      "guid": "c1fb98c6-334a-4d3e-b272-de0dcf109f27",
-      "title": "James Acaster (12th August)",
-      "published_at": "2024-08-12T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-12th-august/",
-      "description": "Join James and his studio guests as they throw caution to the wind and allow us access to their musical skeletons in the closet.",
-      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1723487092-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=c1fb98c6-334a-4d3e-b272-de0dcf109f27&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

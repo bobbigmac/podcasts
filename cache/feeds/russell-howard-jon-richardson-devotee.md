@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-25T23:16:09+00:00`
-- checked_at: `2026-10-25T23:16:09+00:00`
-- etag: `W/"5f8b1-LG9h5XdqTp+3fSPvgL9A7KfY/TA"`
+- fetched_at: `2026-10-26T12:59:45+00:00`
+- checked_at: `2026-10-26T12:59:45+00:00`
+- etag: `W/"60a14-4ppJL/3bfGZ112oynYeK9cvmkio"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,56 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-25T23:16:09+00:00",
+  "fetched_at": "2026-10-26T12:59:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a93b0648bd98656d6f2f6236b20ba9d99ccec749",
+      "title": "#24 The Jon Richardson Podcast – Featuring Rob Deering",
+      "published_at": "2026-10-26T11:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-The-Jon-Richardson-Podcast--Featuring-Rob-Deering-e3r2bse",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792945391139-4d6255ed22c8.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7155657261.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70856769",
+      "itunes_duration": "01:13:01",
+      "speakers": [
+        "Rob Deering",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "deering"
+      ]
+    },
+    {
+      "key": "6524e18570af364a68d0c0bf23809bf29919a92c",
+      "title": "#23 The Jon Richardson Podcast – Featuring Danny Buckler",
+      "published_at": "2026-10-26T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-The-Jon-Richardson-Podcast--Featuring-Danny-Buckler-e3r2bfj",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792944782596-600a8ed869ca5.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3260500740.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72278401",
+      "itunes_duration": "01:14:29",
+      "speakers": [
+        "Danny Buckler",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "danny",
+        "buckler"
+      ]
+    },
     {
       "key": "46b20133aa3137f981c71f480007a2bfbd3b6d99",
       "title": "#22 The Jon Richardson Podcast – Featuring Rhod Gilbert",
@@ -6096,6 +6139,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — #24 The Jon Richardson Podcast – Featuring Rob Deering — speakers: Rob Deering, Jon Richardson
+- 2026-10-26 — #23 The Jon Richardson Podcast – Featuring Danny Buckler — speakers: Danny Buckler, Jon Richardson
 - 2026-10-25 — #22 The Jon Richardson Podcast – Featuring Rhod Gilbert — speakers: Jon Richardson
 - 2026-10-24 — #21 The Jon Richardson Podcast – Featuring Pappys Fun Club — speakers: Jon Richardson
 - 2026-10-23 — #20 The Jon Richardson Podcast – Featuring Andy Zaltzman — speakers: Andy Zaltzman, Jon Richardson

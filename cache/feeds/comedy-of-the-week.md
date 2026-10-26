@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- etag: `"2b8aa0013d0e5d40766002f078af3a1b"`
-- last_modified: `Tue, 20 Oct 2026 04:00:05 GMT`
+- fetched_at: `2026-10-26T12:59:45+00:00`
+- checked_at: `2026-10-26T12:59:45+00:00`
+- etag: `"cbbe72c96586abd24f0bd0e55b68266e"`
+- last_modified: `Mon, 26 Oct 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-26T12:59:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "7c363253de3e15186cb88e239708af9a51673192",
+      "title": "Evil Animals - Crows",
+      "published_at": "2026-10-26T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pj70rw",
+      "description": "Join Russell Kane as he rummages through nature’s police files, potentially exposing that glossy sinister feathered felon: the Crow. Let’s face it, Gwyneth Pal-crows have one of the worst reps of all birds. Think about it: Penguins? Lovely. Puffins? Legends! Crows? DEATH. Helping Russell sort the caw-caws from the jackdaws, are comedian Desiree Burch and the Natural History Museum’s Principal Curator of Birds, Dr. Alex Bond. Are Crows ‘Bad News with Wings’ or ‘Feathered Fantastics’? Listen with your ears to find out. Written by: Eve Delaney, Ruth Huskisson and Christina Riggs. Additional material: Angela Channell and Catherine Beazley. Researcher: Catherine Beazley Sound Recordist: Gareth Wood Digital Editor: Jerry Peal Production Coordinator: Liz Tuohy Executive Producer: Paul Smith Producer: Simon Nicholls Evil Animals with Russell Kane is a BBC Studios Production for BBC Sounds.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj709m.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31744000",
+      "itunes_duration": "1984",
+      "speakers": [
+        "Russell Kane"
+      ],
+      "topics": [
+        "animals",
+        "crow"
+      ]
+    },
     {
       "key": "a21aedc4637fc107e8cb5b3bc8a11cc3c5c423c0",
       "title": "General Election",
@@ -1011,6 +1030,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Evil Animals - Crows — speakers: Russell Kane
 - 2026-10-19 — General Election
 - 2026-10-12 — Room 101 with Paul Merton — speakers: Paul Merton
 - 2026-10-05 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott

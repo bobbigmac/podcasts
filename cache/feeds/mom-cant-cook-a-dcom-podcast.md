@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-10-12T10:46:55+00:00`
-- checked_at: `2026-10-12T10:46:55+00:00`
-- last_modified: `Mon, 12 Oct 2026 06:30:04 GMT`
+- fetched_at: `2026-10-26T12:59:45+00:00`
+- checked_at: `2026-10-26T12:59:45+00:00`
+- last_modified: `Mon, 26 Oct 2026 07:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-10-12T10:46:55+00:00",
+  "fetched_at": "2026-10-26T12:59:45+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9a0a98bc8ee88978f2fd4d8ee4d8687be63d8043",
+      "title": "Zombies",
+      "published_at": "2026-10-26T07:30:00+00:00",
+      "link": null,
+      "description": "Zed is nervous for his first day at high school for the usual reasons: he wants to try out for the football team, he has a crush on a cheerleader, and of course, the fact that if the electromagnetic wristband he has to constantly wear malfunctions for even a solitary second he might give in to his innate bloodlust and fall upon his classmates, tearing the flesh from their bones with his pitiless teeth. That's because Zed is a zombie, and the film Zombies is insane. Will Zed and the other zombies be accepted at human school? Can romance blossom between Zed and wannabe cheerleader Addison, who has a dark secret of her own? And, oh no, is this whole thing a problematic metaphor for racism? Join us as we try our best to get through this one! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Zombies and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2006's Return to Halloweentown. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/tracking.swap.fm/track/IVPmvUWSCISCVAzWNnnJ/rss.art19.com/episodes/470ab8cc-ac1c-4aff-9f87-70cff464ddce.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132756793",
+      "itunes_duration": "02:18:17",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "zombie"
+      ]
+    },
     {
       "key": "2fca71b495642c7564cba3972b1164e25d755933",
       "title": "My Babysitter's a Vampire",
@@ -2353,6 +2372,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-26 — Zombies — speakers: Luke Westaway, Andy Farrant
 - 2026-10-12 — My Babysitter's a Vampire — speakers: Luke Westaway, Andy Farrant
 - 2026-09-28 — Mr. Headmistress — speakers: Luke Westaway, Andy Farrant
 - 2026-09-14 — A Sound of Thunder — speakers: Luke Westaway, Andy Farrant
