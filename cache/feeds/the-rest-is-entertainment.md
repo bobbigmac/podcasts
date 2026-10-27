@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-22T04:42:29+00:00`
-- checked_at: `2026-10-22T04:42:29+00:00`
-- last_modified: `Thu, 22 Oct 2026 00:31:10 GMT`
+- fetched_at: `2026-10-27T00:25:25+00:00`
+- checked_at: `2026-10-27T00:25:25+00:00`
+- last_modified: `Tue, 27 Oct 2026 00:15:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-22T04:42:29+00:00",
+  "fetched_at": "2026-10-27T00:25:25+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -28,8 +28,77 @@
   ],
   "episodes": [
     {
+      "key": "d51805746669272b1a5b0a38ed9b9a4cb54f430a",
+      "title": "The Netflix Bloodbath: Explained",
+      "published_at": "2026-10-27T00:05:00+00:00",
+      "link": null,
+      "description": "What’s gone wrong inside Netflix? Is Trump still suing the BBC? How did the Ghosts and Horrible Histories team create a global comedy success story? With mass layoffs and a plummeting share price, Netflix is in trouble. Does the streaming giant have a cinema problem? Richard and Marian discuss the film spin-off of hit BBC sitcom Ghosts, and the brilliant comedy team behind it. Donald Trump is getting cold feet in his $10bn battle with the BBC. Why does the US president keep stalling proceedings? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com ⁠ Video Editor: Adam Thornton, Louis Mealing and Tom McCagherty Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ae16be16-d14c-11f1-97a1-bbcc0410cd64/image/3d56a2b9018ef1f2645206913a6f7316.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7060774955.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2789",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "netflix",
+        "bloodbath"
+      ]
+    },
+    {
+      "key": "48e5bbf0fc8a26fbf4682d084967270587a0e6b9",
+      "title": "Who Is The Faithful's Only Hope? - Celeb Traitors Reaction (Episode 8)",
+      "published_at": "2026-10-23T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE EIGHT OF CELEBRITY TRAITORS Will the celebs regret their final decisions? Is Maya 'too hot' to lose? Are these history's worst ever Faithful? Richard Osman and Marina Hyde discuss the latest epic instalment of The Celebrity Traitors. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Oli Ortega-Smith, Caroline Kaye & Lorcan Moullier Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c15a56a0-cf11-11f1-8aff-b3215d3255fa/image/2033f2e0d628a1e9405bb9d8e4f62d26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6270833274.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2253",
+      "speakers": [
+        "Only Hope",
+        "Celeb Traitors Reaction",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "faithful",
+        "hope",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
+    {
+      "key": "40933d09e5cb94142036713aa5351c2b4bb89e1a",
+      "title": "Is Sharon A Dark Horse? - Celeb Traitors Reaction (Episode 7)",
+      "published_at": "2026-10-22T21:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE SEVEN OF CELEBRITY TRAITORS What went on with THAT challenge? Will the Traitors fracture? Is Sharon a true Poundland Poirot? Richard Osman and Marina Hyde are back for another episode reviewing this week’s castle crises! The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Adam Thornton and James Clayden Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f6213f4e-ce39-11f1-8065-7fc99f60d034/image/73547729bb8bf28d79cedb935eb5a413.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9062401741.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2380",
+      "speakers": [
+        "Dark Horse",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "sharon",
+        "horse",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
+    {
       "key": "9f133ab474446787b03d5d83e5b2040b8ffb9136",
-      "title": "Will George RR Martin Ever Finish Game Of Thrones?",
+      "title": "The Dark World of Max Clifford’s Celebrity PR",
       "published_at": "2026-10-21T23:10:00+00:00",
       "link": null,
       "description": "What happens if George RR Martin dies before he finishes his book series? How do famous actors learn their lines? What are the dark secrets of celebrity publicists? Marina Hyde and Richard Osman answer your questions on unfinished manuscripts, gay romance on screen and the world of tabloid kiss and tells. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -39,17 +108,16 @@
       "enclosure_length": "0",
       "itunes_duration": "1856",
       "speakers": [
-        "Martin Ever",
+        "Max Clifford’s Celebrity",
         "George RR Martin",
         "Richard Osman",
         "Marina Hyde"
       ],
       "topics": [
-        "george",
-        "martin",
-        "finish",
-        "game",
-        "thrones"
+        "dark",
+        "world",
+        "clifford",
+        "celebrity"
       ]
     },
     {
@@ -7098,7 +7166,10 @@
 
 ## Episodes (newest first)
 
-- 2026-10-21 — Will George RR Martin Ever Finish Game Of Thrones? — speakers: Martin Ever, George RR Martin, Richard Osman, Marina Hyde
+- 2026-10-27 — The Netflix Bloodbath: Explained — speakers: Richard Osman, Marina Hyde
+- 2026-10-23 — Who Is The Faithful's Only Hope? - Celeb Traitors Reaction (Episode 8) — speakers: Only Hope, Celeb Traitors Reaction, Richard Osman, Marina Hyde
+- 2026-10-22 — Is Sharon A Dark Horse? - Celeb Traitors Reaction (Episode 7) — speakers: Dark Horse, Richard Osman, Marina Hyde
+- 2026-10-21 — The Dark World of Max Clifford’s Celebrity PR — speakers: Max Clifford’s Celebrity, George RR Martin, Richard Osman, Marina Hyde
 - 2026-10-19 — Russell Brand: Trial By Podcast — speakers: Russell Brand, Richard Osman, Marina Hyde
 - 2026-10-16 — Can You Out Think The Show? - Celeb Traitors Reaction (Episode 6) — speakers: Celeb Traitors Reaction, Richard Osman, Marina Hyde
 - 2026-10-15 — “It’s Not Just A Game” - Celeb Traitors Reaction (Episode 5) — speakers: Richard Osman, Marina Hyde
