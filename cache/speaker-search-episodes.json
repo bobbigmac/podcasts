@@ -10948,6 +10948,28 @@
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "4d1d4477b7fe8113a44271fb1dfbb3251f9caeac",
+        "episode_key": "4d1d4477b7fe8113a44271fb1dfbb3251f9caeac",
+        "title": "Jessica Fostekew: Barristers, Gravity and a Charred Jürgen Klopp",
+        "published_at": "2026-10-26T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harry’s friend Loggy needs the heating turned up, then comedian and Guilty Feminist co-host Jessica Fostekew stops by to talk Club Night, training as a barrister before quitting to do stand-up, and the unexpected size of her nostrils after indoor skydiving. Professor Chris Lintott joins us to talk us through why gravit",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6ad618139c48ea3eb210dc74/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jessica-fostekew-barristers-gravity-and-a/id1742178595?i=1000798120457&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
         "dedupe_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
         "episode_key": "69ca2c989669fd94132351fc8aa4f674380a8bf9",
         "title": "Leigh Francis: Following Richard and Judy in Character, Lord Byron’s Many Affairs and Harry's freaky ex!",
@@ -14016,6 +14038,28 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "01e62268eab92a3f176be83bf95c721a21b12835",
+        "episode_key": "01e62268eab92a3f176be83bf95c721a21b12835",
+        "title": "#25 The Jon Richardson Podcast – Featuring Richard Herring",
+        "published_at": "2026-10-26T15:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson.\nBefore becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music.\nExpect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson",
+        "audio_url": "https://traffic.megaphone.fm/APO6203521407.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/25-the-jon-richardson-podcast-featuring-richard-herring/id1866254969?i=1000798195633&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:fd87195847f7",
         "feed_title": "Wrong Turns with Jameela Jamil",

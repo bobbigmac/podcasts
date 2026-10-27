@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-26T12:59:45+00:00`
-- checked_at: `2026-10-26T12:59:45+00:00`
-- etag: `W/"60a14-4ppJL/3bfGZ112oynYeK9cvmkio"`
+- fetched_at: `2026-10-27T08:57:48+00:00`
+- checked_at: `2026-10-27T08:57:48+00:00`
+- etag: `W/"6125c-mpMFWFiCT53XPxwBBDv6U1PtCkg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,77 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-26T12:59:45+00:00",
+  "fetched_at": "2026-10-27T08:57:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8db6dc49736bacb827900614d773d6e88fd352ad",
+      "title": "#27 The Jon Richardson Podcast – Featuring Al Pitcher",
+      "published_at": "2026-10-27T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/27-The-Jon-Richardson-Podcast--Featuring-Al-Pitcher-e3r4lkl",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793039325722-e122e71970cb2.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7467742775.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72858604",
+      "itunes_duration": "01:15:05",
+      "speakers": [
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "pitcher"
+      ]
+    },
+    {
+      "key": "5e94bd9f2e2698c1278ff2b101af2aa86c46a86a",
+      "title": "#26 The Jon Richardson Podcast – Featuring John Robins",
+      "published_at": "2026-10-26T19:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/26-The-Jon-Richardson-Podcast--Featuring-John-Robins-e3r4kq7",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793038981312-ecd979aef875c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4574816600.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78306972",
+      "itunes_duration": "01:20:41",
+      "speakers": [
+        "John Robins",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "5e987614d9a652fad17833ff6a3089b2f0eba68e",
+      "title": "#25 The Jon Richardson Podcast – Featuring Richard Herring",
+      "published_at": "2026-10-26T15:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/25-The-Jon-Richardson-Podcast--Featuring-Richard-Herring-e3r2c9v",
+      "description": "Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1792946024028-3681dde3ef001.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6203521407.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77902916",
+      "itunes_duration": "01:20:16",
+      "speakers": [
+        "Richard Herring",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "richard",
+        "herring"
+      ]
+    },
     {
       "key": "a93b0648bd98656d6f2f6236b20ba9d99ccec749",
       "title": "#24 The Jon Richardson Podcast – Featuring Rob Deering",
@@ -6049,88 +6113,6 @@
         "josie",
         "long"
       ]
-    },
-    {
-      "key": "2c8afa1ba94977dcc4479e189dadfe96e5fef23a",
-      "title": "#28 Jon Richardson Podcast with Tim Vine",
-      "published_at": "2026-03-08T14:40:50+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/28-Jon-Richardson-Podcast-with-Tim-Vine-e3g45v2",
-      "description": "#28 Jon Richardson Podcast with Tim Vine",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772980841323-214c5f7ea9b4d.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116577698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2Fab43daa7-9171-467a-e079-dcb2de72c969.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58103744",
-      "itunes_duration": "01:20:41",
-      "speakers": [
-        "Tim Vine"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "vine"
-      ]
-    },
-    {
-      "key": "a7ed985ac56cd3413f46d68bf60cef55dea54ddf",
-      "title": "#27 Jon Richardson Podcast with Al Pitcher",
-      "published_at": "2026-03-05T19:44:31+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/27-Jon-Richardson-Podcast-with-Al-Pitcher-e3g0d1e",
-      "description": "#27 Jon Richardson Podcast with Al Pitcher",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772739843650-cceeb7d63b923.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116453870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-5%2F4b39002e-483c-a5eb-e9f6-3d6b4d198220.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "54062240",
-      "itunes_duration": "01:15:05",
-      "speakers": [
-        "Al Pitcher"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "pitcher"
-      ]
-    },
-    {
-      "key": "9c2ea7409c37dc65b99059d6783da033cf4aa015",
-      "title": "#26 Jon Richardson Podcast with John Robins",
-      "published_at": "2026-03-05T11:42:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/26-Jon-Richardson-Podcast-with-John-Robins-e3ful9q",
-      "description": "#26 Jon Richardson Podcast with John Robins",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772653382301-e942c97255bcb.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2F09aaf153-e87a-f693-18d1-dfd818f41d31.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58104320",
-      "itunes_duration": "01:20:41",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "john",
-        "robins"
-      ]
-    },
-    {
-      "key": "64892fc998d6780df2fc512b3b2ec2e0e42962ed",
-      "title": "#25 Jon Richardson Podcast with Richard Herring",
-      "published_at": "2026-03-05T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/25-Jon-Richardson-Podcast-with-Richard-Herring-e3ful6b",
-      "description": "#25 Jon Richardson Podcast with Richard Herring",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1772653231407-fe6b7c77a2906.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116396683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-4%2F0348231f-9f16-2679-e0cd-0382826dfa6d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57804512",
-      "itunes_duration": "01:20:16",
-      "speakers": [
-        "Richard Herring"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "richard",
-        "herring"
-      ]
     }
   ]
 }
@@ -6139,6 +6121,9 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — #27 The Jon Richardson Podcast – Featuring Al Pitcher — speakers: Jon Richardson
+- 2026-10-26 — #26 The Jon Richardson Podcast – Featuring John Robins — speakers: John Robins, Jon Richardson
+- 2026-10-26 — #25 The Jon Richardson Podcast – Featuring Richard Herring — speakers: Richard Herring, Jon Richardson
 - 2026-10-26 — #24 The Jon Richardson Podcast – Featuring Rob Deering — speakers: Rob Deering, Jon Richardson
 - 2026-10-26 — #23 The Jon Richardson Podcast – Featuring Danny Buckler — speakers: Danny Buckler, Jon Richardson
 - 2026-10-25 — #22 The Jon Richardson Podcast – Featuring Rhod Gilbert — speakers: Jon Richardson
@@ -6400,7 +6385,3 @@
 - 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby
 - 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
 - 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long
-- 2026-03-08 — #28 Jon Richardson Podcast with Tim Vine — speakers: Tim Vine
-- 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
-- 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins
-- 2026-03-05 — #25 Jon Richardson Podcast with Richard Herring — speakers: Richard Herring

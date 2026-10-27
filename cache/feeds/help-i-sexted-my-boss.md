@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-23T11:36:50+00:00`
-- checked_at: `2026-10-23T11:36:50+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RJM05UTTJNREU1T1RBPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-27T08:57:48+00:00`
+- checked_at: `2026-10-27T08:57:48+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RNd09EQTRNems0TXprPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-23T11:36:50+00:00",
+  "fetched_at": "2026-10-27T08:57:48+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f00f92ce21cc505f4093d0547319a3393ff7f46c",
+      "title": "Help I Hooked Up With Her Dad | And Halloween Dress Codes",
+      "published_at": "2026-10-27T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-hooked-up-with-her-dad-and-halloween-dress-codes",
+      "description": "After Jordan proclaims to have discovered ‘sound bars’, William has a revelation of his own to admit that will, for once, have us asking - “Has he changed?” The boys also tackle your dilemmas on finding nits in your beard and how to tell your coworker you’ve been naughty with their dad. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1793047583533-524d4dd6-a2ae-4e2f-813a-1bb65276ee89.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6adf4263f3adf7b6ccab2f0b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WLT3PSOzWzRVdQYv7BY-pTrJYkYTiXC1jzGlb9sOHTk",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44560718",
+      "itunes_duration": "46:25",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "halloween",
+        "dress",
+        "codes"
+      ]
+    },
     {
       "key": "deac35de0cbe87e4921248c207ca61f657e32a08",
       "title": "Sexted Spelling Bee And Jordan’s Weekend Candle",
@@ -15308,6 +15329,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — Help I Hooked Up With Her Dad | And Halloween Dress Codes — speakers: William Hanson, Jordan North
 - 2026-10-23 — Sexted Spelling Bee And Jordan’s Weekend Candle — speakers: Jordan North, William Hanson
 - 2026-10-20 — Help There’s An Old Man Watching | And William's Coffee Whinge — speakers: Coffee Whinge, William Hanson, Jordan North
 - 2026-10-16 — Middle Class Problems | And How To Wipe Your Willy — speakers: Jordan North, William Hanson
