@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-26T20:29:14+00:00`
-- checked_at: `2026-10-26T20:29:14+00:00`
-- etag: `"djEuMi4wOjE3OTMwMzMwMjAyOTk="`
+- fetched_at: `2026-10-27T22:12:30+00:00`
+- checked_at: `2026-10-27T22:12:30+00:00`
+- etag: `"djEuMi4wOjE3OTMwOTI1NjQyMDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-26T20:29:14+00:00",
+  "fetched_at": "2026-10-27T22:12:30+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "5bf9c0598b8f4cb865483c9a04c3e2aa1347716f",
-      "title": "Show we scrap the Budget?",
+      "title": "Should we scrap the Budget?",
       "published_at": "2026-10-26T16:43:40+00:00",
       "link": "https://shows.acast.com/newstatesman/episodes/show-we-scrap-the-budget",
       "description": "We are in the middle of the usual annual tradition of pre-Budget speculation. Westminster tries to guess what the Chancellor will announce, while the Treasury attempts to make clever briefings to roll the pitch for its plans. But is there a fundamental problem with the whole ritual? Anoosh Chakelian is joined by Will Dunn to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
@@ -32759,7 +32759,7 @@
 
 ## Episodes (newest first)
 
-- 2026-10-26 — Show we scrap the Budget? — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-10-26 — Should we scrap the Budget? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-24 — Martin Lewis is "on speed dial to Number 10" — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore
 - 2026-10-22 — Labour split over Jackdaw — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-21 — US midterms: Where are the key battlegrounds? — speakers: Anoosh Chakelian, Oli Dugmore

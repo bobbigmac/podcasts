@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-10-24T10:58:06+00:00`
-- checked_at: `2026-10-24T10:58:06+00:00`
-- etag: `W/"d1516f9025096d51994dfbd813ddf14e"`
-- last_modified: `Wed, 14 Oct 2026 13:48:07 GMT`
+- fetched_at: `2026-10-27T22:12:30+00:00`
+- checked_at: `2026-10-27T22:12:30+00:00`
+- etag: `W/"d3554cb985c47bd99d1e5199f06afdb2"`
+- last_modified: `Tue, 27 Oct 2026 16:47:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-10-24T10:58:06+00:00",
+  "fetched_at": "2026-10-27T22:12:30+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,27 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "551c3b4435ef9334235c0adafa220ea34d92c2bb",
+      "title": "194: Hot Cheeks and Cheesecake",
+      "published_at": "2026-10-27T16:46:27+00:00",
+      "link": "https://audioboom.com/posts/8969852",
+      "description": "Who has the best campaign trail zingers? In Detroit, Barack Obama roasted Donald Trump's taste in interior decor — while the current POTUS picked a fight with . . . Norway? Plus: the AI hacking threat, and the secret celeb who wants an injunction.",
+      "image_url": "https://audioboom.com/i/43906215/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8969852.mp3?modified=1793119660&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2814",
+      "speakers": [
+        "Barack Obama",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "cheeks",
+        "cheesecake"
+      ]
+    },
     {
       "key": "05c3e82f036dece9d5b5b14edf202b980f54d683",
       "title": "193: The Jeffrey Archer Tribute Show",
@@ -4122,6 +4143,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — 194: Hot Cheeks and Cheesecake — speakers: Barack Obama, Andrew Hunter Murray, Ian Hislop
 - 2026-10-13 — 193: The Jeffrey Archer Tribute Show — speakers: Ian Hislop, Andrew Hunter Murray
 - 2026-09-29 — 192: Who Cares? — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-09-15 — 191: Delo Or No Delo — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop

@@ -187,13 +187,13 @@
       "last_error_message": "Unauthorized"
     },
     "daily-politics-from-the-new-statesman": {
-      "last_checked_at": "2026-10-26T20:29:14+00:00",
-      "last_checked_unix": 1793046558,
-      "etag": "\"djEuMi4wOjE3OTMwMzMwMjAyOTk=\""
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139153,
+      "etag": "\"djEuMi4wOjE3OTMwOTI1NjQyMDQ=\""
     },
     "firelink": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114466,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139153,
       "etag": "W/\"41af2-bIs4ak//1KvOrH1Uq0fVIePPUvk\""
     },
     "irish-celtic-music-podcast": {
@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114466,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139153,
       "etag": "\"djEuMi4wOjE3OTIxMjMyNDAyODE=\""
     },
     "judge-dredd": {
@@ -230,9 +230,9 @@
       "consecutive_failures": 0
     },
     "natural-six": {
-      "last_checked_at": "2026-10-20T19:15:31+00:00",
-      "last_checked_unix": 1792523736,
-      "etag": "\"djEuMi4wOjE3OTI1MjI4Mzk0OTQ=\""
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139153,
+      "etag": "\"djEuMi4wOjE3OTMxMzEyMzkzODc=\""
     },
     "mystery-quest": {
       "last_checked_at": "2026-10-23T17:05:26+00:00",
@@ -268,10 +268,10 @@
       "disabled_reason": "3 consecutive failures"
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114466,
-      "etag": "W/\"d1516f9025096d51994dfbd813ddf14e\"",
-      "last_modified": "Wed, 14 Oct 2026 13:48:07 GMT"
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139153,
+      "etag": "W/\"d3554cb985c47bd99d1e5199f06afdb2\"",
+      "last_modified": "Tue, 27 Oct 2026 16:47:34 GMT"
     },
     "perfect-10-with-carol-vorderman": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -284,9 +284,9 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114466,
-      "etag": "\"djEuMi4wOjE3OTMxMTA3NzQyOTA=\""
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139159,
+      "etag": "\"djEuMi4wOjE3OTMxMjAwNDgxNDA=\""
     },
     "ramon-fears-terror-tapes": {
       "last_checked_at": "2026-06-18T15:52:36+00:00",
@@ -331,8 +331,8 @@
       "etag": "\"ec0680c043d45e10ac6147a2ae249ea2\""
     },
     "the-comedians-comedian-podcast": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114467,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139160,
       "etag": "\"djEuMi4wOjE3OTIxMzc2Mzk0NDg=\""
     },
     "the-conversation-weekly": {
@@ -372,9 +372,9 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114467,
-      "etag": "W/\"1be90-IfgW5MURW4xMXYnYonZQmZzei0c\""
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139160,
+      "etag": "W/\"1be90-osterPPzzYMRi47HOQxgchyF2oE\""
     },
     "the-romesh-ranganathan-show": {
       "last_checked_at": "2026-10-26T04:44:53+00:00",
@@ -383,8 +383,8 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114467,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139161,
       "etag": "\"djEuMi4wOjE3OTI5ODU0Mzk0Mzg=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
@@ -394,8 +394,8 @@
       "etag": "\"djEuMi4wOjE3OTI5Mzg0NDY4ODk=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114467,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139161,
       "etag": "W/\"464ac-NLBxzm0ij38D2VcxV2WwwIdqup8\""
     },
     "xbox-casuals-an-xbox-podcast": {
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTI1NDA4OTk0NjA=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114468,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139161,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,8 +486,8 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114468,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139161,
       "last_modified": "Sat, 24 Oct 2026 08:40:40 GMT"
     },
     "chatabix": {
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114468,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139161,
       "etag": "\"djEuMi4wOjE3OTMwMTE1MDc5NzE=\"",
       "consecutive_failures": 0
     },
@@ -542,8 +542,8 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114469,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139162,
       "etag": "\"djEuMi4wOjE3OTMwMTc0NzAxODg=\"",
       "consecutive_failures": 0
     },
@@ -553,8 +553,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-10-27T15:21:02+00:00",
-      "last_checked_unix": 1793114470,
+      "last_checked_at": "2026-10-27T22:12:30+00:00",
+      "last_checked_unix": 1793139163,
       "etag": "\"3091d55efa3d6e501e95699f674a2209\"",
       "last_modified": "Fri, 02 Oct 2026 15:20:41 GMT"
     },
@@ -638,5 +638,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-10-27T15:21:02+00:00"
+  "updated_at": "2026-10-27T22:12:30+00:00"
 }
