@@ -37389,6 +37389,28 @@
     ],
     "richard-ayoade": [
       {
+        "feed_slug": "external:apple:38af9f321ca6",
+        "feed_title": "9Natree Korean",
+        "source_rss_url": "https://korean.9natree.com/feed.xml",
+        "dedupe_key": "c8f4c378e5df7a5ad057f0ade7f148b56074cc1a",
+        "episode_key": "c8f4c378e5df7a5ad057f0ade7f148b56074cc1a",
+        "title": "[리뷰] Ayoade on Ayoade: A Cinematic Odyssey (Richard Ayoade) 요약 완료.",
+        "published_at": "2026-10-26T16:05:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ayoade on Ayoade: A Cinematic Odyssey (Richard Ayoade)\n\n\n\n- Amazon USA Store: https://www.amazon.com/dp/B00LRI2ZSY?tag=9natree-20 \n\n\n- Amazon Worldwide Store: https://global.buys.trade/Ayoade-on-Ayoade%3A-A-Cinematic-Odyssey-Richard-Ayoade.html \n\n\n\n- Apple Books: https://books.apple.com/us/audiobook/ayoade-on-ayoade-un",
+        "audio_url": "https://episodes.castos.com/660078c6833215-59505987/2673694/c1e-x0wonckrvw0tr2jm7-1pp5x5vxh4vx-8iqgkt.mp3?awCollectionId=72407&awEpisodeId=https%3A%2F%2Fpermalink.castos.com%2Fpodcast%2F72407%2Fepisode%2F2673694&aw_0_1st.ri=castos&aw_0_cnt.rss=https%3A%2F%2Ffeeds.castos.com%2Fmww58&aw_0_azn.pgenre=%5BEducation%2CBusiness%2CTechnology%5D&aw_0_cnt.url=https%3A%2F%2F9natreekr.castos.com%2Fepisodes%2Fayoade-on-ayoade-a-cinematic-odyssey-richard-ayoade&aw_0_azn.planguage=ko&q_co=63f20a15217a21b7071f19abfd78b34814d270d2e82068ac7b3603abf18b2b4d",
+        "link_url": "https://podcasts.apple.com/gb/podcast/%EB%A6%AC%EB%B7%B0-ayoade-on-ayoade-a-cinematic-odyssey-richard-ayoade-%EC%9A%94%EC%95%BD-%EC%99%84%EB%A3%8C/id6817017114?i=1000798205642&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b6e6a4790fe0",
         "feed_title": "Funny Stories",
         "source_rss_url": "https://www.spreaker.com/show/7453893/episodes/feed",
@@ -37689,6 +37711,28 @@
         "description": "AHOY!\n\n \n\nThis week, the boys gab abut the coming of age Welsh tale that is Submarine. \n\n \n\nAn R rated teem movie is pretty strange but this movie is pretty damn strange.\n\n \n\nListen now and tell a friend!\n\n \n\nThanks",
         "audio_url": "https://mcdn.podbean.com/mf/web/ym4b22ha923h443r/DAMOOBIESsubedit.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/submarine-2010-richard-ayoade/id1828832189?i=1000731147826&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:56cf063bc1cf",
+        "feed_title": "Learning British",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68e24e6a965488b63a9882bf",
+        "dedupe_key": "b9c8ec2efb941a6e8a177448cc7bc3e900ba4801",
+        "episode_key": "b9c8ec2efb941a6e8a177448cc7bc3e900ba4801",
+        "title": "Garth Marenghi's Darkplace w/ Richard Ayoade and Matt Berry | Learning British",
+        "published_at": "2025-07-25T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "\"Two words: telekinesis.\"\nGARTH MARENGHI'S DARKPLACE is a horror parody series following fictional horror author Garth Marenghi (Matthew Holness) and his TV show DARKPLACE, presented as real in-universe, with commentary from producer Dean Learner (Richard Ayoade), actor Todd Rivers (Matt Berry), and actress Madeleine W",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68e24e6a965488b63a9882bf/e/f37d6c4e-a346-4290-b820-a512c650540d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/garth-marenghis-darkplace-w-richard-ayoade-and-matt/id1736380209?i=1000719046894&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -42311,6 +42355,28 @@
         "description": "'Oh my dog!' with Jack Dee and Seann Walsh\n\nIn the first episode of Oh My Dog, Seann introduces us to Mildred-Barrett, his cockapoo, and we get to know Jack's long haired chihuahua, Dolly. \nSeann reveals his nickname for Mildred and the voice he uses when he speaks to her. And if you've ever wondered what kind of voice",
         "audio_url": "https://anchor.fm/s/10b7d8230/podcast/play/110960068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2F412185060-44100-2-d03ef4ea4f05afbd.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/s1-ep1-dolly-and-mildred-barrett/id1675517221?i=1000602887357&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Another Day Ruined",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "ffc51394d47f9fd335302350b79d4f70c4ca84e1",
+        "episode_key": "ffc51394d47f9fd335302350b79d4f70c4ca84e1",
+        "title": "TRAILER: 'Oh My Dog!' with Jack Dee and Seann Walsh - COMING SOON!",
+        "published_at": "2023-03-03T14:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "'Oh My Dog!' with Jack Dee and Seann Walsh - COMING SOON! \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+        "audio_url": "https://anchor.fm/s/10b7d8230/podcast/play/110960032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2F412185044-44100-2-7df524fb2386e387.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/trailer-oh-my-dog-with-jack-dee-and-seann-walsh-coming-soon/id1675517221?i=1000602648699&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
