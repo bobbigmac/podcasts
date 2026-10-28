@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-23T04:47:49+00:00`
-- checked_at: `2026-10-23T04:47:49+00:00`
-- etag: `"djEuMi4wOjE3OTI3MjU2MzkyODU="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNjEyMzkzMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-23T04:47:49+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ab7b1a6dc99e91d1a3b05f0e34d6acb222d3c573",
+      "title": "HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693",
+      "published_at": "2026-10-28T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the wonderful actor, producer and all round legend HANNAH WALTERS ! Hannah's appearance is a long time coming, some might even venture to say overdue, but this is someone who is of course always welcome. A really fun and also very focused chat which hits on so many of the points you would hope for and very likely so much more, including the powerful work put out by her company Matriarch Productions (co-founded with husband Stephen Graham), how to navigate the desire to act alongside parenting and being married to a full time actor, the very delicate dance of accents, and her pivotal role in the (at time of publishing) upcoming 'Amazing Grace'. So much goodness in here and just a solid classic DPP episode. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature IMDB AMAZING GRACE INSTAGRAM MATRIARCH PRODUCTIONS SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1793029769276-f5a427fc-2851-47c0-b1db-70ae4386701b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6adf7a350e0585e9dc3befad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183489417",
+      "itunes_duration": "1:16:22",
+      "speakers": [],
+      "topics": [
+        "hannah",
+        "walter",
+        "amazing",
+        "grace",
+        "matriarch",
+        "productions",
+        "thousand",
+        "blows",
+        "adolescence"
+      ]
+    },
     {
       "key": "1b61bfafd04b3a6dc47515f5b68b3556552f9982",
       "title": "KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind",
@@ -19854,6 +19878,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693
 - 2026-10-23 — KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind
 - 2026-10-21 — STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692 — speakers: Jessie Roux
 - 2026-10-16 — SUZY EDDIE IZZARD (The Tragedy Of Hamlet / Watson / Dr Jekyll) • Friday Rewind

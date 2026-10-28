@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-27T08:57:48+00:00`
-- checked_at: `2026-10-27T08:57:48+00:00`
-- etag: `"djEuMi4wOjE3OTMwNzAwMzk1MjY="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNTY0Mzk1Mzk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-27T08:57:48+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "abb34fb2397b31f06b19e67dee6c06458654ad5d",
+      "title": "S17 Ep 909: A New Series & A Brand New Puppy - Part 2",
+      "published_at": "2026-10-28T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-909-a-new-series-a-brand-new-puppy-part-2",
+      "description": "Picking up from yesterday’s show, we’ve even more puppy chat for you. So stand by for some toilet training tips, doggy WhatsApp groups, reminiscing about Barbara Woodhouse and the possibility of David and Joe staring a podcast about dogs. Plus, David reveals just how much he’s looking forward to lovely winter walks with Martha. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6adb2bca85adacac7d494d30/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35905201",
+      "itunes_duration": "37:24",
+      "speakers": [
+        "Brand New Puppy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "series",
+        "brand",
+        "puppy"
+      ]
+    },
     {
       "key": "a683b96f67de6b4be79c95f0ad925437d36830aa",
       "title": "S17 Ep 908: A New Series & A Brand New Puppy - Part 1",
@@ -16407,6 +16429,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — S17 Ep 909: A New Series & A Brand New Puppy - Part 2 — speakers: Brand New Puppy, Joe Wilkinson, David Earl
 - 2026-10-27 — S17 Ep 908: A New Series & A Brand New Puppy - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-10-26 — S17 Ep 907 Vault Mondays: Wearing Make-Up and Teenage Songs — speakers: Vault Mondays, Wearing Make, Joe Wilkinson, David Earl
 - 2026-10-23 — S16 Ep 906 Last of the Summer Eps: Sex Noises and Men’s Health — speakers: Sex Noises, Health No, Joe Wilkinson, David Earl

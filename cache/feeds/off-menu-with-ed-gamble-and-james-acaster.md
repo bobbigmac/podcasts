@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- etag: `"djEuMi4wOjE3OTI1NTE2Mzk2NjI="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNjAwNDAyMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d963e829b43fe00491c6bdb0214950ad9a7d5eaa",
+      "title": "Rob Auton",
+      "published_at": "2026-10-28T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/rob-auton",
+      "description": "Comedian, poet, author and award-winning podcast Rob Auton is this week’s dream diner. We better get a bigger restaurant – we need room for a lot of sofas. Rob Auton is on tour with his new show ‘Jupiter’. For dates and tickets go to robauton.co.uk Listen to Rob’s podcast, ‘ The Rob Auton Daily Podcast ’, wherever you get your podcasts. Follow Rob on Instagram and TikTok @robauton Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1791194916080-6305de7a-3d15-4119-99a9-d91101bdad41.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac378925558f9dbe25e8c29/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79847296",
+      "itunes_duration": "1:06:32",
+      "speakers": [
+        "Rob Auton",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "auton"
+      ]
+    },
     {
       "key": "13d6f316a4fea37a6023e9ec28b1ed61b631109e",
       "title": "Lara Ricote",
@@ -9080,6 +9101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Rob Auton — speakers: Rob Auton, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-21 — Lara Ricote — speakers: Lara Ricote Award, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-14 — John Cena — speakers: John Cena Wwe, John Cena, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-07 — Paul F. Tompkins (Tasting Menu) — speakers: Bojack Horseman, Ed Gamble, James Acaster, Ben Williams

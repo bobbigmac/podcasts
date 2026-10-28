@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- last_modified: `Tue, 20 Oct 2026 16:29:28 GMT`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- last_modified: `Tue, 27 Oct 2026 15:11:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,56 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9dbc41102f2e145aeed00f9a4b81b538c218f915",
+      "title": "KFCereal, Clint Eastwood & Unacceptable Gym Behaviour",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "link": null,
+      "description": "Does anybody actually enjoy doing box jumps?! In this episode of Wolf & Owl, Rom relives sandwich induced hate and Tom tried to sabotage Romesh’s career - The Tom Davis Show anyone? They conduct a KFC cereal taste test, chat tattoo plans and as well as a shared hatred of box jumps & yearning to wear tank tops. Plus, controversial takes on Clint Eastwood, hot-takes on hollywood classics and a deep dive into giant celebrities. Got a question, dilemma or poem? Email wolfandowlpod@gmail.com A Ranga Bee Production Chapters 00:00 Intro 00:29 Rom’s Non-Vegan Taste Test? 03:00 Tom’s KFCereal Trial 07:08 Lack of Pod Professionalism 12:28 New Hobbies and Tattoo Plans 17:05 Showbiz Names and Clint Eastwood 27:14 WhatsApp Groups 31:09 Giant Celebs 35:38 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/11589ef0-cfcb-11f1-b2f1-2fde8ea33db5/image/4a0c1d6d5def133ac38e27d73fc71eda.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT6669440782.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2433",
+      "speakers": [
+        "Clint Eastwood",
+        "Unacceptable Gym Behaviour Does",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "kfcereal",
+        "clint",
+        "eastwood",
+        "unacceptable",
+        "behaviour"
+      ]
+    },
+    {
+      "key": "32050ac28ef87543568e25092f732bbf7f8ca1ed",
+      "title": "Rob Beckett Crashes The Studio, Romesh’s Rap and The Worst Best Man Speech Ever",
+      "published_at": "2026-10-22T23:00:00+00:00",
+      "link": null,
+      "description": "It’s an email special of Wolf & Owl, and the boys have some serious best man drama to untangle. Tom and Romesh put their celebrity cameo skills to the test, with one of them accidentally dropping a line that sounds suspiciously like a restraining order. Then there’s the worst best man speech ever witnessed, an unexpected visitor and a Titanic theory that falls apart in real time. Plus, the boys announce a very limited-time offer for the festive season. Wolf & Owl cameos are officially open for business. Send your questions and queries to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 01:37 Is Cameo cringe? 06:10 Tom’s cameo for Andy 08:41 Romesh’s cameo for Neil 16:25 The worst best man speech ever 18:57 Someone’s at the door... 19:59 Rob Beckett reads an email 23:01 Which movie character would you replace? 27:36 Wolf & Owl cameos are now open 28:39 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/93990ad2-cc9a-11f1-9034-a79cb5bedc59/image/a4ca09bd110f39a93ea74cd29ac6b634.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1444452497.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1886",
+      "speakers": [
+        "Rob Beckett Crashes",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "beckett",
+        "studio",
+        "romesh",
+        "worst",
+        "best",
+        "speech"
+      ]
+    },
     {
       "key": "5c02c13f85f0bb0179131794ced6858d42d12c47",
       "title": "Peking Jackfruit, Percy Pigs and Tom’s Worst One Night Stand",
@@ -7808,6 +7858,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-27 — KFCereal, Clint Eastwood & Unacceptable Gym Behaviour — speakers: Clint Eastwood, Unacceptable Gym Behaviour Does, Romesh Ranganathan, Tom Davis
+- 2026-10-22 — Rob Beckett Crashes The Studio, Romesh’s Rap and The Worst Best Man Speech Ever — speakers: Rob Beckett Crashes, Romesh Ranganathan, Tom Davis
 - 2026-10-19 — Peking Jackfruit, Percy Pigs and Tom’s Worst One Night Stand — speakers: Percy Pigs, Tom’s Worst, Romesh Ranganathan, Tom Davis
 - 2026-10-15 — Body image, Bum Wiping Technique and Football Academies — speakers: Bum Wiping Technique, Romesh Ranganathan, Tom Davis
 - 2026-10-12 — Contentment, The M.A.S.K. movie and Steven Bartlett — speakers: Steven Bartlett, Tom Pitching, Romesh Ranganathan, Tom Davis

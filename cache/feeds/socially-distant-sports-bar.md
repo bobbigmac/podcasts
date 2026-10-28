@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-26T12:59:45+00:00`
-- checked_at: `2026-10-26T12:59:45+00:00`
-- etag: `"djEuMi4wOjE3OTMwMTE1MDc5NzE="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNDYwNTkyNjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-26T12:59:45+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,24 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "16d4920acf1585892ce0c8647f400c9194736328",
+      "title": "Live At Cheerful Earful (pt 1)",
+      "published_at": "2026-10-28T00:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/live-at-cheerful-earful-pt-1",
+      "description": "Welcome to the first half of our live show from The Cheerful Earful Festival in Clapham , available early and advert-free for Apple subscribers. Elis James, Mike Bubbins and Steff Garrero are back on stage, where Mike has a slightly awkward Edinburgh double-booking to explain. Once that's dealt with, there's Mike Ditka, some questionable half-marathon preparation and the usual amount of nonsense. Mike: Mike Ditka https://www.instagram.com/reel/DTrMqi7Di6m/?igsh=MWQ1dXJqaTA2MDlmag== Elis: Half-Marathon, Half-Cut https://www.instagram.com/reel/DeL1cYwxBAb/?stkn=cnJ4ZDRyYXZlNm41 Part 2, featuring special guest Kate Mason , is also available on Friday, along with the exclusive Bonus Club Q&A on Apple 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6adf2c0db50147298b952ad8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87078720",
+      "itunes_duration": "36:16",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": []
+    },
     {
       "key": "4799794cf2c8466d9838da450ad2afc3c7534501",
       "title": "I Took The Ferry: Pint Size",
@@ -16346,6 +16364,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Live At Cheerful Earful (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-24 — I Took The Ferry: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-22 — Moulding Young Minds — speakers: Mike Bubbins, Elis Jam, Elis James, Steff Garrero
 - 2026-10-20 — Blood and Guts — speakers: Mike Bubbins, Elis James, Steff Garrero

@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-10-21T04:44:21+00:00`
-- checked_at: `2026-10-21T04:44:21+00:00`
-- last_modified: `Wed, 21 Oct 2026 01:07:07 GMT`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- last_modified: `Wed, 28 Oct 2026 02:07:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-21T04:44:21+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e66a0d134e3e4c6b6f00cd3add6d0f5d6abeb9a6",
+      "title": "Ralf Little",
+      "published_at": "2026-10-28T02:00:00+00:00",
+      "link": null,
+      "description": "One of Britain’s favourite actors, from The Royle Family, Two Pints of Lager, Death in Paradise and so, so much more - Ralf Little has brought his Five Brilliant Things in to the studio and this one’s a cracker! Ralf has found himself in some extraordinary situations thanks to his acting, and each of the Brilliant Things he talks about prompts another fantastic yarn told with such fluency and charm: From a game of five-a-side with an England Football Legend, to flying around the globe and finishing off in a remarkably heart-felt and moving end place for the show. Recommend! Ralf is next starring alongside Simon Pegg, Amanda Abbington and many other big names in the hotly anticipated Channel 4 mystery thriller ‘Hunting Alice Bell’. The six-part series written by David Baddiel will be on C4 this Autumn so keep your eyes on that, or catch it on Channel 4’s on demand by going to channel4.com That is everything we have for you this week, hope your umbrellas have stayed intact, please stay warm, dry and full of toast. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ef6c58fe-d14b-11f1-ba71-07e9cafc2d5f/image/d7678f2b05fd436ccfaae2fdb398ddd9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5872373077.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3603",
+      "speakers": [
+        "Ralf Little One",
+        "Two Pints",
+        "Russell Howard"
+      ],
+      "topics": [
+        "little"
+      ]
+    },
     {
       "key": "4d299d6661f7f3f1a8b5227e85301508fbc9aef8",
       "title": "Isy Suttie",
@@ -3576,6 +3596,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Ralf Little — speakers: Ralf Little One, Two Pints, Russell Howard
 - 2026-10-21 — Isy Suttie — speakers: Isy Suttie Current Taskmaster, Isy Suttie, Russell Howard
 - 2026-10-14 — Catherine Bohart — speakers: Catherine Bohart, Russell Howard
 - 2026-10-11 — September's Moments of the Month — speakers: Month Welcome, Russell Howard

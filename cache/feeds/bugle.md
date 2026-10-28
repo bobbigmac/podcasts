@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-21T21:41:50+00:00`
-- checked_at: `2026-10-21T21:41:50+00:00`
-- etag: `"djEuMi4wOjE3OTI2MDkzNzE5MDE="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNDMyMDE3MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-21T21:41:50+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -36,8 +36,8 @@
       "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1792598044254-78690322-e5aa-45a6-aca5-54b8d494f5ee.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ad8c790b6aefcca992bd137/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "51460388",
+      "itunes_duration": "53:36",
       "speakers": [
         "Andy Zaltzman"
       ],

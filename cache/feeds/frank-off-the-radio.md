@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- last_modified: `Mon, 26 Oct 2026 01:06:10 GMT`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- last_modified: `Wed, 28 Oct 2026 01:06:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "1bbbd70ab75894a375a0ec709846bd5722c44e71",
+      "title": "Frank Skinner's Radio Days: TGI Fridays",
+      "published_at": "2026-10-28T01:00:00+00:00",
+      "link": null,
+      "description": "The gang talk about Frank's visit to TGI Fridays, Andy Murray's outburst at Wimbledon and Alun running the Dad's race at Sports Day Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/aa37d5ec-d22c-11f1-8c3e-5ba8c921f78a/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3667016906.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2304",
+      "speakers": [
+        "Frank Skinner",
+        "Andy Murray"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "friday"
+      ]
+    },
     {
       "key": "753b5417d3917d4e3850114abf426374202adc0c",
       "title": "Catching a Cold from Your Dog",
@@ -25091,6 +25113,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Frank Skinner's Radio Days: TGI Fridays — speakers: Frank Skinner, Andy Murray
 - 2026-10-26 — Catching a Cold from Your Dog — speakers: Huge Davies, Frank Skinner
 - 2026-10-23 — LEGEND! Kathy Burke — speakers: Kathy Burke Frank, Frank Skinner
 - 2026-10-21 — Frank Skinner's Radio Days: Beatrix Potter — speakers: Frank Skinner

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- etag: `"djEuMi4wOjE3OTI5ODcwNTkzOTk="`
+- fetched_at: `2026-10-28T05:40:31+00:00`
+- checked_at: `2026-10-28T05:40:31+00:00`
+- etag: `"djEuMi4wOjE3OTMxNTk4NTkyMzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-28T05:40:31+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7835572028982facb6b414a647aea59a1455b46b",
+      "title": "Lenny Henry (Part 1) - \"OoooooKaaaaaay\"",
+      "published_at": "2026-10-28T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #633 - OoooooKaaaaaay - Rich is back at the Podcast Room talking to someone who first rang his comedy bell, it’s Sir Lenny Henry. They chat about the early years of Lenny’s long and varied career, why Lenny feels comfortable talking about some of the more personal and difficult parts of his childhood in his latest stand up tour “Still At Large”, why Tiswas was so important to Richard (and arguably more important to Lenny), working with Cannon and Ball at the height of their fame, the transition from working men’s club to the alternative comedy circuit (and how Lenny is one of the last links to the comedians of the 70s) and the madness of the Black and White Minstrel Show and Lenny’s reluctant part in it. Incredible stories from a comedian who has really seen it all over the last 50+years. See Lenny at the Hackney Empire on the 3rd November https://www.fane.co.uk/lenny-henry SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793021150650-afefe85c-de68-47e7-adb9-25070fcf077a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6adf54eab50147298ba70441/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24520620",
+      "itunes_duration": "51:05",
+      "speakers": [
+        "Lenny Henry",
+        "Richard Herring"
+      ],
+      "topics": [
+        "lenny",
+        "henry",
+        "ooooookaaaaaay"
+      ]
+    },
     {
       "key": "92912705a7d3997040e6cd31ca542021d802d711",
       "title": "Markus Birdman (Retro) - \"Platinum Heart\"",
@@ -24406,6 +24427,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Lenny Henry (Part 1) - "OoooooKaaaaaay" — speakers: Lenny Henry, Richard Herring
 - 2026-10-26 — Markus Birdman (Retro) - "Platinum Heart" — speakers: Markus Birdman, Richard Herring
 - 2026-10-24 — Rich and Ally's Craven Newsround Compilation - Ameliorate the Situation — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-10-23 — Andrew Hankinson on Felled - Book Club — speakers: Andrew Hankinson, Richard Herring
