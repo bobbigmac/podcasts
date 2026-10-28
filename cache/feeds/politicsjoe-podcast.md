@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-27T22:12:30+00:00`
-- checked_at: `2026-10-27T22:12:30+00:00`
-- etag: `"djEuMi4wOjE3OTMxMjAwNDgxNDA="`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- etag: `"djEuMi4wOjE3OTMyMDk4NzYyMTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-10-27T22:12:30+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "616e847d3f04921f3a270f76b462c29c85fb08ad",
+      "title": "Going Deep on Andy Burnham's First Budget",
+      "published_at": "2026-10-28T17:51:16+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ae235ebe57912cf6fff56f3",
+      "description": "Skip to 9:20 if you want straight economy chat. Andy Burnham's Chancellor John Healey gave his first budget, and the first of Andy Burnham's reign as Prime Minister. Ava and Seán headed into the content dungeon to chew the fat. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ae235ebe57912cf6fff56f3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96561289",
+      "itunes_duration": "50:16",
+      "speakers": [
+        "Andy Burnham",
+        "John Healey"
+      ],
+      "topics": [
+        "deep",
+        "andy",
+        "burnham",
+        "budget"
+      ]
+    },
     {
       "key": "2dc9023a35c2ec30001bc84dcdb2d8666fc1f9b7",
       "title": "Should You Be Scared of the Bond Markets?",
@@ -13986,6 +14008,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Going Deep on Andy Burnham's First Budget — speakers: Andy Burnham, John Healey
 - 2026-10-27 — Should You Be Scared of the Bond Markets? — speakers: Robin Wigglesworth
 - 2026-10-26 — Is Andy Burnham reversing Brexit? — speakers: Andy Burnham
 - 2026-10-23 — How Big Tech Profit From Terror | Andrew Feinstein interview — speakers: Andrew Feinstein

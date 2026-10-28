@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-24T10:58:06+00:00`
-- checked_at: `2026-10-24T10:58:06+00:00`
-- last_modified: `Sat, 24 Oct 2026 08:40:40 GMT`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- last_modified: `Wed, 28 Oct 2026 19:36:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-24T10:58:06+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "4009e7969e6f3f1a4dffff8c0a20241a770e4210",
+      "title": "583. Is Burnham’s Budget Too Safe and How Brazil Defied Trump",
+      "published_at": "2026-10-28T19:05:00+00:00",
+      "link": null,
+      "description": "With the UK’s new Chancellor, John Healey, announcing his first budget and Kemi Badenoch asking him, “is that it?”, how will the public judge his plans? With Lula making an historic return to Brazil’s presidency, was it the strength of his campaign or Bolsonaro Jr’s electoral gaffes in the leadership race that proved decisive? How did Aleksandar Vučić’s gamble on an early election backfire so spectacularly, and what does his shock defeat to a leaderless student movement tell us about just how unpredictable modern politics has become? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Michael Lewis by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! Sponsored by Lloyds. Lloyds Ready Made Investments. Choose your investing style-cautious, balanced or adventurous, and we'll do the rest. Search Lloyds Ready Made Investments. Investing involves risk. Value can fall as well as rise. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles, Bex Tyrrell Video Editor: James Clayden, Caroline Kaye, Charlie Rodwell Assistant Producer: Jake Preston, Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames, Nicole Maslen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9992a56a-d302-11f1-95ae-fbd0f9ce6bee/image/1c92af57a500e47758e700145b4d1057.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2212922529.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3605",
+      "speakers": [
+        "John Healey"
+      ],
+      "topics": [
+        "burnham",
+        "budget",
+        "brazil",
+        "defied",
+        "trump"
+      ]
+    },
     {
       "key": "ca98631ffa46d774b28ed5a3153a01da03420d8f",
       "title": "Kim Leadbeater, MP: My Sister's Murder and Why I Never Wanted To Go Into Politics",
@@ -13288,6 +13310,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — 583. Is Burnham’s Budget Too Safe and How Brazil Defied Trump — speakers: John Healey
 - 2026-10-22 — Kim Leadbeater, MP: My Sister's Murder and Why I Never Wanted To Go Into Politics — speakers: Kim Leadbeater
 - 2026-10-21 — 582. Netanyahu’s Fight for Survival and the Gaza Film That Shocked Rory and Alastair — speakers: Netanyahu’s Fight
 - 2026-10-20 — 581. Trump and Putin vs. Zelensky: Is Europe Sleepwalking into Disaster?

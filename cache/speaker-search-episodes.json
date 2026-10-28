@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "e14e15a4901f545dc02f67e3d6610420a403f8bb",
+        "episode_key": "e14e15a4901f545dc02f67e3d6610420a403f8bb",
+        "title": "Rob Auton",
+        "published_at": "2026-10-28T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, poet, author and award-winning podcast Rob Auton is this week’s dream diner. We better get a bigger restaurant – we need room for a lot of sofas. \nRob Auton is on tour with his new show ‘Jupiter’. For dates and tickets go to robauton.co.uk \nListen to Rob’s podcast, ‘The Rob Auton Daily Podcast’, wherever you ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac378925558f9dbe25e8c29/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rob-auton/id1442950743?i=1000798462142&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cf2ce12adac4",
         "feed_title": "Talk the Line",
         "source_rss_url": "https://anchor.fm/s/71af32c/podcast/rss",
@@ -4894,6 +4917,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:6690c4405592",
+        "feed_title": "James Acaster's Stay Home Special Series",
+        "source_rss_url": "https://feeds.sharp-stream.com/content/fubar_radio/feed-files/james_acasters_stay_home_special_series.xml",
+        "dedupe_key": "8fe60c0059105a7dcde6929467c2fe8fea57dc3f",
+        "episode_key": "8fe60c0059105a7dcde6929467c2fe8fea57dc3f",
+        "title": "Episode 25 - Rick Edwards",
+        "published_at": "2016-02-23T15:56:17Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Opening up the musical closet that is his iPod, Rick Edwards joins James Acaster this week, and tells us what not to ask to Jake Gyllenhall.",
+        "audio_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1630000525-episode_25_rick_edwards.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=ep_1953&awCollectionId=podcast_82&providerId=fubar_radio",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-25-rick-edwards/id1590006063?i=1000538386273&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
@@ -6419,6 +6464,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "e14e15a4901f545dc02f67e3d6610420a403f8bb",
+        "episode_key": "e14e15a4901f545dc02f67e3d6610420a403f8bb",
+        "title": "Rob Auton",
+        "published_at": "2026-10-28T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, poet, author and award-winning podcast Rob Auton is this week’s dream diner. We better get a bigger restaurant – we need room for a lot of sofas. \nRob Auton is on tour with his new show ‘Jupiter’. For dates and tickets go to robauton.co.uk \nListen to Rob’s podcast, ‘The Rob Auton Daily Podcast’, wherever you ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ac378925558f9dbe25e8c29/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rob-auton/id1442950743?i=1000798462142&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show with Moneybox",
@@ -12688,6 +12756,28 @@
       }
     ],
     "harriet-kemsley": [
+      {
+        "feed_slug": "external:apple:285070b97e35",
+        "feed_title": "Rich Fulcher's TalkBox",
+        "source_rss_url": "https://anchor.fm/s/104aea1a0/podcast/rss",
+        "dedupe_key": "1c3cc0b039f8ff6833769adec741b0fadb57ffba",
+        "episode_key": "1c3cc0b039f8ff6833769adec741b0fadb57ffba",
+        "title": "Harriet Kemsley: The Mighty Boosh, Bad Dating Advice & Life on Tour | TalkBox Ep.76",
+        "published_at": "2026-10-28T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriet Kemsley joins Rich Fulcher for a wonderfully chaotic chat on TalkBox!Fresh from Taskmaster and Last One Laughing, and known for Live at the Apollo, Harriet sits down with Rich to discuss her life in comedy, her latest tour Floozy, dating disasters and the strange experiences that come with life on the road.In t",
+        "audio_url": "https://traffic.megaphone.fm/APO4379644004.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-the-mighty-boosh-bad-dating-advice/id1814148567?i=1000798579932&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:31c647bfd4ab",
         "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
@@ -41719,6 +41809,28 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:a3df8300f96c",
+        "feed_title": "Bottoms Up! With Alan Carr and Lee Peart",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2696747469",
+        "dedupe_key": "fd1ce1e3b9f804a2aafd1e15dcf71b25e64f83f9",
+        "episode_key": "fd1ce1e3b9f804a2aafd1e15dcf71b25e64f83f9",
+        "title": "Jack Dee: Last One Laughing, Alan's Awkward Kiss & Halloween",
+        "published_at": "2026-10-28T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Bottoms Up! It’s Halloween and our special guest Jack Dee gets a fright when he discovers Alan and Lee dressed as their favourite wicked witches…\n\nJack joins the boys to talk about his brand-new stand-up tour, the latest series of Last One Laughing: Halloween and his trip to the Northern Lights with Alan (",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT6391324372.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee-last-one-laughing-alans-awkward-kiss-halloween/id1853058074?i=1000798472350&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Another Day Ruined",

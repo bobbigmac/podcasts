@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNDMyMDE3MzM="`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- etag: `"djEuMi4wOjE3OTMxOTYwMzk1NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fbb71e1072e3c41ca25f2b890e3d76f517db043e",
+      "title": "Brilliant Bugle Debuts ft. Nish Kumar, Alice Fraser and many more!",
+      "published_at": "2026-10-28T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/historic-bugle-firsts",
+      "description": "To celebrate 10 years since the relaunch of The Bugle we're taking a look back at some historic Bugle firsts from the past decade. The first episode of the relaunch back in October 2016 with Hari Kondabolu, The Bugle debuts of Alice Fraser, Nish Kumar, Nato Green and Josh Gondelman. Plus The Bugle’s First Live show, First Live Stream and a trip back to where it all began in October 2007. Episode 1 Minute 1. When Andy and John Oliver muttered Hello Buglers for the very first time. If you like The Bugle ad-free and uninterrupted. Then why not join The Bugle’s voluntary subscription, with your support Andy and his cohort of co-hosts can continue to blast there trademark mix of satirical insight and shameless drivel all over the planet. 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ae12e08cf88eca12ac2f7aa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45327255",
+      "itunes_duration": "47:12",
+      "speakers": [
+        "Bugle Debuts",
+        "Alice Fraser",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "brilliant",
+        "bugle",
+        "nish",
+        "kumar",
+        "alice",
+        "fraser"
+      ]
+    },
     {
       "key": "a9ab509c648f16cd0c0428bbf3f6a8406ce5e72f",
       "title": "Holy Sh*t it’s Been a Whole Decade",
@@ -14663,6 +14688,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — Brilliant Bugle Debuts ft. Nish Kumar, Alice Fraser and many more! — speakers: Bugle Debuts, Alice Fraser, Andy Zaltzman
 - 2026-10-21 — Holy Sh*t it’s Been a Whole Decade — speakers: Andy Zaltzman
 - 2026-10-15 — Surprise Nobel snub for Trump — speakers: Joining Andy, Andy Zaltzman
 - 2026-10-07 — Outstandingly Spectacular Terrorist Failures — speakers: Joining Andy, Alice Fraser, Anuvab Pal, Andy Zaltzman

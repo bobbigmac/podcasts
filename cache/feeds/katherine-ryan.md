@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-10-23T17:05:26+00:00`
-- checked_at: `2026-10-23T17:05:26+00:00`
-- etag: `"djEuMi4wOjE3OTI3NjY1MjQwNjM="`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- etag: `"djEuMi4wOjE3OTMyMDc3Njc1ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-10-23T17:05:26+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [
     "Katherine Ryan"
   ],

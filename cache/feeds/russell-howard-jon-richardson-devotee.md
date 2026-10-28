@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-28T12:52:13+00:00`
-- checked_at: `2026-10-28T12:52:13+00:00`
-- etag: `W/"62372-N6FRdZZb8WPKwdLfzvKWLxSlpw4"`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- etag: `W/"62b26-9d0s4a5JYWIN+7+wAQLhg9o3vjc"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,96 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-28T12:52:13+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "37583d422f11b33fc126120b24e9f6939c325cc1",
+      "title": "#33 The Jon Richardson Podcast #33 – Featuring Zoe Lyon",
+      "published_at": "2026-10-28T15:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/33-The-Jon-Richardson-Podcast-33--Featuring-Zoe-Lyon-e3r74sn",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793129023795-1d929f4b6d5e4.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3656074247.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79462916",
+      "itunes_duration": "01:21:53",
+      "speakers": [
+        "Zoe Lyon Sub"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "lyon"
+      ]
+    },
+    {
+      "key": "9a4e8bc54a54a43bb6904ee3546d2e6d901fda01",
+      "title": "#32 The Jon Richardson Podcast #32 Featuring Dan Atkinson",
+      "published_at": "2026-10-28T12:10:35+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/32-The-Jon-Richardson-Podcast-32-Featuring-Dan-Atkinson-e3r74gk",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793128689888-97b3d4ed818dc.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9680742468.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76197227",
+      "itunes_duration": "01:18:31",
+      "speakers": [
+        "Dan Atkinson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "featuring",
+        "atkinson"
+      ]
+    },
+    {
+      "key": "8dc918eb312b77cf4d148b74e4aa65fb76ca48e2",
+      "title": "#31 The Jon Richardson Podcast #31 – Featuring Matt Crosby",
+      "published_at": "2026-10-28T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/31-The-Jon-Richardson-Podcast-31--Featuring-Matt-Crosby-e3r72mo",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793127109952-1c964615dc01d.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3390239096.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76012366",
+      "itunes_duration": "01:18:20",
+      "speakers": [
+        "Matt Crosby"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "matt",
+        "crosby"
+      ]
+    },
+    {
+      "key": "0c2fb6c2dbe5373e6980a2df9c258518763e6824",
+      "title": "#30 The Jon Richardson Podcast #30 – Featuring Charlie Baker",
+      "published_at": "2026-10-27T18:45:30+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/30-The-Jon-Richardson-Podcast-30--Featuring-Charlie-Baker-e3r723d",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793126657568-ce08094c2b086.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7638056659.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83079411",
+      "itunes_duration": "01:25:37",
+      "speakers": [
+        "Charlie Baker"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "charlie",
+        "baker"
+      ]
+    },
     {
       "key": "79106990a976c9ab72248ab12ee07a28e0ed5afd",
       "title": "#29 The Jon Richardson Podcast #29 – Featuring Josie Long",
@@ -6034,128 +6117,6 @@
         "podcast",
         "parry"
       ]
-    },
-    {
-      "key": "42d3b818ac225783270336352af99455439d12a5",
-      "title": "#34 Jon Richardson Podcast with Stephen Grant",
-      "published_at": "2026-03-17T20:23:34+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/34-Jon-Richardson-Podcast-with-Stephen-Grant-e3gjgvo",
-      "description": "#34 Jon Richardson Podcast with Stephen Grant",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773778899432-9a52ab38b623d.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117080504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2Fe78adb99-67a7-f939-6577-0fa00c3a7d03.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "59902304",
-      "itunes_duration": "01:23:10",
-      "speakers": [
-        "Stephen Grant"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "stephen",
-        "grant"
-      ]
-    },
-    {
-      "key": "4e37c0831234729b9b44ead516150274bc4a2c35",
-      "title": "#33 Jon Richardson Podcast with Zoe Lyons",
-      "published_at": "2026-03-16T21:00:31+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/33-Jon-Richardson-Podcast-with-Zoe-Lyons-e3ghsej",
-      "description": "#33 Jon Richardson Podcast with Zoe Lyons",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773694790935-b19d8adfbbdf8.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117026707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F7ec73930-5833-2f8f-26d3-85b27e69fe1f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58890560",
-      "itunes_duration": "01:21:45",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "lyons"
-      ]
-    },
-    {
-      "key": "18ee9defe83b022ac26dd7d6e9baee7d69582296",
-      "title": "#32 Jon Richardson Podcast with Dan Atkinson",
-      "published_at": "2026-03-12T19:33:14+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/32-Jon-Richardson-Podcast-with-Dan-Atkinson-e3gbsf0",
-      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773343979635-9dd36fe29e9d1.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116830112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F32c02ab6-bd85-83de-d10c-0f302a812688.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "56467328",
-      "itunes_duration": "01:18:23",
-      "speakers": [
-        "Dan Atkinson"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "atkinson"
-      ]
-    },
-    {
-      "key": "895187543022a994d3d39dd5385b42abbce26bd7",
-      "title": "#31 Jon Richardson Podcast with Matt Crosby",
-      "published_at": "2026-03-11T20:18:08+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/31-Jon-Richardson-Podcast-with-Matt-Crosby-e3ga609",
-      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773260054475-888eff8592128.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116774345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F419814110-44100-2-84f1696e3d4d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "75201723",
-      "itunes_duration": "01:18:20",
-      "speakers": [
-        "Matt Crosby"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "matt",
-        "crosby"
-      ]
-    },
-    {
-      "key": "088e315eb5be2ec9325ab650d2d9108ffc856035",
-      "title": "#30 Jon Richardson Podcast with Charlie Baker",
-      "published_at": "2026-03-10T19:50:20+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/30-Jon-Richardson-Podcast-with-Charlie-Baker-e3g8apj",
-      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com #30 Jon Richardson Podcast with Charlie Baker",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773171804443-50dc11c64694e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116713715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419732671-44100-2-ce4f9e8afe63f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "82192926",
-      "itunes_duration": "01:25:37",
-      "speakers": [
-        "Charlie Baker"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "charlie",
-        "baker"
-      ]
-    },
-    {
-      "key": "f1ec9eea008f12c223224f0525632f5dc4f6b14e",
-      "title": "#29 Jon Richardson Podcast with Josie Long",
-      "published_at": "2026-03-09T18:44:54+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/29-Jon-Richardson-Podcast-with-Josie-Long-e3g685r",
-      "description": "#29 Jon Richardson Podcast with Josie Long",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773081891539-c029d88ddf6ce.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116645499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F19293191-059b-4f93-815a-63c83e44d0ba.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "50671904",
-      "itunes_duration": "01:10:22",
-      "speakers": [
-        "Josie Long"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "josie",
-        "long"
-      ]
     }
   ]
 }
@@ -6164,6 +6125,10 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — #33 The Jon Richardson Podcast #33 – Featuring Zoe Lyon — speakers: Zoe Lyon Sub
+- 2026-10-28 — #32 The Jon Richardson Podcast #32 Featuring Dan Atkinson — speakers: Dan Atkinson
+- 2026-10-28 — #31 The Jon Richardson Podcast #31 – Featuring Matt Crosby — speakers: Matt Crosby
+- 2026-10-27 — #30 The Jon Richardson Podcast #30 – Featuring Charlie Baker — speakers: Charlie Baker
 - 2026-10-27 — #29 The Jon Richardson Podcast #29 – Featuring Josie Long — speakers: Josie Long, Jon Richardson
 - 2026-10-27 — #28 The Jon Richardson Podcast #28 – Featuring Tim Vine — speakers: Tim Vine Step, Jon Richardson
 - 2026-10-27 — #27 The Jon Richardson Podcast – Featuring Al Pitcher — speakers: Jon Richardson
@@ -6424,9 +6389,3 @@
 - 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown
 - 2026-03-19 — #36 Jon Richardson Podcast with Carl Donnelly — speakers: Carl Donnelly
 - 2026-03-18 — #35 Jon Richardson Podcast with Tom Parry — speakers: Tom Parry
-- 2026-03-17 — #34 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
-- 2026-03-16 — #33 Jon Richardson Podcast with Zoe Lyons
-- 2026-03-12 — #32 Jon Richardson Podcast with Dan Atkinson — speakers: Dan Atkinson
-- 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby
-- 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
-- 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long

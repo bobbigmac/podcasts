@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-27T22:12:30+00:00`
-- checked_at: `2026-10-27T22:12:30+00:00`
-- etag: `"djEuMi4wOjE3OTMwOTI1NjQyMDQ="`
+- fetched_at: `2026-10-28T20:15:17+00:00`
+- checked_at: `2026-10-28T20:15:17+00:00`
+- etag: `"djEuMi4wOjE3OTMyMDI2MTczODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-27T22:12:30+00:00",
+  "fetched_at": "2026-10-28T20:15:17+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b2fdaa83b2c48c7ffe60d070d049fc834b9b79be",
+      "title": "US midterms: Is this a referendum on Trump?",
+      "published_at": "2026-10-28T15:50:17+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/us-midterms-is-this-a-referendum-on-trump",
+      "description": "On 3 November, Americans will head to the polls for the midterms. We will be publishing an episode for the next two Wednesdays, analysing the results. In this second episode, we ask: will voters use the midterms to punish Donald Trump? His net approval rating is at an all time low and there’s growing discontent over the Iran War and the cost of living. US correspondent Freddie Hayward is joined by political scientist Julia Azari, New York Times’ White House reporter Shawn McCreesh and the president of the Progressive Policy Institute, Will Marshall. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793200032583-3bc4ad99-c4ba-47f0-93a3-c4e5c7e95664.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ae20f7c4fe0266a880d09d4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43742185",
+      "itunes_duration": "22:42",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "midterm",
+        "referendum",
+        "trump"
+      ]
+    },
     {
       "key": "5bf9c0598b8f4cb865483c9a04c3e2aa1347716f",
       "title": "Should we scrap the Budget?",
@@ -32759,6 +32780,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — US midterms: Is this a referendum on Trump? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-26 — Should we scrap the Budget? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-24 — Martin Lewis is "on speed dial to Number 10" — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore
 - 2026-10-22 — Labour split over Jackdaw — speakers: Anoosh Chakelian, Oli Dugmore
