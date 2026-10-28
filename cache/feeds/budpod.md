@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-10-21T11:47:04+00:00`
-- checked_at: `2026-10-21T11:47:04+00:00`
-- etag: `"djEuMi4wOjE3OTI1NzM5NDMzODU="`
+- fetched_at: `2026-10-28T12:52:13+00:00`
+- checked_at: `2026-10-28T12:52:13+00:00`
+- etag: `"djEuMi4wOjE3OTMxNjcyOTk1MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-10-21T11:47:04+00:00",
+  "fetched_at": "2026-10-28T12:52:13+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "db0e95fe173d0590ba4c793c927985db185b0dcc",
+      "title": "S2E72 | The Wronged Trousers",
+      "published_at": "2026-10-28T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e72-the-wronged-trousers",
+      "description": "This week the buds discuss Glenn's 'chest', Ali G, 'Ronald Diplomacy' and Halloween tat! Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! November 3rd, 2026 - Tickets available https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Catch Glenn's 'Best of' Show on November 24th! Tickets available here - https://www.pleasance.co.uk/event/glenn-moore-best Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6ae132025a3cc3c4c40b0b10/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45782831",
+      "itunes_duration": "47:41",
+      "speakers": [
+        "Ronald Diplomacy",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "wronged",
+        "trousers"
+      ]
+    },
     {
       "key": "abb21215c9c74e2e4dcd3503a47e734296a9be65",
       "title": "S2E71 | Azteca Syndrome",
@@ -8202,6 +8223,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-28 — S2E72 | The Wronged Trousers — speakers: Ronald Diplomacy, Phil Wang, Pierre Novellie
 - 2026-10-21 — S2E71 | Azteca Syndrome — speakers: Azteca Syndrome Youtube, News Knight, Phil Wang, Pierre Novellie
 - 2026-10-14 — S2E70 | Log Dogs — speakers: Log Dogs, Phil Wang, Pierre Novellie
 - 2026-10-07 — S2E69 | Big the Bear — speakers: Honey Badger, Phil Wang, Pierre Novellie
