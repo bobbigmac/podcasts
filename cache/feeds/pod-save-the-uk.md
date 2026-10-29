@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-10-22T04:42:29+00:00`
-- checked_at: `2026-10-22T04:42:29+00:00`
-- etag: `W/"a36492eb5fba05baf9798edfbb003b2e"`
-- last_modified: `Thu, 22 Oct 2026 01:00:00 GMT`
+- fetched_at: `2026-10-29T09:56:52+00:00`
+- checked_at: `2026-10-29T09:56:52+00:00`
+- etag: `W/"4d5fe7aab51d34629783e06b7fd24ee3"`
+- last_modified: `Thu, 29 Oct 2026 02:00:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-10-22T04:42:29+00:00",
+  "fetched_at": "2026-10-29T09:56:52+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -30,12 +30,38 @@
   ],
   "episodes": [
     {
+      "key": "d2ae619997c14aa92a5c3040caa265757b779962",
+      "title": "Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0",
+      "published_at": "2026-10-29T02:00:00+00:00",
+      "link": "https://audioboom.com/posts/8970538",
+      "description": "This week, while Nish is on tour, Coco is joined by journalist Zoë Grünewald to make sense of the first ‘steady-as-he-goes’ Burnham budget. From Burnham’s barnstormer, to Healey’s humdrum address… it was, fine I guess? Weeks of pitch-rolling and pre-announcements led up to this moment, which meant there were very few surprises in Parliament, but a few cans kicked into next year. Coco & Zoë speak to Helen Barnard, Director of Policy at the Trussell Trust, to understand what the budget means for those who really do need ‘breathing space’ the most. Keep an eye out for the Timms and Milburn reviews, due next month, to understand how the government intends to support the most vulnerable. Plus, Coco & Zoë discuss the recent election victories for progressive movements across the world–from Serbia to Brazil and beyond–and ask, what will it take to see the same over here in the UK? Are we too busy lime bike jousting, or are there bigger structural hurdles (electorally, and legally) that prevent the easy formation of mass protests in the same way… CHECK OUT THESE DEALS FROM OUR SPONSORS HEXCLAD: https://www.hexclad.co.uk/PSTUK BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43908842/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8970538.mp3?modified=1793220835&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3290",
+      "speakers": [
+        "Zoë Grünewald",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "bean",
+        "bank",
+        "healey",
+        "budget",
+        "brazil",
+        "boot",
+        "bolsonaro"
+      ]
+    },
+    {
       "key": "c3488756fb204516fb0d56ab79cef8e34ea0755e",
       "title": "Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker",
       "published_at": "2026-10-22T01:00:00+00:00",
       "link": "https://audioboom.com/posts/8967606",
       "description": "It’s a bumper episode this week! Put on your big brain hats, as Nish & Coco are joined by two incredible thinkers from around the world: PSUK goes global. First up, it’s pioneering (or ‘OG’) trans historian Susan Stryker who discusses her new book, ‘Changing Gender’: charting the history and development of the concept and language of gender, weaving in elements of memoir and observations from the present day. As “gender” has become the bogeyman for gender-critical campaigners, ethno-nationalists and religious conservatives alike, Susan traces the development of these transphobic ideologies, and sets out how the existence of ‘transness’ itself could offer the potential for human liberation. Next, we’re joined by academic and economist Thomas Piketty, who runs Nish & Coco through the Global Justice Report that was released this summer: a comprehensive roadmap to achieving global equality and planetary sustainability by 2100. What’s the catch? Look away, billionaires– it’s time for global redistribution. He also explains the significance of the mass student protests in France, and the role they may play in next year’s presidential election. No prizes for guessing the common enemy in both conversations… What a treat! Let us know what you think of the episode in the comments, and don’t forget you can email podsavetheuk@crooked.com with any questions, musings, or thoughts! USEFUL LINKS Read the Global Justice Report: https://globaljusticeproject.wid.world/global-justice-report/ Buy Susan’s book: https://www.hive.co.uk/product/susan-stryker/changing-gender--the-history-and-future-of-a-concept/26517789 Justice for Joelle: https://www.translegalclinic.com/justice-for-joelle Further information about the NHS’s ‘single sex spaces’ guidance: https://genderedintelligence.co.uk/news/37-nhs-single-sex-guidance CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://www.shopify.co.uk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
-      "image_url": "https://audioboom.com/i/43896687/s=1400x1400/el=1/rt=fill.jpg",
+      "image_url": "https://audioboom.com/i/43897489/s=1400x1400/el=1/rt=fill.jpg",
       "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967606.mp3?modified=1792626534&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -4363,6 +4389,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0 — speakers: Zoë Grünewald, Nish Kumar, Coco Khan
 - 2026-10-22 — Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker — speakers: Thomas Piketty, Susan Stryker, Nish Kumar, Coco Khan
 - 2026-10-15 — The Brexit Cinematic Universe w/ Anand Menon, and Premier League pitfalls ft. Man City — speakers: Anand Menon, Nish Kumar, Coco Khan
 - 2026-10-08 — It’s Conference season: ideology, Iron Domes and independence. Plus, why is Burnham “hypocritical and insulting”? w/ Lara Bird MP — speakers: Iron Domes, Lara Bird, Megan Kenyon, Nish Kumar, Coco Khan

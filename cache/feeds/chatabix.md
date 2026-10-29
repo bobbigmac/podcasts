@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNTY0Mzk1Mzk="`
+- fetched_at: `2026-10-29T09:56:52+00:00`
+- checked_at: `2026-10-29T09:56:52+00:00`
+- etag: `"djEuMi4wOjE3OTMyNDI4Mzk1MDE="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-10-29T09:56:52+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "16c1221d98de35195b9fe213f14036f01ffeb8be",
+      "title": "S17 Ep 910: David’s Art Class",
+      "published_at": "2026-10-29T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-910-davids-art-class",
+      "description": "First up, Joe tells David about a recent encounter he had in a supermarket, which leads to bit of a debate about getting attention from the public vs being anonymous. After that, they move onto the meat of the episode - David’s trip to St Ives to do an art class, which was a present from his wife. He really wants to get good at drawing and sketching, so stay tune to find out how he got on… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6adb2c045de627c540bcdc55/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55409684",
+      "itunes_duration": "57:43",
+      "speakers": [
+        "David’s Art",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "class"
+      ]
+    },
     {
       "key": "abb34fb2397b31f06b19e67dee6c06458654ad5d",
       "title": "S17 Ep 909: A New Series & A Brand New Puppy - Part 2",
@@ -16429,6 +16450,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — S17 Ep 910: David’s Art Class — speakers: David’s Art, Joe Wilkinson, David Earl
 - 2026-10-28 — S17 Ep 909: A New Series & A Brand New Puppy - Part 2 — speakers: Brand New Puppy, Joe Wilkinson, David Earl
 - 2026-10-27 — S17 Ep 908: A New Series & A Brand New Puppy - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-10-26 — S17 Ep 907 Vault Mondays: Wearing Make-Up and Teenage Songs — speakers: Vault Mondays, Wearing Make, Joe Wilkinson, David Earl

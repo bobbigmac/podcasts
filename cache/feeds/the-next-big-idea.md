@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-10-22T11:50:20+00:00`
-- checked_at: `2026-10-22T11:50:20+00:00`
-- last_modified: `Thu, 22 Oct 2026 09:30:00 GMT`
+- fetched_at: `2026-10-29T09:56:52+00:00`
+- checked_at: `2026-10-29T09:56:52+00:00`
+- last_modified: `Thu, 29 Oct 2026 09:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-22T11:50:20+00:00",
+  "fetched_at": "2026-10-29T09:56:52+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,47 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "12ad44ffc0f4794fe99661ce6db79691b5664757",
+      "title": "Danny Meyer on \"What Could Possibly Go Right\"",
+      "published_at": "2026-10-29T09:30:00+00:00",
+      "link": null,
+      "description": "What does it take to turn a money-losing hot dog cart into a global empire? Surprisingly, it starts with how you treat your employees. Danny Meyer, the legendary restaurateur behind Shake Shack, Union Square Cafe, and Gramercy Tavern, has built an empire on a deceptively simple idea: take care of your people, and they'll take care of everyone else. In his new book, ⁠What Could Possibly Go Right?⁠ , he shares the philosophy that transformed his approach to business and leadership. 📚 Danny's new book is the current selection of The Next Big Idea Club. Join today and we'll send you a copy, along with Adam Grant's new book, Vibe, and invitations to private Q&As with both authors. Learn more at nextbigideaclub.com 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — The 100% human-made stock media library built for creators. Get 15% off any annual plan, available only at storyblocks.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1669189189.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4223",
+      "speakers": [
+        "Danny Meyer",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "danny",
+        "meyer"
+      ]
+    },
+    {
+      "key": "25e37ec027bbc98b705995bb11872cb99ec777de",
+      "title": "Best Of: Stop Wasting Your Talent and Start Making a Difference",
+      "published_at": "2026-10-26T09:30:00+00:00",
+      "link": null,
+      "description": "What if everything we've been told about having a successful career is wrong? ⁠Rutger Bregman⁠ thinks most of us are wasting our working lives and argues we should stop trying to get rich and start trying to solve the world's problems instead. This episode first aired in May 2025. 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ Today's episode is sponsored by: ⁠Granola⁠ — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at ⁠granola.ai/idea⁠ ⁠Hostinger⁠ — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to ⁠hostinger.com/nbi⁠ and use code NBI for 10% off ⁠Life at the Speed of Play⁠ — Purchase one copy at ⁠getmarksbook.com/next⁠ and author Mark Pincus will send you two ⁠Sequencing⁠ — Go to ⁠sequencing.com⁠ and use promo code IDEA for 10% off ⁠Storyblocks⁠ — The 100% human-made stock media library built for creators. Get 15% off any annual plan, available only at ⁠storyblocks.com/nbi⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP6063184179.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4873",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "talent",
+        "difference"
+      ]
+    },
     {
       "key": "72a8d8fc0ac13528e9b0088b123dd1b0f24c5ed6",
       "title": "Musk, Bezos, and the Battle to Control Space",
@@ -8703,6 +8744,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Danny Meyer on "What Could Possibly Go Right" — speakers: Danny Meyer, Rufus Griscom, Caleb Bissinger
+- 2026-10-26 — Best Of: Stop Wasting Your Talent and Start Making a Difference — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-10-22 — Musk, Bezos, and the Battle to Control Space — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-10-19 — The Modern Science of Ancient Wisdom — speakers: June Cohen, Ted Talks, Rufus Griscom, Caleb Bissinger
 - 2026-10-15 — How to Become the Most Interesting Person You Know — speakers: Rufus Griscom, Caleb Bissinger

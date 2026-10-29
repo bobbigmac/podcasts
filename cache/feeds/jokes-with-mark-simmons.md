@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-10-16T04:30:40+00:00`
-- checked_at: `2026-10-16T04:30:40+00:00`
-- etag: `"djEuMi4wOjE3OTIxMjMyNDAyODE="`
+- fetched_at: `2026-10-29T09:56:52+00:00`
+- checked_at: `2026-10-29T09:56:52+00:00`
+- etag: `"djEuMi4wOjE3OTMyNDYzNzkyMjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-10-16T04:30:40+00:00",
+  "fetched_at": "2026-10-29T09:56:52+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a8b097e8e22bf2dd2b11a14887b4a0c08e9048b3",
+      "title": "ComedyIQ's Tony Dunn",
+      "published_at": "2026-10-29T03:59:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/comedyiqs-tony-dunn",
+      "description": "Let's look at the stats!! Tony Dunn joins us with some super niche comedy analytics. Who's the biggest touring comedian in the Uk? What's th most common name for a comedian? Let's find out! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6ae2b00b305baddee17b8530/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58504977",
+      "itunes_duration": "40:32",
+      "speakers": [
+        "Tony Dunn",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "comedyiq",
+        "tony",
+        "dunn"
+      ]
+    },
     {
       "key": "f3877c4fce593f2adb152aaa293b9a8f738dacff",
       "title": "Tour Talk - Ireland, UHT milk & a strip search",
@@ -7627,6 +7648,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — ComedyIQ's Tony Dunn — speakers: Tony Dunn, Mark Simmons
 - 2026-10-16 — Tour Talk - Ireland, UHT milk & a strip search — speakers: Tour Talk Ireland, Mark Simmons
 - 2026-10-03 — Elouise Eftos — speakers: Eloise Eftos, Mark Simmons
 - 2026-09-24 — Tour Talk: Back on tour — speakers: Tour Talk, Mark Simmons
