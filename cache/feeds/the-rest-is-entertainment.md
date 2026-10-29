@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-27T00:25:25+00:00`
-- checked_at: `2026-10-27T00:25:25+00:00`
-- last_modified: `Tue, 27 Oct 2026 00:15:03 GMT`
+- fetched_at: `2026-10-29T00:54:47+00:00`
+- checked_at: `2026-10-29T00:54:47+00:00`
+- last_modified: `Thu, 29 Oct 2026 00:10:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-27T00:25:25+00:00",
+  "fetched_at": "2026-10-29T00:54:47+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "364ce8f479b99b91b5b8f4dd3ed44ad414f05e44",
+      "title": "The Richard Gere Gerbil Conspiracy",
+      "published_at": "2026-10-29T00:10:00+00:00",
+      "link": null,
+      "description": "What’s the scariest film of all time? Why are people upset with Kylie Jenner’s performance at the Victoria’s Secret show? What really happened with Richard Gere and that gerbil? Marina Hyde and Richard Osman answer your questions on the most effective horror movies, Richard’s new TV show and salacious Hollywood rumours. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Caroline Kaye Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/36955e48-d2ea-11f1-b152-57f8976ee080/image/499f98851f59cb56756ee54343dc0593.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3036473691.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1885",
+      "speakers": [
+        "Richard Gere Gerbil Conspiracy",
+        "Kylie Jenner",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "richard",
+        "gere",
+        "gerbil",
+        "conspiracy"
+      ]
+    },
     {
       "key": "d51805746669272b1a5b0a38ed9b9a4cb54f430a",
       "title": "The Netflix Bloodbath: Explained",
@@ -7166,6 +7190,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — The Richard Gere Gerbil Conspiracy — speakers: Richard Gere Gerbil Conspiracy, Kylie Jenner, Richard Osman, Marina Hyde
 - 2026-10-27 — The Netflix Bloodbath: Explained — speakers: Richard Osman, Marina Hyde
 - 2026-10-23 — Who Is The Faithful's Only Hope? - Celeb Traitors Reaction (Episode 8) — speakers: Only Hope, Celeb Traitors Reaction, Richard Osman, Marina Hyde
 - 2026-10-22 — Is Sharon A Dark Horse? - Celeb Traitors Reaction (Episode 7) — speakers: Dark Horse, Richard Osman, Marina Hyde

@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-10-22T04:42:29+00:00`
-- checked_at: `2026-10-22T04:42:29+00:00`
-- last_modified: `Wed, 21 Oct 2026 23:10:12 GMT`
+- fetched_at: `2026-10-29T00:54:47+00:00`
+- checked_at: `2026-10-29T00:54:47+00:00`
+- last_modified: `Thu, 29 Oct 2026 00:07:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-22T04:42:29+00:00",
+  "fetched_at": "2026-10-29T00:54:47+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,28 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "5487414cc51bc2fc00051731b03bc3b6710f805e",
+      "title": "Halloween Spooktacula Special",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "link": null,
+      "description": "It was a dark and stormy night, the wind howled against the rain-speckled windows of Pierre's shed. Inside, three hooded figures gathered around a tea-stained table, pushed aside their podcast microphones and began an unholy chant. Lightning crackled through the brooding sky as, within the walls of the haunted chamber, the spookiest games were summoned forth. That's right, it's Halloween week, and the Boys are back to recount the scariest moments of the year. Pierre's been haunted by late-night shopping anomalies, Sarah's spooked by their offshore adventures and Glenn's unnerved by revisiting his safe havens. Plus a long list of terrifying tales from the Discord. But before all that, the Boys catch up on what they've been playing this week. Pierre has found such a Pierre game: maths and war. What more could the man want? Sarah's headed back to the 70s to get fired before things go awry and Glenn's got his adrenaline fix as he speeds around planets in a galaxy far, far away. To follow along with the Button Boys outside the podcast: ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: IRON NEST: Heavy Turret Simulator Iron Lung Pillars of Eternity Still Wakes the Deep Silent Hill: Townfall Dark Souls Perky Little Things Dorfromantik Blue Prince Horizon Zero Dawn Hellblade: Senua's Sacrifice Assassin's Creed Valhalla Scarface: The World Is Yours Halloween: The Game Dordogne Grand Theft Auto V FIFA 09 BioShock 2 Grand Theft Auto: Vice City BioShock Infinite Star Wars: Galactic Racer Star Wars Jedi: Survivor Star Wars Zero Company Burnout Cuphead Midnight Shift The Mound: Omen of Cthulhu Among Us Resident Evil Requiem Resident Evil 7 Resident Evil 2 Little Nightmares II Outlast Firewatch Big Walk 3D Movie Maker Prince of Persia Lilo & Stitch: Trouble in Paradise Crash Bandicoot Metal Gear Solid Bloodborne Elden Ring Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4405204275.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3419",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "halloween",
+        "spooktacula",
+        "special"
+      ]
+    },
     {
       "key": "3dea92e6a642cc92069c83e164f92f14d11d6e0c",
       "title": "Terrible Times: Who’s Got it the Worst?",
@@ -1589,6 +1611,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Halloween Spooktacula Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-21 — Terrible Times: Who’s Got it the Worst? — speakers: Terrible Times, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-14 — Side Quests Vol. 1 — speakers: Side Quests Vol, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-07 — The Eras Tour: Best Historical or Futuristic Setting — speakers: Best Historical, Glenn Moore, Sarah Keyworth, Pierre Novellie

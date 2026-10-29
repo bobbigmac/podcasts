@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- last_modified: `Mon, 26 Oct 2026 00:00:00 GMT`
+- fetched_at: `2026-10-29T00:54:47+00:00`
+- checked_at: `2026-10-29T00:54:47+00:00`
+- last_modified: `Thu, 29 Oct 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-29T00:54:47+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8ecd64c38bac11a3f8d4b427c75e21b06064bab1",
+      "title": "The Halloween Special: Terrifying Costumes, Would You Rather & Spooky Dilemmas",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "link": null,
+      "description": "Happy Halloween! How does Shanthi deal with Trick or Treaters? It’s Thursday, so Romesh’s mum Shanthi is here to answer your questions and family dilemmas, this time with a Halloween twist. Expect some trick or treat role play, a Halloween edition of Would You Rather, and plenty of unexpected answers. Plus, there are listener dilemmas covering school nightmares, an expensive embarrassing mishap and a workplace outfit that got out of hand. As ever, Shanthi has her own strong opinions. Happy Halloween from Romesh, Shanthi and the whole Ranga Bee team. A Ranga Bee Production. Chapters: 00:00 Intro 04:26 Shanthi's Halloween traditions 05:29 Trick or treat role play 07:27 Would You Rather: Halloween edition 11:03 Listener questions 17:11 Romesh's cane plans 20:30 A very expensive embarrassing mishap 27:19 Shanthi's solution 28:47 Style dilemma 34:40 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d803d196-d2c3-11f1-bce2-1fbd30983ba5/image/55779c9b793bafa4e0497e341df0eea4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3252369423.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2301",
+      "speakers": [
+        "Spooky Dilemmas",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "halloween",
+        "special",
+        "terrifying",
+        "costumes",
+        "spooky",
+        "dilemmas"
+      ]
+    },
     {
       "key": "15870c6b930489ef6c4aa3682cb5cc51dda7521e",
       "title": "John Cena & Jessica Biel: Matchbox, Stunt Fears & Why London Food Is Great",
@@ -2654,6 +2678,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — The Halloween Special: Terrifying Costumes, Would You Rather & Spooky Dilemmas — speakers: Spooky Dilemmas, Romesh Ranganathan
 - 2026-10-26 — John Cena & Jessica Biel: Matchbox, Stunt Fears & Why London Food Is Great — speakers: John Cena Jessica Biel, Jessica Biel, John Cena, Romesh Ranganathan
 - 2026-10-21 — Shanthi Gives Advice on Flying, Grandparents & Fighting in Relationships — speakers: Shanthi Gives Advice, Relationships What, Romesh Ranganathan
 - 2026-10-18 — Katherine Ryan: Firstborn Daughters, Celine Dion & Why Women Should Misbehave — speakers: Katherine Ryan, Romesh Ranganathan
