@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `"djEuMi4wOjE3OTMyMDI2MTczODc="`
+- fetched_at: `2026-10-29T18:27:34+00:00`
+- checked_at: `2026-10-29T18:27:34+00:00`
+- etag: `"djEuMi4wOjE3OTMyOTEyMTc4NjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-10-29T18:27:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "22c25fd4143a087e83d67d84216c32f1d4fd8b9a",
+      "title": "Budget 2026: Cautious or radical?",
+      "published_at": "2026-10-29T16:26:57+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/budget-2026-cautious-or-radical",
+      "description": "John Healey has delivered his first Budget as Chancellor, promising \"breathing space\" for households and businesses as the war in the Middle East drives up energy and borrowing costs. Anoosh Chakelian is joined first by journalist and economist Duncan Weldon, to discuss the economics, and second by political editor Ailbhe Rea to discuss the politics. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793291006354-fde8a7c6-8c9e-49d5-b4b9-83e33fe3bd85.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ae36f729ea8d153c3f68008/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134125105",
+      "itunes_duration": "55:50",
+      "speakers": [
+        "John Healey",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "budget"
+      ]
+    },
     {
       "key": "b2fdaa83b2c48c7ffe60d070d049fc834b9b79be",
       "title": "US midterms: Is this a referendum on Trump?",
@@ -32780,6 +32800,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Budget 2026: Cautious or radical? — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
 - 2026-10-28 — US midterms: Is this a referendum on Trump? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-26 — Should we scrap the Budget? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-24 — Martin Lewis is "on speed dial to Number 10" — speakers: Martin Lewis, Anoosh Chakelian, Oli Dugmore

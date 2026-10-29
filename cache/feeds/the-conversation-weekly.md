@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-29T09:56:52+00:00`
-- checked_at: `2026-10-29T09:56:52+00:00`
-- etag: `"26d637-65ef44df84b18"`
-- last_modified: `Thu, 29 Oct 2026 05:53:53 GMT`
+- fetched_at: `2026-10-29T18:27:34+00:00`
+- checked_at: `2026-10-29T18:27:34+00:00`
+- etag: `"26e46d-65efcc6642a42"`
+- last_modified: `Thu, 29 Oct 2026 16:00:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-29T09:56:52+00:00",
+  "fetched_at": "2026-10-29T18:27:34+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "be9fd9096516204d40841b78ee328d5d8f30e2ed",
+      "title": "How Big Porn made sexual violence mainstream",
+      "published_at": "2026-10-29T16:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "Twenty years ago, extreme and violent pornography was largely confined to a niche corner of the internet. Today, depictions of strangulation and sexual violence have become mainstream. So how did porn become so extreme? In this episode, Clare McGlynn, professor of law at Durham University in the UK, explains how the algorithms and business models of major porn platforms are helping to normalise increasingly violent content. She also discusses its impact on young people’s sexual behaviour, and unpacks new UK laws that target porn depicting strangulation and other forms of sexual violence. Content warning: This episode contains descriptions of sex and sexual violence. This episode was written and produced by Gemma Ware and Isabella Podwinski. Mixing by Michelle Macklem and theme music by Neeta Sarl. Grace Jennings-Edquist is executive producer of podcasts. Ashlynne McGhee is our head of editorial innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/a2110fe7-0454-45f7-ac3f-6df5c7116373.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32592429",
+      "itunes_duration": "22:38",
+      "speakers": [
+        "How Big Porn",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "porn",
+        "violence",
+        "mainstream"
+      ]
+    },
     {
       "key": "45da671e97fc878551db0d02dc9dbab5db162ef4",
       "title": "America's death penalty: why executions are rising again",
@@ -6424,6 +6445,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — How Big Porn made sexual violence mainstream — speakers: How Big Porn, Gemma Ware
 - 2026-10-22 — America's death penalty: why executions are rising again — speakers: Christa Pike, Gemma Ware
 - 2026-10-15 — In Alberta, far-right populism drives bid to leave Canada — speakers: Gemma Ware
 - 2026-10-08 — Nobel laureate Karl Deisseroth on how light is changing what we know about the brain — speakers: Karl Deisseroth, Gemma Ware

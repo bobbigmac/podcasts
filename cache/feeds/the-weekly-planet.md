@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- etag: `"djEuMi4wOjE3OTI5ODU0Mzk0Mzg="`
+- fetched_at: `2026-10-29T18:27:34+00:00`
+- checked_at: `2026-10-29T18:27:34+00:00`
+- etag: `"djEuMi4wOjE3OTMyNzcwMzkzMTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-10-29T18:27:34+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "72ac84de6868a8ed552a7c2307fc6e09daacfaa6",
+      "title": "The Maze Runner - Caravan of Garbage",
+      "published_at": "2026-10-29T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/the-maze-runner-caravan-of-garbage",
+      "description": "The 2010's were absolutely choked with movie adaptations of young adult dystopian novels where the world is bad but there's a special girl or guy and also there's a sci-fi twist but also an evil organisation or government. And let's be honest they didn't always work with a few notable expections, one of which being The Hunger Games. But we looked at those already so we're gonna talk about the Maze Runner trilogy starring Dylan O'Brian and directed by Wes Ball. Thanks for watching our Caravan Of Garbage review. SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6adc66c14395ebfbf1a70836/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25890886",
+      "itunes_duration": "24:30",
+      "speakers": [
+        "Maze Runner Caravan",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "maze",
+        "runner",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "6e1b6c5f3f924c95acd9abfe9f061ae3d7dd8381",
       "title": "646 Clayface!",
@@ -23362,6 +23385,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — The Maze Runner - Caravan of Garbage — speakers: Maze Runner Caravan, James Clement, Nick Mason
 - 2026-10-26 — 646 Clayface! — speakers: James Clement, Nick Mason
 - 2026-10-22 — Street Fighter: The Legend of Chun-Li - Caravan Of Garbage — speakers: Street Fighter, James Clement, Nick Mason
 - 2026-10-19 — 645 Street Fighter 2026! — speakers: Street Fighter, James Clement, Nick Mason
