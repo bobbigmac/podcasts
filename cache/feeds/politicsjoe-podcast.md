@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `"djEuMi4wOjE3OTMyMDk4NzYyMTE="`
+- fetched_at: `2026-10-30T18:06:27+00:00`
+- checked_at: `2026-10-30T18:06:27+00:00`
+- etag: `"djEuMi4wOjE3OTMzNzUxMDY0ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-10-30T18:06:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "eaf5118ccfce2bb40fa4fc46b2e46d5eb1293cb6",
+      "title": "The American Midterms Can END Trump | Jacob Weisberg interview",
+      "published_at": "2026-10-30T15:42:56+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ae4bb00e8cdbf26dddf3859",
+      "description": "Donald Trump’s second presidency has been marked by a striking lack of resistance. While figures inside his first administration regularly challenged his decisions, Trump 2.0 has seen politicians, business leaders, media organisations and institutions fall into line. So why has America’s political establishment become so reluctant to stand up to him? In this interview, Jacob Weisberg, journalist, formerly of Slate and author of Profiles in Cowardice, explains how Donald Trump has consolidated his power, and why so many of the people who once opposed him have since capitulated. With the US midterm elections approaching, Weisberg explains why a Democratic victory in the House of Representatives could fundamentally change the political landscape, opening the door to investigations into Trump's administration, corruption and abuse of power. Buy Profiles in Cowardice here: https://www.penguinrandomhouse.com/books/818503/profiles-in-cowardice-by-jacob-weisberg/ Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ae4bb00e8cdbf26dddf3859/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78433390",
+      "itunes_duration": "40:50",
+      "speakers": [
+        "Jacob Weisberg"
+      ],
+      "topics": [
+        "midterms",
+        "trump",
+        "jacob",
+        "weisberg"
+      ]
+    },
     {
       "key": "616e847d3f04921f3a270f76b462c29c85fb08ad",
       "title": "Going Deep on Andy Burnham's First Budget",
@@ -14008,6 +14029,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — The American Midterms Can END Trump | Jacob Weisberg interview — speakers: Jacob Weisberg
 - 2026-10-28 — Going Deep on Andy Burnham's First Budget — speakers: Andy Burnham, John Healey
 - 2026-10-27 — Should You Be Scared of the Bond Markets? — speakers: Robin Wigglesworth
 - 2026-10-26 — Is Andy Burnham reversing Brexit? — speakers: Andy Burnham

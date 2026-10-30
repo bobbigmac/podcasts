@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-10-23T21:23:32+00:00`
-- checked_at: `2026-10-23T21:23:32+00:00`
-- etag: `"883e766a369dbd9122ece740c7cd9545"`
-- last_modified: `Fri, 23 Oct 2026 18:00:10 GMT`
+- fetched_at: `2026-10-30T18:06:27+00:00`
+- checked_at: `2026-10-30T18:06:27+00:00`
+- etag: `"31e3cefc85aac8ed1c1873d8e0e5cb02"`
+- last_modified: `Thu, 29 Oct 2026 19:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-10-23T21:23:32+00:00",
+  "fetched_at": "2026-10-30T18:06:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5466,31 +5466,6 @@
         "ignacio",
         "lopez"
       ]
-    },
-    {
-      "key": "906f1f46b3d86bb46ef7aac6f221ecec017e72f7",
-      "title": "The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson",
-      "published_at": "2021-10-29T18:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0b14lhj",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches and they're back in the BBC Radio Theatre in front of a remote audience. Joining them from a safe distance is Felicity Ward who has a foolproof plan for improving food in this country and Aurie Styla giving survival tips for the pandemic and the smug benefits of owning an electric car. We also get a sneak peek at Adele's 23rd album, 96, from Jess Robinson. Music composed by Alex Silverman. Voice Actors: Gemma Arrowsmith and Luke Kempner Producer: Pete Strauss Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b14hnb.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26768000",
-      "itunes_duration": "1673",
-      "speakers": [
-        "Jess Robinson",
-        "Steve Punt"
-      ],
-      "topics": [
-        "october",
-        "felicity",
-        "ward",
-        "aurie",
-        "styla",
-        "jess",
-        "robinson"
-      ]
     }
   ]
 }
@@ -5758,4 +5733,3 @@
 - 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt
 - 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt
 - 2021-11-12 — The Now Show - 12th November ft Gareth Gwynn, Michael Spicer, Priya Hall and Ignacio Lopez — speakers: Gareth Gwynn, Michael Spicer, Priya Hall, Ignacio Lopez, Steve Punt
-- 2021-10-29 — The Now Show - 29th October ft Felicity Ward, Aurie Styla and Jess Robinson — speakers: Jess Robinson, Steve Punt
