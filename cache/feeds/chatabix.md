@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-10-29T09:56:52+00:00`
-- checked_at: `2026-10-29T09:56:52+00:00`
-- etag: `"djEuMi4wOjE3OTMyNDI4Mzk1MDE="`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `"djEuMi4wOjE3OTMzNTA5MTI1ODc="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-10-29T09:56:52+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "59f533ee802659896fdfa4feabf5b376d018948c",
+      "title": "S17 Ep 911 Listeners Mailbag: Big Packages and First Kisses",
+      "published_at": "2026-10-30T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-911-listeners-mailbag-big-packages-and-first-kisses",
+      "description": "In today’s bulging mailbag, there’s more cosy parent stories, tired erections and a donkey cock, a right to reply from a previous emailer, a celebrity one in a million, spotting Robert Smith in Paris, Joe & David’s Magical Sitcom Tour, a French town that’s ‘a different kettle of fish’ and a spin the bottle first kiss story. Plus, a long chat reminiscing about teenage parties, nightclubs and Charlie Kray. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6adb2c580a858cda44aa80b1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46337462",
+      "itunes_duration": "48:16",
+      "speakers": [
+        "Listeners Mailbag",
+        "Big Packages",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "packages",
+        "kisses"
+      ]
+    },
     {
       "key": "16c1221d98de35195b9fe213f14036f01ffeb8be",
       "title": "S17 Ep 910: David’s Art Class",
@@ -16450,6 +16474,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — S17 Ep 911 Listeners Mailbag: Big Packages and First Kisses — speakers: Listeners Mailbag, Big Packages, Joe Wilkinson, David Earl
 - 2026-10-29 — S17 Ep 910: David’s Art Class — speakers: David’s Art, Joe Wilkinson, David Earl
 - 2026-10-28 — S17 Ep 909: A New Series & A Brand New Puppy - Part 2 — speakers: Brand New Puppy, Joe Wilkinson, David Earl
 - 2026-10-27 — S17 Ep 908: A New Series & A Brand New Puppy - Part 1 — speakers: Joe Wilkinson, David Earl

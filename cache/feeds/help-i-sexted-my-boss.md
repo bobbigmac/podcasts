@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-27T08:57:48+00:00`
-- checked_at: `2026-10-27T08:57:48+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RNd09EQTRNems0TXprPTo6c2F4ZXNz"`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RNek5EQXdNemsyTnpVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-27T08:57:48+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4f62f2b325a2fbfa98cebc93e5bccbef5d1fe0ca",
+      "title": "We’re In A Haunted House! | And William's Spooky Story",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/were-in-a-haunted-house-and-williams-spooky-story",
+      "description": "William and Jordan don’t need any excuse to have the willies put up them, so when we suggested taking them to a haunted house for a Halloween spesh, they were thrilled! That thrill doesn’t last for long, however, as the reality of spending the evening in one of the most haunted houses in London all too quickly dawns on them... -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1793290181157-1ed5d835-4062-43d7-b7c3-d608a6d26a15.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ae203f05152d8a49afa6ff8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_3GVY-XHLro98cTV9XhtFEHufdIkCZGSwLY5A2Ke1FQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28440032",
+      "itunes_duration": "29:37",
+      "speakers": [
+        "Spooky Story William",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "haunted",
+        "house",
+        "william",
+        "spooky",
+        "story"
+      ]
+    },
     {
       "key": "f00f92ce21cc505f4093d0547319a3393ff7f46c",
       "title": "Help I Hooked Up With Her Dad | And Halloween Dress Codes",
@@ -15329,6 +15353,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — We’re In A Haunted House! | And William's Spooky Story — speakers: Spooky Story William, William Hanson, Jordan North
 - 2026-10-27 — Help I Hooked Up With Her Dad | And Halloween Dress Codes — speakers: William Hanson, Jordan North
 - 2026-10-23 — Sexted Spelling Bee And Jordan’s Weekend Candle — speakers: Jordan North, William Hanson
 - 2026-10-20 — Help There’s An Old Man Watching | And William's Coffee Whinge — speakers: Coffee Whinge, William Hanson, Jordan North

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-10-29T18:27:34+00:00`
-- checked_at: `2026-10-29T18:27:34+00:00`
-- etag: `"djEuMi4wOjE3OTMyODM3NzMyNDE="`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `"djEuMi4wOjE3OTMzNDAwMzk2NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-10-29T18:27:34+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a315624b7c8376c64196bc5de66712373f3e2d89",
+      "title": "Paul Foot Returns",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/520-paul-foot-returns",
+      "description": "Paul Foot, one of the most prominent voices in alternative comedy, returns to the show 266 episodes later as we dig into his last show Dissolve which explored how he found the secret to life in Lancaster’s outskirts, and his new show exploring the future. We discuss: the difference between the new and old Paul Foot on stage what happens to your creativity when you stop being anxious how to push the elastic relationship with an audience building an appetite for risk over 15 years exploring his unique vocabulary of mannerisms and we find out if he is happy… Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss why Paul reckons he should have started 15 years later, how comedy feels more exciting right now than music and why he no longer feels reigned in. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Paul: The Future is currently on tour across the UK through to May 2027, find all the dates and more at paulfoot.tv . You can also now watch Paul Foot: Dissolve on YouTube. Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Paul ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . AOB : Chloe Radcliffe’s debut hour special Eyes Down Here is now available to stream on Comedy Central Standup YouTube! Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1793283314065-48c6d080-1141-4c38-b693-37ba727bb31d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6ae354c4092a0dff19aafe10/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67749511",
+      "itunes_duration": "1:10:34",
+      "speakers": [
+        "Paul Foot",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "return"
+      ]
+    },
     {
       "key": "38c69169126864fd36e5213f17419e0e851364cd",
       "title": "Elf Lyons Returns",
@@ -11818,6 +11839,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — Paul Foot Returns — speakers: Paul Foot, Stuart Goldsmith
 - 2026-10-16 — Elf Lyons Returns — speakers: Elf Lyons Returns Elf, Stuart Goldsmith
 - 2026-09-24 — Larry Dean (2020): ComCompendium — speakers: Larry Dean, Stuart Goldsmith
 - 2026-09-10 — Doc Brown (2019): ComCompendium — speakers: Doc Brown, Ben Bailey Smith, Stuart Goldsmith

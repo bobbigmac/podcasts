@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `"djEuMi4wOjE3OTMyMDc3Njc1ODY="`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `"djEuMi4wOjE3OTMzNDAwMzk2NDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1148296e81fae9924d0f9d18f75b6211a52990a9",
+      "title": "Billy Corgan Chose This",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/billy-corgan-chose-this",
+      "description": "This week, Katherine's Telling Everybody Everything about the long awaited end to her stand-off with FedEx and how we should all get our postal service people's home phone numbers incase they abruptly move on. Plus, one of the children proves the nanny nay-sayers wrong by turning over a table at a members club hotel and smashing a bunch of wine glasses. Billy Corgan keeps doing interviews even though he's provably an arsehole and should maybe stick to music rather than promoting his many cancellable qualities with his talking mouth. Also, Andrew Johnston (@mandrewbrawnston) joins us with disturbing US politics news and a happy story about the Dallas Cowboy Cheerleaders unionising! Should Hooters do the same? Finally, your letters on nipples getting stuck in cosmetics cases and a call to Violet who helps answer a younger queer-y. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1793207139917-e0ec13fe-5383-4c8f-a7ea-108193aad2e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6ae22dd75a3cc3c4c45579ed/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104185648",
+      "itunes_duration": "1:12:20",
+      "speakers": [
+        "Billy Corgan",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "billy",
+        "corgan"
+      ]
+    },
     {
       "key": "367ce0b7a2c0eee834cc343463519e1d26d651b8",
       "title": "The Halloween Costume of 2026",
@@ -6592,6 +6612,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — Billy Corgan Chose This — speakers: Billy Corgan, Katherine Ryan
 - 2026-10-23 — The Halloween Costume of 2026 — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-16 — Would You Attend Your Husband's Assault Trial? — speakers: Assault Trial, Katherine Ryan
 - 2026-10-03 — Celebrity Traitors — speakers: Telling Everybody Everything, Katherine Ryan

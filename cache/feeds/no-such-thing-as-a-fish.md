@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-10-26T20:29:14+00:00`
-- checked_at: `2026-10-26T20:29:14+00:00`
-- etag: `W/"e10c4cab6893cffc9781bfc39334bec9"`
-- last_modified: `Sun, 25 Oct 2026 23:55:00 GMT`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `W/"6ded3e0abac0df7a66dd9635bec73e4b"`
+- last_modified: `Thu, 29 Oct 2026 23:55:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-10-26T20:29:14+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "076cd4306f5d038f5d709248f8a3f5d40fdccc9d",
+      "title": "No Such Thing As A Sea Cucumber In A Haunted House",
+      "published_at": "2026-10-29T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8970329",
+      "description": "In our SPOOOKY Halloween special, Dan, James, Anna and Andy discuss coffins, spirits, zombies and jump-scares. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43907992.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8970329.mp3?modified=1793207218&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3406",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "cucumber",
+        "haunted",
+        "house"
+      ]
+    },
     {
       "key": "301b48f1ae9d7f1d72ddc9c2512abbbdb83f6520",
       "title": "Little Fish: Mike, can we say this?",
@@ -17386,6 +17410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — No Such Thing As A Sea Cucumber In A Haunted House — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-25 — Little Fish: Mike, can we say this? — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-22 — No Such Thing As Lithuanian Soap Ornaments — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-18 — Little Fish: Crufsts — speakers: Dan di, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

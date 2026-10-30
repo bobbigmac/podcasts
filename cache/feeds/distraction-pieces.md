@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNjEyMzkzMzA="`
+- fetched_at: `2026-10-30T09:59:28+00:00`
+- checked_at: `2026-10-30T09:59:28+00:00`
+- etag: `"djEuMi4wOjE3OTMzMzQwMzkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-10-30T09:59:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ad99f7b5793190c4718df2623db584728f414717",
+      "title": "AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind",
+      "published_at": "2026-10-30T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with AUNTY DONNA , originally episode 357 from 2020-12-09. Original writeup: Have you heard of Aunty Donna yet? Chances are you are a diehard dyed in the wool Auntyhead, but perhaps you may have only just seen that Netflix square scrolling sideways in your field of vision as recent as today - or maybe this is the first time you’ve heard the word Aunty and the name Donna together full stop. Well prepare to either get to know the gang much better, or make some new best friends, as Pip catches up with three of the crew! You’ll hear a ton from their early days right up to now, and this will ensure that you are well versed in all things Donna - covering Run The Jewels with times tables, going from podcast to stage to screen, Dominos Pizza (and a gang of fast food snack trivia), tall poppy syndrome, fanbases, physical humour, finding the truth, being present, “whatever’s funniest” and the relentless search for perfection in TV production, as well as a bunch of behind the scenes bits and pieces besides. Gems from every angle. ENJOY! PIP'S PATREON PAGE if you're of a supporting nature ONLINE (literally everything's here!) PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1793030775512-4afe475d-982a-4b82-a0bb-a1cca546beaf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6adf7c03feb8d1e39c099f54/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "189871102",
+      "itunes_duration": "1:19:01",
+      "speakers": [],
+      "topics": [
+        "donna",
+        "australia",
+        "comedy",
+        "group",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "ab7b1a6dc99e91d1a3b05f0e34d6acb222d3c573",
       "title": "HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693",
@@ -19878,6 +19899,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind
 - 2026-10-28 — HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693
 - 2026-10-23 — KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind
 - 2026-10-21 — STAMMA FEST PODCAST • a Q&A with Jessie Roux fielding questions from awesome young folks #692 — speakers: Jessie Roux
