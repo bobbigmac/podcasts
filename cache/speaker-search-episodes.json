@@ -6465,6 +6465,50 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:047786d0dded",
+        "feed_title": "Joanne McNally Investigates",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p0hf2y5n.rss",
+        "dedupe_key": "efa12a21fde6e19df2c15bca4a1f047ba7c7eee0",
+        "episode_key": "efa12a21fde6e19df2c15bca4a1f047ba7c7eee0",
+        "title": "A message from Ed Gamble",
+        "published_at": "2026-10-29T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With Joanne on the latest series of The Celebrity Traitors, Ed Gamble has a message from the castle.\nTo listen to every episode of The Celebrity Traitors: Uncloaked, search for ‘Traitors Uncloaked’ on BBC Sounds.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pk8n0s.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/a-message-from-ed-gamble/id1733010386?i=1000798710596&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:857177a549e0",
+        "feed_title": "James Acaster's Perfect Sounds",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p089rfmk.rss",
+        "dedupe_key": "0ba630deb5df7ad9fb92b15a0ac80342d9b46c0d",
+        "episode_key": "0ba630deb5df7ad9fb92b15a0ac80342d9b46c0d",
+        "title": "A message from Ed Gamble",
+        "published_at": "2026-10-29T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With James on the latest series of The Celebrity Traitors, Ed Gamble has a message for Perfect Sounds listeners.\nTo listen to every episode of The Celebrity Traitors: Uncloaked, search for ‘Traitors Uncloaked’ only on BBC Sounds.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pk8nh1.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/a-message-from-ed-gamble/id1508552713?i=1000798715456&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",

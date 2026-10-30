@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-10-22T21:34:37+00:00`
-- checked_at: `2026-10-22T21:34:37+00:00`
-- etag: `"e1210-65e73f17a14cc"`
-- last_modified: `Thu, 22 Oct 2026 20:45:25 GMT`
+- fetched_at: `2026-10-30T00:58:34+00:00`
+- checked_at: `2026-10-30T00:58:34+00:00`
+- etag: `"e1bf7-65f0197cd8d78"`
+- last_modified: `Thu, 29 Oct 2026 21:45:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-10-22T21:34:37+00:00",
+  "fetched_at": "2026-10-30T00:58:34+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a5c71b50a8d9fa96b7d68feb30b56d40c1e4d361",
+      "title": "Joel Dommett - Series 22 Ep.9",
+      "published_at": "2026-10-29T21:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's Taskmaster Podcast, comedian, presenter and all-round entertainer, Joel Dommett joins Ed in the Caravan. As well as discussing the penultimate episode of the series, they discuss rare things, placentas, the time Joel couldn't light a match for Sienna Miller and how Joel feels watching the new line-up. Enjoy the chaos! To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com For tickets to see Phil Ellis host a series of work-in-progress gigs for new Taskmaster For Kids: Live On Stage visit taskmaster.tv/kids-live-signup And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel.",
+      "image_url": "https://artwork.captivate.fm/8e196c17-f768-4583-bc6a-6c79e299e42d/TASKMASTER-PODCAST-ARTWORK-Joel-v1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/d7f83687-541f-4af8-acd4-e3ec259ef921.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=d7f83687-541f-4af8-acd4-e3ec259ef921",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60628974",
+      "itunes_duration": "01:03:09",
+      "speakers": [
+        "Joel Dommett",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "joel",
+        "dommett",
+        "series"
+      ]
+    },
     {
       "key": "40940e247ebd94203f964fd4618ba1a6b41fde7f",
       "title": "Joanna Page - Series 22 Ep.8",
@@ -572,7 +593,7 @@
     {
       "key": "106a305e7db8f22e98d598b7d59e77c276b3d94a",
       "title": "Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix",
-      "published_at": "2026-03-26T20:00:00+00:00",
+      "published_at": "2026-03-26T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week, we rewind to 2021 to revisit Ed’s chat with the brilliant comedian, actor, and writer Katy Wix. Ed and Katy dive into Episode 3 of Series 3, breaking it down task by task. They take a closer look at the flag meal challenge, the chaos of Twister, and debate why glitter poo might not be such a bad thing after all. Enjoy! Catch up on Taskmaster at channel4.com For all your Taskmaster goodies visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -596,7 +617,7 @@
     {
       "key": "67108e70ceac65ba47a7e257ba3872c4e7adacab",
       "title": "Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan",
-      "published_at": "2026-03-19T20:00:00+00:00",
+      "published_at": "2026-03-19T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week we are rewinding back to 2021! Ed is joined by star of Derry Girls, Bridgerton and of course The Taskmaster New Year's Treat 2020 - it's Nicola Coughlan! The pair discuss Nicola's love for the show and how much she enjoyed doing the NY special - despite some questionable decisions from Greg. They also take a deep dive in to Episode 4 of Series 1. This episode includes the ice task, getting to 11 points and some special moments for Josh. Enjoy! To catch up on all the great series and New Year's Treats visit channel4.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -619,7 +640,7 @@
     {
       "key": "7da374b2bfec75373109fc96ade3622652c26a68",
       "title": "Taskmaster Live on Stage - New York Night #2",
-      "published_at": "2026-03-12T17:30:00+00:00",
+      "published_at": "2026-03-12T18:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "If you weren't lucky enough to be there is person here is your chance to listen to Alex & Greg's second night in NYC! The pair are hosted by Josh Gondelman who reads out some brilliant audience questions, including one from his wife! To catch up on all things Taskmaster visit channel4.com For all the latest Taskmaster news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -641,7 +662,7 @@
     {
       "key": "4e3f8e8000419651fb2baca0adc3c19391e2d8ab",
       "title": "Taskmaster Live on Stage - New York Night #1",
-      "published_at": "2026-03-04T16:20:00+00:00",
+      "published_at": "2026-03-04T17:20:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Here is a second helping of Taskmaster Live on Stage in the US and this time Greg and Alex are in NYC! Once again they are hosted by Josh Gondelman who reads out some brilliant audience questions! To catch up on all things Taskmaster visit channel4.com For all the latest Taskmaster news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -662,7 +683,7 @@
     {
       "key": "3b4796bc9722467e6c457dabf5bf5796d984aded",
       "title": "Taskmaster Live on Stage - Washington D.C.",
-      "published_at": "2026-02-26T19:45:00+00:00",
+      "published_at": "2026-02-26T20:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Ready for some Greg & Alex live action? Well look know more... Taskmaster Live on Stage in Washington, D.C . took place on January 21, 2026, at the Warner Theatre. On the Podcast this week you can listen to the Q&A part of the show which was hosted by the brilliant Josh Gondelman. Listen to Greg Alex talk about all things TM plus some updates on their US trip! To catch up on Taskmaster visit channel4.com For all your latest Taskmaster news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -682,7 +703,7 @@
     {
       "key": "9ad25be2f5debc63b2e7e8a935c078e3a34f6980",
       "title": "Taskmaster The Podcast Rewind - Series 4 Ep4. With Mel Giedroyc",
-      "published_at": "2026-02-20T16:30:00+00:00",
+      "published_at": "2026-02-20T17:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We've gone back to 2021 for this week's rewind podcast! Joining Ed this week is the brilliant Mel Giedroyc! Ed and Mel discuss the vegetable prize task at length, she talks about the lime shoe and Ed reveals that Alex wore a different tie for each of Mel's tasks! Mel also shares what she did with the wax seals and how Desky Dennis helped her plan a cycle ride. As well as this they dig deep in to Series 4 Episode 4, enjoy! Watch all of Taskmaster on Channel.com Keep up to date with all the latest Taskmaster news at Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -707,7 +728,7 @@
     {
       "key": "3426860deb9c073de95cfb75979582065fb340cb",
       "title": "Taskmaster The Podcast Rewind - Series 3 Ep2. With Al Murray",
-      "published_at": "2026-02-18T18:10:00+00:00",
+      "published_at": "2026-02-18T19:10:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We are going all the way back to series 3 and in this Epsiode Ed is joined by comedian, podcaster and TM Uber fan, the brilliant Al Murray! Al discusses his TM expenses on the show, why it's good to have a 'Gong Man' and what it is he loves about the programme. He also reveals that he wishes he held out for a 10 episode series! You can catch up on all of Taskmaster at channel4.com Get all the latest TM news at Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -730,7 +751,7 @@
     {
       "key": "ab4e6b4167e07e509c7de6c27cf6ea4be40b619c",
       "title": "Taskmaster The Podcast Rewind - Series 2 Ep 4. With Kerry Godliman",
-      "published_at": "2026-02-10T16:05:00+00:00",
+      "published_at": "2026-02-10T17:05:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week we revisit our first episode with the Bosh Queen, Kerry Godliman! Ed spoke with Kerry back in 2021 before the CofC was decided and before Richard Herring took the trophy! On this Epsiode they discussed the laminator prize task, sausage or finger, human tapas and how Kerry might feel about filling in for Greg! Catch up on Taskmaster on Channel4.com For all your TM news visit Tasmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -754,7 +775,7 @@
     {
       "key": "59a2721e7fdb3167145e53e1d0418bc8d3f9a487",
       "title": "Taskmaster The Podcast Rewind - Series 1 Ep.6 With Romesh Ranganathan",
-      "published_at": "2026-02-04T12:50:00+00:00",
+      "published_at": "2026-02-04T13:50:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We are back to Series 1 and for today's rewind episode we revisit Ed's chat with comedian, podcaster and TV Royalty, Romesh Ranganathan! As well as going through all the tasks they discuss Tree Wizard, Melon Buffet and Romesh's 'all in' prize tasks! Romesh also shares his thoughts on the infamous blooper video... which hasn't been discussed since! For all the latest Taskmaster news visit Taskmaster.tv To catch up on the back catalogue visit channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -777,7 +798,7 @@
     {
       "key": "a60a93c7aeba6e1903ebc1e56d6f17770186409c",
       "title": "Taskmaster The Podcast Rewind - Series 2 Ep.2 With Joe Wilkinson",
-      "published_at": "2026-01-30T10:37:00+00:00",
+      "published_at": "2026-01-30T11:37:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's time to revisit Series 2 and for today's rewind Episode we go back to our brilliant chat with comedian and actor Joe Wilkinson! Ed gets to the bottom of 'that throw', they discuss why Joe would do it all the same again and there's also some non Taskmaster stories thrown in for good measure! Enjoy. Catch up on all of Taskmaster at channel4.com For all your latest Taskmaster news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -800,7 +821,7 @@
     {
       "key": "b422b3385f31f843a39d7398bd601dba80479434",
       "title": "Taskmaster The Podcast Rewind - Series 1 Ep1. With Alex Horne",
-      "published_at": "2026-01-27T15:18:00+00:00",
+      "published_at": "2026-01-27T16:18:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Hello Taskmaster Podcast fans! We are rewinding back to 2021 when Ed talked to Alex Horne about the very early days of Taskmaster as well as the first ever episode (that transmitted!) They discuss Edinburgh, show formatting, how they got their first legendary line up - Frank Skinner, Josh Widdicombe, Roisin Conaty, Romesh Ranganathan and Tim Key! Tasks include, painting a horse while on a horse, empty the bath AND eat the most watermelon... Catch up on all of Taskmaster at channel4.com and for all the latest TM news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -824,7 +845,7 @@
     {
       "key": "cc9e95962023f867c04c30ffb512b60a52fe4a8c",
       "title": "Taskmaster: The People's Podcast - 2026 New Years Treat, Part Two",
-      "published_at": "2026-01-12T09:00:00+00:00",
+      "published_at": "2026-01-12T10:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We're joining the People's Pod this week, as Jenny and Jack discuss part two of the 2026 New Years Treat - asking the questions no one else has yet asked; what would it be like to holiday with this cast? Is a moth-eaten squirrel exotic? Is it time to stop the 'thing inside a thing' Taskmaster trend? And we've had Champion of Champions, but should we follow Sweden in hosting a 'Loser of Losers'? A listener writes in to discuss. Next week we're back to our 'classic Taskmaster' homework, watching another part two - this time of Champion of Champions 1. Keep an eye out one the podcast feed for Taskmaster news and Series 21 updates! Catch up on Channel4.com Visit Taskmaster.tv for all your TM news",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -846,7 +867,7 @@
     {
       "key": "41048ae9ba8d69e8c5a9a9559ccb12fca46a3463",
       "title": "*2026 Festive Treat Winner!*",
-      "published_at": "2026-01-03T20:45:00+00:00",
+      "published_at": "2026-01-03T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Two episodes of Taskmaster in two days! We really are being spoilt (and inspired!) For the second part of the Festive Treat, Ed is joined by the winner to chat all about what went down in the house and in the studio! Enjoy all the BTS and more! Keep an eye out one the podcast feed for any news AND for Series 21 deets! Catch up on Channel4.com Visit Taskmaster.tv for all your TM news",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -866,7 +887,7 @@
     {
       "key": "3ea335b04aae4cae36b117fa105aef8cfa766f3f",
       "title": "*2026 New Year's Treat* Part One with Sam Ryder",
-      "published_at": "2026-01-02T20:45:00+00:00",
+      "published_at": "2026-01-02T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "What a lovely way to celebrate the New Year! Greg and Alex return with a star studded line up. This year they are joined by Big Zuu, Jill Scott, Sam Ryder, Susie Dent and Rose Ayling-Ellis. Sam joins Ed in the caravan to talk about all the regrettable decisions he made in the TM house and so much more! Come back to the podcast at the same time tomorrow and listen to Ed talk to the winner! catch up on channel4.com For all your latest TM news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -887,7 +908,7 @@
     {
       "key": "9332ffa52a0f56d058fa6842302dd6af2bdcf87a",
       "title": "*Champion of Champions #4 Winner*",
-      "published_at": "2025-12-22T21:00:00+00:00",
+      "published_at": "2025-12-22T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's Champion of Champions time! Who will reign supreme and who will join Ed Gamble in the Taskmaster caravan? Andy Zaltzman, John Robins, Maisie Adam, Mathew Baynton and Sam Campbell are all contenders but tune in to the pod to get the full run down from the overall champ! Taskmaster the Podcast returns on January 2nd after the first instalment of the festive treat! For all your TM news visit taskmaster.tv and visit channel4.com to catch up or rewatch your favourite episodes!",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -907,7 +928,7 @@
     {
       "key": "346c1a2b73226b1fa95c56fb2309ddd04d0c08c8",
       "title": "Taskmaster: The People's Podcast - With Special Guest Ania Magliano",
-      "published_at": "2025-12-08T15:00:00+00:00",
+      "published_at": "2025-12-08T16:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Over to The People's Pod this week, where Jenny and Jack speak to Ania Magliano about her time on Series 20 - including exclusive insights to her first impressions of Reece, what her dad said to help her through the series' shock ending, and what she thinks will happen in the upcoming Champion of Champions. To catch up on all of Taskmaster visit channel4.com For all your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -931,7 +952,7 @@
     {
       "key": "f8fb603a53c5b6e65d6cac19ec3039833310d36f",
       "title": "Taskmaster The Podcast *Best of Series 20 - Part 2*",
-      "published_at": "2025-11-27T21:00:00+00:00",
+      "published_at": "2025-11-27T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's time for a second helping of Taskmaster Series 20 best bits! This week listen to our highlights from the second half of the series! Why were the contestants dressed as pirates in the finale, what advice did Stevie give Phil and how good is the Panto in the dip! All this and lots more! To catch up on all of Taskmaster visit channel4.com For all your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -952,7 +973,7 @@
     {
       "key": "6a93ae09d7082cb72ffae8326b431f5445e98585",
       "title": "Taskmaster The Podcast *Best of Series 20 - Part 1*",
-      "published_at": "2025-11-20T20:45:00+00:00",
+      "published_at": "2025-11-20T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "If you don't want to say goodbye to the brilliant cast of Series 20 then here is a perfect opportunity to relive some of the best moments from the series! In this instalment you can here highlights from the first half of the series. Guests include Jason Manzoukas, Ania Magliano, Phil Ellis, Reece Shearsmith and Sanjeev Bhaskar! They are talking twins, taking things out of bags, mascots and MORE! Join is next week for even more joyous Series 20 moments!",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -973,7 +994,7 @@
     {
       "key": "6a3afdfcd2affd05f438d1738777b74390968b19",
       "title": "*Series 20 Winner* Series 20 Ep.10",
-      "published_at": "2025-11-13T20:45:00+00:00",
+      "published_at": "2025-11-13T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Drum roll please... after 10 weeks of tasks, questionable scoring and some truly unforgettable moments, Ed is joined by the Series 20 winner! Join Ed and the Series Champ as they go through the last episode of the series task by task and discuss their thoughts on the future Champion of Champions! Series 20 might be over but don't fear, TM will return over the festive period with TWO episodes of a festive treat! Thanks for listening to the podcast and thanks to all our guests who have joined Ed in the caravan! For all your TM news visit taskmaster.tv And if you want to go back and watch it all again, visit channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -992,7 +1013,7 @@
     {
       "key": "3662de3297404a4b2f0356596d86a9bfce82770d",
       "title": "Paul F. Tompkins - Series 20 Ep. 9",
-      "published_at": "2025-11-06T20:45:00+00:00",
+      "published_at": "2025-11-06T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on The Taskmaster Podcast , host Ed Gamble is joined by comedian, actor, and improviser Paul F. Tompkins . The pair are reunited in the Taskmaster Caravan, listen out for the British weather! The uber Taskmaster fan shares his thoughts on Series 20 and episode 9 in particular. Ed also gets Paul's thoughts on the series 19 (the American in particular!) Join us next week for the last episode of Series 20! Find out all your latest TM news at Taskmaster.tv Catch up at Channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1012,7 +1033,7 @@
     {
       "key": "5df5d37785fc949cb8feb7f92c5134eea216b627",
       "title": "Stevie Martin - Series 20 Ep. 8",
-      "published_at": "2025-10-30T20:45:00+00:00",
+      "published_at": "2025-10-30T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the Podcast, Ed is joined by comedian, writer and actor Stevie Martin ! They chat all things Taskmaster — from chaotic challenges to the advice Stevie offered Phil Ellis. All of this plus Stevie gives us a glimpse into her stand-up tour, Clout . For tickets to Stevie's tour visit steviemartin.com To catch up on all of Taskmaster go to channel4.com To get all your latest TM news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/8a0ca1a4-7667-41fe-a87f-211369196057/TASKMASTER-PODCAST-ARTWORK-STEVIE.jpg",
@@ -1659,7 +1680,7 @@
     {
       "key": "e456c6414d912264a57c19c758cef11a78dc2899",
       "title": "Ep 199. Ray O'Leary - TM NZ S2 EP.9",
-      "published_at": "2025-03-27T16:06:00+00:00",
+      "published_at": "2025-03-27T17:06:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We are need the end of this iconic series of Taskmaster and to join Ed to discuss the penultimate episode is Series 4 TM star, Ray O'Leary. Ray and Ed discuss how TM NZ has evolved, Jeremy's scoring (of course!) and how Ray is no stranger to nudity on the show! You can book tickets to see Ray at his show: Laughter, I hardly Know Her at the Melbourne Comedy Festival here: comedyfestival.com.au/browse-shows/ray-o-leary-laughter-i-hardly-know-her/ For all other Ray news follow @rayolearycomedy on instagram For all your Taskmaster updates visit taskmaster.tv To watch Taskmaster UK & NZ go to channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1675,7 +1696,7 @@
     {
       "key": "795c5642ce312c7943df5d2d1a81ff91a0a375a8",
       "title": "Ep 198. Jack Bernhardt - TM NZ S2 EP.8",
-      "published_at": "2025-03-20T06:17:00+00:00",
+      "published_at": "2025-03-20T07:17:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by TM uber fan and stat guy, Jack Bernhardt! The pair discuss why this series is so iconic and how David's journey on the show is so unique! You can listen to Jack Bernhardt on Taskmaster: The People Podcast You can get all your latest TM news at Taskmaster.tv You can watch all episodes of Taskmaster (UK AND NZ) at Cahnnel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1695,7 +1716,7 @@
     {
       "key": "a54d5e023040137cab82b8341e1478091c2edb01",
       "title": "Ep 197. Brynley Stent - TM NZ S2 Ep.7",
-      "published_at": "2025-03-13T00:30:00+00:00",
+      "published_at": "2025-03-13T01:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Friend of the podcast Brynley Stent returns to discuss NZ Series 2! Brynley has some hot takes which include great BTS on the 'Eat the grape' task. Brybly and Ed discuss their approaches to escape rooms and why the Guy and Laura competitiveness is so fun to watch! You can watch Brynley's new digital series with Kura Forrester here: Bryn and Ku's Singles Club youtu.be/Opf4Zyz7CGM To get all the latest Taskmaster news visit Taskmaster.tv To watch all UK and NZ Taskmaster visit channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1715,7 +1736,7 @@
     {
       "key": "073fae0224000b8354b2ebc5ac0c2e07fe0dddd7",
       "title": "Ep 196. Melanie Bracewell - TM NZ S2 Ep.6",
-      "published_at": "2025-03-05T23:15:00+00:00",
+      "published_at": "2025-03-06T00:15:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by comedian and TM champion, Melanie Bracewell. Melanie shares her thoughts on one of the all time best Taskmaster episodes which features the famous rap task. There's also 5 Abraham Lincoln's and a rocking chair! To get tickets to Mel's tour visit melaniebracewell.com/tour To find out about all the latest TM news visit Taskmaster.tv You can watch New Zealand Episodes and all the UK eps at channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1735,7 +1756,7 @@
     {
       "key": "16c2f6cfe8248c3b77ad59d17f8112ce051d1b13",
       "title": "Ep 195. Urzila Carlson - TM NZ S2 Ep.5",
-      "published_at": "2025-02-27T19:45:00+00:00",
+      "published_at": "2025-02-27T20:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by none other than TM New Zealand series 2 legend, Urzila Carlson! The pair discuss episode 5 and Ed gets all the insider info about the softness of David Correos' beard, what Benoni thought of this episode, and what a gift card to Peaches & Cream has to do with buying a boat. You can catch Urzila on her newly-announced UK tour, with tickets available here . For all things Taskmaster visit Taskmaster.tv To watch all the UK and NZ eps go to Channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1755,7 +1776,7 @@
     {
       "key": "4bf1c60d76693688319b13986ef387fc1b7bffec",
       "title": "Ep 194. Guy Williams - TM NZ S2 Ep.4",
-      "published_at": "2025-02-20T10:17:00+00:00",
+      "published_at": "2025-02-20T11:17:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by TM NZ Series 1 star and Big Brother of Paul Williams - Guy Williams! Guy joins Ed from Australia and he shares a recent unpleasant encounter with a stranger. They also discuss who in Taskmaster is good at Football and why Guy was so shocked at his UK audience members. All of this plus a deep dice of S2 Ep 4! To find out what Guy is up to follow him on Instagram @guywilliamsguy For all things Taskmaster visit Taskmaster.tv To watch all the UK and NZ eps go to Channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1774,7 +1795,7 @@
     {
       "key": "3e7fe1094785fa5c1c2c4b47a6a2cfb4fe5dcc29",
       "title": "Ep 193. Matt Heath - TM NZ S2 Ep.3",
-      "published_at": "2025-02-13T08:49:00+00:00",
+      "published_at": "2025-02-13T09:49:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed discusses all things TM NZ with podcaster, actor, musician and author - Matt Heath! Matt reveals why in retrospect he should have swatted up on the show before taking part and how pleased he was to be on a team with Urzila! Look out for Matt's book A Life Less Punishing Watch all of TM on Channel4.com For all your Taskmaster news visit Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1793,7 +1814,7 @@
     {
       "key": "81b40dd0993802080f690e8fd08321cddf904c91",
       "title": "Ep 192. Guy Montgomery - TM NZ S2 Ep.2",
-      "published_at": "2025-02-06T09:03:00+00:00",
+      "published_at": "2025-02-06T10:03:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by comedian, podcaster and TM NZ star Guy Montgomery! As well as discussing episode 2 of Guy's series the pair share some alternative podcast ideas and explain why the sun screen task was such a gift! For all your Taskmaster News visit Taskmaster.tv Guy's Stand up Special will be available on February 11th but to see a sneak peak go to youtube.com/watch?v=eMBzU516YMw Watch all of Taskmaster UK and NZ at channel4.com",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1812,7 +1833,7 @@
     {
       "key": "ae28352da95f7a0f7f342612e0752a78880702de",
       "title": "Ep 191. David Correos - TM NZ S2 Ep.1",
-      "published_at": "2025-01-31T06:33:00+00:00",
+      "published_at": "2025-01-31T07:33:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We're back baby! The Taskmaster Podcast returns with none other than TM NZ star, David Correos! Ed and David reunite and discuss all things Series 2 including flying, green screen and toilet roll towers! To keep up to date with David's new projects follow him on instagram @davidpostoffice For all your latest TM news go to Taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1832,7 +1853,7 @@
     {
       "key": "5b67f6b1b8d4db13f53dd25eb5ad853f441de2f3",
       "title": "Taskmaster The Podcast *Best of Junior TM*",
-      "published_at": "2025-01-23T22:00:00+00:00",
+      "published_at": "2025-01-23T23:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "After a wonderful first series of Junior Taskmaster, join us in a trip down memory lane as we revisit some of the best moments from the podcast, with wonderful guests including Nish Kumar, Emma Sidi and the dynamic JTM duo themselves, Mike Wozniak and Rose Matafeo! We're talking pigeons, mash and so much more - including a shocking confession from Lou Sanders that her mother dearest once did her art homework for her! So settle back, rest your weary feet and drift away with us to a land of twists, turns and incredibly confident children. Ed will be back next week to talk about Series 2 of Taskmaster New Zealand, and not to worry - your next instalment of Taskmaster UK is on the horizon, with the new line-up announced this week! Series 19 will welcome Matt Baynton, Rosie Ramsey, Jason Mantzoukas, Fatiha El-Ghorri and Stevie Martin! But who will triumph? Only time will tell...",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1854,7 +1875,7 @@
     {
       "key": "fc5a800a3192e3ebea42c7fdbe3af91c510e3711",
       "title": "Taskmaster The Podcast *Best of Series 18*",
-      "published_at": "2025-01-16T23:15:00+00:00",
+      "published_at": "2025-01-17T00:15:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's time for Taskmaster The Podcast Best Of - Series 18!! Join us in a look back on our favourite moments from this series - from Mr Poo to Ox Tail Soup, we've got it all here in a delicious mix. Who could forget Emma Sidi attempting a three-way secret affair with Andy Zaltzman and Babatunde Aléshé on national TV? Certainly not us. Not to mention Rosie Jones's pipe choice and Jack Dee's general grumpiness across the series. John Robins even pops in to say hello! Next week we will return with some classic moments from Junior Taskmaster and then Ed will be back covering TM NZ S2! So keep your eyes peeled, and do your homework - Series Two of TM NZ is available to watch on channel4.com!",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1875,7 +1896,7 @@
     {
       "key": "ae65b3e95d032d036b61a4628f311cd666d5dd04",
       "title": "Taskmaster: The People's Podcast - Best of 2024",
-      "published_at": "2025-01-09T11:31:00+00:00",
+      "published_at": "2025-01-09T12:31:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "The Taskmaster Podcast has something different for you this week! If you didn’t already know there is another podcast that discusses all things TM. It’s called The Taskmaster People’s Podcast and it’s hosted by the brilliant Jenny Eclair and Jack Bernhardt. Each week Jenny and Jack take a deep dive in to the world of Taskmaster, talking to behind-the-scenes guests, super fans and some of the most beloved Taskmaster characters. This week you can listen to some of their best bits from 2024 and even some unaired exclusives. The Taskmaster People’s Podcast is released every Monday morning and you can find it on all your podcast platforms. Enjoy. Your time starts now!",
       "image_url": "https://artwork.captivate.fm/052e505c-ca6e-4c86-b511-f56f9be262fd/tmcMeFk6ra2gWgQDCazxCcDF.jpeg",
@@ -1896,7 +1917,7 @@
     {
       "key": "62a2edee9abbff77841a007d1e2f8df095e336da",
       "title": "Ep. 190. *2025 New Years Treat*",
-      "published_at": "2024-12-29T21:00:00+00:00",
+      "published_at": "2024-12-29T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Merry Christmas all Taskmaster Podcast listeners and a Happy New Year! To celebrate, Ed is joined by a very special guest from this year's New Years Treat! If there are a few questions that you need to know about tonight's episode, well then tune in and listen along as Ed gets the details about this year's excellent lineup. We will be back very soon with more Taskmaster coverage - see you next year!",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -1915,7 +1936,7 @@
     {
       "key": "05a76fb1bf20e46565f287d5ed10a779ceddee67",
       "title": "Ep. 189. Rose Matafeo - Junior Taskmaster S1 Ep.8",
-      "published_at": "2024-12-23T19:00:00+00:00",
+      "published_at": "2024-12-23T20:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Tonight for the grand finale we welcome THE Junior Taskmaster herself, Rose Matafeo! Ed finally gets to ask Rose what it was like having to give out scores to ten year olds, what happened during that chaotic toilet paper task, and whether or not she would have done Junior Taskmaster when she was younger. You can watch Rose's special On and On and On, streaming now on HBO Max and Sky. Get your tickets for the extended run of Taskmaster: The Live Experience Order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/a01c3c7c-78e0-4515-a523-28a69193e5cf/k9cKmwoofSTNr8LRz_BkiUTs.jpg",
@@ -1938,7 +1959,7 @@
     {
       "key": "e0a0af9f4c3818c6cfeaa99e658423a7164bf84e",
       "title": "Ep. 188. Nish Kumar - Junior Taskmaster S1 Ep7",
-      "published_at": "2024-12-20T20:00:00+00:00",
+      "published_at": "2024-12-20T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's the second semi-final tonight, and Ed catches up with his pal Nish Kumar about what it's like to watch their mutual friend \"Rose MacFeo\" as the Junior Taskmaster, as well as their mate Mike lose to a ten year old at football. There are also some philosophical discussions about what makes a meat pie, how all awards are technically made up, and whether or not there should have been a DQ in the caterpillar task. See Nish on his tour Nish Don't Kill My Vibe. Get your tickets for the extended run of Taskmaster: The Live Experience Order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/cd2257e9-4446-4c12-b73a-399889d7387d/V-uczNfxMnUOV0VE8LrLynkx.jpg",
@@ -1958,7 +1979,7 @@
     {
       "key": "02c765480c1f83dcd28631b2a09011129662d3cf",
       "title": "Ep 187. Lou Sanders - Junior Taskmaster S1 Ep.6",
-      "published_at": "2024-12-13T20:00:00+00:00",
+      "published_at": "2024-12-13T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week good friend of the podcast Lou Sanders joins us to chat with Ed about the first semi-final of Junior Taskmaster! They cover a range of topics, from poetry to why we should call secrets 'surprises,' and whether or not Mike can be considered an object. Catch Lou on her tour No Kissing in the Bingo Hall from February Get your tickets for the extended run of Taskmaster: The Live Experience Order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/fc89bc49-de2d-499f-8a80-c69138a7511a/oBtf110jYj4tSbLQgxON0bu5.jpg",
@@ -1980,7 +2001,7 @@
     {
       "key": "e63277dffc459868727c9ce4d627c7a9aa0885b1",
       "title": "Ep 186. Jack Bernhardt - Junior Taskmaster S1 Ep.5",
-      "published_at": "2024-12-06T20:00:00+00:00",
+      "published_at": "2024-12-06T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Tonight Ed is joined once again by fellow Taskmaster expert, Jack Bernhardt! Ed and Jack discuss the final heat of Junior Taskmaster, including which contestant from tonight’s episode Ed identified with most, whether or not Jack has started hot housing his children for Junior Taskmaster, and why Ed felt personally trolled in this episode. Don't forget you can order the Taskmaster book, An Absolute Casserole - co-written by Jack and Alex Horne. Get your tickets for the extended run of Taskmaster: The Live Experience Catch Jack every week on Taskmaster: The People's Podcast , alongside Jenny Eclair. Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/06e91136-1d69-407c-b723-09af274af10b/TAMFt5XXP_-Eshyp-kNvZLng.jpg",
@@ -2004,7 +2025,7 @@
     {
       "key": "4da2f42c49767332e8efe58f2f20051faca9ffe1",
       "title": "Ep 185. Alex Horne - Junior Taskmaster S1 Ep.4",
-      "published_at": "2024-11-29T20:00:00+00:00",
+      "published_at": "2024-11-29T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Tonight we are joined by the original Taskmaster's Assistant, it's Little Alex Horne! Ed and Alex discuss Junior Taskmaster, including which of the prize tasks in this episode Alex can imagine Bob Mortimer bringing in, what he thinks about Mike as a Taskmaster's Assistant, which task he would have changed in retrospect and the little ways the team tried to make this show be just as much for the grownups as it is for kids. Order the Taskmaster book, An Absolute Casserole - out now! Get your tickets for the extended run of Taskmaster: The Live Experience See The Horne Section on tour with dates running from now until 2025. Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/7e6840df-d3fe-44cc-9eb7-e41c9a158e82/UVijAhhK07_vmO-zIZqcXi1u.jpg",
@@ -2028,7 +2049,7 @@
     {
       "key": "5e8f1c29c290128b5bca68842dc44e6b6ddf9a09",
       "title": "Ep 184. Jenny Eclair - Junior Taskmaster S1 Ep.3",
-      "published_at": "2024-11-22T20:00:00+00:00",
+      "published_at": "2024-11-22T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's time for another episode of Junior Taskmaster! Tonight Ed speaks to Jenny Eclair, Series 15 legend and co-host of The People's Podcast. Jenny discusses the episode from a parent/grandparent perspective, why kids today are different than when she was growing up, getting her grandson involved in Taskmaster and also why whoopee cushions just aren't what they used to be. Jenny's book Jokes, Jokes, Jokes is out now and her tour of the same name starts in January. Visit www.jennyeclair.com to find out more. You can also listen to Jenny weekly on Taskmaster: The People's Podcast and her Older and Wider podcast. Order the Taskmaster book, An Absolute Casserole - out now! Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/6c105908-1357-4882-ab43-0520e0a43ee7/_6Y2Rj1G6TsRO9IBc0BT-TIy.jpg",
@@ -2052,7 +2073,7 @@
     {
       "key": "e6bc3b8b09914e53de2d5b1cb16ed182a2f88364",
       "title": "*A special bonus episode of Taskmaster The Podcast*",
-      "published_at": "2024-11-21T12:15:00+00:00",
+      "published_at": "2024-11-21T13:15:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Attention Taskmaster fans ! An Absolute Casserole: The Taskmaster Compendium is out now – celebrate a decade of comedic chaos with the hilarious new book from Alex Horne and Jack Bernhardt. Relive the most outrageous tasks, iconic meltdowns, and ingenious victories from your favourite contestants. Containing exclusive behind-the-scenes content, it’s the ultimate gift for any Taskmaster fan. An Absolute Casserole is available to buy now in hardback, audio and ebook. An Absolute Casserole Audiobook",
       "image_url": "https://artwork.captivate.fm/384c0bc9-65fd-4f67-bc7e-3ae5a242b653/Z7Dbw9DVyX6bi7jn5TrKFodZ.jpg",
@@ -2072,7 +2093,7 @@
     {
       "key": "6e09638e2fcd13f271a02441554b31273c2654c6",
       "title": "Ep 183. Emma Sidi - Junior Taskmaster S1 Ep.2",
-      "published_at": "2024-11-15T20:00:00+00:00",
+      "published_at": "2024-11-15T21:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We are back with more coverage of Junior Taskmaster! Tonight Ed speaks to Emma Sidi, adored series 18 contestant and also very close friend of the Junior Taskmaster. Emma gives her thoughts on why Rose is perfect for the job, and what she texted to Emma during a difficult moment while recording. Plus hear Emma's take on why gemstones are so alluring to children and what rules she would have instigated on this episode, straight from Hampton Court Palace. Catch Emma on tour with her show Emma Sidi Is Sue Gray - https://www.berksnest.com/emma Order the Taskmaster book, An Absolute Casserole - out now! Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/64ef5f28-c9cb-4d67-8f46-0de9bc7a3f22/6X-DE-c9LAlNgr_nl3exBKU2.jpg",
@@ -2096,7 +2117,7 @@
     {
       "key": "ce71a7dd02f8c2eb47275e6cde5b4f2bf03c681a",
       "title": "Ep 182. *Series 18 Winner* S18 Ep.10",
-      "published_at": "2024-11-14T20:45:00+00:00",
+      "published_at": "2024-11-14T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's the Series Finale and Ed is joined by the winner! The pair go through the highs and lows of the series and discuss proudest moments v's TM regrets! Keep on the TM feed as Ed will be bring Taskmaster Junior chat to your ears each week AND we will return for the New Year's Treat! Pre-order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
@@ -2115,7 +2136,7 @@
     {
       "key": "6b4f256a9286701317c026fc4613db9893dd1777",
       "title": "Ep 181. Mike Wozniak - Junior Taskmaster S1 Ep.1",
-      "published_at": "2024-11-09T07:00:00+00:00",
+      "published_at": "2024-11-09T08:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "We interrupt the series 18 broadcast to bring you special coverage from the first ever episode of Junior Taskmaster! In this episode Ed catches up with THE Junior Taskmaster assistant himself, Mike Wozniak, to get all the behind-the-scenes details from the first heat of series 1. Also discussed; what Rose is REALLY like as the Taskmaster, the moment during this episode that made Mike genuinely a little scared, Ed's issue with scoring in the first task, and why kids feel an instant need to needle Mike. Pre-order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/3d5cca41-e496-4473-82f0-df0f1ab1944f/iTD2c8QAihPKfGnmifbg6EPw.jpg",
@@ -2137,7 +2158,7 @@
     {
       "key": "36b3fa5fe3317ef2bca27a2d3a235a5f3ab590e3",
       "title": "Ep 180. Rosie Jones - S18 Ep.9",
-      "published_at": "2024-11-07T20:40:00+00:00",
+      "published_at": "2024-11-07T21:40:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast brace yourself for the formidable Rosie Jones! Never before has Ed had such honest feedback... plus some partial disrobing! Rosie talks about what she loved (and didn't) about doing the show, what Jack was like as a team mate and why she would ignore Andy's costumes. Pre-order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/dc22cf30-8a6a-42ab-9443-3654f62dbb19/YMVwogFzYPNKVAz0lYR0GurK.jpg",
@@ -2157,7 +2178,7 @@
     {
       "key": "f16416e5994e08b162217b4832e5826269ed4ccb",
       "title": "Ep 179. Desiree Burch - S18 Ep.8",
-      "published_at": "2024-10-31T20:45:00+00:00",
+      "published_at": "2024-10-31T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Ed is joined by comedian, actor and Series 12 Taskmaster Legend, Desiree Burch! They discuss the brilliance of Rosie's prize tasks and why it's always good to have your own hype-man! Pre-order the Taskmaster book, An Absolute Casserole Watch all of UK and NZ TM @ channel4.com For all of your Taskmaster news visit taskmaster.tv Taskmaster: The Live Experience - Will you be crowned a Taskmaster champion? (taskmasterliveexperience.com)",
       "image_url": "https://artwork.captivate.fm/a0e9fe95-76cc-4517-a8c0-fd8d2233458f/AEZcpaHvcFy-N78EIAld5Sdo.jpg",
@@ -2748,7 +2769,7 @@
     {
       "key": "2dc148a37de6d4eb1330f5bb93694bd9f049bc3c",
       "title": "Ep 152. John Robins - S17 Ep.1",
-      "published_at": "2024-03-28T20:30:00+00:00",
+      "published_at": "2024-03-28T21:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Taskmaster is back which means the podcast returns! To kick off the new Series Ed is joined by a current series contestant - John Robins! John talks through his process of approaching the tasks and explains how he made a record of them each day. We get some behind the scenes on both his and Nick's task day outfit and we find out what being on a team with Sophie and Joanne was like! To get all the latest news on what John is up to visit Home » John Robins Watch all of Taskmaster on E4 https://www.channel4.com/programmes/taskmaster Visit the Taskmaster store for all your TM goodies! taskmaster.tv Visit the Taskmaster YouTube Channel : youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/b56d6a10-b157-4354-839e-c42c8be4d2eb/Gsob1ZQLiaZL-j6K6pPXmrQP.jpg",
@@ -2767,7 +2788,7 @@
     {
       "key": "fac5d603ac36fa9d388f9587e60595a3d880e3a9",
       "title": "Ep 151. *Champion of Champions #3 Winner*",
-      "published_at": "2024-01-14T20:45:00+00:00",
+      "published_at": "2024-01-14T21:45:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast Ed talks to the winner of Champion of Champions 3! The Champions (plus Kiell) preformed some brilliant tasks but only one can reign supreme! Here all of the CofC news plus some thoughts on the Series 17 line up! The Taskmaster Podcast will be back very soon but in the meantime you can get all your TM news at Taskmaster.tv plus the Taskmaster People's Podcast is available weekly, wherever you get your podcasts! Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://artwork.captivate.fm/998a36ae-c8df-45c4-b2f7-4d5bee1d0c11/show-cover.jpg",
@@ -2787,7 +2808,7 @@
     {
       "key": "31b6111690f8af3479461b3738e91cb698b0ebbe",
       "title": "Ep 150. *New Year's Treat Winner*",
-      "published_at": "2024-01-02T21:00:00+00:00",
+      "published_at": "2024-01-02T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Merry Christmas all Taskmaster Podcast listeners and a Happy New Year! To celebrate Ed is joined by the winner of this year's New Year treat! Enjoy the inside scoop on Deborah, Kojey, Lenny, Steve and Zoe! It's a brilliant episode with some top notch competitiveness and great tasks! We will be back very soon for a Champion of Champions episode so keep your eyes and ears pealed!",
       "image_url": "https://artwork.captivate.fm/83fad33d-e97f-4ff0-bf77-16fbe3b7ce70/show-cover.jpg",
@@ -2807,7 +2828,7 @@
     {
       "key": "cd0a4d21d6308ed06e0f98913653f289247bfa8a",
       "title": "Series 16 Best of #2",
-      "published_at": "2023-12-21T00:39:00+00:00",
+      "published_at": "2023-12-21T01:39:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast we gather some of the most memorable moments from our Series 16 episodes. Who can forget John Kearns' wish to be a spider or Susan's delight on her team task days? Enjoy these highlights and come back on January 2nd straight after the New Year's treat to hear Ed chat through the festive special with one of the contestants! You can find all the latest Taskmaster exclusive news here: taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/70e958a1-99f3-4c55-bcaa-6ad490ddf10f/show-cover.jpg",
@@ -2826,7 +2847,7 @@
     {
       "key": "f3d183786d645a2f4e05e129926a06ef16186f4f",
       "title": "Series 16 Best of #1",
-      "published_at": "2023-12-14T09:05:00+00:00",
+      "published_at": "2023-12-14T10:05:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast we gather some of the most memorable moments from our Series 16 episodes. Who can forget John Kearns' Captain Hook performance or Ivo's wooden spoon story!? Enjoy these highlights and come back next week for some more! You can find all the latest Taskmaster exclusive news here: taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/02cb83ed-d48e-4965-8bbe-018aaa53605d/show-cover.jpg",
@@ -2845,7 +2866,7 @@
     {
       "key": "6d935f358635d4908a0a8a9b650a9b127f20a067",
       "title": "Taskmaster The People's Podcast",
-      "published_at": "2023-12-04T09:32:00+00:00",
+      "published_at": "2023-12-04T10:32:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "If you are missing out on all the Taskmaster joy, fear not! There is another podcast - the Taskmaster People's Podcast which you can enjoy weekly. Ed will be back soon with best of, a festive treat and a Champion of Champions! Give your neighbour a polite advanced warning, it's time to crank up the volume on another episode of Taskmaster: The People's Podcast! This week Jenny and Jack are still debriefing from series 16, reliving all their favourite moments and talking about what the cast can expect in their post-Taskmaster lives. Plus Jack does his 'what if' stats for the series to see how things might have been, the pair answer a few outstanding series questions from fans (including a big ol' goof from episode 1) and producer Christine wades in to with a little musical recap of her own. Next week the pair will be opining about the New Years Treat lineup. Until then we love to hear from you - The People. lf you want to get in touch and talk about what taboo you want to see tackled on the next series of Taskmaster, then please send it to fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/899eadcc-b775-4396-98d2-88967138a9a4/show-cover.jpg",
@@ -2865,7 +2886,7 @@
     {
       "key": "dbd5ab6298e8ad2feb37ae42e800f65df26d1541",
       "title": "Ep 149. *Series 16 Winner* - S16 Ep.10",
-      "published_at": "2023-11-23T20:37:00+00:00",
+      "published_at": "2023-11-23T21:37:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the last podcast of Series 16 Ed gets to talk to the winner about all the favourite moments on the show. If you haven't watched the final episode make sure you catch up before listening to this podcast. Thanks so much for joining Ed and all of the wonderful guests we've had on, it's been another brilliant series with a fantastic line up. We will be back soon with some festive TM fun and some other treats to keep all you Taskmaster podcast fans happy! To get all your Taskmaster merch INCLUDING our festive crackers visit taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/70bbf3db-dc27-47b7-9a97-974b0b1837c2/show-cover.jpg",
@@ -2884,7 +2905,7 @@
     {
       "key": "e5181ce8e38a0e9dbb29d2abf014b636fc160ba5",
       "title": "Ep 148. John Kearns - S16 Ep.9",
-      "published_at": "2023-11-16T20:25:00+00:00",
+      "published_at": "2023-11-16T21:25:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Put the kettle on and enjoy Ed and John Kearns discuss the penultimate episode of Series 16. Of course, as well as covering Taskmaster the pair go on tangents that include roofers, panto, Caramac bars and high end men's fashion. John is currently on tour with his brilliant show The Varnishing Days. Visit John's website for more details: johnkearnscomedy.co.uk/tour To get all your Taskmaster merch INCLUDING our festive crackers visit taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/4e3b6ae8-4084-458a-b27c-f07aaea605b3/show-cover.jpg",
@@ -2904,7 +2925,7 @@
     {
       "key": "43ae9bcc875c780c8504587ecfee4b704c2a0d8d",
       "title": "Ep 147. Greg Jenner - S16 Ep.8",
-      "published_at": "2023-11-09T20:30:00+00:00",
+      "published_at": "2023-11-09T21:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by Taskmaster uber fan, historian extraordinaire and podcast host, Greg Jenner. Greg offers some brilliant insights in to the episode and gives his thoughts on each contestant. Ed and Greg also come to the agreement that every prize task should end with a drum role! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/11648876-87e3-4122-9184-1566d4b90422/show-cover.jpg",
@@ -2923,7 +2944,7 @@
     {
       "key": "e428e8f72f1ef57029341d2679572b991df1a1f2",
       "title": "Ep 146. Mark Watson - S16 Ep.7",
-      "published_at": "2023-11-02T20:30:00+00:00",
+      "published_at": "2023-11-02T21:30:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by comedian, author, TM fan and previous contestant - Mark Watson! Mark and Ed discuss why the current line is so special and who Mark thinks will reign supreme! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/4ce79ea0-2795-4257-9236-24b4b54642ec/show-cover.jpg",
@@ -3393,7 +3414,7 @@
     {
       "key": "65162bb6a085debbd186ffe13011c76b5c1e0846",
       "title": "Ep 123. Hugh Dennis - S9 Ep.4",
-      "published_at": "2023-03-23T18:09:22+00:00",
+      "published_at": "2023-03-23T19:09:22+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by TM alumni Hugh Dennis! Hugh returns to the podcast to share his thoughts on all of the S9 contestants and specifically what he made of Ed's efforts. He reveals his love for frozen peas and explains why he would definitely be on a team with David Baddiel. Series 15 of Taskmaster starts on Channel 4 at 9pm on March 30th. The Podcast will be available on all your podcast providers at 10pm! Ed will be be discussing the brand new episode with S14 champ, Dara Ó Briain Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/80b295aa-2a21-4da7-816d-a1fd234da55b/show-cover.jpg",
@@ -3413,7 +3434,7 @@
     {
       "key": "999e8c99ee3d58ee0ea19ad814af369e9692435f",
       "title": "Ep 122. Nish Kumar - S9 Ep.3",
-      "published_at": "2023-03-16T11:02:33+00:00",
+      "published_at": "2023-03-16T12:02:33+00:00",
       "link": "https://taskmaster.tv",
       "description": "To carry on the Series 9 journey Ed is joined by Nish Kumar. They dig deep in to Ep 3 and it's a particularly bad performance from Ed. Nish reveals what his initial thoughts on the line up were and why he predicted a Gamble or Matafeo win. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/51dcc58b-c4a1-456b-926b-2fbf6faabf37/show-cover.jpg",
@@ -3432,7 +3453,7 @@
     {
       "key": "ad4b6581cfeee9c641371d94e30f91babd58e23b",
       "title": "Ep 121. Jo Brand - S9 Ep.2",
-      "published_at": "2023-03-09T08:00:50+00:00",
+      "published_at": "2023-03-09T09:00:50+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by Series 9 contestant, Jo Brand. Jo and Ed get to discuss the first team task from the series - sausage sandwich anyone? And she explains why she loved doing the show so much. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/45d4eadd-df17-4d86-82bf-ad7ee6ee9d86/show-cover.jpg",
@@ -3451,7 +3472,7 @@
     {
       "key": "f0904fd55f7d6a444a9176a37f3d9e4492c6fd6f",
       "title": "Ep 120. David Baddiel - S9 Ep.1",
-      "published_at": "2023-03-02T08:11:24+00:00",
+      "published_at": "2023-03-02T09:11:24+00:00",
       "link": "https://taskmaster.tv",
       "description": "The time has come for Ed to take a long hard look at Series 9! To start him on his journey he is joined by David Baddiel! David was absolutely brilliant on Taskmaster and he and Ed go through some of their fondest moments from the series. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/ceb50743-3685-411f-8583-0fa931f3b955/show-cover.jpg",
@@ -3470,7 +3491,7 @@
     {
       "key": "5a5d6ddba2b1a7afaa5acb94f9b5683a3462e4d9",
       "title": "Ep 119. Urzila Carlson - S8 Ep.10",
-      "published_at": "2023-02-23T09:17:06+00:00",
+      "published_at": "2023-02-23T10:17:06+00:00",
       "link": "https://taskmaster.tv",
       "description": "To finish off Series 8, Ed is joined by comedian and NZ Taskmaster star, Urzila Carlson. Urzila gives some great behind the scenes gossip and shares her thoughts on the Series 8 contestants. What does it mean to erase something and what IS the best thing that will change your life forever? To find out more about Urzila's tour visit urzilacarlson.com Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/972f60e4-d7dd-45be-840f-d6c495c05e4e/show-cover.jpg",
@@ -3490,7 +3511,7 @@
     {
       "key": "7d82b087c063b763e64ac9adf45fdbecfa86c73c",
       "title": "Ep 118 - Rebecca Lucy Taylor AKA Self Esteem - S8 Ep.9",
-      "published_at": "2023-02-16T13:33:47+00:00",
+      "published_at": "2023-02-16T14:33:47+00:00",
       "link": "https://taskmaster.tv",
       "description": "Ed is joined by a very special guest this week, it's none other than Rebecca Lucy Taylor AKA Self Esteem! Rebecca is a huge TM fan and chats about her time in the house and why she wants to be on a full series! They talk bouncy balls, food dust and prize tasks, Rebecca is still looking for hers... Enjoy, your time starts now! Find out about all things Self Esteem here: www.selfesteem.love Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/ca689b5c-0eff-4ce5-aef1-d74ea5885c37/show-cover.jpg",
@@ -3514,7 +3535,7 @@
     {
       "key": "8c200685b0358ec7d8aa5aedb057952a4642899b",
       "title": "Ep 117. Alex Horne - S8 Ep.8",
-      "published_at": "2023-02-09T09:10:56+00:00",
+      "published_at": "2023-02-09T10:10:56+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week's guest is non other than Little Alex Horne!! Alex casts his mind back to 2019 and digs deep in to Series 8 of Taskmaster. There's a lot to discuss - a team task, a task inspired by a former contestant and the first episode win for Paul Sinha. All of this plus some technical difficulties that gets Alex in a flap. Enjoy! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/b453900e-27c1-41b1-a559-adbb6770ba52/show-cover.jpg",
@@ -3535,7 +3556,7 @@
     {
       "key": "6a154f4615cf59486fd55e7ba5b44690c30d1d50",
       "title": "Ep 116. John Kearns - S8 Ep.7",
-      "published_at": "2023-02-02T09:11:30+00:00",
+      "published_at": "2023-02-02T10:11:30+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's a returning guest this week and it's none other than the brilliant John Kearns! John and Ed catch up on all things Taskmaster. There's a S14 recap and then they get down to business and discuss Episode 7 of Series 8. What would the pair bring in for a slippery thing and would John have spotted the grid in the Pink Lady task? Enjoy! To find out more about John's tour visit johnkearnscomedy.co.uk Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/72a0266e-b71c-4e3b-9edf-c0b227132bc9/show-cover.jpg",
@@ -3555,7 +3576,7 @@
     {
       "key": "c21a4c54e5068c9c042840427d56d930bac70168",
       "title": "Ep 115. Iain Stirling - S8 Ep.6",
-      "published_at": "2023-01-26T08:30:55+00:00",
+      "published_at": "2023-01-26T09:30:55+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by comedian, presenter and the voice of Love Island - Iain Stirling! Iain returns to the podcast to discuss his time on Series 8. The pair talk team tasks, workarounds and why Iain is such a huge fan of the show. The new series of Buffering starts Monday 30th January at 22.05 on ITV2 with a simultaneous full series drop on ITVX ﻿ Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/34e536b2-5536-4798-a41d-b188d61549ee/show-cover.jpg",
@@ -3574,7 +3595,7 @@
     {
       "key": "94889f916fa761156a6eb669ceda5dd157d31c49",
       "title": "Ep 114. Lou Sanders - S8 Ep.5",
-      "published_at": "2023-01-19T09:03:23+00:00",
+      "published_at": "2023-01-19T10:03:23+00:00",
       "link": "https://taskmaster.tv",
       "description": "She's back! Lou Sanders returns to discuss all things Series 8. Lou and Ed chat through episode 5 but also reflect on the whole experience, even how she felt after winning the pan in a hoop live task! You can catch Lou on Taskmaster The People's Podcast which she hosts with TM uber fan Jack Bernhardt wherever you get your podcasts! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/f30a1626-9a10-4f1c-94aa-6a7880dd8e6e/show-cover.jpg",
@@ -3593,7 +3614,7 @@
     {
       "key": "10486b4a0e2327b8ee4dd54f90339cf18b24c52e",
       "title": "Ep 113. Series Producer - Andy Cartwright - S8 Ep.4",
-      "published_at": "2023-01-12T08:00:06+00:00",
+      "published_at": "2023-01-12T09:00:06+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's an extra special treat this week as we have out first ever behind the scenes guest on the podcast. The brilliant Andy Cartwright (AKA Andy C) joins Ed to discuss ep 4 of series 8. As well as talking through the tasks and Greg's point scoring Andy also reveals why he has a personal connection with this particular episode. The pair chat about the hammock task, what constitutes a toilet roll and Andy reveals the results of some unseen tie breaks from Series 9. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/fbd10119-af90-4a4c-b85c-c67652743ae5/show-cover.jpg",
@@ -3614,7 +3635,7 @@
     {
       "key": "fa6dcc2a59a578f5d7777785ab7af61964ace004",
       "title": "Ep 112 - Joe Thomas - S8 Ep.3",
-      "published_at": "2023-01-05T10:19:12+00:00",
+      "published_at": "2023-01-05T11:19:12+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by the brilliantly funny Joe Thomas. Joe who starred in Series 8 talks about how he came to be on the show and why he thought he was unfairly scored in this episode. They discuss volcanoes, mammals and why indoor fireworks should have their own special day. *Apologies for the sound quality in the first 15 mins* Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/cd3ca889-8099-47f2-90aa-582010cc24ad/show-cover.jpg",
@@ -3633,7 +3654,7 @@
     {
       "key": "fec47655c80d5a59a67a55d4f7347c192df18ed1",
       "title": "Ep 111. New Year's Treat with Greg James",
-      "published_at": "2023-01-01T20:50:47+00:00",
+      "published_at": "2023-01-01T21:50:47+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's that time of year again when the TM team find 5 celebrities to take part in the show for a special festive one off! This year Ed is joined by one of the brilliant line up to discuss their time in the house and why they felt they were underscored! Next week the Taskmaster Podcast will return back to Series 8 with a great chat with Joe Thomas. Have a great 2023 everyone, your time starts now! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/12fa4d44-d9fb-4765-bda8-c90dca691c3d/show-cover.jpg",
@@ -3655,7 +3676,7 @@
     {
       "key": "12a062ef5aeb8916943726a59bf3c3ca5a997b34",
       "title": "Ep 110. Paul Sinha - S8 Ep.2",
-      "published_at": "2022-12-22T06:30:43+00:00",
+      "published_at": "2022-12-22T07:30:43+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by comedian, star of The Chase and Series 8 contestant, Paul Sinha! Paul talks about the challenges of Taskmaster and what it was like watching himself back. They discuss team tasks, pairs of things and what constitutes a constant noise (not beat boxing Mr Stirling!). Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/52d0060e-58dc-491c-bc71-b4f3bdc00926/show-cover.jpg",
@@ -3675,7 +3696,7 @@
     {
       "key": "c13f0eaee2897f8a8d40c58f30e81d041bdae9b0",
       "title": "Ep 108. Paul F. Tompkins - S7 Ep.10",
-      "published_at": "2022-12-08T08:31:37+00:00",
+      "published_at": "2022-12-08T09:31:37+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed returns to Series 7 and dissects the finale with Comedian, Podcaster and TM super fan, Paul F. Tompkins! Paul and Ed talk laminators, sausage fingers, the tying up task and why Paul would be a great 'exotic old'. To find out more about all Paul's podcasts and live shows visit paulftompkins.com Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/997c8968-f021-481b-9874-4381416f2830/show-cover.jpg",
@@ -3694,7 +3715,7 @@
     {
       "key": "483f80723fdb1fc4dd3f044e53b6ce29b88e6be0",
       "title": "Ep 107. *The Final* - S14 Ep.10",
-      "published_at": "2022-12-01T20:50:35+00:00",
+      "published_at": "2022-12-01T21:50:35+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by a very special guest. They discuss the final episode of what has been a brilliant series as well and talk through all the highs and lows of TM! Thanks to all the listeners for going on the Series 14 journey with us. Next Thursday the podcast will return to chat to through the finale of Series 8. Ed's guest will be TM super fan and Podcast extraordinaire Paul F. Tompkins. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/084f9ec6-e47a-4deb-81a9-98754dfcf98a/show-cover.jpg",
@@ -3712,7 +3733,7 @@
     {
       "key": "ce9169ee2f2d1afd2ab376295f7d1ba27c175e47",
       "title": "Ep 106. Greg Jenner - S14 Ep.9",
-      "published_at": "2022-11-24T20:50:25+00:00",
+      "published_at": "2022-11-24T21:50:25+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by podcaster, historian and uber Taskmaster fan, Greg Jenner! Greg returns to the podcast to discuss the hotness of John Kearns and why Munya is like a early Buzz Lightyear. They dig deep in to the creative process of the contestants plays and try and decide on what IS the most underestimated item. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Find all the info on Greg's new books here: https://www.amazon.co.uk/Greg-Jenner/e/B01956SB50/ref=aufs_dp_fta_dsk Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/9c5ddd2f-fb4d-46c4-9ab6-8f1aee19388e/show-cover.jpg",
@@ -3732,7 +3753,7 @@
     {
       "key": "046e1ed3471f85fdde7ea3200f6bb0b606572d0d",
       "title": "Ep 105. Richard Herring - S14 Ep.8",
-      "published_at": "2022-11-17T20:50:16+00:00",
+      "published_at": "2022-11-17T21:50:16+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by comedian, writer, podcaster and Taskmaster Champion of Champions - Richard Herring! The pair discuss the highs and lows of Series 14 and Richard gives his predictions for the final few episodes! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster You can buy Richard's new book Can I have my ball back? at all good bookshops Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/acadb01d-8f1b-448a-ad61-1e2cf15ced49/show-cover.jpg",
@@ -3751,7 +3772,7 @@
     {
       "key": "206fcdca35ace1d9099c335a3b48d81bd09401b6",
       "title": "Ep 104. Sarah Kendall - S14 Ep.7",
-      "published_at": "2022-11-10T20:50:28+00:00",
+      "published_at": "2022-11-10T21:50:28+00:00",
       "link": "https://taskmaster.tv",
       "description": "She's back! Comedian, writer, actor and TM champ, the fabulous Sarah Kendall joins Ed once again to talk through another brilliant episode of S14! Sarah explains why she sees herself in Fern and reveals who she thinks will be her biggest competitor in the next Champion of Champions. She gives her insights in to how the contestants approached the tasks and her and Ed bond over a very important question - why the flat pan method? Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/139e5de7-62e4-4f0d-883c-39d60875144b/show-cover.jpg",
@@ -3771,7 +3792,7 @@
     {
       "key": "5a3102d4f6d8811a4fe32c3bcf9489538639b7b8",
       "title": "Ep 103. Dara Ó Briain - S14 Ep.6",
-      "published_at": "2022-11-03T20:56:00+00:00",
+      "published_at": "2022-11-03T21:56:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Wait what, what wait... it's Dara Ó Briain! This week Dara joins Ed to discuss his worst performance on the show so far. There's spilt milk, some ugly underwear and a lot of photos of Philip Schofield. All of this plus Dara's thoughts on the Millican ascent! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com",
       "image_url": "https://artwork.captivate.fm/a4bf9995-c0ba-4ea9-88b5-0f1737337937/show-cover.jpg",
@@ -4390,7 +4411,7 @@
     {
       "key": "495d448229025422a2e90f68da3fa054f5badbdc",
       "title": "Ep 73. Tim Key - S6 Ep.6",
-      "published_at": "2022-03-24T09:19:08+00:00",
+      "published_at": "2022-03-24T10:19:08+00:00",
       "link": "https://taskmaster.tv",
       "description": "To take a deep dive in to Episode 6 of Series 6 Ed is joined by poet, comedian, actor, task consultant AND previous contestant - Tim Key! Tim returns to discuss his inventions, the life of a task consultant and how he'd make a parachute. Find out more about Tim's book and live shows visit timkey.co.uk Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/e6a3c176-4c48-4270-b933-bc8044f4d082/show-cover.jpg",
@@ -4406,7 +4427,7 @@
     {
       "key": "9fcecd35663cdf47e98f93addb8ec9c70337b340",
       "title": "Ep 72. Margaret Cabourn-Smith - S6 Ep.5",
-      "published_at": "2022-03-17T10:38:00+00:00",
+      "published_at": "2022-03-17T11:38:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by a returning TM Pod favourite - Margaret Cabourn-Smith. The pair discuss the ins and outs of S6 Ep.5 which included the infamous hop task a trick shot that got tempers soaring and a small plastic Saint Bernard! Enjoy. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/ad997b7f-2b64-4c7a-9cb7-eabd05180752/show-cover.jpg",
@@ -4426,7 +4447,7 @@
     {
       "key": "d62cbb322f221ef06501ec50ec5b10a4af5b1abf",
       "title": "Ep 71. Chloe Petts - S6 Ep.4",
-      "published_at": "2022-03-10T16:07:00+00:00",
+      "published_at": "2022-03-10T17:07:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by Comedian Chloe Petts to discuss all the ins and out of series 6, episode 4! They discuss manly things you can do in a box, what they think is 'fun' and how their Mums might fare on Taskmaster. As well as this Chloe explain why Liza Tarbuck is her all time favourite Taskmaster contestant. Follow Chloe on Instagram and Twitter @ChloePetts For info on Ed's tour visit edgamble.co.uk Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/56a8baed-2d7e-47a4-bb00-751ec57fdeca/show-cover.jpg",
@@ -4446,7 +4467,7 @@
     {
       "key": "714858a50552d074d24d4a748f876669a723cb63",
       "title": "Ep 70. Russell Howard - S6 Ep.3",
-      "published_at": "2022-03-03T08:37:05+00:00",
+      "published_at": "2022-03-03T09:37:05+00:00",
       "link": "https://taskmaster.tv",
       "description": "Ed returns this week with another former Series 6 contestant, Russell Howard! As well as discussing the tasks and points Russell digs deep in to his choice of outfit (and eyewear!) and he explains why watching himself back in the studio was a struggle. For info on Ed's tour visit edgamble.co.uk Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/4f65f980-b2a3-48e9-8ca4-2c084665bf16/show-cover.jpg",
@@ -4466,7 +4487,7 @@
     {
       "key": "31f0fab2ad2f13f48543e4822c2eaf3218921c4d",
       "title": "Ep 69. Greg Jenner - S6 Ep.2",
-      "published_at": "2022-02-24T11:08:30+00:00",
+      "published_at": "2022-02-24T12:08:30+00:00",
       "link": "https://taskmaster.tv",
       "description": "Joining Ed on the podcast this week to talk through Episode 2 of Series 6 is historian, podcaster and Taskmaster super fan - Greg Jenner! Ed and Greg go back in time and reflect on the choices made by the contestants and of course the Taskmaster himself. They discuss darts, grapes, the first team task and an adventurous tin man. For info on Ed's tour visit edgamble.co.uk Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/fd4ec43a-1473-46b6-84df-4a7012ad6266/show-cover.jpg",
@@ -4486,7 +4507,7 @@
     {
       "key": "920ed908a05c95104d982d3a071e4bdf216638a0",
       "title": "Ep 68. Tim Vine - S6 Ep.1",
-      "published_at": "2022-02-17T04:05:13+00:00",
+      "published_at": "2022-02-17T05:05:13+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's Series 6 time! And who better to join Ed than comedian, actor and Series 6 contestant - Tim Vine! Tim kicks off the series with his thoughts and memories of being on the show - why he enjoyed the prize tasks, the inspiration behind the outfit and the story behind Sledge Ravine. To find out more about Tim's live show go to www.timvine.com/plastic-elvis-2021-uk-tour Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/5f1f351c-e1b5-4927-9a25-12b3313f0842/show-cover.jpg",
@@ -4505,7 +4526,7 @@
     {
       "key": "cf6367078d1b6f31ba2d4761ff736f9d251b067e",
       "title": "Ep 67. Alex Horne - Champion of Champions S1-5 Ep.2",
-      "published_at": "2022-02-10T04:24:04+00:00",
+      "published_at": "2022-02-10T05:24:04+00:00",
       "link": "https://taskmaster.tv",
       "description": "To finish the Champion of Champions two-parter Ed is joined by the show creator and assistant to The Taskmaster - it's Little Alex Horne! Alex returns to the podcast with some great Champion of Champion's behind the scenes exclusives and even some Series 13 teasers! Enjoy, your time starts now! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/ce73ed74-a51c-485c-a51c-755921460343/show-cover.jpg",
@@ -4527,7 +4548,7 @@
     {
       "key": "cefd3df5ab3f2dcb4fca8fc77aa042a756b0bb9d",
       "title": "Ep 66. Guz Khan - Champion of Champions S1-5 Ep.1",
-      "published_at": "2022-02-03T08:07:29+00:00",
+      "published_at": "2022-02-03T09:07:29+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedian, actor, movie star & coat lover Guz Khan! Before discussing the first ever Champion of Champions Ed and Guz reflect on all things from Series 12 – favourite tasks, fellow contestants and of course deconsecrated churches. They then get down to the nitty gritty of Champion of Champions Ep.1 which featured Bob Mortimer, Josh Widdicombe, Katherine Ryan, Noel Fielding and Rob Beckett. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/289dae4e-bb10-442c-a7b1-6e9cc585beea/show-cover.jpg",
@@ -4547,7 +4568,7 @@
     {
       "key": "de792da012a6db580d69a811ff2cbe4c903a4166",
       "title": "Ep 65. Kerry Godliman - S5 Ep.8",
-      "published_at": "2022-01-27T04:24:36+00:00",
+      "published_at": "2022-01-27T05:24:36+00:00",
       "link": "https://taskmaster.tv",
       "description": "To wrap up Series 5 Ed is joined by comedian, actor and TM Bosh queen - Kerry Godliman! The pair discuss surrealism, coconut throwing, fish puns and of course that wonder song task. Enjoy! Book tickets to Kerry's tour kerrygodliman.com Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/fd6f9230-da8f-4b1b-a86d-4fc8504a91ec/show-cover.jpg",
@@ -4567,7 +4588,7 @@
     {
       "key": "1e3b12fa2be1ca73217be2228e9613f31008fb0c",
       "title": "Ep 64. Aisling Bea - S5 Ep.7",
-      "published_at": "2022-01-20T08:36:08+00:00",
+      "published_at": "2022-01-20T09:36:08+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by the wonderful comedian, actor, writer and Series 5 contestant - Aisling Bea! Aisling shares her memories of her task days and the joyful moments in the studio with Bob, Sally, Nish and Mark. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/5468d539-1638-490c-8223-aedf5887701f/show-cover.jpg",
@@ -4583,7 +4604,7 @@
     {
       "key": "676840f56bb8f8dc6fb21b3caefdcdb76f2c16c0",
       "title": "Ep 63. Jack Bernhardt - S5 Ep.6",
-      "published_at": "2022-01-13T14:00:13+00:00",
+      "published_at": "2022-01-13T15:00:13+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast TM stat man Jack Bernhardt returns to discuss all things Series 5 and specifically episode 6. They also look at the latest stats since Morgana took the trophy and they even make some predictions for the future! Follow Jack on Twitter @jackbern23 Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/2eb9a023-eb79-4e9b-96a7-f19c4ed01831/show-cover.jpg",
@@ -4603,7 +4624,7 @@
     {
       "key": "49902888e2a29811f0fd75ea73def07aaa628e43",
       "title": "Ep 62. Mark Watson - S5 Ep.5",
-      "published_at": "2022-01-06T06:00:00+00:00",
+      "published_at": "2022-01-06T07:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Mark Watson returns to chat to Ed. This time however they are talking cheeky texts, stolen trousers, watercooler moments and general TM admin. Listen to find out exactly how Ed was embroiled in the high octane prize task. Enjoy! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/14633b14-6d6c-4d87-b9ef-0b8219207647/show-cover.jpg",
@@ -4623,7 +4644,7 @@
     {
       "key": "dccf8b3552aa789bfdc4846d30c2cf1eddc77872",
       "title": "Ep 61. New Year's Treat",
-      "published_at": "2022-01-01T21:00:00+00:00",
+      "published_at": "2022-01-01T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week the podcast takes a short break from Series 5 and instead takes a look at the second ever Taskmaster Festive Special. Ed is joined by the winner of the show and they discuss the joys and challenges of TM as well as what it was like to be joined by the 4 other celebs competing. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/c0199a1d-476e-465a-9779-cf3f789cfce0/show-cover.jpg",
@@ -4643,7 +4664,7 @@
     {
       "key": "ed24cf85110a7060a8244290025e4064ce4cf65a",
       "title": "Ep 60. Lou Sanders - S5 Ep.4",
-      "published_at": "2021-12-23T04:34:48+00:00",
+      "published_at": "2021-12-23T05:34:48+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by comedian, presenter, podcaster and champion of TM Series 8 - Lou Sanders! As well reflecting on Lou's Taskmaster experience the pair go through S5 Ep.4 in full detail! Enjoy. Your time starts now! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Visit the Taskmaster YouTube Channel youtube.com/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/8e7c01ee-6ac2-45ab-b5ef-2acea6fd4eef/show-cover.jpg",
@@ -4661,7 +4682,7 @@
     {
       "key": "4392ce1ec02d8f72ac63ebe0b5ef41d35bbf97b0",
       "title": "Ep 59. Josh Widdicombe - S5 Ep.3",
-      "published_at": "2021-12-16T09:38:45+00:00",
+      "published_at": "2021-12-16T10:38:45+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed chats through Series 5 Episode 3 with TM CofC, star of Series 1, podcaster, comedian and author - Josh Widdicombe! The pair dig deep on the episode and reflect on some of Josh's moments on the series. For tickets to Josh's tour visit Joshwiddicombe.com Watch all of Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television.",
       "image_url": "https://artwork.captivate.fm/b032ca19-e3b4-4d0f-b717-ce63f693ab9b/show-cover.jpg",
@@ -4680,7 +4701,7 @@
     {
       "key": "f38c4de313424e1f1c36a759433395d09d7047c2",
       "title": "Ep 58. Guy Montgomery - S5 Ep.2",
-      "published_at": "2021-12-09T09:03:08+00:00",
+      "published_at": "2021-12-09T10:03:08+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's episode Ed is joined by comedian, podcaster and NZ TM contestant Guy Montgomery. The pair chat all things series 5 as well as getting to discuss some NZ highlights! Watch all of Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television.",
       "image_url": "https://artwork.captivate.fm/e9be12ce-eca4-470e-b612-508be549d79c/show-cover.jpg",
@@ -4699,7 +4720,7 @@
     {
       "key": "203e251c4d62d14e00a23a2168b5d46d92fb0270",
       "title": "Ep 57. Nish Kumar - S5 Ep.1",
-      "published_at": "2021-12-02T09:51:34+00:00",
+      "published_at": "2021-12-02T10:51:34+00:00",
       "link": "https://taskmaster.tv",
       "description": "It’s time to go back through the TM archives and this week Ed is joined by Nish Kumar to kick off Series 5! This series starred Aisling Bea, Bob Mortimer, Mark Watson, Nish Kumar and Sally Phillips and it provided some classic Taskmaster moments. On this episode Nish and Ed revisit Basketball gate, elegant sailing and the most excellent noise. Watch all of Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television.",
       "image_url": "https://artwork.captivate.fm/6a1d8313-c8af-46b9-8f04-2da196d4ee66/show-cover.jpg",
@@ -4718,7 +4739,7 @@
     {
       "key": "754c72b50c1be066642573475b68ddff041d6993",
       "title": "Ep 56. *Series 12 Winner* - S12 Ep.10",
-      "published_at": "2021-11-25T20:58:36+00:00",
+      "published_at": "2021-11-25T21:58:36+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by the Taskmaster Series 12 winner! So before you start listening make sure you have watched the final episode and then enjoy Ed having a chat with our newest champion! Catch up on all episodes of Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Download the Taskmaster App at Taskmaster.tv Order Bring me the head of the Taskmaster https://taskmasterstore.com/products/bring-me-the-head-of-the-taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/f62319c3-c15e-4eb7-8589-469b717e37ed/show-cover.jpg",
@@ -4737,7 +4758,7 @@
     {
       "key": "5ded37ba82acbd4d9d36ad58af7d59a7f454b523",
       "title": "Ep 55. Richard Herring - S12 Ep.9",
-      "published_at": "2021-11-18T20:58:00+00:00",
+      "published_at": "2021-11-18T21:58:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedian, writer, podcaster, S10 Champion and friend of the podcast - Richard Herring. The pair discuss the penultimate episode of Series 12 and make their predictions. They also chat through their 40 items on a towel idea and why they hope the talking clock is still a thing. Watch Series 12 of Taskmaster every Thursday on Channel 4 at 9pm. Download the Taskmaster App at Taskmaster.tv Watch all of the Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Order Bring me the head of the Taskmaster https://taskmasterstore.com/products/bring-me-the-head-of-the-taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/b4c54dcf-13d7-4271-a6ee-673c85083e09/show-cover.jpg",
@@ -4756,7 +4777,7 @@
     {
       "key": "ecf652225da509c1170fdbea78c534c4208aa88e",
       "title": "Ep 54. Liza Tarbuck – S12 Ep.8",
-      "published_at": "2021-11-11T20:58:00+00:00",
+      "published_at": "2021-11-11T21:58:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by presenter, actress and Taskmaster legend – Liza Tarbuck! Liza and Ed discuss all things Series 6, including of course, the iconic Alex sitting on a cake moment. As well as this they get forensic over Series 12 Ep 8 and answer some listener emails. Watch Series 12 of Taskmaster every Thursday on Channel 4 at 9pm. Download the Taskmaster App at Taskmaster.tv Watch all of the Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster Order Bring me the head of the Taskmaster https://taskmasterstore.com/products/bring-me-the-head-of-the-taskmaster Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/e41eac73-bd13-43f5-beb5-b8562e6cf237/show-cover.jpg",
@@ -4776,7 +4797,7 @@
     {
       "key": "b08cdd7a677c811c0751d16967b595f601348dee",
       "title": "Ep 53. Al Murray – S12 Ep.7",
-      "published_at": "2021-11-04T20:58:00+00:00",
+      "published_at": "2021-11-04T21:58:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedian, previous TM contestant and friend of the podcast, Al Murray. The pair dig down in to Ep 7 of the current series. They discuss dissolving pants, what makes a jingle and how to get a pipe through a sponge. All of this plus an impromptu musical performance from Al. Watch Series 12 of Taskmaster every Thursday on Channel 4 at 9pm. Download the Taskmaster App at Taskmaster.tv Watch all of the Taskmaster on All 4 https://www.channel4.com/programmes/taskmaster (https://www.channel4.com/programmes/taskmaster) Order Bring me the head of the Taskmaster https://taskmasterstore.com/products/bring-me-the-head-of-the-taskmaster (https://taskmasterstore.com/products/bring-me-the-head-of-the-taskmaster) Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel http://www.youtube.com/taskmaster (www.youtube.com/taskmaster) Taskmaster the Podcast is Produced by Daisy Knight for Avalon Television",
       "image_url": "https://artwork.captivate.fm/bea72fc8-c963-4803-a9bf-6115bdd60ca2/show-cover.jpg",
@@ -5288,7 +5309,7 @@
     {
       "key": "ea2ebac7d82ac7fb5434ffe32ad5a61e8592d0e1",
       "title": "Ep 25. Jamali Maddix - S11 Ep.2",
-      "published_at": "2021-03-25T21:00:00+00:00",
+      "published_at": "2021-03-25T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by comedian and Series 11 contestant, Jamali Maddix. The pair discuss the series so far including the plates in the papoose, pillow spinning gate and Jamali's run ins with Greg. As always they go through the latest episode task by task so be prepared for some string and towel chat! You can watch Series 11 of Taskmaster each Thursday on Channel 4 at 9pm. Watch Taskmaster Bleeped on All 4 Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/cd47d9fa-39dc-4aae-9906-4f870abb781a/show-cover.jpg",
@@ -5308,7 +5329,7 @@
     {
       "key": "a818796b1c5abdda4c247769e2e8ebe1d96f4d22",
       "title": "Ep 24. Richard Herring - S11 Ep.1",
-      "published_at": "2021-03-18T21:01:00+00:00",
+      "published_at": "2021-03-18T22:01:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "Taskmaster returns for Series 11 and here is the companion podcast to enrich your TM experience. On the podcast this week Ed is joined by comedian, writer, podcaster and Series 10 Champion - Richard Herring! The pair discuss the new line up and go through the show task by task... what impressive thing would YOU have done underneath the table? Enjoy! You can watch Series 11 of Taskmaster each Thursday on Channel 4 at 9pm. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/a9daa3cb-4f25-4349-977a-258c2ecc5d03/61b9b46f33f31d0014e2ec9c.jpg",
@@ -5327,7 +5348,7 @@
     {
       "key": "2ae9ca11ab3137347dcf4ab02143f4e419b31c18",
       "title": "Ep 23. Richard Osman - S2 Ep.5",
-      "published_at": "2021-03-11T09:57:44+00:00",
+      "published_at": "2021-03-11T10:57:44+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by TV Host Richard Osman to conclude the look back at Series 2. The pair discuss memorabilia, the shopping trolley task, 28 Days Tater and why saving Patatas was one of Richard's least favourite tasks. Taskmaster returns to Channel 4 on March 18th at 9pm. The Podcast will be released each week at 10pm after the show. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/a136bb87-be9e-4d9d-b35e-07cf20dbef25/61b9b46f33f31d0014e2eca3.jpg",
@@ -5347,7 +5368,7 @@
     {
       "key": "bf73c8f13c29f73d81a475af5af89b4aecb8e95f",
       "title": "Ep 22. Kerry Godliman - S2 Ep.4",
-      "published_at": "2021-03-11T09:08:00+00:00",
+      "published_at": "2021-03-11T10:08:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by actor, comedian, bosh queen, and series 7 champion, Kerry Godliman! They talk laminators, team tasks and how it feels to be part of the TM alumni. Kerry introduces Human Tapas and they even invent a new word. As well as all of this they discuss Series 2 Episode 4 which involved a tiki bar, a tickle station and some tasks just for Jon Richardson. Taskmaster returns to Channel 4 on March 18th at 9pm. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/29948bcd-45f7-4e01-8a55-3891b5b3e35d/61b9b46f33f31d0014e2ecaa.jpg",
@@ -5366,7 +5387,7 @@
     {
       "key": "d9ee25cdd85904398efede5aabf3868c76dee533",
       "title": "Ep 21. Ben Bailey Smith AKA Doc Brown - S2 Ep.3",
-      "published_at": "2021-03-04T05:03:00+00:00",
+      "published_at": "2021-03-04T06:03:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedian, actor, writer and musician, Ben Bailey Smith. Ben was of course on Series 2 of Taskmaster as Doc Brown. In this episode Ben talks Ed through all of the emotions that he felt making the show and in particular the brilliant Impress the Mayor task. Ben reveals how Alex talked him in to being on the show and the disappointment that his finest moment never made the cut. To find out more about Ben's new book and all his latest projects visit https://www.docbrown.co.uk/ If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/f7f5d98b-be24-4c82-9b10-ac343812d0bf/61b9b46f33f31d0014e2ecb1.jpg",
@@ -5387,7 +5408,7 @@
     {
       "key": "5b58ad68234b063d0875c21df38fdc244945942b",
       "title": "Ep 20. Sian Gibson - S2 Ep.2",
-      "published_at": "2021-02-25T09:49:44+00:00",
+      "published_at": "2021-02-25T10:49:44+00:00",
       "link": "https://taskmaster.tv",
       "description": "Get ready for some nursery rhyme parodies and some very trendy clothing. This week Ed is joined by the brilliant actress and TM S8 contestant Sian Gibson! They go through the episode task by task and discuss age appropriate fashion, egg based meals and whether Joe Wilkinson does look like a punched toaster. If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/928cc5af-5eef-4b20-ad2b-4d2ca0dcfd5c/61b9b46f33f31d0014e2ecb8.jpg",
@@ -5406,7 +5427,7 @@
     {
       "key": "971104e652c64f5ea8e1c05ca306973c468937c1",
       "title": "Ep 19. Joe Wilkinson - S2 Ep.1",
-      "published_at": "2021-02-18T05:00:00+00:00",
+      "published_at": "2021-02-18T06:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "It's time to revisit Series 2 and who better to join Ed and kick things off but none other than potato throwing, non Swedish speaking, comedian and actor Joe Wilkinson! Ed gets to the bottom of 'that throw', they discuss why Joe would do it all the same again and there's also some non Taskmaster stories thrown in for good measure! Enjoy. If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/62f7a2bc-6c56-44db-8eef-9337805834bd/61b9b46f33f31d0014e2ecbf.jpg",
@@ -5424,7 +5445,7 @@
     {
       "key": "5eb8de8d5bffdac1aab77484ea49d115d5903d05",
       "title": "Ep 18. Romesh Ranganathan - S1 Ep.6",
-      "published_at": "2021-02-11T05:00:00+00:00",
+      "published_at": "2021-02-11T06:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by Comedian, Podcaster and TV star Romesh Ranganathan! The pair revisit episode six of series one and conclude the look back at the first ever series of Taskmaster. As well as going through all the tasks they discuss Tree Wizard, Melon Buffet and Romesh's 'all in' prize tasks! If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/ae4ce407-b929-4214-a609-0a3b88a72da9/61b9b46f33f31d0014e2ecc6.jpg",
@@ -5443,7 +5464,7 @@
     {
       "key": "8d2ead35f2d8d22b3724d002aaf0eb1437f1fbfc",
       "title": "Ep 17. Jayde Adams - S1 Ep.5",
-      "published_at": "2021-02-04T13:46:14+00:00",
+      "published_at": "2021-02-04T14:46:14+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by comedian, actor, writer and singer Jayde Adams! Jayde joins Ed to discuss all things Series One, Episode Five. There are long nails, blushing Swedish men and some not very well made beds. All of this plus a blank cheque. Enjoy! If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. You can find Jayde's new podcast 'Laughable' here: https://shows.acast.com/laughable/episodes/episode-one Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/cc755c8f-6b32-4622-b5d1-e87aa4d30f32/61b9b46f33f31d0014e2eccd.jpg",
@@ -5463,7 +5484,7 @@
     {
       "key": "02c48bc51ec734485ae6a9abf6623b12eccc333f",
       "title": "Ep 16. Nicola Coughlan - S1 Ep.4",
-      "published_at": "2021-01-28T07:14:16+00:00",
+      "published_at": "2021-01-28T08:14:16+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by star of Derry Girls, Bridgerton and of course The Taskmaster New Year's Treat - it's Nicola Coughlan! The pair discuss Nicola's love for the show and how much she enjoyed do the NY special - despite some questionable decisions from Greg. They also take a deep dive in to Episode 4 of Series 1. This episode includes the ice task, getting to 11 points and some special moments for Josh. Enjoy! If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/c934d7ee-aa67-4214-91d5-1568db4ed772/61b9b46f33f31d0014e2ecd4.jpg",
@@ -5483,7 +5504,7 @@
     {
       "key": "626216134303b0eb4f10142e2bfc6059b58d172b",
       "title": "Ep 15. Josh Widdicombe - S1 Ep.3",
-      "published_at": "2021-01-21T05:01:00+00:00",
+      "published_at": "2021-01-21T06:01:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week, Ed is joined by the reigning TM Champion of Champions - Josh Widdicombe. The pair take a close look at episode three of series one which saw the unveiling of the legendary Greg tattoo! As well as this they discuss a letter from Alex, the whereabouts of Josh's trophy and his Dad's book. If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/1c44353f-35e5-49eb-b8fc-ac458bf6699f/61b9b46f33f31d0014e2ecdb.jpg",
@@ -5502,7 +5523,7 @@
     {
       "key": "3c7b90acf088a579e711f4fac60200d0c8166c0b",
       "title": "Ep 14.Tim Key - S1 Ep.2",
-      "published_at": "2021-01-14T06:00:00+00:00",
+      "published_at": "2021-01-14T07:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedian, actor, writer, poet and series one contestant, Tim Key! As well as discussing episode two of the first series, Tim reveals what being a 'Task Consultant' involves and why he hated the high five a 55 year old task quite so much. They reminisce over Tree Wizard, hot tooth paste pie and a team building trip to cologne. For all the latest Tim Key news including details on his new book visit www.timkey.co.uk If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/87cb8f35-ddf6-41e5-8a9e-95b0a8ae4c79/61b9b46f33f31d0014e2ece2.jpg",
@@ -5518,7 +5539,7 @@
     {
       "key": "e50a34a08f801f3c677d962e5ffe4ce399ef1462",
       "title": "Ep 13. Alex Horne - S1 Ep.1",
-      "published_at": "2021-01-07T08:53:14+00:00",
+      "published_at": "2021-01-07T09:53:14+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the Taskmaster podcast this week Ed takes it back to series one, episode one! Once again he is joined by Alex Horne and the pair discuss the origins of the show and how the first line up came about. They go through each task and Alex explains what the Series 13 version of 'paint a horse while riding a horse' would potentially look like - a lot faster! If you would like to watch along as Ed and his guests revisit the early series of Taskmaster then go to https://www.channel4.com/programmes/taskmaster/episode-guide where you will find all episodes. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/ff1b8e84-ae92-4d06-9f33-b0200eafa3af/61b9b46f33f31d0014e2ece9.jpg",
@@ -5537,7 +5558,7 @@
     {
       "key": "56f6f68d1bbca2f89a7ae0daaacfaa69373b1716",
       "title": "Ep 12. Taskmaster's New Year Treat - Scroobius Pip",
-      "published_at": "2021-01-01T21:01:00+00:00",
+      "published_at": "2021-01-01T22:01:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "What a treat, a Taskmaster New Year one off with a fabulous line up of contestants. Joining Ed on the podcast to dissect and discuss is poet, actor, musician and huge Taskmaster Fan - Scroobius Pip! Pip and Ed reveal their thoughts on a Bop-it, Shirly Ballas' flirting and who they would love to see return. Happy New Year & Enjoy! Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/bf1f2ec5-70e5-41ec-8ce1-856da2cd80f6/61b9b46f33f31d0014e2ecf0.jpg",
@@ -5559,7 +5580,7 @@
     {
       "key": "824bd17c99ed40e12c02c5ba0f93febafe9c633d",
       "title": "Ep 11. Greg Davies",
-      "published_at": "2020-12-24T06:00:00+00:00",
+      "published_at": "2020-12-24T07:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "To finish off a wonderful TM series Ed is joined by the Taskmaster himself, Greg Davies! The pair reflect on some memorable moments from Series 10 and discuss each contestants approach to the show. As well as chatting about some contentious points scoring, they also address the fan fiction that has emerged from Greg and Alex's on screen chemistry. Enjoy! Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/1b0f77a7-41ea-49c6-8953-57d6e746c097/61b9b46f33f31d0014e2ecf7.jpg",
@@ -5579,7 +5600,7 @@
     {
       "key": "8f9fcdf31385a10ecf8d70e42ce7f2533b2b76d3",
       "title": "Ep 10. *Series 10 Champion*",
-      "published_at": "2020-12-17T21:01:00+00:00",
+      "published_at": "2020-12-17T22:01:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed chats with the Taskmaster Series 10 Champion! The pair reflect through the series and discuss all the highs and lows along the way. Sit back and enjoy while Ed tentatively hands over the crown... Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/194c60c1-3b1d-48d8-8b60-6329798e0108/61b9b46f33f31d0014e2ecfe.jpg",
@@ -5598,7 +5619,7 @@
     {
       "key": "24a75686e0e081f6c80ce23bd796bc4a4f0fe7b2",
       "title": "Ep 9. Katy Wix",
-      "published_at": "2020-12-10T21:01:00+00:00",
+      "published_at": "2020-12-10T22:01:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by actor, comedian and Series 9 contestant Katy Wix. The pair discuss Katy’s time on the series including her infamous stressful teapot. They also take a look at the latest episode of Series 10 which involved building a beer mat house, some impressive bedding and drawing a monster. And as ever the BFF returns with not one, but two facts! Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/aeb14a6d-6d75-40eb-b482-1961fb3188f5/61b9b46f33f31d0014e2ed05.jpg",
@@ -5617,7 +5638,7 @@
     {
       "key": "d0e00dd6a3516820e71109ea92354f0775d99333",
       "title": "Ep 8. Richard Osman",
-      "published_at": "2020-12-03T21:00:00+00:00",
+      "published_at": "2020-12-03T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by TV presenter, producer, author and Taskmaster Series 2 alumni Richard Osman! The pair get nostalgic over the early days of TM, Richard reveals how being a TV Producer meant he approached the tasks differently and why the rabbits in a hat task still smarts. They also dissect the latest episode which involves some acting, coconut water and another fabulous fall from Johnny Vegas. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/05308bcc-898c-4ae0-9ae3-6083abe0efc7/61b9b46f33f31d0014e2ed0c.jpg",
@@ -5637,7 +5658,7 @@
     {
       "key": "a648535761bb8c827276dc652d66541bf6e667f9",
       "title": "Ep 7. Rose Matafeo",
-      "published_at": "2020-11-26T21:00:00+00:00",
+      "published_at": "2020-11-26T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by award winning comedian and fellow Series 9 contestant, the wonderful Rose Matafeo. The pair discuss their competitiveness, the infamous 'Fish poster' and how they work well in escape rooms. As well as this they chat all things Series 10 - mini robots, talking backwards and marble runs but who will be victorious in the series? Listen in to hear Rose's prediction. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: dknight@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/e7d27764-1d81-4411-a7ae-b79b4fe1aaf7/61b9b46f33f31d0014e2ed13.jpg",
@@ -5657,7 +5678,7 @@
     {
       "key": "882d0b24a6a66c57cc8c888f9301cec3b9e3376e",
       "title": "Ep 6. Jess Knappett",
-      "published_at": "2020-11-19T21:00:00+00:00",
+      "published_at": "2020-11-19T22:00:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On this week's podcast Ed is joined by writer, actor, comedian, and Series 7 contestant Jess Knappett! The pair discuss why Jess thinks she came 2nd place on the show, prize tasks, falling off the stage and the Knappett x Godliman Soap opera 'Cul-de-Sac'. They also look at the latest episode of Series 10 which involved silent cocktails, scary rooms, and some hysteria over a drawing of a hippo. Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: daisyk@avalonuk.com Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the podcast is produced by Daisy Knight for Avalon Television Ltd",
       "image_url": "https://artwork.captivate.fm/60dc9f93-75a1-40a6-a5f6-0f6fee580fe2/61b9b46f33f31d0014e2ed1a.jpg",
@@ -5678,7 +5699,7 @@
     {
       "key": "aee46cc66dabdb28aec5a2000a729fe65de010a3",
       "title": "Ep 5. James Acaster",
-      "published_at": "2020-11-12T20:59:00+00:00",
+      "published_at": "2020-11-12T21:59:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week Ed is joined by comedian, podcaster and Series 7 contestant, James Acaster. James and Ed discuss the latest episode and even a potential conspiracy theory! The pair also reminisce about the infamous circle task, hula hooping and Gandhi's glasses...plus a full rendition of Pants on a Stick! Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the Podcast is produced by Daisy Knight for Avalon Television Ltd Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel http://www.youtube.com/taskmaster (www.youtube.com/taskmaster) For all your Taskmaster goodies visit http://www.taskmasterstore.com/ (www.taskmasterstore.com) Sales, advertising and general enquiries: daisyk@avalonuk.com",
       "image_url": "https://artwork.captivate.fm/8d2df1fa-4d3a-4f5a-816f-2b13805cd778/61b9b46f33f31d0014e2ed21.jpg",
@@ -5698,7 +5719,7 @@
     {
       "key": "6242a3c4dac9f6e6cf467962aacb25c36eb230ff",
       "title": "Ep 4. Paul Chowdhry",
-      "published_at": "2020-11-05T20:59:00+00:00",
+      "published_at": "2020-11-05T21:59:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "This week on the podcast Ed is joined by comedian Paul Chowdhry. The pair discuss Paul's time on the show and his Series 3 alumni. As well as this they dissect the latest episode and give insight in to how they thought the Series 10 contestants approached each task and what they might have done instead... pear anyone? Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the Podcast is produced by Daisy Knight for Avalon Television Ltd Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: daisyk@avalonuk.com",
       "image_url": "https://artwork.captivate.fm/4e617ebe-5265-4f04-a46b-fc35de9525c2/61b9b46f33f31d0014e2ed28.jpg",
@@ -5718,7 +5739,7 @@
     {
       "key": "be69c7e4232ab3efb92d4d84b0b844630a98a211",
       "title": "Ep 3. Jo Brand",
-      "published_at": "2020-10-29T20:58:00+00:00",
+      "published_at": "2020-10-29T21:58:00+00:00",
       "link": "https://taskmaster.tv",
       "description": "On the podcast this week Ed is joined by comedy royalty and fellow Series 9 contestant, Jo Brand. The pair get forensic over the latest episode and reflect on their own Taskmaster experience. Jo reveals a task that never made the cut and Alex Horne returns with the regular feature BFF. Taskmaster is on Channel 4 Thursdays at 9pm and you can catch the family friendly version Sundays on E4 at 6pm. Taskmaster the Podcast is produced by Daisy Knight for Avalon Television Ltd Get in touch with Ed and future guests: taskmasterpodcast@gmail.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit www.taskmasterstore.com Sales, advertising and general enquiries: daisyk@avalonuk.com",
       "image_url": "https://artwork.captivate.fm/280c2c5c-62bb-44b9-830f-8e9e48d83d01/61b9b46f33f31d0014e2ed2f.jpg",
@@ -5779,6 +5800,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-29 — Joel Dommett - Series 22 Ep.9 — speakers: Joel Dommett, Ed Gamble
 - 2026-10-22 — Joanna Page - Series 22 Ep.8 — speakers: Joanna Page, Ed Gamble
 - 2026-10-15 — Armando Iannucci - Series 22 Ep.7 — speakers: Joining Ed, Ed Gamble
 - 2026-10-08 — Nina Conti - Series 22 Ep.6 — speakers: Nina Conti, Ed Gamble
@@ -5859,14 +5881,14 @@
 - 2025-03-27 — Ep 199. Ray O'Leary - TM NZ S2 EP.9 — speakers: Ed Gamble
 - 2025-03-20 — Ep 198. Jack Bernhardt - TM NZ S2 EP.8 — speakers: Jack Bernhardt, Ed Gamble
 - 2025-03-13 — Ep 197. Brynley Stent - TM NZ S2 Ep.7 — speakers: Brynley Stent, Ed Gamble
-- 2025-03-05 — Ep 196. Melanie Bracewell - TM NZ S2 Ep.6 — speakers: Melanie Bracewell, Ed Gamble
+- 2025-03-06 — Ep 196. Melanie Bracewell - TM NZ S2 Ep.6 — speakers: Melanie Bracewell, Ed Gamble
 - 2025-02-27 — Ep 195. Urzila Carlson - TM NZ S2 Ep.5 — speakers: Urzila Carlson, Ed Gamble
 - 2025-02-20 — Ep 194. Guy Williams - TM NZ S2 Ep.4 — speakers: Paul Williams Guy Williams, Ed Gamble
 - 2025-02-13 — Ep 193. Matt Heath - TM NZ S2 Ep.3 — speakers: Ed Gamble
 - 2025-02-06 — Ep 192. Guy Montgomery - TM NZ S2 Ep.2 — speakers: Guy Montgomery, Ed Gamble
 - 2025-01-31 — Ep 191. David Correos - TM NZ S2 Ep.1 — speakers: David Correos, Ed Gamble
 - 2025-01-23 — Taskmaster The Podcast *Best of Junior TM* — speakers: Junior Taskmaster, Ed Gamble
-- 2025-01-16 — Taskmaster The Podcast *Best of Series 18* — speakers: Ed Gamble
+- 2025-01-17 — Taskmaster The Podcast *Best of Series 18* — speakers: Ed Gamble
 - 2025-01-09 — Taskmaster: The People's Podcast - Best of 2024 — speakers: Ed Gamble
 - 2024-12-29 — Ep. 190. *2025 New Years Treat* — speakers: Ed Gamble
 - 2024-12-23 — Ep. 189. Rose Matafeo - Junior Taskmaster S1 Ep.8 — speakers: Rose Matafeo Junior, Rose Matafeo, Ed Gamble
