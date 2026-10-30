@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-10-30T18:06:27+00:00`
-- checked_at: `2026-10-30T18:06:27+00:00`
-- etag: `W/"41af2-be8EqcuzBZHMmJCNRTdP7wdj7rc"`
+- fetched_at: `2026-10-30T22:17:42+00:00`
+- checked_at: `2026-10-30T22:17:42+00:00`
+- etag: `W/"42292-Xxt2weRvSdQr7mUTHPWGfkr5yyE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-10-30T18:06:27+00:00",
+  "fetched_at": "2026-10-30T22:17:42+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,29 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "1786e0e73396a8653264811daf438ac93fab53dc",
+      "title": "Pouring One Out For BioWare | Firelink Podcast",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Pouring-One-Out-For-BioWare--Firelink-Podcast-e3rcv2q",
+      "description": "This week on Firelink Nick, KC, and Marty chat about the end of BioWare, Duskbloods slipping to 2027, and all the rad games they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/128399898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F28584407-be5c-0e7e-5b13-76801d30344b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147758432",
+      "itunes_duration": "01:42:36",
+      "speakers": [
+        "Firelink Nick",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "bioware",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "254499ce7883c99e171b09cb6bf954e4a2d192bf",
       "title": "Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast",
@@ -3357,6 +3380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — Pouring One Out For BioWare | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-16 — Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-09 — Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast — speakers: Firelink Nick, Xbox XP, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-02 — Frankly, There Are Too Many Video Games to Play Right Now | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu

@@ -23444,6 +23444,29 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:3adb5ccf639f",
+        "feed_title": "Last One Laughing Official Podcast",
+        "source_rss_url": "https://rss.art19.com/last-one-laughing",
+        "dedupe_key": "926d0f86fe8ce8ebf0be90d97f398b434297076b",
+        "episode_key": "926d0f86fe8ce8ebf0be90d97f398b434297076b",
+        "title": "Halloween: Bonus Ep with Richard Ayoade and Lou Sanders",
+        "published_at": "2026-10-30T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Richard Ayoade and Lou Sanders join Roisin Conaty for a special bonus episode. They look back on the hair-raising happenings from Last One Laughing: Halloween, answer listeners’ burning questions about exactly how the show gets made, and spill the beans on what it was like being part of Last One Laughing Series 1.Conta",
+        "audio_url": "https://rss.art19.com/episodes/99f38c64-12b6-41e2-aa2d-d01ce0633feb.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/halloween-bonus-ep-with-richard-ayoade-and-lou-sanders/id1885620207?i=1000798820501&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d22c4e94b5e2",
         "feed_title": "The Truth (In My Opinion)",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a3006e7cd02369494f91089",

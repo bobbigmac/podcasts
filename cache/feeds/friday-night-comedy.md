@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-10-30T18:06:27+00:00`
-- checked_at: `2026-10-30T18:06:27+00:00`
-- etag: `"31e3cefc85aac8ed1c1873d8e0e5cb02"`
-- last_modified: `Thu, 29 Oct 2026 19:00:07 GMT`
+- fetched_at: `2026-10-30T22:17:42+00:00`
+- checked_at: `2026-10-30T22:17:42+00:00`
+- etag: `"aabbed14bc03eb743401834f232b2210"`
+- last_modified: `Fri, 30 Oct 2026 19:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-10-30T18:06:27+00:00",
+  "fetched_at": "2026-10-30T22:17:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "680651dd21fb0a3aaaac50e1c27e2ea99b0f0689",
+      "title": "The News Quiz: Ep8. 'Everyday fixes'",
+      "published_at": "2026-10-30T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pj80zy",
+      "description": "For the final episode of the series the panel answer the big questions: Why is Jackdaw not just relevant to birdwatchers? Who is having to prove they're still alive? And which medieval sport is making a comeback? Your panel is Pierre Novellie, Ahir Shah, Amy Annette and Ayesha Hazarika. Written by Andy Zaltzman. With additional material by Angela Channell, Eve Delaney, Adrian Gray, Ruth Husko and Jennifer Walker. Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Jodie Charman Production Apprentice: Nancy Bird Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pj9rw0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27328000",
+      "itunes_duration": "1708",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "everyday"
+      ]
+    },
     {
       "key": "f1bfaa67d35bf9bea78423e4c1580452638ba0bc",
       "title": "The News Quiz: Ep7. Team Calm vs Team Panic",
@@ -5474,6 +5492,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-30 — The News Quiz: Ep8. 'Everyday fixes'
 - 2026-10-23 — The News Quiz: Ep7. Team Calm vs Team Panic — speakers: Panic How
 - 2026-10-16 — The News Quiz: Ep6. The Iron Dome — speakers: Iron Dome, Britannia Shield
 - 2026-10-09 — The News Quiz: Ep5. 'Manchester Sausage' — speakers: Manchester Sausage, Andy Burnham
