@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `"a24b6af368b018b32ec3b028979fac1c"`
-- last_modified: `Wed, 28 Oct 2026 15:09:49 GMT`
+- fetched_at: `2026-10-31T12:25:42+00:00`
+- checked_at: `2026-10-31T12:25:42+00:00`
+- etag: `"2ae208f120d053bd5e2f8dc0004dac47"`
+- last_modified: `Sat, 31 Oct 2026 06:22:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-10-31T12:25:42+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,54 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "52dbd1b93cd634c5aa4c633e4410254e233c31d6",
+      "title": "All Killa No Filla - Episode 134 - Halloween Special Part 2 - Albert Pierrepoint",
+      "published_at": "2026-10-31T06:15:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-134-halloween-special-part-2-albert-pierrepoint",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. Halloween means only one thing - the All Killa anniversary! And what better way to celebrate 13 years than a delve into the British executioner Albert Pierrepoint? Part 2 explores Pierrepoint's many executions, including the last woman and man to be executed in Britain. But even though he died in 1992, could this very podcast be his final victim...",
+      "image_url": "https://static.libsyn.com/p/assets/9/0/c/8/90c8d5323785edf8a04421dee9605cbd/maxresdefault-20261028-x1nfzv1d8r.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_134_-_Part_2_-_Albert_Pierrepoint.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88046539",
+      "itunes_duration": "01:00:44",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "halloween",
+        "special",
+        "albert",
+        "pierrepoint"
+      ]
+    },
+    {
+      "key": "01f04fa4de3fe1ee47b75d01d21bd43dbc44fe0d",
+      "title": "All Killa No Filla - Episode 134 - Halloween Special Part 1 - Albert Pierrepoint",
+      "published_at": "2026-10-31T06:00:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-134-halloween-special-part-1-albert-pierrepoint",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. Halloween means only one thing - the All Killa anniversary! And what better way to celebrate 13 years than a delve into the British executioner Albert Pierrepoint? In part 1, Rachel and Kiri look at Albert's upbringing and the discovery of his father's secret life as an executioner. There's also chat about bad jobs, pumpkin patches, and a certain podcast coming to an end...",
+      "image_url": "https://static.libsyn.com/p/assets/f/e/e/6/fee61d1f931f06245f2e77a3093c12a1/maxresdefault-20261028-yldh2rmuh4.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_134_-_Part_1_-_Albert_Pierrepoint_1.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94435804",
+      "itunes_duration": "01:05:08",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "halloween",
+        "special",
+        "albert",
+        "pierrepoint"
+      ]
+    },
     {
       "key": "460a696110628aece3bced8b46022c21b0fd12d3",
       "title": "All Killa No Filla - Episode 133 - Henri Désiré Landru",
@@ -4498,6 +4546,8 @@
 
 ## Episodes (newest first)
 
+- 2026-10-31 — All Killa No Filla - Episode 134 - Halloween Special Part 2 - Albert Pierrepoint — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2026-10-31 — All Killa No Filla - Episode 134 - Halloween Special Part 1 - Albert Pierrepoint — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-10-02 — All Killa No Filla - Episode 133 - Henri Désiré Landru — speakers: Désiré Landru, Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-08-10 — All Killa No Filla - Episode 132 - Miyazaki Tsutomu — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-06-22 — All Killa No Filla - Episode 131 - Part 2 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean

@@ -2,6 +2,50 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:435b94d61d9a",
+        "feed_title": "Netflix Is A Daily Joke",
+        "source_rss_url": "https://feeds.megaphone.fm/NETFLIX2608127680",
+        "dedupe_key": "04b300dcc13f154198bdcaeece04fa5f08e5d354",
+        "episode_key": "04b300dcc13f154198bdcaeece04fa5f08e5d354",
+        "title": "James Acaster: A Joke About Those Pictures You Put Your Head In",
+        "published_at": "2026-10-31T07:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster jokes about those pictures you put your head in in his Netflix special, \"Repertoire\".",
+        "audio_url": "https://traffic.megaphone.fm/NETFLIX3204548673.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-a-joke-about-those-pictures-you-put/id1498522890?i=1000799022305&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:a66f45b55a1d",
+        "feed_title": "Traitors Expert",
+        "source_rss_url": "https://feeds.acast.com/public/shows/695794ce6446068fdc1658ba",
+        "dedupe_key": "88d2d3e2599ae62bce87d7a3d973204b8973f701",
+        "episode_key": "88d2d3e2599ae62bce87d7a3d973204b8973f701",
+        "title": "What was CUT from the James Acaster ROUNDTABLE? | Celebrity Traitors Season 2",
+        "published_at": "2026-10-30T16:31:41Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Does an editing mistake show something major was cut out of the Celebrity Traitors Season 2 Episode 9? Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/open/s/695794ce6446068fdc1658ba/e/6ae4c66cb478422f9113b126/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/what-was-cut-from-the-james-acaster-roundtable/id1865874949?i=1000798925931&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -14238,6 +14282,28 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:cff7d274ee70",
+        "feed_title": "A History of Comedy in Several Objects",
+        "source_rss_url": "https://anchor.fm/s/1195a6a80/podcast/rss",
+        "dedupe_key": "dab87fb6ef08da445e9970940c47b00fb1124bc3",
+        "episode_key": "dab87fb6ef08da445e9970940c47b00fb1124bc3",
+        "title": "“Richard Herring’s Scrapbook”",
+        "published_at": "2026-10-30T09:39:59Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Salutations compadres! It’s another special week as we have another amazing guest: RICHARD HERRING. That’s right – the creator of RHLSTP (“Ruh-huh-luh-stuh-puh!”), one half of comedy double act Lee and Herring, and writer of many masterful Edinburgh Fringe shows. In our exclusive interviewwith the fantastic “Podfather”",
+        "audio_url": "https://anchor.fm/s/1195a6a80/podcast/play/128411323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2Fd7b6542d-71fd-5c46-9428-138d8d3cc3de.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-herrings-scrapbook/id1210414720?i=1000798874903&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",

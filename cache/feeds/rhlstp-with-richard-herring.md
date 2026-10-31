@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- etag: `"djEuMi4wOjE3OTMzMzI2NTkzMTM="`
+- fetched_at: `2026-10-31T12:25:42+00:00`
+- checked_at: `2026-10-31T12:25:42+00:00`
+- etag: `"djEuMi4wOjE3OTM0MTkwNTkyMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "fetched_at": "2026-10-31T12:25:42+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d6c55b37cbf1751ba331949fae7753cbf4604f0c",
+      "title": "Rich and Ally's Craven Newsround Compilation - \"Nuclear Perineum\"",
+      "published_at": "2026-10-31T03:57:00+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-nuclear-perineum",
+      "description": "27/10/26 Nuclear Perineum - Rich and Ally are back. Or are they? Is this even happening? Let’s hope not because our PM has advised us to stuck up on legumes for an upcoming and unspecified disaster. Well, it can’t be worse than what’s happening here. 29/10/26 Take Me To Poundland - Rich and Ally cover the big news of the day, the fact that Poundland might be going out of business. What could have caused this? Plus a report from a Poundland where you can get batteries for a pound, but probably not very good ones. 30/10/26 Cryptocuntacy - It’s the last Newsround of the week and the month and maybe ever if it keeps nose-diving at this rate. Rich and Ally discuss the daring theft of some imaginary money by some people who don’t deserve it from some people who did nothing to earn it. Plus a report from inside a Cryptomine. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793374416314-e2483a16-ebc0-4f27-b85c-71f473f0dcd9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ae4c48ec89efe58660884f1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23556288",
+      "itunes_duration": "49:04",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Nuclear Perineum",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "nuclear",
+        "perineum"
+      ]
+    },
     {
       "key": "d28d18a2422c873201df671c3b8a919089bd205d",
       "title": "Clive Anderson on I Think My Name is Brodie - Book Club",
@@ -24450,6 +24475,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-31 — Rich and Ally's Craven Newsround Compilation - "Nuclear Perineum" — speakers: Craven Newsround Compilation, Nuclear Perineum, Richard Herring
 - 2026-10-30 — Clive Anderson on I Think My Name is Brodie - Book Club — speakers: Clive Anderson, Richard Herring
 - 2026-10-28 — Lenny Henry (Part 1) - "OoooooKaaaaaay" — speakers: Lenny Henry, Richard Herring
 - 2026-10-26 — Markus Birdman (Retro) - "Platinum Heart" — speakers: Markus Birdman, Richard Herring
