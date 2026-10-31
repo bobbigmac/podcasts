@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-30T18:06:27+00:00`
-- checked_at: `2026-10-30T18:06:27+00:00`
-- etag: `"djEuMi4wOjE3OTMzNTkzMTUzMzI="`
+- fetched_at: `2026-10-31T19:17:09+00:00`
+- checked_at: `2026-10-31T19:17:09+00:00`
+- etag: `"djEuMi4wOjE3OTM0NjYwMzk0MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-30T18:06:27+00:00",
+  "fetched_at": "2026-10-31T19:17:09+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e5a34cbf47d9a0b476978fca62d477516982dba9",
+      "title": "Andy Burnham’s first 100 days in power",
+      "published_at": "2026-10-31T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/andy-burnhams-first-100-days-in-power",
+      "description": "The Goggleboxification of British politics, Liz Truss’s bonkers new book and Andy Burnham’s pickle over gherkin prices. Anoosh Chakelian is joined by Oli Dugmore to discuss the stories of the week. READ: https://www.newstatesman.com/politics/uk-politics/2026/10/andy-burnham-must-resist-gogglebox-politics https://www.newstatesman.com/politics/polling/2026/10/britain-is-giving-andy-burnham-a-chance : LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793359081281-2a6788f2-7fd2-4917-877d-ed2ba691b7dc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ae47caad64067384f22afa0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53233266",
+      "itunes_duration": "27:39",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "power"
+      ]
+    },
     {
       "key": "22c25fd4143a087e83d67d84216c32f1d4fd8b9a",
       "title": "Budget 2026: Cautious or radical?",
@@ -32800,6 +32822,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-31 — Andy Burnham’s first 100 days in power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-10-29 — Budget 2026: Cautious or radical? — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
 - 2026-10-28 — US midterms: Is this a referendum on Trump? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-10-26 — Should we scrap the Budget? — speakers: Anoosh Chakelian, Oli Dugmore
