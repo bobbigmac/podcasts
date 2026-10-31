@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-30T00:58:34+00:00`
-- checked_at: `2026-10-30T00:58:34+00:00`
-- last_modified: `Fri, 30 Oct 2026 00:00:03 GMT`
+- fetched_at: `2026-10-31T05:38:55+00:00`
+- checked_at: `2026-10-31T05:38:55+00:00`
+- last_modified: `Sat, 31 Oct 2026 00:15:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-30T00:58:34+00:00",
+  "fetched_at": "2026-10-31T05:38:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,12 +26,34 @@
   ],
   "episodes": [
     {
+      "key": "4fd3163b965ad07417038a05eab0ad5c0ccae676",
+      "title": "David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily",
+      "published_at": "2026-10-31T00:05:00+00:00",
+      "link": null,
+      "description": "To hear the full episode, and the whole seires, sign up at therestispolitics.com This week, Alastair sits down with someone who – in his opinion – is the most persevilient person in politics, Sir David Blunkett. Blind since birth, he lost his father at the age of 12 and grew up in a very poor household. Despite this, he went on to become leader of Sheffield Council at 33, then MP for Sheffield Brightside and Hillsborough, and a key architect of New Labour. You’ll hear how differently he experiences the world, not least in Westminster, why he thinks politics has before too ephemeral and why he never wants to be pitied. Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Gabriela Gibbs Producer: India Dunkley Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2b56c09e-d47a-11f1-a0e6-334bdaaf1c1a/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3523678396.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1366",
+      "speakers": [
+        "David Blunkett"
+      ],
+      "topics": [
+        "david",
+        "blunkett",
+        "blindness",
+        "adversity",
+        "politician"
+      ]
+    },
+    {
       "key": "f2d41f3e36a709b2a050c16b16b4b8ebc1aa9726",
       "title": "584. Why Is Trump Losing Voters and Will Texas Turn Blue?",
       "published_at": "2026-10-30T00:00:00+00:00",
       "link": null,
       "description": "Why are these US midterms so important, and what has Rory been seeing on the ground in Ohio? Could the Democrats really flip Texas, and is Trump alienating the Hispanic voters that were crucial to his 2024 victory? If the Republicans lose control of Congress, will Trump accept the result? Rory and Alastair are joined by Issy Stanley, reporting from Texas, as they answer all these questions and more in this week’s edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Michael Lewis by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse® Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Bex Tyrrell Video Editor: Oli Ortega, Tom McCagherty Assistant Producer: Jake Preston, Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames, Nicole Maslen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/c52194b8-d3aa-11f1-bb90-d3ad8a21e2ec/image/4c8a3acc81b58d3e9b599969292bda6a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/c52194b8-d3aa-11f1-bb90-d3ad8a21e2ec/image/fbc0b5c3a5d34e9181945726beb186c4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1433371308.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -13332,6 +13354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-10-31 — David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily — speakers: David Blunkett
 - 2026-10-30 — 584. Why Is Trump Losing Voters and Will Texas Turn Blue? — speakers: Will Texas Turn Blue
 - 2026-10-28 — 583. Is Burnham’s Budget Too Safe and How Brazil Defied Trump — speakers: John Healey
 - 2026-10-22 — Kim Leadbeater, MP: My Sister's Murder and Why I Never Wanted To Go Into Politics — speakers: Kim Leadbeater
