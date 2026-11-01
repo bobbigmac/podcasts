@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-10-30T00:58:34+00:00`
-- checked_at: `2026-10-30T00:58:34+00:00`
-- etag: `"djEuMi4wOjE3OTMzMTg5MTkzMjA="`
+- fetched_at: `2026-11-01T00:06:42+00:00`
+- checked_at: `2026-11-01T00:06:42+00:00`
+- etag: `"djEuMi4wOjE3OTM0OTE1MzkyNTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-10-30T00:58:34+00:00",
+  "fetched_at": "2026-11-01T00:06:42+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,31 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "dbb953643f3e109bf7bd98af7984a4c955dbcdbb",
+      "title": "Bad Coaching: Pint Size",
+      "published_at": "2026-11-01T00:05:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/bad-coaching-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 302: Piccalilli's Like Pegging\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ae47dbf53fe55e775c30480/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45064320",
+      "itunes_duration": "18:46",
+      "speakers": [
+        "Bad Coaching",
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "coaching",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "4c2922c852b989ff56f5cab5b94e2fce93587f7e",
       "title": "Live At Cheerful Earful With Kate Mason (pt 2)",
@@ -16385,6 +16410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — Bad Coaching: Pint Size — speakers: Bad Coaching, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-30 — Live At Cheerful Earful With Kate Mason (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-28 — Live At Cheerful Earful (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-24 — I Took The Ferry: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero

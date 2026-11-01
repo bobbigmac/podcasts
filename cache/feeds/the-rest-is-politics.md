@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-10-31T05:38:55+00:00`
-- checked_at: `2026-10-31T05:38:55+00:00`
-- last_modified: `Sat, 31 Oct 2026 00:15:05 GMT`
+- fetched_at: `2026-11-01T00:06:42+00:00`
+- checked_at: `2026-11-01T00:06:42+00:00`
+- last_modified: `Sat, 31 Oct 2026 11:41:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-31T05:38:55+00:00",
+  "fetched_at": "2026-11-01T00:06:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -30,7 +30,7 @@
       "title": "David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily",
       "published_at": "2026-10-31T00:05:00+00:00",
       "link": null,
-      "description": "To hear the full episode, and the whole seires, sign up at therestispolitics.com This week, Alastair sits down with someone who – in his opinion – is the most persevilient person in politics, Sir David Blunkett. Blind since birth, he lost his father at the age of 12 and grew up in a very poor household. Despite this, he went on to become leader of Sheffield Council at 33, then MP for Sheffield Brightside and Hillsborough, and a key architect of New Labour. You’ll hear how differently he experiences the world, not least in Westminster, why he thinks politics has before too ephemeral and why he never wants to be pitied. Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Gabriela Gibbs Producer: India Dunkley Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "To hear the full episode, and the whole series, sign up at therestispolitics.com This week, Alastair sits down with someone who – in his opinion – is the most persevilient person in politics, Lord David Blunkett. Blind since birth, he lost his father at the age of 12 and grew up in a very poor household. Despite this, he went on to become leader of Sheffield Council at 33, then MP for Sheffield Brightside and Hillsborough, and a key architect of New Labour. You’ll hear how differently he experiences the world, not least in Westminster, why he thinks politics has before too ephemeral and why he never wants to be pitied. Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Gabriela Gibbs Producer: India Dunkley Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2b56c09e-d47a-11f1-a0e6-334bdaaf1c1a/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3523678396.mp3",
       "enclosure_type": "audio/mpeg",
