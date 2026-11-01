@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-11-01T06:00:23+00:00`
-- checked_at: `2026-11-01T06:00:23+00:00`
+- fetched_at: `2026-11-01T13:20:46+00:00`
+- checked_at: `2026-11-01T13:20:46+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-11-01T06:00:23+00:00",
+  "fetched_at": "2026-11-01T13:20:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "454aa0b109be2b5a2c41ce7039f956a99090b1db",
+      "guid": "75334c8a-0d91-4217-a9ca-72b65000690a",
+      "title": "The Ellie Taylor Show (1st November)",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-1st-november/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1793520064-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=75334c8a-0d91-4217-a9ca-72b65000690a&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "e1c79bd78193fb495bc6afd0bc2414fd40eac719",
       "guid": "d23f5fe8-89f4-469f-997e-93e65b6dd97a",
@@ -1721,6 +1734,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — The Ellie Taylor Show (1st November)
 - 2026-10-25 — The Ellie Taylor Show (25th October)
 - 2026-10-18 — The Ellie Taylor Show (18th October)
 - 2026-10-11 — The Ellie Taylor Show (11th October)
