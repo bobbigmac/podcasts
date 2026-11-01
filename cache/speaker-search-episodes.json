@@ -37722,6 +37722,28 @@
     ],
     "richard-ayoade": [
       {
+        "feed_slug": "external:apple:72a05d4f5513",
+        "feed_title": "Daily News Quiz UK",
+        "source_rss_url": "https://media.dailynewsquiz.win/uk/feed.xml",
+        "dedupe_key": "19479aaff4a1e01a84f01d5c740a52512c5caa32",
+        "episode_key": "19479aaff4a1e01a84f01d5c740a52512c5caa32",
+        "title": "Daily News Quiz UK – Sunday 1 November 2026: Harry Styles, Richard Ayoade, Breeders' Cup",
+        "published_at": "2026-11-01T06:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "🧠 Ten questions. ⏱️ Ten minutes. ☀️ Every morning. Can you score 10/10?\n\nToday's quiz, Sunday 1 November 2026: europe's biggest halloween festival, a new arts college, charity shop profits, a record-breaking jockey, a spooky space picture, polar bears, harry styles in fancy dress, a festive advert, mundane costumes and",
+        "audio_url": "https://op3.dev/e/media.dailynewsquiz.win/uk/episodes/2026-11-01.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/daily-news-quiz-uk-sunday-1-november-2026-harry-styles/id6825838426?i=1000799186670&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",
         "source_rss_url": "https://rss.art19.com/last-one-laughing",

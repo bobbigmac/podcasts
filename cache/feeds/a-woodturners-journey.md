@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-10-20T23:52:19+00:00`
-- checked_at: `2026-10-20T23:52:19+00:00`
-- etag: `"djEuMi4wOjE3OTIzMDY4Mzk0MjI="`
+- fetched_at: `2026-11-01T19:39:12+00:00`
+- checked_at: `2026-11-01T19:39:12+00:00`
+- etag: `"djEuMi4wOjE3OTM1NDY2MTQ0OTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-10-20T23:52:19+00:00",
+  "fetched_at": "2026-11-01T19:39:12+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,25 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "9138eabf6917a6da84408d6435386abdda47f3d1",
+      "title": "Ep. 50 m- Victory Celebration",
+      "published_at": "2026-11-01T15:23:34+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-50-m-victory-celebration",
+      "description": "Enjoy episode 50!!! Chris and Markus hop over to a YouTube live stream and get in front of their lathes. Chris turns a piece of green Elm and Markus goes at a piece of twice turned spalted silver maple. They chat with each other about techniques they are using, tools they are using and just how much fun woodturning is. Go to their YouTube channel and subscribe. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert who can provide better insight. YOUTUBE CHANNEL: https://www.youtube.com/@AWoodturnersJourney Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Holstrom - bodiedesigns.shop www.instagram.com/bodiedesignsww Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6ae759767f979512c17b81d8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108722047",
+      "itunes_duration": "1:14:53",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "victory",
+        "celebration"
+      ]
+    },
     {
       "key": "41ed2c8856122b378d70351b317a8a6cd77f644e",
       "title": "Ep 49 - The Perfect Design w/ Mike Holstrom",
@@ -985,6 +1004,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — Ep. 50 m- Victory Celebration — speakers: Chris Jacobsen
 - 2026-10-18 — Ep 49 - The Perfect Design w/ Mike Holstrom — speakers: Mike Holstrom, Mike Holmgren Holstro, Chris Jacobsen
 - 2026-10-04 — Ep 48 - The Story So Far w/ Keith Lackner — speakers: Keith Lackner, Chris Jacobsen
 - 2026-09-20 — Ep 47 - Business Casualty w/ Scott Alexander — speakers: Scott Alexander, Chris Jacobsen
