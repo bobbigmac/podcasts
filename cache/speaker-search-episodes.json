@@ -31631,6 +31631,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:06d740321d0b",
+        "feed_title": "Discover High Quality Audiobook Titles on Any Device",
+        "source_rss_url": "https://s3.thebookvoice.com/b/a/4333/index.xml",
+        "dedupe_key": "f2dc3dc107785526c82d37a226654a874653a1f6",
+        "episode_key": "f2dc3dc107785526c82d37a226654a874653a1f6",
+        "title": "Lee Mack - The Lee Mack Show, Series 2",
+        "published_at": "2007-11-12T22:52:52Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Please visit https://thebookvoice.com/podcasts/1/audiobook/354879 to listen full audiobooks.\n    Title: The Lee Mack Show, Series 2\n \nAuthor: Lee Mack\n \nNarrator: Guests, Lee Mack\n \nFormat: Unabridged Audiobook\n \nLength: 3 hours 55 minutes\n \nRelease date: November 12, 2007\n \nRatings: Ratings of Book: 5 of Total 1\n \nGen",
+        "audio_url": "https://s3.thebookvoice.com/9781405608794.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-the-lee-mack-show-series-2/id6829364116?i=1000799155650&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:711e80fceb2a",
         "feed_title": "Listen With Your Mind, Not Just Your Ears With Free Audiobook",
         "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/users/99/index.xml",

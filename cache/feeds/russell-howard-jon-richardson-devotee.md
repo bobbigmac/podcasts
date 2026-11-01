@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `W/"62b26-9d0s4a5JYWIN+7+wAQLhg9o3vjc"`
+- fetched_at: `2026-11-01T06:00:23+00:00`
+- checked_at: `2026-11-01T06:00:23+00:00`
+- etag: `W/"63f4d-qoYhpqlPF1NjLR70rcqYhhZ9nvQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,75 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-11-01T06:00:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b835eb8d67c318270ec1cab0337936587043cf0b",
+      "title": "#36 The Jon Richardson Podcast #36 – Featuring Carl Donnelly",
+      "published_at": "2026-10-31T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/36-The-Jon-Richardson-Podcast-36--Featuring-Carl-Donnelly-e3rbbkv",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793271807951-5585978c47acb.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1932458496.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78360350",
+      "itunes_duration": "01:20:45",
+      "speakers": [
+        "Carl Donnelly Sub"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "carl",
+        "donnelly"
+      ]
+    },
+    {
+      "key": "6da1180903334be283518ee8b676e4c22b9df71e",
+      "title": "#35 The Jon Richardson Podcast #35 – Featuring Tom Parry",
+      "published_at": "2026-10-30T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/35-The-Jon-Richardson-Podcast-35--Featuring-Tom-Parry-e3r9u8n",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793217257467-25335d3efde29.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2451557431.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71394919",
+      "itunes_duration": "01:13:34",
+      "speakers": [
+        "Tom Parry Sub"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "parry"
+      ]
+    },
+    {
+      "key": "642d7aa208522b701c430af376f0a11b91569b49",
+      "title": "#34 The Jon Richardson Podcast #34 – Featuring Stephen Grant",
+      "published_at": "2026-10-29T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/34-The-Jon-Richardson-Podcast-34--Featuring-Stephen-Grant-e3r9ttv",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793216947778-93645cae0df11.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7480748090.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74812230",
+      "itunes_duration": "01:17:05",
+      "speakers": [
+        "Stephen Grant Sub"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "stephen",
+        "grant"
+      ]
+    },
     {
       "key": "37583d422f11b33fc126120b24e9f6939c325cc1",
       "title": "#33 The Jon Richardson Podcast #33 – Featuring Zoe Lyon",
@@ -6076,47 +6138,6 @@
         "maff",
         "brown"
       ]
-    },
-    {
-      "key": "bd4b51e3a1977d4ef8ec4bb6dfa303b0e5272b35",
-      "title": "#36 Jon Richardson Podcast with Carl Donnelly",
-      "published_at": "2026-03-19T20:29:54+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/36-Jon-Richardson-Podcast-with-Carl-Donnelly-e3gn215",
-      "description": "#36 Jon Richardson Podcast with Carl Donnelly",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773952174425-70df43dd6319a.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117196261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F0ffca0a2-c89c-286c-3821-abedfc52d052.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58072640",
-      "itunes_duration": "01:20:37",
-      "speakers": [
-        "Carl Donnelly"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "carl",
-        "donnelly"
-      ]
-    },
-    {
-      "key": "a944ae984b90a8578cea7c6999ae7ecf70190a8c",
-      "title": "#35 Jon Richardson Podcast with Tom Parry",
-      "published_at": "2026-03-18T17:45:36+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/35-Jon-Richardson-Podcast-with-Tom-Parry-e3gkvor",
-      "description": "#35 Jon Richardson Podcast with Tom Parry",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773855921718-58ecfd122f895.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117128411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-18%2F178bf625-cca8-7500-139c-ae6153b233e5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "52904192",
-      "itunes_duration": "01:13:26",
-      "speakers": [
-        "Tom Parry"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "parry"
-      ]
     }
   ]
 }
@@ -6125,6 +6146,9 @@
 
 ## Episodes (newest first)
 
+- 2026-10-31 — #36 The Jon Richardson Podcast #36 – Featuring Carl Donnelly — speakers: Carl Donnelly Sub
+- 2026-10-30 — #35 The Jon Richardson Podcast #35 – Featuring Tom Parry — speakers: Tom Parry Sub
+- 2026-10-29 — #34 The Jon Richardson Podcast #34 – Featuring Stephen Grant — speakers: Stephen Grant Sub
 - 2026-10-28 — #33 The Jon Richardson Podcast #33 – Featuring Zoe Lyon — speakers: Zoe Lyon Sub
 - 2026-10-28 — #32 The Jon Richardson Podcast #32 Featuring Dan Atkinson — speakers: Dan Atkinson
 - 2026-10-28 — #31 The Jon Richardson Podcast #31 – Featuring Matt Crosby — speakers: Matt Crosby
@@ -6387,5 +6411,3 @@
 - 2026-03-24 — #38 Jon Richardson Podcast with Jeff Norsen — speakers: Jeff Norsen
 - 2026-03-23 — #38 Jon Richardson Podcast with John Gordillo — speakers: John Gordillo
 - 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown
-- 2026-03-19 — #36 Jon Richardson Podcast with Carl Donnelly — speakers: Carl Donnelly
-- 2026-03-18 — #35 Jon Richardson Podcast with Tom Parry — speakers: Tom Parry

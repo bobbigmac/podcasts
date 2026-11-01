@@ -54,8 +54,8 @@
       "last_modified": "Wed, 28 Oct 2026 01:15:27 GMT"
     },
     "no-such-thing-as-a-fish": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491624,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512841,
       "etag": "W/\"6ded3e0abac0df7a66dd9635bec73e4b\"",
       "last_modified": "Thu, 29 Oct 2026 23:55:56 GMT"
     },
@@ -157,8 +157,8 @@
       "last_modified": "Tue, 13 Oct 2026 10:28:55 GMT"
     },
     "a-woodturners-journey": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512838,
       "etag": "\"djEuMi4wOjE3OTIzMDY4Mzk0MjI=\""
     },
     "beyond-the-pixels": {
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512838,
       "etag": "\"djEuMi4wOjE3OTMzNzUxMDY0ODQ=\""
     },
     "ramon-fears-terror-tapes": {
@@ -294,14 +294,14 @@
       "etag": "\"djEuMi4wOjE3NzgxMzYwNjA3Mjk=\""
     },
     "rhlstp-with-richard-herring": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512838,
       "etag": "\"djEuMi4wOjE3OTM0MTkwNTkyMzc=\""
     },
     "russell-howard-jon-richardson-devotee": {
-      "last_checked_at": "2026-10-28T20:15:17+00:00",
-      "last_checked_unix": 1793218523,
-      "etag": "W/\"62b26-9d0s4a5JYWIN+7+wAQLhg9o3vjc\""
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512839,
+      "etag": "W/\"63f4d-qoYhpqlPF1NjLR70rcqYhhZ9nvQ\""
     },
     "russell-howards-five-brilliant-things": {
       "last_checked_at": "2026-10-28T05:40:31+00:00",
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512839,
       "etag": "W/\"1be90-8T/+rldT7VqbPENk6gzqICwMJvI\""
     },
     "the-romesh-ranganathan-show": {
@@ -383,19 +383,19 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512839,
       "etag": "\"djEuMi4wOjE3OTM0OTAxMzE4NjQ=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
-      "last_checked_at": "2026-10-28T05:40:31+00:00",
-      "last_checked_unix": 1793166048,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512840,
       "last_modified": "Wed, 10 Jun 2026 09:22:33 GMT",
-      "etag": "\"djEuMi4wOjE3OTMxNjAwNDAyNzg=\""
+      "etag": "\"djEuMi4wOjE3OTM1MDIwMzk1Mjk=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491624,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512841,
       "etag": "W/\"464ac-NxX3Qlo3X5evw55jmIQ6oopucTE\""
     },
     "xbox-casuals-an-xbox-podcast": {
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 30 Oct 2026 02:31:31 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491625,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512841,
       "last_modified": "Mon, 26 Oct 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTMxNDkyMzk2NTg=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491625,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512842,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,13 +486,13 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491625,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512842,
       "last_modified": "Sat, 31 Oct 2026 11:41:23 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491626,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512842,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
       "etag": "\"djEuMi4wOjE3OTMzNTA5MTI1ODc=\"",
       "consecutive_failures": 0
@@ -542,8 +542,8 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491630,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512842,
       "etag": "\"djEuMi4wOjE3OTMxNDU2Mzk2MTY=\"",
       "consecutive_failures": 0
     },
@@ -608,35 +608,35 @@
       "consecutive_failures": 0
     },
     "the-andy-parsons-show": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491612,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512833,
       "consecutive_failures": 0
     },
     "the-ellie-taylor-show": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491612,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512832,
       "consecutive_failures": 0
     },
     "the-rock-show-with-ed-gamble-and-joel-dommett": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491616,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512836,
       "consecutive_failures": 0
     },
     "the-lucy-porter-show": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491618,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512838,
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491625,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512845,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
-      "last_checked_at": "2026-11-01T00:06:42+00:00",
-      "last_checked_unix": 1793491635,
+      "last_checked_at": "2026-11-01T06:00:23+00:00",
+      "last_checked_unix": 1793512857,
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-11-01T00:06:42+00:00"
+  "updated_at": "2026-11-01T06:00:23+00:00"
 }

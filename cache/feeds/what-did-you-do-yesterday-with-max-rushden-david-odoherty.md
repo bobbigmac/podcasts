@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNjAwNDAyNzg="`
+- fetched_at: `2026-11-01T06:00:23+00:00`
+- checked_at: `2026-11-01T06:00:23+00:00`
+- etag: `"djEuMi4wOjE3OTM1MDIwMzk1Mjk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-01T06:00:23+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ce2c7918ed06d97e6d37e228b31c1d4412978fc8",
+      "title": "S6 EP8: Henry Paker",
+      "published_at": "2026-11-01T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s6-ep8-henry-paker",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian, writer and illustrator - Henry Paker. We asked Henry what he did yesterday? He told us. That's it... enjoy! Go and see Henry's brilliant new stand-up tour 'Pencil Case' - you can find tickets and info HERE Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1792937950661-08066fd9-3cb0-4d34-adad-df4ae4666873.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ade11ce5df9b551a9e31a8f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "221820218",
+      "itunes_duration": "1:32:16",
+      "speakers": [
+        "Henry Paker",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "henry",
+        "paker"
+      ]
+    },
     {
       "key": "9f66349ce721d7aeb70eff82d139f7ee3f304939",
       "title": "WDWDY #93.1: Our 1st ever LIVE STREAM (Max's Yesterday)",
@@ -4352,6 +4373,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — S6 EP8: Henry Paker — speakers: Henry Paker, Max Rushden, David O'Doherty
 - 2026-10-28 — WDWDY #93.1: Our 1st ever LIVE STREAM (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-10-25 — S6 EP7: Harriet Kemsley — speakers: Harriet Kemsley, Max Rushden, David O'Doherty
 - 2026-10-21 — WDWDY #92.1: That's Not A Clue (David's Yesterday) — speakers: Max Rushden, David O'Doherty

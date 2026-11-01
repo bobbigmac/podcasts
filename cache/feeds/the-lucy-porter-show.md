@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-11-01T00:06:42+00:00`
-- checked_at: `2026-11-01T00:06:42+00:00`
+- fetched_at: `2026-11-01T06:00:23+00:00`
+- checked_at: `2026-11-01T06:00:23+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-11-01T00:06:42+00:00",
+  "fetched_at": "2026-11-01T06:00:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1b25f98efee9a2a08a8ddbf34770eaa6472015c0",
+      "guid": "45588a2e-6f24-421c-9943-a91b5e4acacc",
+      "title": "The Lucy Porter Show (1st November)",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-1st-november/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1793509329-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=45588a2e-6f24-421c-9943-a91b5e4acacc&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "e9af6d6e0ebc3a1186d4711dd51932f397f9f2d0",
       "guid": "1127c8cb-a992-44e0-b494-1dd2af1bf8f9",
@@ -1721,6 +1734,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-01 — The Lucy Porter Show (1st November)
 - 2026-10-25 — The Lucy Porter Show (25th October)
 - 2026-10-18 — The Lucy Porter Show (18th October)
 - 2026-10-11 — The Lucy Porter Show (11th October)
