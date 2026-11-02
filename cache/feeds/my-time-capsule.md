@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-10-30T00:58:34+00:00`
-- checked_at: `2026-10-30T00:58:34+00:00`
-- etag: `"djEuMi4wOjE3OTMzMTg1NjA1MTk="`
+- fetched_at: `2026-11-02T00:44:04+00:00`
+- checked_at: `2026-11-02T00:44:04+00:00`
+- etag: `"djEuMi4wOjE3OTM1Nzc3NTkzMDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-10-30T00:58:34+00:00",
+  "fetched_at": "2026-11-02T00:44:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1c2819c455aa2185b0eaad484bd5eec994951050",
+      "title": "Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season)",
+      "published_at": "2026-11-02T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-612-temi-wilkey-comedian-actor-award-winning-writer-sex-e",
+      "description": "Temi Wilkey is an award-winning writer, actor and comedian. Her debut play, The High Table , won the Stage Debut Award for Best Writer in 2020 and was shortlisted for the George Devine Award. Her television writing credits include Netflix’s hit comedy-drama Sex Education , for which she received an NAACP Image Award nomination, Disney+‘s Wedding Season and the BBC’s Boarders . As an actor, Temi has appeared in Years and Years and ITV’s Manhunt , alongside theatre work with the Royal Shakespeare Company, National Theatre and Royal Court. Her solo show Main Character Energy received critical acclaim at the Edinburgh Fringe before transferring to Soho Theatre and Bristol Old Vic. Temi was named in Forbes’ 30 Under 30 list in 2021. Her latest show, Lover Girl , the second instalment of her planned Main Character trilogy, premiered at the 2026 Edinburgh Fringe and transfers to Soho Theatre from 2–21 November . Temi Wilkey is our guest in episode 612 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Temi Wilkey Lover Girl at Soho Theatre, available here - https://sohotheatre.com/events/temi-wilkey-lover-girl . Follow Temi Wilkey on Instagram : @temi.wilkey . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6ae7835c043d1c282f429c6c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90251932",
+      "itunes_duration": "1:15:12",
+      "speakers": [
+        "Temi Wilkey"
+      ],
+      "topics": [
+        "temi",
+        "wilkey",
+        "comedian",
+        "actor",
+        "award",
+        "winning",
+        "writer",
+        "education",
+        "wedding",
+        "season"
+      ]
+    },
     {
       "key": "b035755e2f38211fee00548cef2be83b69d3a02a",
       "title": "My Time Capsule The Dig - Ep. 24",
@@ -13793,6 +13820,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season) — speakers: Temi Wilkey
 - 2026-10-30 — My Time Capsule The Dig - Ep. 24
 - 2026-10-26 — Ep. 611 - Ben Hanlin - Award-winning magician and presenter best known for his ITV2 show Tricked — speakers: Ben Hanlin
 - 2026-10-22 — My Time Capsule The Dig - Ep. 23 - With Chris Cantrill (Winner of 2026 Edinburgh Comedy Award) — speakers: Edinburgh Comedy Award, Chris Cantrill

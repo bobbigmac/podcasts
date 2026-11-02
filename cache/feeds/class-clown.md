@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- last_modified: `Mon, 26 Oct 2026 02:59:19 GMT`
+- fetched_at: `2026-11-02T00:44:04+00:00`
+- checked_at: `2026-11-02T00:44:04+00:00`
+- last_modified: `Mon, 02 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-11-02T00:44:04+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "73a82aae7530a06deeb546e85720dc0db862d289",
+      "title": "MOST PLAYED: Joanne McNally",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "link": null,
+      "description": "Over the next few weeks we'll be uploading some of our most played older episodes of Class Clown. This week it is Joanne McNally fresh off her appearance on Traitors! This episode is sponsored by Shopify - s et up your shop and get started today AND Get Class Clown Merch below! https://classclownpodcast.myshopify.com/ Catch Seann Walsh On tour! https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL6342699026.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3448",
+      "speakers": [
+        "Joanne McNally",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "played",
+        "joanne",
+        "mcnally"
+      ]
+    },
     {
       "key": "3392014232baf10d8efb556ca9ba442fb6a2ca25",
       "title": "MOST PLAYED: Romesh Ranganathan",
@@ -2040,6 +2061,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — MOST PLAYED: Joanne McNally — speakers: Joanne McNally, Seann Walsh
 - 2026-10-26 — MOST PLAYED: Romesh Ranganathan — speakers: Seann Walsh
 - 2026-10-18 — ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy — speakers: Getting Excluded, Seann Walsh
 - 2026-10-11 — ALEXEI SAYLE: Growing up in Liverpool, Having Communist Parents & Being A Difficult Student — speakers: Having Communist Parents, Difficult Student Alexei Sayle, Seann Walsh
