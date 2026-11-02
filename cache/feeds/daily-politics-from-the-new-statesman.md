@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-10-31T19:17:09+00:00`
-- checked_at: `2026-10-31T19:17:09+00:00`
-- etag: `"djEuMi4wOjE3OTM0NjYwMzk0MjE="`
+- fetched_at: `2026-11-02T21:42:38+00:00`
+- checked_at: `2026-11-02T21:42:38+00:00`
+- etag: `"djEuMi4wOjE3OTM2MzcyODM4MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-10-31T19:17:09+00:00",
+  "fetched_at": "2026-11-02T21:42:38+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0dc3d68c89c2a37ad9c13b93c53aec2b06e2374c",
+      "title": "Shabana Mahmood’s new immigration rules",
+      "published_at": "2026-11-02T16:34:43+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/shabana-mahmoods-new-immigration-rules",
+      "description": "The Home Secretary Shabana Mahmood is unveiling sweeping new rules to Britain’s immigration system, which would force some migrants to wait as long as ten to 15 years for the right to settle in the UK. While she has made a concession on care workers currently working in the UK, the proposals remain controversial for retrospectively applying to many people already on the path to settlement here. What does this mean for the politics of the Labour Party, and for the country Britain will become? Anoosh Chakelian is joined by Ailbhe Rea to discuss LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793637055036-3b745910-bc19-4da7-9473-6314cb90f70b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ae8ba259b7bf5b16a301da3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63067552",
+      "itunes_duration": "26:15",
+      "speakers": [
+        "Shabana Mahmood",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "shabana",
+        "mahmood",
+        "immigration",
+        "rule"
+      ]
+    },
     {
       "key": "e5a34cbf47d9a0b476978fca62d477516982dba9",
       "title": "Andy Burnham’s first 100 days in power",
@@ -32822,6 +32845,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Shabana Mahmood’s new immigration rules — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
 - 2026-10-31 — Andy Burnham’s first 100 days in power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-10-29 — Budget 2026: Cautious or radical? — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
 - 2026-10-28 — US midterms: Is this a referendum on Trump? — speakers: Anoosh Chakelian, Oli Dugmore

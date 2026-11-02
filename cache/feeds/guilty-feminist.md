@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- last_modified: `Mon, 02 Nov 2026 03:20:22 GMT`
+- fetched_at: `2026-11-02T21:42:38+00:00`
+- checked_at: `2026-11-02T21:42:38+00:00`
+- last_modified: `Mon, 02 Nov 2026 12:30:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-02T21:42:38+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b60c44fe199a3933f95ce8db0af2c771be496b0a",
+      "title": "507. John Proctor is the Villain with Susan Wokoma",
+      "published_at": "2026-11-02T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 507. John Proctor is the Villain Presented by Deborah Frances-White and Susan Wokoma with special guests Sadie Soverall, Lauryn Ajufo, Holly Howden Gilchrist, Miya James and Amy Macken Recorded 16 October in London. Released 2 November. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Susan Wokoma https://www.instagram.com/susiewoosie12 https://linktr.ee/susanwokoma More about John Proctor is the Villain https://www.delfontmackintosh.co.uk/whats-on/john-proctor-is-the-villain For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Interview with Cody Dahler . https://www.fane.co.uk/cody-dahler#event-listing Camp as Christmas . https://unionchapel.org.uk/whats-on/camp-as-christmas-christmas-comes-early Stand up for Gaza . https://www.komedia.co.uk/shows/stand-up-for-gaza/ The Museum of Comedy, 6 December . https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873668406 Australia / NZ tour . https://guiltyfeminist.com/australia-new-zealand-2027 Royal Albert Hall . https://www.royalalberthall.com/tickets/events/2027/the-guilty-feminist Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0333634e-d658-11f1-955f-4f00ddbdaecc/image/8d695a651850af13abfffe38198319e5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL9798741526.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2660",
+      "speakers": [
+        "John Proctor",
+        "Susan Wokoma",
+        "Deborah Frances-White",
+        "Susan Wo"
+      ],
+      "topics": [
+        "john",
+        "proctor",
+        "villain",
+        "susan",
+        "wokoma"
+      ]
+    },
     {
       "key": "f4440f67dc47a7f811bbb389ad24d82838c8a827",
       "title": "506. More than Medicine with Rachel Parris, Nnenna Kanu and Sam Jacobs",
@@ -18728,6 +18753,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — 507. John Proctor is the Villain with Susan Wokoma — speakers: John Proctor, Susan Wokoma, Deborah Frances-White, Susan Wo
 - 2026-10-26 — 506. More than Medicine with Rachel Parris, Nnenna Kanu and Sam Jacobs — speakers: Sam Jacobs, Deborah Frances-White, Rachel Parris
 - 2026-10-19 — 505. Misinformation with Catherine Bohart and special guest Isabella Heaver — speakers: Catherine Bohart, Isabella Heaver, Deborah Frances-White
 - 2026-10-12 — 504. Thelma and Louise with Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie and Nadia Fall — speakers: Callie Khouri, Rachel Tucker, Amy Lennox, Imogen Brodie, Louise Presented, Deborah Frances-White

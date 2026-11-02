@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- etag: `"djEuMi4wOjE3OTI5ODM2Mzk2NTA="`
+- fetched_at: `2026-11-02T21:42:38+00:00`
+- checked_at: `2026-11-02T21:42:38+00:00`
+- etag: `"djEuMi4wOjE3OTM2MjAwMTk5Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-11-02T21:42:38+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "70c01162ef7180054d5f6a98c072b367bcfc5f94",
+      "title": "Jeffrey Archer - REPLAY",
+      "published_at": "2026-11-02T11:46:17+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/jeffrey-archer-replay",
+      "description": "Following the death of Jeffrey Archer, let's revisit his appearance on the show six years ago. He discusses his time as Deputy Chairman of the Conservative Party and his relationships with Margaret Thatcher and John Major. Plus there's a bit of book chat. And, more importantly, wine and cheese. See the Political Party Live on Stage: 9 November: Liz Kendall and Mishal Husain 21 December: Christmas Special with Wes Streeting https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 3 SALFORD Lowry - EXTRA DATE 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 17 LONDON Bloomsbury - EXTRA DATE 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6ae87833c89efe586620cbe2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105644074",
+      "itunes_duration": "1:13:21",
+      "speakers": [
+        "Jeffrey Archer Replay",
+        "Jeffrey Archer",
+        "Matt Forde"
+      ],
+      "topics": [
+        "jeffrey",
+        "archer",
+        "replay"
+      ]
+    },
     {
       "key": "f32e9b6f54ceee6477e67791ec9772f6cde8a790",
       "title": "We will help NEETS, but if they don’t accept the opportunity they'll lose their benefits with Andrew Western, Minister of State for Employment",
@@ -10868,6 +10890,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Jeffrey Archer - REPLAY — speakers: Jeffrey Archer Replay, Jeffrey Archer, Matt Forde
 - 2026-10-26 — We will help NEETS, but if they don’t accept the opportunity they'll lose their benefits with Andrew Western, Minister of State for Employment — speakers: Andrew Western, Matt Forde
 - 2026-10-19 — Why I'm still fighting for veterans (and why I've put on weight) with Johnny Mercer — speakers: Johnny Mercer, Matt Forde
 - 2026-10-12 — Smart Phones and the link to tyranny: James Marriott — speakers: James Marriott James Marriott, Matt Forde

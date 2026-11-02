@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-10-26T20:29:14+00:00`
-- checked_at: `2026-10-26T20:29:14+00:00`
-- etag: `"11d3e9-65ec029baeb61"`
-- last_modified: `Mon, 26 Oct 2026 15:41:27 GMT`
+- fetched_at: `2026-11-02T21:42:38+00:00`
+- checked_at: `2026-11-02T21:42:38+00:00`
+- etag: `"11dced-65f497ed17050"`
+- last_modified: `Mon, 02 Nov 2026 11:32:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-10-26T20:29:14+00:00",
+  "fetched_at": "2026-11-02T21:42:38+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,23 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "eb37539998a931de1a1fe47366cfc9299e8d0d30",
+      "title": "Still Looking For My X - S22, Ep.9",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "We are in the final stretch of series 22 and there are dilemmas that need resolving, Jack has to retract a goof, and questions still need to be answered - like will Isy enter a prize task hall of fame? Can we meet her mum? Plus, Jack wishes one of the tasks could have lasted several years and Jenny puts in a bid for membership to any elite group that will have her. After next week, we'll be debriefing series 22 through the medium of stats, specials guests, and questions to the Andy's - so if ever there was a time to get a series 22 thought or question for the Andy's off your chest it's now! Send to fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8047500c-893d-4bb3-aa0f-1114f1269180.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=8047500c-893d-4bb3-aa0f-1114f1269180",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63143143",
+      "itunes_duration": "01:05:38",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": []
+    },
     {
       "key": "82b34251da55f0702770f4d2ede7314b79b55e0b",
       "title": "Drinking Is Just Spilling Stuff Inside Yourself - S22, Ep.8",
@@ -51,7 +68,7 @@
     {
       "key": "ed42050062916feebe08ea4573441c7d3c000ba8",
       "title": "First Tingle in a Measuring Shop - S22, Ep.7",
-      "published_at": "2026-10-19T12:35:00+00:00",
+      "published_at": "2026-10-19T11:35:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are back to discuss series 22, episode 7. If you're someone who ever got their first tingle in the measuring shop or may be living in or around Edgware, then this episode is for you. Plus, do we need cutlery plaits? Why was Matt's plate of chocolate no match for Chloe's Caramac? How fast was that tiny train going? And one listener writes in to give us a hot tip on Noel Fielding's paintings. Send your Taskmaster thoughts to fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -72,7 +89,7 @@
     {
       "key": "d5638746b83bcc09f39e765cbaa48bddf5088fa2",
       "title": "Jiggery-Pokery - S22, Ep. 6",
-      "published_at": "2026-10-12T05:00:00+00:00",
+      "published_at": "2026-10-12T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack reconvene this week to discuss episode 6, and Jack is grumpy (but why?) while Jenny reveals her true thoughts on QR codes (witchcraft). Meanwhile Chloe shows no signs of slowing, Matt births a new character, Richard refuses to whoopsie, Isy bends time, and Nina takes inspiration from Julian Clary. Plus a listener writes in to point out something very backwards and we wade into a genre debate about a book written by America’s toughest judge. Send us all your Taskmaster related thoughts: fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -92,7 +109,7 @@
     {
       "key": "f3cbec1d3811c1a2b68e51fb88a8e822be88ac15",
       "title": "Sexy Shetland Pony - S22, Ep.5",
-      "published_at": "2026-10-05T05:00:00+00:00",
+      "published_at": "2026-10-05T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're halfway through series 22 and this week it's all about highfalutin prize tasks, the contestant that mostly resembles a sexy shetland pony trotting around Dartmoor, Isy's world of velvet, and cookies from Chateau Marmont. Plus, Jack brings in some mid-series stats, and is Nina doing a Jenny Eclair? Send all your emails to fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -113,7 +130,7 @@
     {
       "key": "3d63484ad81a44f9c8df671700b6198ee7bf1f5c",
       "title": "The Mona Lisa Doesn't Have Googly Eyes - S22, Ep.4",
-      "published_at": "2026-09-28T05:00:00+00:00",
+      "published_at": "2026-09-28T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jack and Jenny are back to break down Episode 4 of Series 22. The prize theme is \"juicy\", an under-table task raises a lot questions, Chloe carries two armpit-averse teammates through some armpit art and someone has to convince everyone they're wearing a secret workplace earpiece. And is the closest we've ever come to a perfect episode? Plus your emails: a listener corrects Alex on the finer points of gleeking, and another spots a possible sausage machine callback in the Series 22 trailer. Send your thoughts on the series to fans@taskmaster.tv .",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -134,7 +151,7 @@
     {
       "key": "bfabe84c0a137ee58f1f314b97dbf44340320653",
       "title": "Freaks and Gleeks - S22, Ep.3",
-      "published_at": "2026-09-21T05:00:00+00:00",
+      "published_at": "2026-09-21T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week it's all about things that make us feel safe, how to make someone cry with our without onion beards, gargoyles wearing spanx, standardised B.O.S.N.A.C forms, and whether or not gleeking was an American middle school epidemic. Plus a listener writes in with some important information about KBN's (Kevin Bacon Numbers) and we have our first task hack of the series. Send in all your Series 22 questions, goofs and bloops to fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -154,7 +171,7 @@
     {
       "key": "82bd8b24b6c8a7da4b04e1ab7c15b4a83cf8682f",
       "title": "Bean Heavy - S22, Ep.2",
-      "published_at": "2026-09-14T05:00:00+00:00",
+      "published_at": "2026-09-14T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're fully in to the new series now and it only feels right to start the episode with a bit of Alex Horne fan worship. And, while we get to grips with smile muscles, lucky pants, and the size of beans, we make time to visit some of the more serious questions too: when should pants go into 'oven cleaning mode'? What happened to the cheeses in Jesus? Why doesn't 5,098 beans sound like enough beans? And what is the history behind Giant Monkey? Plus listeners write in with some Greek lessons, the whereabouts of Greg's bin and some news from New Zealand. Send all your series 22 thoughts to: fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -174,7 +191,7 @@
     {
       "key": "2ff8c3b79d3aba5dfda32ae8d36dd620698951de",
       "title": "Be Funny or Be Fired - S22, Ep.1",
-      "published_at": "2026-09-07T16:00:00+00:00",
+      "published_at": "2026-09-07T15:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We have officially met the series 22 Taskmaster cast - Nina Conti, Chloe Petts, Matt Lucas, Isy Suttie, and Richard Ayoade - and it's off to an excellent start. Is it a first for approaching Greg's throne so early on in the series? How far can droopy tights droop? Where did that secret tunnel fit into the Taskmaster house floor plan? It's all up for discussion! Plus, Jenny thinks she remembers a gold vs. yellow argument from the past... Send all your Taskmaster series 22 thoughts to fans@taskmaster.tv. Don't forget to download the Taskmaster app for all kinds of extra Taskmaster fun.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -197,7 +214,7 @@
     {
       "key": "9e2445db981710471233f176ab9ee519201b6387",
       "title": "UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
-      "published_at": "2026-08-31T05:00:00+00:00",
+      "published_at": "2026-08-31T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Series 22 is almost here, and before it lands we're doing our deepest of deep dives into this year's cast: Chloe Petts, Isy Suttie, Matt Lucas, Nina Conti and Richard Ayoade. We talk tallest-ever line-ups, dodgy internet height stats, seat-number superstitions, the \"class of '74–'78\" age cluster, university vs. Footlights, and Jack's ever-evolving, fully unhinged statistical model covering everything from star signs to marathon times. Plus: how Jenny helped Isy learn to drive, Nina Conti's surprisingly stacked filmography, and another series of wondering whether the real winner will be stats or instinct....... Send all your Series 22 thoughts to fans@taskmaster.tv. If you don't already have the official Taskmaster app downloaded, now's a good time!",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -219,7 +236,7 @@
     {
       "key": "0c7bd2e895de7ef611793f9619971187e932506c",
       "title": "Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5",
-      "published_at": "2026-08-24T05:00:00+00:00",
+      "published_at": "2026-08-24T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Pack your passports, Jenny and Jack are off to the International Taskmaster YouTube page to explore the distant shores of Taskmaster Denmark, specifically episode 5 of the first series. So how does it compare to ? Jenny and Jack discuss! Plus, with the news that the new UK series 22 is now imminent, Jack and Jenny prepare for next week's SERIES 22 PREDICTIONS. Send all yours into fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -241,7 +258,7 @@
     {
       "key": "05a805842a5956c2bb2d6463afa5eca21f43cfcd",
       "title": "The Hand of the Leg - S7, Ep. 9",
-      "published_at": "2026-08-17T05:00:00+00:00",
+      "published_at": "2026-08-17T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "In this episode Jack and Jenny revisit Series 7, The Pendulum Draws the Eye - featuring Phil Wang, Rhod Gilbert, Jessica Knappett, Kerry Godliman and James Acaster. Body parts get complicated and Phil’s costume is shown off to its full effect. Also discussed; are split tasks fair? Can placenta art be called beautiful? And an email sets the theme for making the next episode international. Send all your homework suggestions, Series 22 predictions, and general Taskmaster thoughts to fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -261,7 +278,7 @@
     {
       "key": "e8c8d85ad2306dfc9d22d1488ed9ec231f176fae",
       "title": "42 Calippos - S2, Ep.3",
-      "published_at": "2026-08-10T09:00:00+00:00",
+      "published_at": "2026-08-10T08:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack revisit A Pistachio Eclair so that Jenny can see how Joe Wilkinson, Jon Richardson, Doc Brown, Katherine Ryan and Richard Osman go about impressing the mayor of Chesham. Also discussed; what to put on a computer desktop, whether or not you should watch the end credits of Taskmaster (and if this one should have deserved a BAFTA), countries that do and don't have bandstands, and the only known in-studio refusal to watch a task. Send all your homework suggestions, Series 22 predictions, and general Taskmaster thoughts to fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -282,7 +299,7 @@
     {
       "key": "d2f87267aeabfef8cc13ad24906560e9c67252f4",
       "title": "Go Hard on the Gore - S8, Ep. 5",
-      "published_at": "2026-08-03T05:00:00+00:00",
+      "published_at": "2026-08-03T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we watch Series 8, Episode 5 on the recommendation of a listener who believes it tops the list for most amount of fails in one attempt. Along the way we remember how tricky ping pong balls can be, the cleverness of Joe, the versatility of noodles and why we love Lou. Plus we learn the correct pronunciation of lasso (and taco) and, as a bonus, the origin of ten gallon hats. Next week we're watching Series 2 and Episode 3. Send any homework suggestions or Taskmaster thoughts to fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -301,7 +318,7 @@
     {
       "key": "10af2c06fe5c6b0f9719434e6c5963d5fdad5b9f",
       "title": "Remembering Carol - S6, Ep. 8",
-      "published_at": "2026-07-27T05:00:00+00:00",
+      "published_at": "2026-07-27T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack revisit series 6 to remember our dear friend of Taskmaster, Carol. Along the way they also remember verruca socks, the importance of the tea cozy test, Alex's pin number, the challenges of dot to dot pictures and the rules around texting yourself. Plus, a listener wonders if Taskmaster contestants should be allowed to play again in another country? We welcome all your Taskmaster thoughts and homework suggestions to fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -320,7 +337,7 @@
     {
       "key": "3769a4a8b3309a1e6daef699e6462e68680c6777",
       "title": "Trip Nip Slip - S9, Ep.8",
-      "published_at": "2026-07-20T05:00:00+00:00",
+      "published_at": "2026-07-20T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack travel back to series 9 to find out what a Shaqinahat is and new questions emerge along the way; is it lass-ooo or lass-oh? Do people either have the dolls house gene or they don't? Would a trip-nip-slip been more appropriate for the prize task? Plus, Jenny has a go at writing her own lyrics for the Taskmaster theme tune. Plus, a listener writes in to correct some Going for Gold lore and another suggests a tribute to series 6's Carol for next week's homework. Send all your homework suggestions and Taskmaster thoughts into fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -340,7 +357,7 @@
     {
       "key": "92f154258113501f60cb30a4742374c3122825bf",
       "title": "Imagination, Imagination, Broken - S15, Ep. 3",
-      "published_at": "2026-07-13T05:00:00+00:00",
+      "published_at": "2026-07-13T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack review series 15 together for the first time ever to find out; would Jenny would change her strategy now that she's a Taskmaster expert? Is the potato hat task still one of the best moments of her entire life? Was any vital, but legally murky information cut from her prize task explanation? Plus a listener writes in to debate a 'massive bloop' by Joanna Page, which they believe could have changed the whole series. Next week we'll be discussing Series 9 episode 8, if you'd like to follow along. Send all your homework suggestions and Taskmaster thoughts into fans@taskmaster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -360,7 +377,7 @@
     {
       "key": "6c5d1c0cb17e8f98eba7ef99ef426311be9092b6",
       "title": "The Handy Bandy Stand - S10, Ep. 4",
-      "published_at": "2026-07-06T05:00:00+00:00",
+      "published_at": "2026-07-06T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we revisit an old classic, featuring Danny Dyers secret love, the grandfather of podcasting, the most handsome and well dressed comedian of all time, comedy’s greatest character, and a very pregnant funny woman - according to Jack and Jenny. And it prompts some questions; was Mawaan only good at prize tasks because everyone else was so bad? Is there anything that can make Richard the security guard happy? Should everyone should be made to miss a penalty in front of a crowd? Has the recent hot weather made Jack very gullible? Plus a listener writes in to provide some last minute series 21 stats and another suggests Jenny revisit her series 15, episode 3 potato hat performance for homework. Send all your homework suggestions and Taskmaster thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -382,7 +399,7 @@
     {
       "key": "91db4636b7a50afefb7fc358e47cdd45050d2de3",
       "title": "Not a Florglone Conclusion - Series 21 Listener Questions",
-      "published_at": "2026-06-29T05:00:00+00:00",
+      "published_at": "2026-06-29T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Last week we had Jack's series 21 stats, this week we have listener's series 21 messages. Did Kumail have any riddles in his search history? Have we heard coconckers before this series? Was Amy robbed in the 'censor yourself' task? Should she have been disqualified for different task? Why are we seeing such a sudden influx of hull-based comedians? All of these questions are posed, some of them are definitively answered. Plus we experience our first ever 'hack and a track' and Jenny admits being late to nerd land. Next week we're back to Jenny's homework, starting with Series 10, Episode 4. Send all your homework suggestions and Taskmaster thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -405,7 +422,7 @@
     {
       "key": "b6d33c8ee9ebf626be126b28b23bccefc93ca23f",
       "title": "Champion Stats, Record Breakers and Lucky Seats - Series 21 Stats Debrief",
-      "published_at": "2026-06-22T05:00:00+00:00",
+      "published_at": "2026-06-22T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "The data has been crunched on Series 21 and we can officially say we have a confirmed lucky seat! Plus, Jack and Jenny explore alternative scoreboards, moments that could have changed the series, and just how close we were to a quadruple tiebreaker scenario. Is Joanna our first Welsh, Aries champion? How does Armando's result compare to other series? Was Joel the comedy glue that held everyone together? You'll have to listen to find out. Next week we discuss listeners' Series 21 task hacks, series injustices, and general series 21 comments. Send all your homework suggestions and Taskmaster thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -432,7 +449,7 @@
     {
       "key": "9ce430348fca7dd5e04b1e1b7f42a500630dc81c",
       "title": "The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL*",
-      "published_at": "2026-06-15T05:00:00+00:00",
+      "published_at": "2026-06-15T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Well kick us in the centre of the body, it's the series 21 grand final! And there's so much to discuss, including how to style out your cringe, whether or not it's possible to fill an egg cup with belly button lint alone and why Kumail's nipple gate got so out of hand on this podcast. And saying goodbye to series 21 of course means ushering in a new cast for series 22! Jack and Jenny give their thoughts. Next week Jack offers his series 21 stats debrief, and it's your chance to debrief too. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -454,7 +471,7 @@
     {
       "key": "e1e696dcea209dd6785e058d9d0dd42ac21f6905",
       "title": "The Last Handsome Cockroach Standing - S21, Ep.9",
-      "published_at": "2026-06-08T05:00:00+00:00",
+      "published_at": "2026-06-08T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's the penultimate episode of series 21, but a first for episode titles and speaking Welsh. In this episode Jack and Jenny discuss the evolution of Joanna's storytelling, why Armando Iannuci is an inspiration in getting it wrong, a possible answer to Joel's egg timer conundrum, Kumail Nanjiani's famous planking, and why people who've shat themselves can learn a lot from Joanna Page. Plus Jack's still not convinced you can dance on custard and a listener writes in to point out a TMPP first. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -475,7 +492,7 @@
     {
       "key": "c37ede8f98ca90cd866b4c43c02024fcf10ffbdd",
       "title": "No Kinky Couches - S21, Ep.8",
-      "published_at": "2026-06-01T05:00:00+00:00",
+      "published_at": "2026-06-01T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "In this week's episode we learn a surprising thing about Kumail, explain conkers to a Canadian and settle a spoon-related debate. Plus, have we witnessed Armando’s most unhinged moment yet? Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -495,7 +512,7 @@
     {
       "key": "8a7dc86163b0729c5cf7c92fb6db8a7d0d888236",
       "title": "Moral About Donuts - S21, Ep.7",
-      "published_at": "2026-05-25T05:00:00+00:00",
+      "published_at": "2026-05-25T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack gets giddy with puzzle fever and the Andy's have to interfere with breaking news at the very last minute. Plus, was Joel's acne real? Should donuts only be allowed at the top of Ben Nevis? Have we witnessed one of the great Taskmaster messes? Elsewhere, a listener emails in with a compelling case to DQ Amy from a task, and another pines for the prize tasks of yesteryear. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -515,7 +532,7 @@
     {
       "key": "48c92703f3309ce576980d43f1a8192970b2cd51",
       "title": "Nietzsche Once Said - S21, Ep. 6",
-      "published_at": "2026-05-18T05:00:00+00:00",
+      "published_at": "2026-05-18T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we see the surprise return of Jason Mantzoukas, Kumail makes a great case for American dentistry, and Jenny details the bravest thing you could possibly do on TV - which still has yet to happen. Plus, some questions arise: are timed tasks affected by Joel's special egg task? Does Greg have an “Alex bias”? Does a closed captioning detail provide a clue, linked back to Mike Wozniak's fart? All this and more in this week's episode of Taskmaster: The People's Podcast. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -536,7 +553,7 @@
     {
       "key": "48ed57bbbaf0c0217e36c45726c4662fcd32d20b",
       "title": "Everybody Blinks - S21, Ep.5",
-      "published_at": "2026-05-11T05:00:00+00:00",
+      "published_at": "2026-05-11T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're halfway through the series and Armando’s had a nearly perfect game, but does it position him for a series win? Meanwhile, Joanna forgets one of the top two Greg rules; no football, no crystals. And Jenny is forced to explain why it’s really not safe to put a lawnmower in your knickers. Plus, it's a first for naming episodes, and a listener writes in to point out potential libel while another makes a brave point about blinking. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -556,7 +573,7 @@
     {
       "key": "3cbcc2f76628c01e1bd1e69bb628495f96c58113",
       "title": "Thinking’s Not My Vibe - S21, Ep.4",
-      "published_at": "2026-05-04T05:00:00+00:00",
+      "published_at": "2026-05-04T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we're talking the origins of custard and mustard, Jenny’s leather-based prediction coming true, the impossibility of upward inflections and some essential information about the 'boring' task. That's right, it's episode 4! Plus some listeners write in with more Oscars predictions and a skittles workaround. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -575,7 +592,7 @@
     {
       "key": "eb718e473bbf0a8d0a39f1fde7e5b1f493d6e584",
       "title": "Various Danglements - S21, Ep.3",
-      "published_at": "2026-04-27T05:00:00+00:00",
+      "published_at": "2026-04-27T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Does Joel make the best bit of wordplay in Taskmaster history? Are telepathic winks the only good winks? Is the leg a shape? Is Lorraine Kelly proof that the Scottish mafia are always on stand by? Jenny and Jack gather to discuss this and so much more about episode 3. Plus a listener writes in with a worm hill she’s ready to die on while another listener points out why Sophie Duker is responsible for the whole worm task. Do you know the life span of a worm? Can you wink telepathically? We’d love to hear from you: fans@tasmakster.tv",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -594,7 +611,7 @@
     {
       "key": "6ce8b5350c7eb12d3db9df3873a2974aafdf2a41",
       "title": "Yorkshire Puddings on a Plane - S21, Ep.2",
-      "published_at": "2026-04-20T05:00:00+00:00",
+      "published_at": "2026-04-20T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're back for some more series 21! And in this episode Jenny and Jack discuss Kumail Nanjiani's back, Amy Gledhill's art frames, Armando Iannucci’s version of Munch’s The Scream , Joanna Page's mum and Joel Dommett's lack of regrets, among other things. Plus, was Alex Horne afraid in the skittles task? Also, The Andy's write in to clarify something about Joel's egg, and a listener makes some informed guesses about future [Oscar-winning] casts. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -617,7 +634,7 @@
     {
       "key": "a8c94cf6d8a888f4fd8fe8385113342c576d16fb",
       "title": "Happy New Series Day! - S21, Ep. 1",
-      "published_at": "2026-04-13T05:00:00+00:00",
+      "published_at": "2026-04-13T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Father Taskmaster's been! And Jenny and Jack are ready to discuss, with Jenny offering her fool-proof way to deter people from her house, Jack giving his analysis on what makes a worm a worm, and both enjoying the company of the brand new cast. Plus, a listener writes in to suggest a very detailed 'Taskmaster World Cup' plan. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -637,7 +654,7 @@
     {
       "key": "f58707dc348c8bae1fe1ad8c6e9888b9222a1dd2",
       "title": "SERIES 21 STATS EXPLOSION",
-      "published_at": "2026-04-06T05:00:00+00:00",
+      "published_at": "2026-04-06T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's finally here - your complete encyclopedia of Amy Gledhill, Armando Iannucci, Joanna Page, Joel Dommett and Kumail Nanjiani. Join us for Jack's definitive deep dive into the Series 21 stats that promises absolutely no predictive benefit to anyone, but is quite good fun to know! If you're a fan of trivial trivia - like whether this is the oldest or most muscly or shortest cast - then you're in the right place. Plus, Jenny predicts Joel could be the squeakiest contestant, Jack confesses his comedy crush of the series and we all discover one comedian's old-relic of a LinkedIn profile. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -661,7 +678,7 @@
     {
       "key": "1457214b3300c01f13bfc3ec2a48fce1db981368",
       "title": "Yoghurt's Not a Meal - S3, Ep. 3",
-      "published_at": "2026-03-30T05:00:00+00:00",
+      "published_at": "2026-03-30T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are spending some time in the Little Polythene Grief Cave - a place where we discover that Jenny can’t remember what an iPod is and that Jack is very strict about dominoes. Plus, we sort of learn something about olympic mascots and muse on the task you could do a whole show about. Next week it's the big Series 21 stats explosion! Send all your predictions and stats questions to: fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1135,7 +1152,7 @@
     {
       "key": "bf2be86448aa629f6bcf11a067cf8bfd2d484d29",
       "title": "Winnie the Pooh's Dark Side - S20, Ep.6",
-      "published_at": "2025-10-20T05:00:00+00:00",
+      "published_at": "2025-10-20T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are here to discuss curvy number episode 6, complete with Sanjeev's genius string theory, funeral fun, and why we'll never get a partnership with Casio watches now. Elsewhere, listeners write in to tout some Preston pride, and Jenny blesses a marriage. Make sure you download the Taskmaster App for all kinds of little easter eggs, plus the chance to play Fantasy Taskmaster. Send all your Series 20 observations along to fans@taskmaster.tv If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1156,7 +1173,7 @@
     {
       "key": "6629dcefe0783e6a861de2104855e74f25d07535",
       "title": "Dastardly Daring-Do's - S20, Ep. 5",
-      "published_at": "2025-10-13T05:00:00+00:00",
+      "published_at": "2025-10-13T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're at the halfway mark of the new series, and Jenny and Jack are left with jaws agape. Questions abound: what’s the vibe going to be like on episode 6 after that lamé duck live task? Why does Jenny have inexplicable beef with jelly beans? Where CAN we see Ania's art? ( here ). Make sure you download the Taskmaster App for all kinds of little easter eggs, plus the chance to play Fantasy Taskmaster. Send all your Series 20 observations along to fans@taskmaster.tv If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1176,7 +1193,7 @@
     {
       "key": "8d387ab8d7707e4309b8abf2f9af8d4ac259bc62",
       "title": "Thirty-Five Grand is Gorgeous - S20, Ep.4",
-      "published_at": "2025-10-06T05:00:00+00:00",
+      "published_at": "2025-10-06T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "A new week, and a new great episode of Taskmaster for Jack and Jenny to digest. And this week they're asking whether or not Sanjeev does pilates, if Phil could feasibly be the first person to never win a task, and a dentist finally weighs in on the question about human teeth. Plus, Jack reveals his ranking in the Fantasy Taskmaster league - have you downloaded the app yet to play? Send all your Series 20 observations along to fans@taskmaster.tv If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1195,7 +1212,7 @@
     {
       "key": "9b7910c4c565ce01f4b247c9dea5f6571d11e143",
       "title": "Daddy Needs a New Pair of Shoes - S20, Ep.3",
-      "published_at": "2025-09-29T05:00:00+00:00",
+      "published_at": "2025-09-29T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are back to discuss episode 3, and with it come questions about Maisie's memory, Phil's 'man who lives in the woods with chickens' vibe, and an amateur diagnosis of Sanjeev's sample. Plus listeners provide insights around QR codes. Make sure you've downloaded the Taskmaster App to play Fantasy Taskmaster. And keep all your Series 20 observations coming: fans@taskmaster.tv If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1217,7 +1234,7 @@
     {
       "key": "0ff9ae6c082c3c23f30bf5cdd8f4c7695eddbf5f",
       "title": "Why Not Lick Human Teeth - S20, Ep.2",
-      "published_at": "2025-09-22T05:00:00+00:00",
+      "published_at": "2025-09-22T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack reconvene to discuss the second episode of the new series 20, including why we shouldn’t underestimate Ania, whether or not people were licking real human teeth, Reece's continuing bird obsession and - are doublers being replaced by quadruplers? Plus the debate about the American Jack Dee continues and The People's pod joins Fantasy Taskmaster. If you want to play in our group use this invite code: EHGKMDrFVNHfL1J6TOcU Make sure you've downloaded the Taskmaster App to play. And keep all your Series 20 observations coming: fans@taskmaster.tv If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1238,7 +1255,7 @@
     {
       "key": "364acd6275c9b84613c0665df5ab2ff6c0b4cef5",
       "title": "Mad Cap Bunch - S20, Ep.1",
-      "published_at": "2025-09-15T05:00:00+00:00",
+      "published_at": "2025-09-15T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's the first episode of Series 20! And an episode of firsts, according to Jack and Jenny's observations; first impressions, first time a contestant has touched Greg (?), first time a contestant has caused £40 worth of damage to the set while their trousers fell down, and first time seeing Greg and Alex really panic in what might be the funniest live task ever. Plus Jenny identifies which contestant has piqued her sartorial interest so far and which contestant she thinks stole eggs from nests as a child. Send all your Series 20 thoughts to fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1257,7 +1274,7 @@
     {
       "key": "34d94286e97d9835f9f44fde6afd78aed989221f",
       "title": "SERIES 20 STATS AND PREDICTIONS",
-      "published_at": "2025-09-08T05:00:00+00:00",
+      "published_at": "2025-09-08T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week it is, in the words of Jack Bernhardt, the 'big series 20 stats dump' - our seasonal pre-emptive effort to size up the new cast from every statistical angle possible, in an effort to try and predict who will win this next series. If you want to know who's who, what's what and get wise to the why's then this episode is here. for. you. Get all the background information on each new contestant, which will in no way help you determine any outcomes, but is quite fun to know. What do you think about the new series 20 cast? Send your thoughts to fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1278,7 +1295,7 @@
     {
       "key": "b5d93e53b21bd3f4470c45f4985b14ba8783f856",
       "title": "Cheeky Boy Tim - S1, Ep.1",
-      "published_at": "2025-09-01T05:00:00+00:00",
+      "published_at": "2025-09-01T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we're taking it right back to the beginning, the big bang of the Taskmaster universe, the very first official episode of Taskmaster UK, in an effort to see how things have changed (or not changed) since the beginning of Taskmaster time. Plus, Jack’s had a think about who he’d want to be on Taskmaster with and... has Jenny goofed?! Next week Jack and Jenny anticipate series 20 with what Jack calls 'his big stats dump' so get all your series 20 thoughts and predictions in to fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1297,7 +1314,7 @@
     {
       "key": "610d4a9224b80d3b78682f7f99b165990d126edf",
       "title": "You Can’t Mark A Double Down - S11, Ep.1",
-      "published_at": "2025-08-25T05:00:00+00:00",
+      "published_at": "2025-08-25T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week we're revisiting what is possibly Jenny's most laugh-out-loud episode of Taskmaster yet, including talks about one of the funniest things Jenny’s seen happen under a table, when to call 'the chaps' in for mice, and one listener writes in midway through his first child’s birth to alert us to a goof. Plus - should Taskmaster do a one off episode for character comedians? Jack and Jenny offer their dream cast of competitors. Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1316,7 +1333,7 @@
     {
       "key": "c2790b52246fe44a8e32154fbc50424f7bd0f73b",
       "title": "C'mon Patatas, C'mon - S2, Ep.4",
-      "published_at": "2025-08-18T05:00:00+00:00",
+      "published_at": "2025-08-18T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack go back to series 2 to uncover Patatas's origin story, the power of Katherine Ryan and a little bit of Edinburgh Fringe chat along the way. Plus, some listeners write in with some late series 19 goofs and a new observation on the magic of Rhod Gilbert. Next week we'll be covering series 11, episode 1. Want to suggest next week's homework? Why not write in to fans@taskmaster.tv.",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1335,7 +1352,7 @@
     {
       "key": "6e4fae59d77f6ba347e36dd8a5ed0869c795b2ab",
       "title": "Sudoku for a Poodle - S12, Ep.6",
-      "published_at": "2025-08-11T05:00:00+00:00",
+      "published_at": "2025-08-11T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week our homework comes from a listener who wanted Jenny and Jack to re-live Greg's best moments of being angry at everyone , and Victoria Coren-Mitchell's complete misunderstanding of a task assignment. Also we have a new Jason Mantzoukas vs Nish Kumar comparison, and a new Patatas goof to unpack for next week's homework. Get all your Taskmaster thoughts into fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1355,7 +1372,7 @@
     {
       "key": "76bae2c22208bda5aa87c51493516769071142d6",
       "title": "A Mighty Splash - S4, Ep. 4",
-      "published_at": "2025-08-04T05:00:00+00:00",
+      "published_at": "2025-08-04T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack take a trip back to series 4, episode 4 to find out if Greg and Hugh had beef, discuss the most surprising thing Noel could wear, and debate whether five tasks in one episode is too many. Plus, Jack consults his stats to find out if running the London Marathon makes you better at Taskmaster, and Jenny makes a heartfelt plea for young people to to write more drunken poems. Get all your Taskmaster thoughts into fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1375,7 +1392,7 @@
     {
       "key": "052fb1cf3a7d2493bb6754b15cd09cc583317771",
       "title": "Legistlation, Actually - S7, Ep.6",
-      "published_at": "2025-07-28T05:00:00+00:00",
+      "published_at": "2025-07-28T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are straight back into their homework, with Jenny discovering the delights of series 7, episode 6 and with it comes debates about positive and negative pedantry, soap opera endings, and contours of the body. Get all your Taskmaster thoughts into fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1394,7 +1411,7 @@
     {
       "key": "c1210308ee41c6190a99ed8ee06e9046d7b93265",
       "title": "Catching Up With The UK Taskmaster Production Team",
-      "published_at": "2025-07-21T05:00:00+00:00",
+      "published_at": "2025-07-21T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are joined by three very special guests from the UK Taskmaster production team: Amy, Andrew and Clarenz! We saw their faces a lot in series 19, but in this chat we get to hear lots of fun behind the scenes stories; from the damage done by a certain 'destroy, dismantle, engulf in flames' motto to bringing the WOW monster to life to the secret behind the number 2851 and which moments the crew struggled most with when it comes to stifling laughter. Get all your Taskmaster thoughts into fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1415,7 +1432,7 @@
     {
       "key": "40ea5a246169e3a11a926484303fee1c80a78b1b",
       "title": "Done, But Not Dusted - Series 19 Stats Debrief",
-      "published_at": "2025-07-14T05:00:00+00:00",
+      "published_at": "2025-07-14T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Series 19 may be done, but in Jenny's words it's not dusted! This week Jack brings you his big series 19 stats debrief, including a look at how Mat’s stats stack up against the rest of the recent champions, who is technically the most balanced contestant this series, which historical taskmaster record Stevie broke, Fatiha’s final ‘bruv’ count, a surprising history of the 'high-five' and some musings on the state of Jason's house. Plus we hear some of our listeners' favourite moments from the class of series 19. Next week we'll be speaking to the production crew to assess the aftermath of series 19's \"destroy, dismantle, engulf in flames\" motto. Download the new Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1437,7 +1454,7 @@
     {
       "key": "3ff4940741e1856ed3fb765258d18a538bbbc4fe",
       "title": "Dinners With My Dad - Series 19 Finale",
-      "published_at": "2025-07-07T05:00:00+00:00",
+      "published_at": "2025-07-07T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "What a series! Jack and Jenny debrief on the final episode of Series 19, including debates about seeing your dad for dinner, a fun fact about Rosie Ramsey and stadiums, and a debate about power poses vs aspirational poses. They also give their initial reactions to the newly announced series 20 lineup. Next week Jack will give his big stats debrief and we'll hear from listeners about some of their favourite moments. There's still time to add in your two cents: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1458,7 +1475,7 @@
     {
       "key": "afe1ecbc8ec5a4acfafbf73a8cc4089c7222fd09",
       "title": "Adventures in Jelly - S19, Ep. 9",
-      "published_at": "2025-06-30T05:00:00+00:00",
+      "published_at": "2025-06-30T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's the penultimate episode of Series 19 and Jack and Jenny get right into their jelly expertise, the significance of 2851, some 'goosey jossip,' and whether or not men should be physically able to have a camel toe. It's your last chance to get your Series 19 thoughts in to Jack and Jenny: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1478,7 +1495,7 @@
     {
       "key": "24507d806999e5ffa2c19a269fb7d8e0ee47031d",
       "title": "A Pirate That Went Missing For a While - S19, Ep.8",
-      "published_at": "2025-06-23T05:00:00+00:00",
+      "published_at": "2025-06-23T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week it's all about episode 8 of the latest series, including Jack's reluctant education on the mechanics of a certain prize task, who Jenny thought was terribly underscored, and the challenges of illustrating sexy, French and charcoal. With just two episodes left there's never been a better time to send your Series 19 thoughts to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1497,7 +1514,7 @@
     {
       "key": "5cd8eee384530db089ef658544a25c96d8ffadeb",
       "title": "Queen of the Two Points - S19, Ep.7",
-      "published_at": "2025-06-16T05:00:00+00:00",
+      "published_at": "2025-06-16T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack discuss Series 19, Episode 7 including completionists, dressage trotting, what 'banc' means in French and plenty more - all sprinkled with a lovely side of stats from our own stat-man, Jack Bernhardt. Keep sending all your Season/Series 19 thoughts to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster: The People's Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1517,7 +1534,7 @@
     {
       "key": "c22b708d507750453112ab341e6f193884cf9e4b",
       "title": "And Whales Have Legs - S19, Ep.6",
-      "published_at": "2025-06-09T05:00:00+00:00",
+      "published_at": "2025-06-09T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's episode 6 and the scores are starting to get interesting, with Jack on hand to provide some surprising stats and Jenny on hand to provide her surprising idea for the prize task (and what she thought of Matt’s pop up book). Plus, is Fatiha finally softening? If you were hoping for more on all this, plus a detailed explanation of composite numbers then this is a good episode for you. Spotted any Series 19 goofs or bloops? Send them to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster: The People's Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1537,7 +1554,7 @@
     {
       "key": "4a28d4eaaa7fef511be588fad827da00891b2c59",
       "title": "Never Hid a Piece Down My Pants - S19, Ep.5",
-      "published_at": "2025-06-02T05:00:00+00:00",
+      "published_at": "2025-06-02T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're halfway through the latest series and this week Jenny finally talks fashion, plus stories of glitter and smug travellers faced with a fatal goat. We also hear some alternative task solutions from listeners for the cape task and the easel in the lab task. Send all your series 19 thoughts to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , and book the last few dates of her tour. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1557,7 +1574,7 @@
     {
       "key": "0ccc809fc822a2272a82b5b4ab30d8203b340617",
       "title": "Demolition Takes a Little Bit of Time - S19, Ep.4",
-      "published_at": "2025-05-26T05:00:00+00:00",
+      "published_at": "2025-05-26T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It’s the fourth episode of series 19 and Matt finally falls off his perch - but is it enough to let anyone else take the lead? And Jack and Jenny speak to the creator of the Taskmaster fantasy league and get some insights on how we can play (it’s not too late!) Plus the trio try to predict whether or not Jason will get on the Taskmaster house roof this series, and an ongoing transatlantic debate about egg cups finally gets a bit of closure. Send all your series 19 thoughts to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , and book the last few dates of her tour. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1577,7 +1594,7 @@
     {
       "key": "0c13a49eb596a26b6bdc1552ad1b0042b6dbc2f1",
       "title": "Possibly Too Much Yield - S19 Ep.3",
-      "published_at": "2025-05-19T05:00:00+00:00",
+      "published_at": "2025-05-19T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are all over the third episode of the new series, including what made the first task so 'grate', why looking under the table might be a problem this series, which prize task had a bit of the Steve Pemberton's to it, and the \"unbearably cute\" yield of the week... Send all your series 19 thoughts to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , and book the last few dates of her tour. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1596,7 +1613,7 @@
     {
       "key": "17cf6bb3cc2d75b337c028ec471d509e276580c2",
       "title": "Nerdiness by Osmosis - S19 Ep.2",
-      "published_at": "2025-05-12T05:00:00+00:00",
+      "published_at": "2025-05-12T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "We're well in to the new series and this week we're all about TEAM TASKS!! And definitions of snooty, bath pearls (!!), jumping, submarivan adventures and breakfast pints. Plus fans write in about the Taskmaster Fantasy league and an Easter Egg involving season vs. series.... Have you spotted any Series/Season 19 goofs?? Send them to: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , and book the last few dates of her tour. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1615,7 +1632,7 @@
     {
       "key": "7a2d3e42e584630e34018138e92182f81fc59ec1",
       "title": "Grazing on Raisins - S19 Ep 1 **with special guest Andy Zaltzman**",
-      "published_at": "2025-05-05T05:00:00+00:00",
+      "published_at": "2025-05-05T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's here! Series 19 of Taskmaster has begun and as a very special treat we are joined by THE champion to beat, Andy Zaltzman! Andy casts a champion's eye over the latest cohort to try and suss out who he might be going up against in the next CoC. Plus the trio discuss no hopers and pillow tamperers, the origin story for Andy's sock flair, when a fish tank becomes a fish tank and how to cheat successfully. Let us know what you think of the new series: fans@taskmaster.tv Download the new Taskmaster App for all kinds of extended fun, including the Taskmaster Fantasy League. Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , and book the last few dates of her tour. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1638,7 +1655,7 @@
     {
       "key": "e1117f92deb1e12858e60e6c8dcf367d4d948c70",
       "title": "The Trophy Saw the Curve of the Earth - CoC 2 (with special guest Lou Sanders)",
-      "published_at": "2025-04-28T05:00:00+00:00",
+      "published_at": "2025-04-28T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack revisit the second Champion of Champions in an effort to understand what makes an ultimate champ ahead of Series 19. And, speaking of champs, THE Lou Sanders (and her cats) drops by the studio to give her classic predictions for the new series using all manner of methods and mediums. Get in touch with all your Series 19 thoughts at fans@taskmaster.tv Order An Absolute Casserole book: taskmasterstore.com Visit jennyeclair.com to buy tickets to Jenny's tour or her memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world: taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel: youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1662,7 +1679,7 @@
     {
       "key": "77d88d15806bfa344e0cc19be09a17ecf62c3848",
       "title": "SERIES 19 STATS AND PREDICTIONS EPISODE",
-      "published_at": "2025-04-21T05:00:00+00:00",
+      "published_at": "2025-04-21T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny tests her premonition waters and Jack gives us the rundown on his Series 19 stats, looking at the new cohort from all available statistical angles including age, birthplace and some dodgy height info. Plus we learn why we definitely wont be seeing any eggs this series, and listeners write in with their own premonitions and some much needed math(s) on Desiree’s balloon popping task from a couple episodes ago - the results are surprising. Next week we'll be brushing up on Jenny's Champion of Champion's knowledge as her final homework ahead of the new series. Get in touch with all your Series 19 thoughts at fans@taskmaster.tv Order An Absolute Casserole book: taskmasterstore.com Visit jennyeclair.com to buy tickets to Jenny's tour or her memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world: taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel: youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1683,7 +1700,7 @@
     {
       "key": "de14b2511a6d06b75d8b9b07c1712cabd878f14b",
       "title": "You Can't Argue With an Owl - S13, Ep.4",
-      "published_at": "2025-04-14T05:00:00+00:00",
+      "published_at": "2025-04-14T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack talk discuss Shoe Who, which leads to discussions of Shakespeare, the luck of Ardal O'Hanlan, fox anecdotes and which Taskmaster contestant you'd most want to go on a stag do with. Want to send in your Taskmaster related thoughts and questions., goofs and bloops? fans@taskmaster.tv Order An Absolute Casserole book: taskmasterstore.com Visit jennyeclair.com to buy tickets to Jenny's tour or her memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1700,7 +1717,7 @@
     {
       "key": "986783e40a7143c4a4be8286ed268052995b794f",
       "title": "Where Is The Little Beep? - S12, Ep.1",
-      "published_at": "2025-04-07T05:00:00+00:00",
+      "published_at": "2025-04-07T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack debate the Imbalance in the Poppability, and questions are posed as to whether it's best to buy less time or more laughs. Plus they get served an olympic goof and a Roman history lesson. Next week we’ll be talking Series 12, Episode 1 if you want to watch along. Want to send in your own favourite episode for J&J to watch? fans@taskmaster.tv Order An Absolute Casserole book: taskmasterstore.com Visit jennyeclair.com to buy tickets to Jenny's tour or her memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -1719,7 +1736,7 @@
     {
       "key": "72820fb924a1858a24d8b4f9ebf06234d898ef45",
       "title": "One Could Split Hairs - TM NZ S2, Ep. 2",
-      "published_at": "2025-03-31T05:00:00+00:00",
+      "published_at": "2025-03-31T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack take a little trip to the second series of Taskmaster New Zealand, on a listener's request. Along the way they discover olympians, random dogs on regular farms, and a dancing eunuch. And Jack's Stats are back this week to help answer a question about whether ordering your prize task on Amazon helps or hurts your score. Plus Jenny has some Taskmaster gossip for us and a listener sparks a debate about what makes a good Taskmaster/Assistant duo. Next week we’ll be talking Series 12, Episode 1 if you want to watch along. Want to send in your own favourite episode for J&J to watch? fans@taskmaster.tv Order An Absolute Casserole book: taskmasterstore.com Visit jennyeclair.com to buy tickets to Jenny's tour or her memoir Jokes, Jokes, Jokes. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2206,7 +2223,7 @@
     {
       "key": "de263fb4fb0bf0953a27be1c0a9bbb812fd91ee3",
       "title": "Banana Boy, Mr. Poo - S18 EP6 (feat. special guest from production Becky Cant)",
-      "published_at": "2024-10-21T05:00:00+00:00",
+      "published_at": "2024-10-21T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack discuss episode 6 of series 18, including danger wires, whether or not Pigeor is charismatic, and Emma's lowest moment in the series so far. They are also joined by Becky Cant, who talks us through some behind the scenes moments of series 18 so far, including the cash Rosie keeps in her bribe pocket, whether or not the rocket salad was deliberately placed in the fridge, and what she thinks of the Taskmaster Live Experience. We'll be back to answer more emails next week, so keep them coming: fans@taskmaster.tv Book the Taskmaster Live Experience: https://taskmasterliveexperience.com/ Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , out now! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2230,7 +2247,7 @@
     {
       "key": "09ba0f7c93253d1876118d2239504285e74532f5",
       "title": "Your Mum's Just Like - S18 EP5",
-      "published_at": "2024-10-14T07:30:00+00:00",
+      "published_at": "2024-10-14T06:30:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are midway through watching Series 18 and they have a lot of thoughts - like, why jelly cubes are superior to powder, robot copyrights and ...what is a brap, Jack? Plus Jack gives us the stats rundown on why this is another episode of firsts…and we hear from fans about the rocket/salad debacle, what the People think of the new joker scoring system, and why Rosie's a fan-fave. We always love to hear from you: fans@taskmaster.tv Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , out now! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2247,7 +2264,7 @@
     {
       "key": "05353c3751b0dff3fc7a78e508e618ac119e9a38",
       "title": "Pushing the Envelope - S18 EP4",
-      "published_at": "2024-10-07T05:00:00+00:00",
+      "published_at": "2024-10-07T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's Series 18, Episode 4 and Jenny and Jack are back with more fashion observations, a controversy from this week's carrot task, and why this cast has broken yet another record with their points (can you guess what it is?). Plus a lot of you had the same hot dog question, and we get a last-minute series prediction all the way from Utah. We always love to hear from you: fans@taskmaster.tv Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , out THIS WEEK! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2266,7 +2283,7 @@
     {
       "key": "ed86d9335cc9c9ae54472ba2dc2e890ad0ca0fea",
       "title": "Record Breakers! - S18 EP3",
-      "published_at": "2024-09-30T05:00:00+00:00",
+      "published_at": "2024-09-30T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack boldly discuss all the things no one else can or will when it comes to the third episode of series 18; like how many saxophone songs the average person can name, why we never hear pop music in the TM universe, and which task was Jenny's favourite ever. Stats-wise, it's another episode of RECORD BREAKERS, and we get our fan update regarding intro sequence stats. We always love to hear from you (especially if you're a scientist who knows a lot about putting mentos into fizzy drinks): fans@taskmaster.tv Visit jennyeclair.com to buy Jenny's memoir Jokes, Jokes, Jokes , out THIS WEEK! Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2287,7 +2304,7 @@
     {
       "key": "ccc2d5100cc8bf55c987a3eb1e37ed465faf01dd",
       "title": "Like Guy Fawkes, a Lot at Stake - S18 EP2",
-      "published_at": "2024-09-23T05:00:00+00:00",
+      "published_at": "2024-09-23T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are BACK and this week they're discussing the second episode of the brand new Taskmaster series. It's another show of firsts regarding hot dogs, Jesus, and Jokers, plus a distinct lack of cheating and what appears to be the first shed panic of the series. Give us your Series 18 reactions: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2308,7 +2325,7 @@
     {
       "key": "0b7bd42940db8571986b6b16a7675cf54d449776",
       "title": "Bubbles and Love Bites - S18 EP1",
-      "published_at": "2024-09-16T10:00:00+00:00",
+      "published_at": "2024-09-16T09:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's the series 18 first episode and an episode of firsts! Jack and Jenny talk stats, fashion, why the start of this series had Jenny on edge, why we're bound to see one contestant naked by the end of this series, and Jack points out a potential major goof in the first task. Give us your Series 18 reactions: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2329,7 +2346,7 @@
     {
       "key": "9f9873f256d3743ccc30e308a46887f916546472",
       "title": "Three More Sleeps! (And a Series 18 Stats Deep Dive)",
-      "published_at": "2024-09-09T05:00:00+00:00",
+      "published_at": "2024-09-09T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack leads the discussion with his signature statistical deep dive into Series 18 contestants to examine advantages and disadvantages according to age, height, nationality, Edinburgh awards, education, birth location, how close they live to the sea, etc. etc. Plus, Jenny gives her first fashion rundown after watching the Series 18 trailer and why she hates the phrase 'three more sleeps.' And some fan-mail containing crystal, star-sign and chakras based predictions makes its way into the TMPP inbox, bucking Jack's stats and putting everything back to speculation. Give us your Series 18 reactions: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2352,7 +2369,7 @@
     {
       "key": "088dcf9e846943e222ca0d7920cc1ca15b0a2009",
       "title": "Series 18 Predictions with Lou Sanders",
-      "published_at": "2024-09-03T05:00:00+00:00",
+      "published_at": "2024-09-03T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are joined by beloved former co-host Lou Sanders! Lou ditches her Magic 8 Ball for Series 18 predictions and instead uses the power of 'rocking' to ask some Taskmaster-related questions and also some non-Taskmaster related questions. Plus, Jenny and Jack discuss Series 3, Episode 1, which brings up more questions such as (but not limited to); who would make a ‘cheaters special’ if Taskmaster ever decided to have one? Can tortoises be flamboyant? We love to hear your thoughts on the upcoming Series 18 - send us an email at: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2374,7 +2391,7 @@
     {
       "key": "36ee1ea4244c7ff030423cb8952e2298d1167637",
       "title": "Shrunken Onesie - S7, Ep. 6",
-      "published_at": "2024-08-27T05:00:00+00:00",
+      "published_at": "2024-08-27T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny are talk about the 50th episode of Taskmaster, including why Jenny can relate to Phil’s costume choice - plus the pair revisit more 'minus points' revelations in the emails section, and Jack drills down deeper into 'pointsflation' in his stats section to reveal who is *technically* the most successful contestant of all time... Want to get involved? Send us an email at: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2393,7 +2410,7 @@
     {
       "key": "6e766183b0dbea59a19a645191a522beddeccc63",
       "title": "Special Guest - Nick Mohammed",
-      "published_at": "2024-08-19T05:00:00+00:00",
+      "published_at": "2024-08-19T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny are joined by the beloved fan favourite, self-professed ‘People’s Loser,’ aka Dracula, aka Mr. Swallow himself, Nick Mohammed! They discuss the ups and downs of Nick's stats, why he's winning in Hollywood, the origins of Dracula, where Mr. Swallow flies to next AND Nick leaves us with a little magic prediction for series 18. Want to get involved? Send us an email at: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2416,7 +2433,7 @@
     {
       "key": "a4d3cfcaa255a8fe9d8358a971e5b990871c3c88",
       "title": "Spillage of Tears - S10, Ep.10",
-      "published_at": "2024-08-12T05:00:00+00:00",
+      "published_at": "2024-08-12T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are reviewing the series finale of episode 10 in an effort to answer Jenny's question last week about whether anyone's ever cried on Taskmaster before. Plus the pair are forced to address a 'goof and a wrinkle' sent in by a fan about the history of subtracting points. Have something to say, specifically regarding Taskmaster? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2436,7 +2453,7 @@
     {
       "key": "9527ffcc436c0ed54710662ffe02c9e3810684de",
       "title": "Who's Greg? - S13, Ep.7",
-      "published_at": "2024-08-05T05:00:00+00:00",
+      "published_at": "2024-08-05T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack are on the Highway to Heg, taking special stops along the way to discuss Jenny's mini Taskmaster reunion, the Taskmaster BBQ, who Jeremy Allen White’s grandfather ISN’T, and whether or not Julian Clary has been watching Taskmaster since appearing on the show. Plus Jack serves a healthy portion of stats and the pair answer 'pointsflation' and fashion-themed fan mail. Want to suggest homework, or an olympic sport for Jenny to watch? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2455,7 +2472,7 @@
     {
       "key": "35663b491c2d9ac6bac8bbaf7f2b0681d53554db",
       "title": "It’s Sort of My Birthday Too - S12, Ep.5",
-      "published_at": "2024-07-29T05:00:00+00:00",
+      "published_at": "2024-07-29T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jack and Jenny are back to see if Croissants is Croissants (and bonus points is bonus points) this week. Plus, the pair ponder what Alex would be like as a contestant, Jenny sees a gardenia for the first time, and we hear p robably the only in depth football chat you’re likely to get from Jenny. Jack consults the stats to find out which location Taskmaster contestants tend to perform the worst, and a fan writes in to highlight a goof in Series 13, episode 7 - which means next week we’re on the Highway to Heg. We've been loving your emails so please do get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2474,7 +2491,7 @@
     {
       "key": "2f9e02dc8f4a4ef31541b631a6ab3af0a1312886",
       "title": "Comedy Cul-De-Sac - S11, Ep.4",
-      "published_at": "2024-07-22T05:00:00+00:00",
+      "published_at": "2024-07-22T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack watch Premature Conkers to find out whether or not Charlotte Ritchie qualifies as one of Taskmaster's greatest cheaters. Also discussed; what to do with empty loo rolls, a possibly unprecedented move from the Aussie Taskmaster, whether or not James Acaster would have done better in another series, and what the most common winning name on Taskmaster is. We love hearing your Taskmaster related thoughts so don't be shy if you have something to say! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2494,7 +2511,7 @@
     {
       "key": "483928122fbf60896b592adec6772666291adb51",
       "title": "Sharp as a Button - S9, Ep.2",
-      "published_at": "2024-07-15T05:00:00+00:00",
+      "published_at": "2024-07-15T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week it's all about Butter in the Microwave, including some art-related feedback from Jenny and some team analysis from Jack. Plus, Jack consults the stats to dissect volatility versus consistency in Taskmaster scoring in order to answer a fan question. And the pair respond to more letters from you, The People, including a power point presentation on Taskmaster fashion and an unlikely nominee for The Greatest Taskmaster Cheater of All Time. As a result, next week we'll be delving into Series 11, Episode 4 to uncover some truths. Want to recommend some homework for Jenny or wade in to the cheater debate? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2513,7 +2530,7 @@
     {
       "key": "0645ed816bc8634ace4d8e8213c136675fc9b8bc",
       "title": "The Bravest Little Girl in the World - S4, Ep.3",
-      "published_at": "2024-07-09T05:00:00+00:00",
+      "published_at": "2024-07-09T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are back to discuss another vintage episode of Taskmaster, and this week it's all about Series 4 episode 3. So, was Hugh Dennis unfairly treated? Did Noel eat the chocolate or not? Plus, find out why Steve Pemberton messaged Judge Jack for clarification on a task and what the stats say about the ideal age for a Taskmaster contestant. Next week we’ll be watching series 9 episode 2 if you want to follow along! Have a question for Judge Jack or want to recommend a vintage Taskmaster moment to Jenny? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2533,7 +2550,7 @@
     {
       "key": "67e1f1c04649212722d47e1904f9f758c0a6f874",
       "title": "Beat My Buttock Table - S5, Ep.3",
-      "published_at": "2024-07-01T05:00:00+00:00",
+      "published_at": "2024-07-01T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Jenny and Jack are back! And this week they're visiting a vintage episode from series 5 to see whether or not Sally Phillips qualifies for a place in the 'most competitive Taskmaster contestants' league. Also discussed; the tragic jelly side, why Jenny would prefer a Greg Hug to a Hollywood Handshake PLUS Jack brings back another edition of copy stats, this time answering a fan email regarding which contestants had the greatest studio come-backs ever. We also get a fan question that we think John Robins would be interested in... Next week we’ll be reliving series 4, episode 3 if you want to follow along! Want to get in touch with a goof or bloop or to help Jenny with her first ever spreadsheet for her new outfit scoring system in S18? Email us at fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2553,7 +2570,7 @@
     {
       "key": "3df45fc1a06cb519f607483874ca3fec154d282f",
       "title": "Say Dubious Properly - S10, Ep.7",
-      "published_at": "2024-06-24T05:00:00+00:00",
+      "published_at": "2024-06-24T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny tackle Jimmy’s question regarding the chicken task in S10 ep 7, including some lessons in pronunciation and why we should all go home and count our loo roll sheets. Plus Jack brings in some copy stats, courtesy of Kary - who's done an enormous amount of homework regarding intros. Next week we’ll be reliving series 5, episode 3 if you want to follow along! Want to suggest a homework assignment, give Jack some copy stats, or answer Greg's question from the emails this week? Get in touch at fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2573,7 +2590,7 @@
     {
       "key": "679a7ac4afec73881a9df6797da1d9212174a0e0",
       "title": "Taste Test Adjacent - S14, Ep3.",
-      "published_at": "2024-06-17T05:00:00+00:00",
+      "published_at": "2024-06-17T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny dip back into their homework, rewatching vintage episodes of Taskmaster. This week it's all about Series 10, episode 7 aka the \"Dafty in the Middle\". Plus, Jack is back with his all-star stats, and this week he's answering a fan question about what colour hair you should have if you want to win Taskmaster. And Series 17 goofs abound, with Jenny revealing why she thought Joanna should have thrown some mash potato at a wall. Want to suggest a homework assignment, point out a goof, or give Jack some stats to chew? Get in touch at fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2594,7 +2611,7 @@
     {
       "key": "10afb665488e9e8ee09bad9e8f64763f26beeba2",
       "title": "Special Guest - John Robins",
-      "published_at": "2024-06-10T09:00:00+00:00",
+      "published_at": "2024-06-10T08:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny are joined by the Taskmaster king himself, John Robins! We hear a roundup of John’s stats, whether John was happy with his performance, why he still doesn't understand how green screens work, and what advice Ed and Lou gave John before going on Taskmaster. The pair also decide on what vintage episode Jenny should watch for next week (series 14, ep3). Want to report a sploof or goof - Jack-related or otherwise? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2617,7 +2634,7 @@
     {
       "key": "e568221c7fe11f8c66ece10303d86d17f3098fe8",
       "title": "What Sophie Did Next - S17, Ep.10",
-      "published_at": "2024-06-04T05:00:00+00:00",
+      "published_at": "2024-06-04T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's the grand finale of series 17 and at this point there are no spoilers left to give as Jack and Jenny unpack all their favourite moments of the series, statistical hindsights, and their gut instincts on the new series 18 cast. And if you still haven't had enough of series 17 stats and spreadsheets, then make sure to join us next week when we talk with the King of Taskmaster himself, John Robins! Want to pitch in with your series 18 predictions? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2636,7 +2653,7 @@
     {
       "key": "64b46c1f275af090562901cd910ddebeba5158ee",
       "title": "The Penny - S17, Ep.9",
-      "published_at": "2024-05-27T05:00:00+00:00",
+      "published_at": "2024-05-27T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week it's all about the series 17 \"penny\"! Jack checks in with his stats as we approach the finale, including where Steve falls in the category of ‘best prize task contestants’ from all series, and the pair ponder whether or not bleep tests universal, what would a Sophie + Steve team have looked like, if Joanne goofed in the third task, and if Steve could have been inspired by Les Bub with the rubber bands. And finally, we get some answers about how snakes shag thanks to our dedicated fans, but unfortunately it does lead to more questions for Jack and Jenny. Have a question of your own? Why not get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2655,7 +2672,7 @@
     {
       "key": "e383d0fea167fe4a00343b7d145731b9afcc6ed1",
       "title": "Taskmaster Virtual Reality - S17, Ep.8",
-      "published_at": "2024-05-20T11:11:00+00:00",
+      "published_at": "2024-05-20T10:11:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Prepare for yours (and Jenny's) mind to be blown, because this week The People's Pod is joined by the folks behind the Taskmaster virtual reality experience! Jenny and Jack were given a special sneak peak into the new VR game, due to be released in Spring 2024, and boy do they have detailed insights for you. Plus, Jack and Jenny talk all things ep 8, including powerful thighs, squeezing farthings, Wolfie's injustice, and how not to be an umbrella. Also, would Greg have preferred to squeeze a groinal ingrown hair with his mighty hands? Jenny thinks so! You can weigh in by getting in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2675,7 +2692,7 @@
     {
       "key": "523c9ee1facadaf57ea82fd9482d78d91841ec0a",
       "title": "You Say Cha-ray-des I Say Cha-rah-des - S17, Ep. 7",
-      "published_at": "2024-05-13T11:25:00+00:00",
+      "published_at": "2024-05-13T10:25:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Glittery conches, orange juice task hacks, and finding fish - it must be episode 7 of series 17! This week Jack and Jenny get into the nitty-gritty of why men like rakes, correct pronunciation of charades, plus some surprising stats about Sophie and why Steve Pemberton should be worried. And we hear from you, The People, about Blobby merch and face-swapping. Want to get involved? Know any other Keats poems about willies? Why not get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2693,7 +2710,7 @@
     {
       "key": "2aadf087346d1b4782ce5598d1b1d74f5c271133",
       "title": "Buck Up! - S17, Ep.6",
-      "published_at": "2024-05-06T06:30:00+00:00",
+      "published_at": "2024-05-06T05:30:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack unpack series 17 episode 6, including the prize task that should have received more than five points, whether or not left handed people can play thumb wars and why everyone wants to go on a night out with Joanne. Plus, we have some emails with suggestions for Alex, a New Years Treat guest recommendation, and some justice for Steve in the Mr. Blobby task. Have you spotted any more goofs or bloops? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2712,7 +2729,7 @@
     {
       "key": "a84ef73931e68f96b476102584f4a998dee2c838",
       "title": "Never Trust a Dancing Vole - S17, Ep.5",
-      "published_at": "2024-04-29T05:30:00+00:00",
+      "published_at": "2024-04-29T04:30:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack give their hot take on episode 5 of series 17 - including; An extraordinary revelation in the prize task Why it helps to have a little 'shed panic' Which contestant Tyra Banks would have championed this week Why some contestants are allowed to use fire but others aren’t And why we should all visit the National Portrait Gallery Plus, did the pair happen upon a goof in task 2? Would you go to prison to win a prize task? All this, plus a mid-series stats roundup from Jack. Want to get in touch with a goof, a bloop or to tell if what YOU think constitutes being horizontal? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2732,7 +2749,7 @@
     {
       "key": "02974ab395316a79f47bcd8f5e3d952435dcfe02",
       "title": "Contain the Prolapse - S17 Ep.4",
-      "published_at": "2024-04-23T05:30:00+00:00",
+      "published_at": "2024-04-23T04:30:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jack and Jenny discuss episode 4 of series 17 - including what grandmothers REALLY want, slut drop modifications you can do at home for the less experienced, and whether it's ok for Greg to ever appear in the Taskmaster house. Jack also tries to make sense of a task that even he isn’t sure is objective or subjective, and the pair speak to the 'real hand' behind this week's hand shaking task. Want to get in touch with a goof, a bloop or to tell us how snakes work? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced and Edited by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2751,7 +2768,7 @@
     {
       "key": "77cd84ac29a0896de66b5d1311bc5df4e00ed436",
       "title": "Bit of Bonnet Drama - S17, Ep.3",
-      "published_at": "2024-04-15T05:00:00+00:00",
+      "published_at": "2024-04-15T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "This week Jenny and Jack hear from the voice behind the infamous Mr. Blobby task, unleashing some bonus Blobby factoids and behind the scenes insights thanks to Production Manager Sophie. Plus, Jack discusses whether or not there’s any hope for the increasing gap between contestant scores, stats-wise, and why Dara should be a little afraid. We also learn why Greg might want to torch the John’s Howdah prize task after hearing this podcast and whether Alex could ever survive without a clipboard. Don't worry, there's some good old fashioned pedantry too, with a brief philosophical exploration into what it actually means to walk towards a duck if you live on a spherical planet. Want to get in touch with a goof, a bloop or any other pedantic observations? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2771,7 +2788,7 @@
     {
       "key": "71ef9aad6bcf67a864e5a181af8492777c9727c9",
       "title": "He Poked it in the Jacksie - S17, Ep. 2",
-      "published_at": "2024-04-08T05:00:00+00:00",
+      "published_at": "2024-04-08T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Politely thank your host for a lovely party and make your apologies for leaving early, 'cause it's time for another episode of Taskmaster: The People's Podcast ! This week Jenny and Jack discuss rescuing Patatas (who’s been in trouble before), who's jacksie saved Steve's jacksie, and whyJack might be see-ing some competition from John Robins in the spreadsheet department. Plus, we hear from some fans regarding gluggle jugs, loo-roll language barriers and triptych clarifications. Want to get in touch with a goof, a bloop or any other big Series 17 insights? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -2790,7 +2807,7 @@
     {
       "key": "7736c5f88cbb822adce11121893b2a3d5269e0fa",
       "title": "Presto Fandingo Dango - it's Series 17!",
-      "published_at": "2024-04-02T05:00:00+00:00",
+      "published_at": "2024-04-02T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Finish up the last bit of chisel work on your mini Taskmaster Mount Rushmore and grab your favourite ear pods - it's time for another episode of Taskmaster: The People's Podcast... this week is all about the first episode of SERIES 17! And what an episode it was. Jenny and Jack give all their first impressions, including who they think will win based on the first episode alone. We also get some insights from Line Producer Vicky about the two hour safety meeting that went into John’s risky egg task. Jack discovers he might be colour blind, Jenny discovers the shocking origins of Gary the Gorilla and Jack peppers the whole episode with his infamous stats. Want to get in touch with a goof, a bloop or an important Series 17 insight? Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3274,7 +3291,7 @@
     {
       "key": "8d28ad686013c14011c1fa38959e3a212d021fee",
       "title": "Spurious, Very Spurious",
-      "published_at": "2023-10-23T04:00:09+00:00",
+      "published_at": "2023-10-23T03:00:09+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Knock on your neighbours door and ask them to pause their opera lesson for the next hour - it's time for another episode of Taskmaster: The People's Podcast! This week it's all about episode FIVE of the latest UK series. Jack and Jenny discuss whether or not Jenny might have inspired this week's balloon task, Jack talks about how he would bend the rules '1950s school boy' style, and they both agree which 'cool gang' character they'd like to be for Halloween this year. Also, why is Alex obsessed with loo roll? As always, there are stats from Jack and this week he explores whether or not being multilingual gives you an advantage in Taskmaster. Plus Jenny answers some fan mail, including a new series prediction for Lucy and something everyone might have missed during the 'Widdicombe' task in episode 1. As always, we love to hear from you - The People. If you have a burning question for the Andy's, a goof or a bloop, or if you just want to tell us what Taskmaster moment you'll be dressing up as for Halloween, then please email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/68ae1a5f-fd26-4360-9bf0-079d5ecfb00c/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3294,7 +3311,7 @@
     {
       "key": "115d125ea579e4c22bb2aee172334c1fe0350fca",
       "title": "Why Am I Eating Pants",
-      "published_at": "2023-10-16T04:00:52+00:00",
+      "published_at": "2023-10-16T03:00:52+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Get off the bus a little earlier than usual and walk the the rest of the way - it's time for another episode of Taskmaster: The People's Podcast! This week we're talking episode FOUR of the latest UK series 16. Jack and Jenny muse over what they would have brought in for this week's prize task as well as what they would have done differently for the S-A-U-S-A-G-E task. Plus Jenny talks about what triggered her during the team task and together they digest the profoundness of Sam's biggest regret. Jack also gets the \"best email he's ever had\" from a fan, but not before giving us his up-to-date series 16 stats and re-jigged series predictions based on performances so far. As always, we love to hear from you - The People. If you have a burning question for the Andys, a goof or a bloop, or if you just want to tell us your favourite sausage ingredients, what you think of baby food, or that you've written a 13 page book report on Mr. Biggles Likes It Rough, then please email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/7ce86aec-0590-4b18-85e0-cb9e3db2244b/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3315,7 +3332,7 @@
     {
       "key": "940798bfba38ad20acb71d348347ff070e2de6eb",
       "title": "The Magna Carta of Taskmaster",
-      "published_at": "2023-10-09T04:00:28+00:00",
+      "published_at": "2023-10-09T03:00:28+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Clean the earwax off the old earbuds - it's time for another episode of Taskmaster The People's Podcast! In this week's episode Jenny and Jack worry about Sam's prize task, why there aren't more leaf blowers in tasks, the Secret Life of Sue Perkins, and how they're both team Chain Bastard and Jack uses stats to answer a fan's gender split question. Plus there's a Series 15 sploop from Germany that Jenny is particularly interested in.... As always, we love to hear from you - The People. If you have a burning question for the Andy's, a goof a sploop or a bloop, or if you just want to let us know what you think keeps the sword sticking in the stone, then please email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/4976e59c-90be-4968-9e23-b6a9cecbabdb/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3337,7 +3354,7 @@
     {
       "key": "7598bda9fa166f4896759a80ea8044c4a5280095",
       "title": "What Susan Did",
-      "published_at": "2023-10-02T04:00:32+00:00",
+      "published_at": "2023-10-02T03:00:32+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Shut your front door tight and head in the direction of wherever you go on a weekday morning - it's time for another episode of Taskmaster The People's Podcast! In this week's episode Jenny and Jack recount their highlights of the second episode in the new series, including one of the most mischievous tasks they've ever seen. Plus Jenny weighs in on the power of the sword, Jack puts it all into statistical perspective and the pair address a scandalous Air Max goof that has gone YEARS unnoticed. As always, we love to hear from you - The People. If you have a burning question for the Andy's, a goof a sploop or a bloop, or if you just want to let us know what you think keeps the sword sticking in the stone, then please email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/8c8c0d46-70be-4240-9430-1dc76419fdd8/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3357,7 +3374,7 @@
     {
       "key": "d3950672aea200bf05cc79f5b15606d8bad338c8",
       "title": "He's Definitely Can-nier",
-      "published_at": "2023-09-22T14:26:10+00:00",
+      "published_at": "2023-09-22T13:26:10+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Turn the lock on the bathroom door and tell your family you might be a little while - it's time for another episode of Taskmaster The People's Podcast! The UK Series 16 has begun and Jenny and Jack are giddy with excitement. In this week's episode Jenny gives her initial impressions of the first episode and Jack gives his signature statistical outlook. Now that they've seen Julian, Sam, Lucy and The Susans in action, how do they feel about their own series 16 predictions? Were the pair able to spot any goofs, sploofs, or - heaven forbid - floops? Plus Jack grovels in a goof-related apology to his new co-host, and Jenny weighs in on a fan question about whether or not Greg is the strictest Taskmaster out of all the Taskmasters. As always, we love to hear from you - The People. What do you think of the new series? Do you have statistical itch that needs scratching? Or perhaps you've spotted the elusive sploof. If so, then please email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/09acfefa-740b-4f90-a51d-150f669fe178/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3378,7 +3395,7 @@
     {
       "key": "526a31a596de21ceda45bcbba789944521e6196b",
       "title": "Legally Not Allowed to Keep Musical Instruments",
-      "published_at": "2023-09-18T04:00:20+00:00",
+      "published_at": "2023-09-18T03:00:20+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Ask the barista for the wifi password and grab a quiet table in the corner, it's time for another episode of Taskmaster The People's Podcast. This week Jenny and Jack can practically smell the new series of Taskmaster, it's so close now. And, aside from being giddy in anticipation, Jack is sweating under the pressure of having to build a cot, Jenny is starting to notice Taskmaster fans in the audience while on tour, and they reminisce about past encounters with Greg's 'great big leathery liver.' Plus they chat a little more about Taskmaster New Zealand, use stats to predict the next Champion of Champions using stats, and answer a fan's question about whether studio audiences get to see more task footage than the viewers at home. As always, we'd love to hear your questions, thoughts about the NEW SERIES, or any other Taskmaster related goofs, bloops and smells. Email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/0279399a-2f07-43c1-89e3-ee77d2a86949/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3400,7 +3417,7 @@
     {
       "key": "8aa0a7a6b2a31c61950e03a10ba33a85023a1280",
       "title": "Brace! Brace! Yourselves for Our Brand New Co-Host",
-      "published_at": "2023-09-08T14:26:40+00:00",
+      "published_at": "2023-09-08T13:26:40+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Grab that meal deal sandwich and find a sunny park bench, it's time for another episode of Taskmaster The People's Podcast. This week Jack gets to know our brand new host - Series 15's very own queen of our hearts Jenny Eclair! So, will they hit it off? Will Jack wow his new co-host with flattering Jenny-based statistics? Will he be able to resist saying Oh Dear Jenny? Will Jenny use RhymeZone to come up with a stat-based pun? You'll have to listen to find out. We're not just getting to know Jenny in this episode, we're also getting her behind-the-scenes stories from series 15, plus all of Jenny's fresh insights on series 16 contestants - topped off with Jenny's gut-based predictions on what to expect come September 21st, when the NEW SERIES hits our screens (!) As always, we'd love to hear your questions, hot Taskmaster gossip, goofs, floops, bloops, and whatever else rhymes with 'oops.' Email fans@taskmaster.tv to get in touch. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/5d4bdbe9-9545-4131-a0b7-45e4f2cc2996/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3422,7 +3439,7 @@
     {
       "key": "e6790d85d73e317d880e39b9539470b5457a73c8",
       "title": "Cue The Sad Music",
-      "published_at": "2023-09-04T10:37:01+00:00",
+      "published_at": "2023-09-04T09:37:01+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Grab that box of tissues and get ready for a few tears, it's time for Lou Sanders' last episode of Taskmaster The People's Podcast. That's right, we're saying goodbye to our beloved host as she spreads her wings and takes flight to new career heights post release of her latest mem-ha-ha (and future release of 24 Parrot Gold?). Jack and Lou discuss what this will mean for the podcast and play a game of Alex Horne-style 20 questions to try to guess who the new host will be. That's not all - Lou's cats have new names, Jack uses the power of stats to come up with the best colour to wear if you want to win Taskmaster, and we inadvertently learn that Jack also might be colourblind. Plus Lou answers some fan mail about her custom outfit (and dishes some hot goss about other contestant outfits as well) and we reminisce on some of our favourite podcast memories. If you want to share your Taskmaster thoughts, try to guess who the new host will be, or point out any goofs, bloops, or floops for the new host to contemplate, then please do send us an email at the address below. Your time starts... NOW! Get in touch: fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/b499cbe4-f7d7-47b5-950b-829c2952693c/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3442,7 +3459,7 @@
     {
       "key": "7258efe80671424c42e6cce7957f132892912ade",
       "title": "Drilling Down to the Narrative",
-      "published_at": "2023-08-29T11:50:25+00:00",
+      "published_at": "2023-08-29T10:50:25+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Wrap up your Zoom call and set your Slack to 'busy' for the next 30 minutes, it's time for another episode of Taskmaster: The People's podcast. Weeee're back! Jack's had a baby! Lou's published a book! A fan has used AI to generate a new jingle for the podcast! It's all good stuff coming out of TMPP HQ this week, even if some news feels a little bit like it could be a prank from Ed. Plus the stats are back as Jack grapples with the advantages and disadvantages of 'drilling down to the narrative.' If you want to share your Taskmaster obsession, whether it's talking about your favourite task, or a goof, a bloop, or even a floop that you've noticed while rewatching series 1 through 15th for the hundredth time and patiently waiting for series 16 to begin, then please do send us an email at the address below. Your time starts... NOW! Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/f932012f-f65d-4666-818c-d6ba91c61580/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3463,7 +3480,7 @@
     {
       "key": "bcb4d3b784d60ac6a9c015f9490e44cbd5552df9",
       "title": "Taskmaster The People's Podcast: Best of #2",
-      "published_at": "2023-08-19T12:40:41+00:00",
+      "published_at": "2023-08-19T11:40:41+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Take another trip down memory lane with us this week. This time we're re-visiting the hat stat debacle (prompted by Ed Gamble), interviews with some of our earliest fan guests, plus remembering advice from Joel Porter about how to make The People's Podcast better than the other one. To top it all off is fan favourite Fern Brady recounting her Taskmaster experience and how Taskmaster fans have changed her. Jack and Lou will be back next week to answer more of your questions and talk about what's been happening in the Taskmaster-verse while we've been away. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/c9c7e277-8034-441a-ab1f-eada0109b3d1/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3484,7 +3501,7 @@
     {
       "key": "4ff5069182502879c48153212507e30a87f5b726",
       "title": "Taskmaster The People's Podcast: Best of #1",
-      "published_at": "2023-08-14T13:37:24+00:00",
+      "published_at": "2023-08-14T12:37:24+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Relive some fan favourite moments, including the time Lou went to the Taskmaster Gathering, the American super fan who left her Taskmaster mark in the British Library, and the origins of certified goofs. All this plus a little more from Tom Cashman, Ed Gamble and Greg Davies himself. If you want to share your Taskmaster obsession, our emails are still open and we'll be back answering your questions soon! Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/206a929a-256b-4859-a92b-01e7d0ae1622/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3505,7 +3522,7 @@
     {
       "key": "a094222bad4be047bebb495184c5523c3d426847",
       "title": "Find an Andy, Thank an Andy",
-      "published_at": "2023-08-04T18:12:57+00:00",
+      "published_at": "2023-08-04T17:12:57+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Kick up your feet and toggle that volume bar right to the top, it's time for another episode of Taskmaster: The People's podcast. This week Jack and Lou discuss Jack's imminent arrival, some more Taskmaster conspiracy theories surface from the fans, and The People have questions for The Andy's, such as; what happens to all the Taskmaster art and what's the real story with Chris Ramsey and eggplants? Lucky for us, The Andy's have answers for The People! And stat fans fear not, Jack puts all his stat power into answering a question from a fan about how contestants fare compared to how they appear in the open credit sequence. Plus, the int-egg-rity of many Taskmaster scores is at stake with a HUGE IF TRUE egg-related goof. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've can't remember what Greg or Alex look like now that Taskmaster UK has been off air for so many weeks, then please do send us an email at the address below. Your time starts... NOW! Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/eab1ef76-27cf-441f-a2b1-ed48c3c43912/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3525,7 +3542,7 @@
     {
       "key": "09726a3090b46cf72cc5cd9af8bda63a7d9cd638",
       "title": "This is Full Stat Cream",
-      "published_at": "2023-07-31T12:37:38+00:00",
+      "published_at": "2023-07-31T11:37:38+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Boot up your smartphone and pair up your favourite bluetooth speaker, because yet another Taskmaster: The People's Podcast has arrived. This week Jack and Lou attempt to solve a stinky paw mystery (spoiler, it's nothing to do with Lou's cats!), Lou learns what an Oppenheimer is, and Jack has yet another Horn-y dream. Don't worry, there's some Taskmaster news - not least because the latest series of Taskmaster New Zealand is due as imminently as Jack's baby! Plus we revisit some un-resolved questions of height-ism within the Taskmaster community using the power of stats, and a witch visits Lou and drops a pepper pot on the floor. Curious yet? We also hear from The People regarding new bloops, a Sueperkins prediction, and a correction on the Judi Love goof. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've seen the Andy's in the wild and managed to ask them something then please do send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/8683bae2-3255-4771-a38d-4c134d323255/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3546,7 +3563,7 @@
     {
       "key": "103f67c637bc4b3ff652fe411d5544b3a51fe9c4",
       "title": "The Secret Taskmaster Elite Club",
-      "published_at": "2023-07-21T13:39:46+00:00",
+      "published_at": "2023-07-21T12:39:46+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Flick on the kettle and grab that favourite mug, it's time for another episode of Taskmaster: The People's Podcast. This week Jack experiences a perfect side parting possibly gifted by Jesus himself, Lou gives us some updates from her Summer of Love and they both discuss the newly announced Australian Taskmaster contestants. Chloe writes in with a conundrum for Stat-man Jack and Lou comes up with a way to up the stakes for disqualifications with her new Taskmaster format. Jack also stumbles across what he thinks is his ticket to a secret Taskmaster Elite club. If you're hankering for some bloops, fear not - we take a little field trip to Bloop City Centre and back. Lovely Laura prompts some questions about Wet David Attenborough and the composer of the Ask The Andy's jingle writes in to discuss recent rumours about viking ruins in a Dublin Lidl. If you want to get in touch with Jack and Lou, ask a question to the Andy's, or try your luck at joining the Taskmaster Elite by exposing some Taskmaster secrets, then you can email fans@taskmaster.tv OR leave a voice note on the Fanswering machine. The number is 07810 025570. Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/60974e01-0b77-4118-b1d8-d8a01042265b/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3568,7 +3585,7 @@
     {
       "key": "265b19e4da05e46e8580757d246ef73142951b3a",
       "title": "Special Guest - Phoebe Eclair-Powell",
-      "published_at": "2023-07-14T09:46:40+00:00",
+      "published_at": "2023-07-14T08:46:40+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Brush the crumbs off your sofa and nestle in to your favourite little spot, it's time for another episode of Taskmaster: The People's Podcast. What would it be like to watch your parents on Taskmaster? Wonder no more, because for the first time EVER we are speaking to the child of a Taskmaster contestant. Turns out she's not really a child at all, but a grownup, accomplished playwright and all around cool parent - the wonderful Phoebe Eclair-Powell! They discuss her mum's previous experience with barges, why Phoebe's never eaten chilli from a boot, and also what is was like to see her son on Taskmaster and why she wants #justiceforArlo Lou and Jack also discuss whether its better to be a loser or average, Lou uses her parkour skills to recover from a fall, and Jack's daughter has adopted a TMPP phrase - can you guess which one? If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've also watched your parent on Taskmaster and would like to use this as a sort of 'children of Taskmaster' hotline then, as always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/59045e7b-5b83-41fe-bd1d-75c8a34ccb4a/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3594,7 +3611,7 @@
     {
       "key": "6e8da86c213ca090eccb0feb0e74bb8ae9acc8ef",
       "title": "Grab Your Noni Juice and Let's Go",
-      "published_at": "2023-07-07T12:55:06+00:00",
+      "published_at": "2023-07-07T11:55:06+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Ask your Uber driver for that aux cable - another episode of Taskmaster: The People's Podcast has JUST dropped. This week Jack tells us about his quite harrowing Taskmaster dream, Lou tells us about Noni juice, wizard sticks and some viking remains she found beneath a Lidl in Dublin, and the pair consult the Archangel Michael and a Magic 8 Ball to try and make some sensical predictions about Series 16. Jack also consults the power of stats to determine whether being vegan helps you win at Taskmaster. Weirdly, this episode is entirely bloop free....NOT. If you thought we'd learned everything there is to know about the city of Wells....well...you'd be wrong. There's been another Wells-related bloop. We also ponder a fan's question about the one and only \"Superkins\". If you want to tell us something ELSE about Wells, or Lidl, or Dublin, or if you have any other general Taskmaster travel ideas, then our line is always open. Why not leave a voice note on the Fanswering machine? The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/b94e3d64-8a74-4a03-8fe3-743e51c70ae6/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
@@ -3615,7 +3632,7 @@
     {
       "key": "939c8d6e77f42010215964b64030afcc20d5bbe7",
       "title": "You Can't Fight Big Taskmaster",
-      "published_at": "2023-06-30T09:55:02+00:00",
+      "published_at": "2023-06-30T08:55:02+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Dig out the ol' hi-fi stereo and hook up your phone, it's time for another episode of Taskmaster: The People's Podcast. This week Lou recounts her recent trip to Paris, Jack gets papped at a squirrel show, and they both dip into a debate they weren't invited to about what Taskmaster fans should be called. Also, is Greg getting nicer with each new series? Or has there been some Taskmaster inflation at play? Jack's got the stats to find out. And don't you worry about the spoofs, the bloops, the goofs - whatever you want to call them, this episode has them! We catch up on mail from fans near and far and we even get some weigh in from not one, but TWO Andy's. If you want to weigh in on the Wells debate, give Lou some easter eggs for her book, point out some dodgy maths from Jack or just chat about your favourite Taskmaster moments, then don't forget to get in touch: As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/66dc027a-1d0e-4bc9-ac3d-3c9e9891622c/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3635,7 +3652,7 @@
     {
       "key": "bce04a370f97ebb3cf156dd5f8f1476a497744ea",
       "title": "Let's Not Rename Kites",
-      "published_at": "2023-06-23T09:00:38+00:00",
+      "published_at": "2023-06-23T08:00:38+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Wind down your windows and let out a whoop - we've arrived at yet another episode of Taskmaster: The People's Podcast. This week Lou dodges MI5 (...this time!), Jack learns about ice cream maintenance (it's called a freezer) and we all learn about how Canada is becoming a better place since Mae's crowning. BUT WAIT - there's more. As a sort of Taskmaster-style rain dance to break the UK's current heatwave, Jack summons his best rainy day stats. When it comes to bloops and goofs, no one is safe this episode - Jack bloops, fans bloop, even Alexa gets dragged into the scene of a bloop. If you want to put the 'people' into the Taskmaster People's Podcast then don't forget to get in touch: As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Christine Macdonald for Avalon Television",
       "image_url": "https://artwork.captivate.fm/f726f4bc-f08f-4272-9f84-fb85177113fb/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3656,7 +3673,7 @@
     {
       "key": "d160e3147f481d4623992f9836d7342c1a79766a",
       "title": "24 Parrot Gold",
-      "published_at": "2023-06-16T09:00:00+00:00",
+      "published_at": "2023-06-16T08:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Cup your hands behind your ears and listen intently as it's yet another episode of Taskmaster: The People's Podcast. Lou's penning her short film while Jack recounts a story of his neighbour who can't use the internet. NOT TASKMASTER ENOUGH I hear you shout. Well, in addition to this, on a listener's request and as it's Pride month Jack is looking into LGBTQ+ contestants on the show and how well they've performed over the series. Plus he gets banged to right, but will he just lie down and take it? Will he heck... We've also got your bloops and goofs by the dozen and the Godliman-Knappet saga continues. What have we started? Plus we have an audio question this week that challenges Lou and Jack to their moral core. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've invented a Time Machine but you'll only use it to go back in time and watch the Taskmaster episodes as they air, describing the experience as \"authentic\", we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/676c0651-2d57-4b30-8241-5fd965fba33b/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3677,7 +3694,7 @@
     {
       "key": "8c9c5c7772efed62f5899268a2df0e7caaf25a76",
       "title": "Hands Off Panky, Please!",
-      "published_at": "2023-06-09T09:00:37+00:00",
+      "published_at": "2023-06-09T08:00:37+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Pop up your collar and whack on your shades because its time for another episode of Taskmaster: The People's Podcast. Lou and Jack are bereft this week as series fifteen becomes a distant memory. But have no fear, there's a lot to be looking forward to including but not limited to the New Zealand series 4 lineup and Taskmaster Junior sign-ups. Jack will be rigorously rubbing his statistical crystal balls as he brings together 60 episodes of cutting-edge analysis to find out who's got the best chance of winning the next series of Taskmaster UK. Please, for the love of God, don't place any money on him being right. It's bloop time once more and to be honest we're still recovering from the earth-shattering Godliman/Knappet affair from last week. Jack and Lou discuss the fallout from that as well as a goof in the bin (which is worth two in the bush I believe). If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've spent your entire inheritance on 138 intricately crafted, life-sized dioramas of every episode of the show, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/a3d8a036-9cac-4755-9e22-f7652ef16afc/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3698,7 +3715,7 @@
     {
       "key": "a33fcbf25b834f1a4b4ef1a5ce8acb644ae5fa68",
       "title": "Special Guest - Remarkable Things in Common with Carol",
-      "published_at": "2023-06-02T09:58:37+00:00",
+      "published_at": "2023-06-02T08:58:37+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Hush the people around you and give the volume knob on your boombox a twist clockwise because it's another episode of Taskmaster: The People's podcast. Do you want to know what you've got in common with our guest this week? I guess it's probably your superb taste and judgement as listeners of the podcast. We've got the wonderful Carol on the show who featured in the series six task 'Find out what you have in common with this person'. And Carol blows the whole thing open. Want to know what she truly felt about Russell's penchant for ear wax, or Asim's braggadocio laden approach? Then listen up! It goes without saying that this week we'll be tearfully discussing the finale of fantastic series fifteen with Mae's impressive stats, the controversial team tasks and of course points inflation that has technically done Lou dirty. And could we honestly look in the mirror and call ourselves the world's number two official Taskmaster podcast without another earth shattering goof and a listener's insight into the source of Alex's creativity? Maybe but you're missing the point... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've started saying 'Greg' and 'Alex' instead of 'right' and 'left', confusing local tourists with your directions, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/5445bf06-aad2-499d-91de-bc44780b32f0/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3721,7 +3738,7 @@
     {
       "key": "3be164921829e61ae5f49352845f50539da62bcb",
       "title": "This is a Certified Goof",
-      "published_at": "2023-05-27T10:55:21+00:00",
+      "published_at": "2023-05-27T09:55:21+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Charge your smartphones to above 35% and find somewhere very safe to hold up because the latest episode of Taskmaster: The People's Podcast has arrived. This week Jack and Lou are dissecting the penultimate episode of the series and leaving all its grizzly innards on display. Jack's showing off his post-Battle of Hastings knowledge and Lou helps to finally uncover exactly where the line is between creepy and sneaky is. Goofs and bloops are back and have we got a Taskmaster history-altering bloop for you. Is it time to rethink everything we know and hold dear about Taskmaster itself? You'll have to listen to find out. And it wouldn't be a People's Pod episode without a healthy dose of statistics (exactly what the non-qualified doctor ordered). Jack's been getting a little too obsessed with where people are from this week in answer to a listener's desire to find out the best Taskmaster nationalities. Are we worried we'll lose him to QAnon? At this stage it's more when than if... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've been building small shrines to Greg Davies every 400m down the A324 all the way to the roundabout, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/78d22fa7-73ce-4576-9f34-a539e3ebc0e6/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3742,7 +3759,7 @@
     {
       "key": "cdd34bace8f2376b0f02e6a81d50060ec36b0fcd",
       "title": "International Guest - Nina Oyama",
-      "published_at": "2023-05-20T20:10:52+00:00",
+      "published_at": "2023-05-20T19:10:52+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Reply 'NO!' to all your emails, bolt the door shut and turn up the volume for another episode of Taskmaster: The People's Podcast. What an extraordinary guest we have for you this week. The absolutely delightful Nina Oyama will be joining us all the way from the other side of the planet to discuss failure, secrets and humiliation (a typical Tuesday night out for me) and answer the question on every listener's lips, what are Jack's babies made out of? The Andys are back with a vengeance to dispel myths and start a few of their own and of course Lou and Jack are tearing apart the latest episode and gobbling up any morsel of opinion that falls out. Plus, Lou has been sniffing around the back of time and found a little sclusie of her own. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you hold the world record for number of mentions of Taskmaster live on air in Norway, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/2818c74c-bcdf-4f34-8bfd-86b5c414c34b/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3766,7 +3783,7 @@
     {
       "key": "a0f6c91c9f579c795c9b6d8c683a10df6e260a13",
       "title": "I Can't Just Stand By and Not Challenge this Nonsense",
-      "published_at": "2023-05-12T10:46:50+00:00",
+      "published_at": "2023-05-12T09:46:50+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Let loose the dogs of phwoar because it's a smoking hot episode of Taskmaster: The People's Podcast. Boy oh boy is this one packed full of dubious takes. Is it the moment when Lou finally snaps? Have we pushed this post-modernist nightmare as far as it can go? We'll also be hearing a lot from YOU the people. Without you we'd simply be The Taskmaster Podcast and I have a feeling that name might be taken. From goofs and bloops, to parties and smart-(observation)-ies we love hearing from you so please keep sending them in! Lou and Jack will, as always, be analysing this week's episode with Kiell the comeback king as well as coming up with a few solutions of their own for the tasks. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've invested heavily into the shops that sell eggs, aubergines, pineapples and rubber ducks in a 5 mile radius of the Taskmaster house and are now turning a pretty profit, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/727020e9-85b8-4f7e-b5e0-b9809bf539a5/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3787,7 +3804,7 @@
     {
       "key": "ff54a7c97e5365360f9d7213f84bce895200266e",
       "title": "International Guest - Danielle Walker",
-      "published_at": "2023-05-05T14:05:42+00:00",
+      "published_at": "2023-05-05T13:05:42+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Saddle up cowboy and/or cowgirl because it's time to tame the bucking bronco that is Taskmaster: The People's Podcast. Can you believe the absolute catch we have on the episode this week, only Danielle Walker, contestant and * SPOILER ALERT* - for those that don't want to know the results of the first series of Taskmaster Australia, please put down your device immediately. ...winner of the first series of Taskmaster Australia. You name it, we talked about it, from feral pigs to the black market in carnivorous plants and everything in-between including, of course, Taskmaster. Lou and Jack will be getting their big old teeth stuck into the rump of episode six, discussing the highs, lows, controversies and Jack's potty mouth. Also, listen out for our sound-measuring goof and bloop this week sent in by the mysteriously located Otto. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've watched every series of Taskmaster backwards in order to hear Greg's satanic subliminal messaging and now you've got a real urge to cook 4-5 Sunday roasts a week, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/e696b448-57ad-40c8-bd6a-04596fa81090/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3811,7 +3828,7 @@
     {
       "key": "cdc416d55ccf6fbf0a8675eaaf4c6a082f6042bc",
       "title": "A Gumball in a Washing Machine",
-      "published_at": "2023-04-29T13:02:17+00:00",
+      "published_at": "2023-04-29T12:02:17+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Slather yourself in body butter and wiggle your extremities because it's time to get ready for this week's episode of Taskmaster: The People's Podcast. Jack's become statistician of fortune as he ruthlessly plunders a listener's email for juicy facts and figures on the luckiest and unluckiest moments in Taskmaster history. And as if this weren't enough, Jack and Lou pointedly point out the point-sploision at the end point of this week's Taskmaster episode and get an answer from our very own Andy about Alex Horne's cosmetics. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you believe that at around series six Greg and Alex were replaced by stunt doubles in an audacious CIA plot, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/ed03a489-cfe0-44e4-b9c8-5f94d2e2ab18/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3833,7 +3850,7 @@
     {
       "key": "3426b3698ad83a09f2daf8b026c8e771debda425",
       "title": "Special Guest - Liar, Braggart and Truth-Teller Gareth",
-      "published_at": "2023-04-21T17:14:45+00:00",
+      "published_at": "2023-04-21T16:14:45+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Fetch your cape, top hat and Debbie McGee for this magical episode of Taskmaster: The People's Podcast. This week Lou and Jack are beguiled and enchanted by series nine liar, braggart and truth-teller, Gareth. If you're the kind of person who wants to know the answers to the age old questions, where is magic, how do I get a free McDonalds and what exactly goes on at your run-of-the-mill corporate banking event, then you've come to the right place. The Andys are actually back, no lie, with an answer that will leave you speechless (if minor details of the running of Channel 4 comedy entertainment shows is what you live and breathe). Added to all of this Jack and Lou will be dissecting episode four like a creepy biology teacher. Tune in to find out what Jack is calling 'the greatest controversy of Taskmaster history' (or words to the effect). If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've bought up the entirety of your local pharmacy's rubber duck supplies in order to artificially inflate the wholesale prices, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/58ca2cf3-5363-4650-94dc-20f0dade6065/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3859,7 +3876,7 @@
     {
       "key": "3e2224dd9cfad907bf7cfeb4f60f367a67305ab6",
       "title": "Special Guest - Greg Jenner",
-      "published_at": "2023-04-14T10:18:05+00:00",
+      "published_at": "2023-04-14T09:18:05+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Don your finest outfit and roll yourself in glitter because it's the one year anniversary episode of Taskmaster: The People's Podcast. And what better way to celebrate this historic milestone than with an expert historian, writer extraordinaire and Taskmaster mega fan Greg Jenner. Prepare to have your mind expanded as Greg takes us seamlessly from Roman rebellion to Victorian villains in a quest to find the greatest Taskmaster contestant of yore. Jack and Lou are discussing this week's episode and not shying away from Mae's humliating performance and Keill's inexplicable live task score. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've been arrested three times trying to scale the Arc de Triomphe in order to hang the world's largest Greg Davis banner, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/d6095e82-6555-4543-a0c7-057d34fab8f4/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3881,7 +3898,7 @@
     {
       "key": "6233e98264d1bd185975bfde0fd078958d21dcff",
       "title": "Four Legs, Two Eyes, Coming up the Drive",
-      "published_at": "2023-04-07T16:07:33+00:00",
+      "published_at": "2023-04-07T15:07:33+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Grip tightly to your ankles and prepare for impact as there's another episode of Taskmaster: The People's Podcast. Jack is very much tooting his own horn this week with a pitch perfect statistical analysis of musical ability and whether that helps or hinders contestants. Could this be the most meaningless Taskmaster 'investigation' ever? Well it's time to get elbow deep in definitions to find out... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've recently started calling your 9-5 office job a 'live task' your marriage a 'team task' and your toilet visits a 'lab task' we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/4d577cd8-bb46-4c58-a118-a2fb516cec46/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -3904,7 +3921,7 @@
     {
       "key": "f0cb52f8424e07ff16f7ef3644902afc05086fe3",
       "title": "Podcast Rival - Ed Gamble",
-      "published_at": "2023-03-31T12:21:45+00:00",
+      "published_at": "2023-03-31T11:21:45+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Smack your lips and wiggle your hips, it's another tasty episode of Taskmaster: The People's Podcast. You might even say that this is the episode you've all been waiting for, the greatest crossover since that episode of Power Rangers when the Teenage Mutant Ninja Turtles turned up. Our arch-rival and all round good guy Ed Gamble is joining us this week and boy does he not hold back. Head launching into space, tick, potentially offending children, tick, beef with Jack from three months ago, tick, sex pollen DOUBLE TICK. Did I mention it's the first episode of series fifteen? (I did not). Jack's going to town this week with a dissection of the episode that would make Dr. Nicolaes Tulp proud. And as if that weren't enough the Andys are back! This time to answer the goofs, bloops and scoops sent in by the most eagle-eyed of listeners. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've decided not to blink for the next ten weeks just in case you miss any Taskmaster content, we're all ears. As always, you can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Book tickets for the antipodean tour of Ed's show Electric https://edgamble.co.uk/electric-tour Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/d00dbaa9-97d2-4d3c-a2bb-b972090376f3/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4382,7 +4399,7 @@
     {
       "key": "ae9bdbc80eab7bfb4b13918724623adce595af24",
       "title": "I Like The Way That You Pronounce Dara",
-      "published_at": "2022-10-28T16:49:19+00:00",
+      "published_at": "2022-10-28T15:49:19+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Look what the cat dragged in - it's only another latest episode of Taskmaster: The People's Podcast. This week we have the go-getting James on the podcast who's recreated the entire Taskmaster house in Lego. Jack's backs with his stats and it's Fashion Week baby. How do the contestants outfits affect their scores and does it matter when you look as good as Mawaan does? Returning sections include Taskmaster Head to Head where Always Seeing You (Do Cool Stuff) will be facing down Acaster's Over My Shoulder as well as a sickening answer from one of our very own Andys. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that since series 11 you've started calling you friend Dave, 'Channel 4', we're all ears. You can leave a voice note on the Fanswering machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/7c3632ed-83ee-45ad-9d86-ae55364e009a/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4402,7 +4419,7 @@
     {
       "key": "9c450d716e0ddb9faef92f71e0b83fb60de51697",
       "title": "Reject Perfectionism",
-      "published_at": "2022-10-21T11:00:00+00:00",
+      "published_at": "2022-10-21T10:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Stop, collaborate and listen to the latest episode of Taskmaster: The People's Podcast. You'll never guess what, we've only gone and got some guests on the show. This week we'll be chatting to the superbly bad artist Sophie who's behind the Poorly Drawn Taskmaster account and her delightful friend and business partner (well, she put Sophie forward for the podcast) Maddie. Of course, Jackie's backie with some whacky stat-ies. This time he's exploring whether the time of day affects Greg's judgement. Is he a mid-afternoon kind of guy? Wouldn't put it past him. Taskmaster Head to Head moments has shifted into another gear with previous winners now facing off. We've got Alan Davies' laminator jingle toe-to-toe with the indomitable House Queens. Make sure to get on down to Twitter to vote now! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've recently been approved planning permission to build a 17ft statue of Alex Horne sitting on a cake in your back garden, we're all ears. You can leave a voice note on the Fanswering (could this be the last time I write this?) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/98020bb5-fb51-44f6-85f4-4659229cca25/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4423,7 +4440,7 @@
     {
       "key": "7964944e320c91e942f19f48c6bf77e9cc80e3b9",
       "title": "Equal Mix of Utterly Baffled and Happy",
-      "published_at": "2022-10-14T11:47:05+00:00",
+      "published_at": "2022-10-14T10:47:05+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Unbolt your doors and fling them wide because it's another episode of Taskmaster: The People's Podcast. This we speak to the colourful Kimberley who's created uncoloured-in colouring-in books to colour for colouring cognoscenti. Jackie B is back with stats and this time it's team tasks. Two's company but is three a disadvantage? It would be remiss to mention the return of the Andys as we get a little bit of backstory and how could I forget, Head to Head Taskmaster Moments features Morgana's sexy and sophisticated Snakes in a Can up against the almighty Quite Good (Considering). It's the last of the preliminary rounds so get yourself on Twitter and get voting! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've designed a new chocolate treat called the Greggo that you've been distributing across North Yorkshire to rave reviews from the critics, we're all ears. You can leave a voice note on the Fanswering (could this be the last time I write this?) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/72088064-8a91-4d0d-9217-667dbb29282a/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4446,7 +4463,7 @@
     {
       "key": "ab11af2311951ab08f4e2e99f8193259be676343",
       "title": "Behind the Scenes - The Production Team",
-      "published_at": "2022-10-07T13:16:51+00:00",
+      "published_at": "2022-10-07T12:16:51+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Can anyone smell that? Yeah smells exactly like a delicious new serving of Taskmaster: The People's Podcast. This week we are honoured to be featuring the Taskmaster production team, Vicky, Sophie and Jenny. Ever wondered how anything actually gets done? These are your guys. We'll be talking about locations, task testing, contestant scheduling and much, much more. But we can't forget Jackie B. This week he can't avoid discussing the Dara in the room, Elephant O'Briain's enormous points haul. He's also brought in the big guns to once and for all put to bed the question of the first chair curse. Head to Head Taskmaster Moments this week features Jo Brand's perfect egg boiling Jerusalem taking on Mike Wozniak's informative and eye-opening 'Mike's Tune'. Mosey on down to Twitter and get your vote on! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've just finished your first draft of a 'Whiplash' style short film script starring Greg and Alex as mentor and mentee oboists, we're all ears. You can leave a voice note on the Fanswering (I'm running out of parenthetical statements) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/1bf730c1-7c67-423a-ae4d-24d09ab35ea4/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4467,7 +4484,7 @@
     {
       "key": "d77ee2572732db3747a853830391ae3c7cbdce34",
       "title": "International Guest - Suurmestari",
-      "published_at": "2022-09-30T10:03:00+00:00",
+      "published_at": "2022-09-30T09:03:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Give yourself a rub of the shoulders and a pat on the backside, it's time for another episode of Taskmaster: The People's Podcast. This week we have a real life Taskmaster on the episode, Jaakko Saariluoma all the way from Finland. That's right, we've bagged the statistically nicest Taskmaster in the world. Has he had a dalliance with the Freemasons? Is it better to save children or be the Taskmaster? Why has Jack started referencing Tudor politics? There's only one way to find out... Returning sections include Ask the Andys where we find out about the tasks we never see and of course Head to Head Taskmaster Moments continues with Asim Chaudhry's charming Papa G rap going up against the iconic Tree Wizard performed by Romesh Ranganathan. Jump on Twitter and get voting! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've recently changed your MSN Messenger nickname to `·.¸¸.·´´¯`··._.· GrEgAnDaLeX4LyF `·.¸¸.·´´¯`··._.· , we're all ears. You can leave a voice note on the Fanswering (has the world gone mad?) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/5a1b6f69-bdf7-4e77-a238-718e10f4f3f4/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4490,7 +4507,7 @@
     {
       "key": "42483a961273ebfe7f66746a497858a9cef096bd",
       "title": "The Great Taskmaster Gathering",
-      "published_at": "2022-09-24T07:45:26+00:00",
+      "published_at": "2022-09-24T06:45:26+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Reporting to you live (not live) from Chesham FC, it's our correspondent Lou Sanders. Taskmaster: The People's podcast sent out a crack squad to cover The Great Taskmaster Gathering for all of you who didn't get a chance to grab a ticket (and Jack who is in France) can bask in the glory of the event. There are games, quizzes interviews with Alex Horne, Tim Key, Paul Williams, a blow by blow account of the day, need I say more? Listen to this episode and you can pretend to all of your cool friends that you were actually there. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, your favourite quote or that you insist on calling all elephants 'Tuskmasters', we're all ears. You can leave a voice note on the Fanswering ( ¯\\_(ツ)_/¯ ) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/6fee7e0f-ecc3-4417-abbf-68f11c48de11/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4513,7 +4530,7 @@
     {
       "key": "ae219c77aef71c7cfd4aaf3a2a38257cfce060c7",
       "title": "Behind the Scenes - Dru Masters",
-      "published_at": "2022-09-16T17:22:01+00:00",
+      "published_at": "2022-09-16T16:22:01+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Hark, is that the sound of trumpets? Are they slightly out of tune and in a two-tone ska and Balkan punk style? Then it must be because we have Taskmaster's very own music maestro, Dru Masters on this week. Jack, Lou and Dru discuss his influences, process, childhood and most importantly the damning lack of cowbells in the Taskmaster Soundtrack. If that wasn't enough, Jack is also at the cutting edge of topicality discussing inflation. Not the terrifying type that you hear about in the news though, he's talking Greg's point inflation over the series and has a go at redressing this despicable generosity. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, your favourite quote or that you've recorded all the episodes of Taskmaster onto VHS and buried them somewhere in the middle of the Atacama, just to confuse archaeologists from the future, we're all ears. You can leave a voice note on the Fanswering (*deep breaths*) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/878bd338-64ec-4d61-a5ab-d896d0ef6d21/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4534,7 +4551,7 @@
     {
       "key": "a0d4fb66a7a4627c4d31e03b8969a6ea64380613",
       "title": "Special Guest - Rosalind",
-      "published_at": "2022-09-09T10:38:07+00:00",
+      "published_at": "2022-09-09T09:38:07+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Roll up, roll up! We have a bona fide new episode of Taskmaster: The People's Podcast. Now this week's guest needs no introduction and yet you're going to get it. She's a thief, she fiddles with her husband, she can jump quite far for her age and she's an effing nightmare. That's right, it's Rosalind! If you can contain your excitement and read on you'll find out that Jack is taken to task this week by a listener for his sloppy stats. Better get your headphones in and find out why. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, your favourite quote or that you get your children to sit on each other's shoulders, wear a huge suit, fake beard and glasses and pretend to be Greg Davies, we're all ears. You can leave a voice note on the Fanswering (yup) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/95c2e2b2-d9d9-437a-a9ee-d8a51605fd59/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4557,7 +4574,7 @@
     {
       "key": "6b714fdbec140fa16fb058c7fa3b2595e9fa4338",
       "title": "Behind the Scenes - The APs",
-      "published_at": "2022-09-02T10:29:19+00:00",
+      "published_at": "2022-09-02T09:29:19+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Sound the alarm, we have another episode of Taskmaster: The People's Podcast on the loose. We have a real lovely bunch of interviewees this week. The APs are here to let as many cats out the bag as possible. You want to hear from the people at the coal face of Taskmaster? This is the episode for you. Jack will also be letting us know why the more 'experienced', 'veteran' and 'old fogey' contestants seem to end up sitting in chair one. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, your favourite quote or that you've learnt the transcript from series 9 episode 4 off by heart, we're all ears. You can leave a voice note on the Fanswering (what is even the point) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/89178eee-427d-4a8d-ac4d-0204cbec8c8f/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4576,7 +4593,7 @@
     {
       "key": "ffbf3b4b5efa310e0a128a32839b54881a985ed1",
       "title": "They Locked Eyes Over a Baguette",
-      "published_at": "2022-08-26T14:12:15+00:00",
+      "published_at": "2022-08-26T13:12:15+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Start up the brass band because it's only time for another episode of Taskmaster: The People's podcast. This week Jack gets handsy. And by that of course I mean he's looking at who does better the sinister left-handed or the dextrous right. We also have lovely Lynnea who has quite the crush on someone from Taskmaster. She's also created her own Taskmaster adaptation to fund her local theatre and in her spare time she's been known to pen a few saucy fan fics! Returning sections include Ask the Andys where you'll get an exclusive dive into Alex's notes on the mysterious aubergine task from series thirteen and of course Head to Head Taskmaster Moments concludes the first round this week with Doc Brown's thought provoking nursery rhyme going up against the much beloved Always Seeing You Do Cool Things by Nish and Mark. Jump on Twitter and get voting! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that sometimes, when no one's looking, you pull down your pants and sit on a cake bare arse, we're all ears. You can leave a voice note on the Fanswering (*sigh*) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/ee8702e0-0fc7-4da9-9c50-5f20dd0caa90/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4596,7 +4613,7 @@
     {
       "key": "0fa6fd326bcec0eb2d8f8d88c7375ceeb3a15794",
       "title": "Special Guest - The Mayor of Chesham",
-      "published_at": "2022-08-19T14:08:33+00:00",
+      "published_at": "2022-08-19T13:08:33+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Wait for it... wait for it... there it is it's the latest episode of Taskmaster: The People's Podcast. My my do we have a special guest for you! Only the (former) Mayor of Chesham spilling the tea on his time on the show. Who did Katherine Ryan bring with her? What did he do with the £15? What priceless souvenir has been preserved from the show? Well I'm not telling you so you'd better play the episode already! Returning sections this week include our lovely Andys who are giving us a deep dive on tone and style as well as our head to head section where Lou and Jack will be pitting best friends and Off Menu hosts James Acaster and Ed Gamble against each other. Get on Twitter now to participate in this truly pyrrhic battle. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've opened up a Taskmaster themed restaurant in Tokyo's Shibuya district, we're all ears. You can leave a voice note on the Fanswering (is it time to just accept this?) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/e5261622-0172-4188-91e8-532171357191/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4620,7 +4637,7 @@
     {
       "key": "13907dc7032774342f009bebbb20f775295538bc",
       "title": "Are you worried Alex is in love with you?",
-      "published_at": "2022-08-12T11:38:05+00:00",
+      "published_at": "2022-08-12T10:38:05+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Bang on time, another episode of Taskmaster: The People's Podcast. This week Jackie B is measuring up our contestants, quite literally. Does height have any effect on who's likely to prevail? Is there any reliable source left on the internet outside WikiFeet? Lou and Jack are also talking to Steve this week who's been going through the Taskmaster book with his daughter. Just how far can they push it with Carol and has Steve uncovered a conspiracy? Press play to find out. Returning sections this week include our lovely Andys who will pull back the curtain on contestant reactions and our head to head section where Lou and Andy will be pitting the House Queens against Katherine, Johnny and Mawaan's karaoke. A true clash of the titans. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've recently spotted the undeniable face of Greg Davies in your tea leaves, we're all ears. You can leave a voice note on the Fanswering (is it time to just accept this?) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/50aaaa62-93fd-4e30-b620-ac3fb0a7e5bf/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4640,7 +4657,7 @@
     {
       "key": "253527829f47cbcfd7f2904cb42a6bc8a2ca363a",
       "title": "Is there an Argument to Say Entrancingly?",
-      "published_at": "2022-08-05T10:00:00+00:00",
+      "published_at": "2022-08-05T09:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Bonjour mon petit chérubins et bienvenue a Taskmaster: The People's Podcast. This week Jackie B is tackling the thorny issue of home vs away. How do Taskmaster contestants fare when they're taken out of the comfort of the lab, study and garden and thrust in to the savage wilderness of Buckinghamshire. Lou and Jack also chat with Ryan this week who has craftily incorporated Taskmaster into his French teaching in Canada. If you're a francophile who's really likes questions in broken, questionable French then this is the interview for you. Alongside this we have another answer from one of the Andys AND a brand new section of the podcast where we pit different moments in Taskmaster history against each other to see which will come out on top. Literally what more could you want in life? If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've founded one of the top three Taskmaster fan clubs within the Artic Circle, we're all ears. You can leave a voice note on the Fanswering (it's mad that we're still going with this) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/8460bf9f-5ab5-49e3-b05c-754bae6697c3/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4660,7 +4677,7 @@
     {
       "key": "ceef85e1042782b97ce0911a9f32ecb80bfe8809",
       "title": "Cancelled by the Australians",
-      "published_at": "2022-07-29T14:00:00+00:00",
+      "published_at": "2022-07-29T13:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Wowzers trousers, button up your blouses it's time for another episode of Taskmaster: The People's Podcast. This week Jack is talking all things geography. Does being near the sea help you with live tasks? Has a more pertinent question ever been asked?. Lou and Jack also chat with Jim this week who was a contestant on the Australian Mastermind. Has Jack met his match? Will Lou get cancelled? To find out the answer to all of these questions press play immediately. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've been petitioning 'Taskmastering' to be an official sport of the 2022 Commonwealth Games, we're all ears. You can leave a voice note on the Fanswering (this is beyond a joke now) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/46cbba7d-aaad-4d59-8d4d-9e8596cb2aeb/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4680,7 +4697,7 @@
     {
       "key": "bd2eeae071654c431d9b5020089d3a8ad0ccb1ba",
       "title": "International Guest - Bäst i test",
-      "published_at": "2022-07-22T09:49:51+00:00",
+      "published_at": "2022-07-22T08:49:51+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Tick tock, it's Taskmaster: The People's Podcast o'clock. This week we are blessed by the company of Swedish Taskmaster's Assistant David Sundin. Miraculous tasks, line-up sneak peaks and Sweden's Sweden are all tasks David tackles with aplomb. Jack has decided to disgust the lot of us with an in depth exploration of mouth tasks. It's exactly as gross as you're picturing... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've hand-reared two pot-bellied pigs called Greg and Alex, we're all ears. You can leave a voice note on the Fanswering (FFS) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/36a5ac2b-32fd-4456-96ab-d023bdeac3d5/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4700,7 +4717,7 @@
     {
       "key": "058c2da2ff59ea3b51af89a9a8de9344f0ece265",
       "title": "Behind the Scenes - Mark Olver",
-      "published_at": "2022-07-15T10:43:41+00:00",
+      "published_at": "2022-07-15T09:43:41+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Hear ye, hear ye, here's ye latest episode of Taskmaster: The People's Podcast. We have the very special guest Mark Olver on this week. Veteran of the comedy circuit and stalwart of the Taskmaster stage, Mark will be pulling back the curtain to reveal what it's like to be the warm up for a TM audience. It's also time to start making predictions for the next series. Are you down with Dara, money's on Munya, siding with Sarah, feeling Fern or jazzed for John? Jack will tear apart all of your preconceptions with the mighty power of statistics. Keep all body parts inside the carriage at all times and hold on tight. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've learnt how to say \"Little Alex Horne\" in semaphore, we're all ears. You can leave a voice note on the Fanswering (this is beyond a joke now) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/675d821b-5854-48da-b9e0-726708edcdbc/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4722,7 +4739,7 @@
     {
       "key": "5e2dfcfc39c30d0427a363bfdf3ad2165ee0d669",
       "title": "Dr Smooch and Our Graham",
-      "published_at": "2022-07-08T08:00:00+00:00",
+      "published_at": "2022-07-08T07:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Is it a bird? Is it a plane? No it's episode 13 of Taskmaster: The People's Podcast you daft wally. This week Jack and Lou are discussing titles. Longest, shortest you name it they discuss it. Our Taskmaster Freaks (TMF) this episode are Catherine and Luke who used the powers of Taskmaster tasking to become engaged. Need I say more (I needn't, we've got a whole bit in the podcast about it). I propose you give it a listen. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've managed to choreograph a three hour performance of interpretive dance based on series 4 and 5 of the show, we're all ears. You can leave a voice note on the Fanswering (please somebody come up with a better name) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/c31f7d24-fa6c-42da-9b75-e9fffe93eca0/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4742,7 +4759,7 @@
     {
       "key": "1e3444ad0d31c04b3c45ec0d4063dd50ad5a1ba5",
       "title": "Buckle Up Bunty",
-      "published_at": "2022-07-01T08:00:00+00:00",
+      "published_at": "2022-07-01T07:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Polish off your earphones because it's episode 12 of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss astrology. Are Libras better at live tasks than Leos? When should you choose to be born to come out on top? This week's Taskmaster Freak (TMF) is Derek, who has created a Taskmaster themed Dungeons and Dragons game. You don't need a high perception score to tell that this episode's a fun one. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've taken up topiary in order to make a twelve foot high Alex Horne out of your neighbour's hedge, we're all ears. You can leave a voice note on the Taskering (this can't be still what we're going with) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/135cadc1-82e5-48f3-8ada-e7e6b00b3c33/1656656434135-6175fd9d0ccd83b1b6c2070531546ad5.jpeg",
@@ -4762,7 +4779,7 @@
     {
       "key": "3ee0588ab190eb1942abbf0a0a21a9f5c69f23cd",
       "title": "Spreadsheet Noises",
-      "published_at": "2022-06-24T06:00:28+00:00",
+      "published_at": "2022-06-24T05:00:28+00:00",
       "link": "https://taskmaster.tv/",
       "description": "You wouldn't believe it but it' actually episode 11 of Taskmaster: The People's Podcast. Finally Jack gets to talk to Lou about Lou as they pore over the Champion of Champions episode including exclusive behind the scenes gossip from Ed and the curse of the chair returns. This week's guests are the charming Australian mother and daughter pairing of Mel and Piper. They've created their own intricately detailed Taskmaster board game. And what have you got to show for yourself? If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've claimed a portion of Antartica and named it Taskmasterland, please let us know! You can leave a voice note on the Taskering (no spoilers but we may have a new name for this) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/d7f92cc1-8a05-4d66-ad5b-90325a8ca727/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4783,7 +4800,7 @@
     {
       "key": "d52bf067a09859e9d0f06c94e2ee24bf9f0c76e5",
       "title": "International Guest - Kongen Befaler",
-      "published_at": "2022-06-17T08:11:13+00:00",
+      "published_at": "2022-06-17T07:11:13+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Are the bells ringing out for the 10th episode of Taskmaster: The People's Podcast or is it just tinnitus? It's the final episode of series 13 and Lou and Jack discuss Sophie Duker's record breaking victory, just how close Chris Ramsey got to his hands on the golden head and whether Taskmaster can help with childbirth. This week's guest is none other than the Norwegian Taskmaster's Assistant Olli Wermskog. He'll be letting us know about vomiting in tents, burning down buildings and we even manage to coin a new Norwegian phrase. Spent ennå? If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've convinced Lord Sugar to invest in a Taskmaster themed breakfast cereal, we're all ears. You can leave a voice note on the Taskering (no spoilers but we may have a new name for this) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/820c47df-2013-4d5e-b0f7-cdb00967b8d0/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4806,7 +4823,7 @@
     {
       "key": "5e57178f90faab1529f9838534f7508e390dfa73",
       "title": "See a Man About a Horse",
-      "published_at": "2022-06-10T09:09:06+00:00",
+      "published_at": "2022-06-10T08:09:06+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Pop on your favourite shoes because it's episode 9 of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Judi's devastating performance, the closest rivalry in Taskmaster history and Chris Ramsey's terrible tie break record. This week's Taskmaster Freak (TMF) is Lauren, who runs an Instagram No Context Taskmaster account. I'll give you some context, she's great! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've penned an ambitious thriller featuring Greg as an undercover cop with a cavalier attitude to the rules and Alex as the merciless leader of a spy ring, we're all ears. You can leave a voice note on the Taskering (this can't be still what we're going with) machine. The number is 07810 025570. Alternatively send us an email at the address below. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/69e95398-dd77-4cb4-89c8-16591773191d/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4827,7 +4844,7 @@
     {
       "key": "32e4126c42089cbccd5c99d19aee7d1a49271d34",
       "title": "Informative and Sexy at the Same Time",
-      "published_at": "2022-06-03T09:00:53+00:00",
+      "published_at": "2022-06-03T08:00:53+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Fling your arms wide and embrace the 8th episode of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Fred the Swede's comeback, the turning point for Chris Ramsey and choose the winner of the first ever TMPP giveaway! This week's Taskmaster Freak (TMF) is Kathy, who sets tasks for her Twitter following (or cult, her words not mine!) If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've penned the first draft of Taskmaster: The Movie, we're all ears. Please keep sending in voice mails left right and centre as we do love them. The number is 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/273f5311-821e-4d71-a265-3c0008febe94/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4849,7 +4866,7 @@
     {
       "key": "5201e3aa6416bea75e002b42b49b6f1342e962b0",
       "title": "Fondant Thrones",
-      "published_at": "2022-05-27T10:54:45+00:00",
+      "published_at": "2022-05-27T09:54:45+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Buckle your bits, it's the 7th episode of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Sophie Duker's extraordinary rise to the top, Bridget Christie's inconsistency and announce the first of the giveaways of some precious tat. This week's Taskmaster Freak (TMF) is Ashley, who is planning a Taskmaster themed wedding with his wife. We're still waiting for the save the date Ashley... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you insist on printing out all your emails, folding them up and adding a wax Taskmaster seal before reading them, we're all ears. If you want to win some of Lou's precious tat, then please leave a voice note on the Taskering (still not sure about this) machine. The number is 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/cbfcc6c3-48f0-44cc-9326-f249e9a62e53/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4870,7 +4887,7 @@
     {
       "key": "4e3195a4381e06753f5b8c1e32ed47e56c69358e",
       "title": "Paul Williams",
-      "published_at": "2022-05-20T10:03:40+00:00",
+      "published_at": "2022-05-20T09:03:40+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Plug in your headphones, it's episode 6 of Taskmaster: The People's Podcast. We're joined by the one, the only, New Zealand Taskmaster's Assistant Paul Williams who spills the tea about the antipodean series. Jack dissects the prize task round and, in a TMPP first, Lou has some genuine Taskmaster history to give away to a lucky listener. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you once had a fever dream where Greg was passing verdict on the Wagatha Christie trial, we're all ears. Leave us a voice note on 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/b33d23e5-4311-4212-afaf-11761f1590e3/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4891,7 +4908,7 @@
     {
       "key": "5b1e2d9a5d1b9f3ba1077613948fd617018c3d7a",
       "title": "Middle-Aged Salesman",
-      "published_at": "2022-05-13T12:27:36+00:00",
+      "published_at": "2022-05-13T11:27:36+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Prepare yourselves for the fifth instalment of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Ardal's extraordinary performance, and answer a fan question about chairs. This week's Taskmaster Freak (TMF) is Owen, who hosts a rival Taskmaster podcast and films his own Taskmaster series all while studying at university. Really showing us up here Owen... If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you have a human-sized pillow of Alex Horne you like to snuggle up with at night, we're all ears. This week we're also looking for you to send in your favourite series loser so we can crown the People's Podcast Loser of Losers. Leave us a voice note on 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/965b710c-223d-4b3e-af1d-b9b3c1464f4f/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4910,7 +4927,7 @@
     {
       "key": "4bb3da4b359b09e95c9d11ad0d4d1b25483320a3",
       "title": "Onion Goggles",
-      "published_at": "2022-05-06T09:33:17+00:00",
+      "published_at": "2022-05-06T08:33:17+00:00",
       "link": "https://taskmaster.tv/",
       "description": "It's time for the fourth episode of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss the closest episode ever and whether being the most mediocre contestant is a winning tactic. This week's Taskmaster Freak (TMF) is Mike, who's created his own Taskmaster series in Portsmouth with his friends, entertaining them and torturing them in equal measure. The Taskmaster would be proud! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or you insist on playing the Taskmaster theme tune while taking out the bins, we're all ears. Leave us a voice note on 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/a5921eb3-a7b6-4253-a830-0d57436bbc0f/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4930,7 +4947,7 @@
     {
       "key": "6bd8c19858ed4a62105c63998e4854dcfec19e33",
       "title": "Transatlantic Pies",
-      "published_at": "2022-04-29T09:00:00+00:00",
+      "published_at": "2022-04-29T08:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "No you're not mistaken, this definitely is the third episode of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Bridget's comeback and answer the age-old question, which are there more of; ducks or eggs? This week's Taskmaster Freak (TMF) is Julia, who's flown across the world twice and perhaps more impressively taken out a library membership, just to complete a Taskmaster challenge. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you've had your first-born child's name legally changed to 'Taskmaster's Assistant', we're all ears. Leave us a voice note on 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/ee3e6985-3886-48ee-9492-38e7d28c7b5d/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4951,7 +4968,7 @@
     {
       "key": "6e2f48bc312e1f7f371bbde75005db340d51adb2",
       "title": "Lunchbox Treats",
-      "published_at": "2022-04-22T09:00:22+00:00",
+      "published_at": "2022-04-22T08:00:22+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Welcome back to the second episode of Taskmaster: The People's Podcast. In this episode Lou and Jack discuss Chris Ramsey's terrifyingly good performance and the battle of the sexes as well as chatting to this week's Taskmaster Freak (TMF) Jo, who's been leaving some surprises in her son's lunchbox. Remember to stay tuned to the end for a little tease from no other than the Taskmaster's assistant himself. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you refuse to open any post unless it has a Taskmaster wax seal, we're all ears. Leave us a voice note on 07810 025570. Your time starts... NOW! Watch Taskmaster every Thursday at 9pm on Channel 4. Get in touch with Lou and Jack fans@taskmaster.tv Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster Taskmaster the Podcast is Produced by Ben Drayton for Avalon Television",
       "image_url": "https://artwork.captivate.fm/822c60f2-d4cd-44c6-a459-eb7dc244a76b/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4971,7 +4988,7 @@
     {
       "key": "b05be28720ca941be55c1a007e221b9fd5576eeb",
       "title": "Firsts",
-      "published_at": "2022-04-15T09:00:00+00:00",
+      "published_at": "2022-04-15T08:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Welcome to the first episode of Taskmaster: The People's Podcast. Series 8 champion and Pantsuit Princess, Lou Sanders is joined by comedy writer, journalist and Taskmaster obsessive Jack Bernhardt. Together they scour the globe to find and chat to the biggest Taskmaster Superfans. This week our first candidate explains how he risked life and limb as well as extreme embarrassment to become the first person to complete all 220 tasks in the Taskmaster book. Listen to the end for a teaser to next week's show! If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you often like to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a voice note on 07810 025570. Your time starts... NOW!",
       "image_url": "https://artwork.captivate.fm/2e74b35b-fac6-44d8-9d23-55a414925b6c/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -4992,7 +5009,7 @@
     {
       "key": "77efe1fa56b8991c537f2cd933489eb0427ff68e",
       "title": "Taskmaster: The People's Podcast Trailer",
-      "published_at": "2022-04-14T10:12:33+00:00",
+      "published_at": "2022-04-14T09:12:33+00:00",
       "link": "https://taskmaster.tv/",
       "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 8 champion and Pantsuit Princess, Lou Sanders. Each week, Lou will be scanning the globe to find and chat to the biggest Taskmaster Superfans, or TMF’s as she lovingly calls them (Taskmaster Freaks!) Plus all the latest gossip, sneaky teasers and exclusive behind the scenes guests. This is the official fan podcast from the producers of the BAFTA-winning comedy show.",
       "image_url": "https://artwork.captivate.fm/373d1754-7f0d-4e83-8c9e-fe7f5b005964/1649925284254-dc32f644c49a8ce34d5cb315a022b1be.jpeg",
@@ -5017,6 +5034,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Still Looking For My X - S22, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-26 — Drinking Is Just Spilling Stuff Inside Yourself - S22, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-19 — First Tingle in a Measuring Shop - S22, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-12 — Jiggery-Pokery - S22, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
