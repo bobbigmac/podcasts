@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-01T00:06:42+00:00`
-- checked_at: `2026-11-01T00:06:42+00:00`
-- etag: `"djEuMi4wOjE3OTM0OTAxMzE4NjQ="`
+- fetched_at: `2026-11-02T11:01:42+00:00`
+- checked_at: `2026-11-02T11:01:42+00:00`
+- etag: `"djEuMi4wOjE3OTM1OTM2ODU1NzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-01T00:06:42+00:00",
+  "fetched_at": "2026-11-02T11:01:42+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8c97c15e147281312a95da9f6b42ee58eec520f5",
+      "title": "647 Rest in peace Patrick Stewart & Primetime",
+      "published_at": "2026-11-02T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/647-new-dcu-canon-reveals-primetime",
+      "description": "Very sad week with news of the passing of Sir Patrick Stewart after a brief battle with illness at the age of 86. We celebrate his life and the many iconic performances and roles he took on, plus his passionate advocacy. In additional sad news, we discuss the deaths of both veteran Star Trek actor Walter Koenig and legendary voice actor Eric Bauza. Plus, we talk about some DCU canon updates in relation to The Suicide Squad, Batman's age and casting, and what death means in this universe, huge budget revelations for Deadpool & Wolverine and Elden Ring, trailers for Dune: Part Three and a new Avengers: Doomsday, and we review the movie Primetime with Robert Pattinson (we don't actually review it with him; he couldn't make it, unfortunately, but he is in the movie). Thanks for listening. New episode of our bonus Q&A podcast out now! Available exclusively to listen alongside entire back catalogue on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 07:37 RIP Walter Koenig, Eric Bauza & Sir Patrick Stewart 14:04 DCU Suicide Squad Canon, New Batman & Deaths Explained 20:42 Deadpool & Wolverine's Real Movie Budget Revealed 24:42 Elden Ring to be A24's Biggest BIG MOVIE 29:34 Dune: Part Three Final Trailer 32:42 New Avengers: Doomsday Teaser (and nose) 36:31 Primetime Movie Review 50:32 Primetime Spoiler Segment 56:26 What We Reading, What We Gonna Read 01:04:49 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ae4c3ee2abed8b01fb712ed/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122601670",
+      "itunes_duration": "1:25:08",
+      "speakers": [
+        "Patrick Stewart Primetime Very",
+        "Patrick Stewart",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "rest",
+        "peace",
+        "patrick",
+        "stewart",
+        "primetime"
+      ]
+    },
     {
       "key": "72ac84de6868a8ed552a7c2307fc6e09daacfaa6",
       "title": "The Maze Runner - Caravan of Garbage",
@@ -23385,6 +23410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — 647 Rest in peace Patrick Stewart & Primetime — speakers: Patrick Stewart Primetime Very, Patrick Stewart, James Clement, Nick Mason
 - 2026-10-29 — The Maze Runner - Caravan of Garbage — speakers: Maze Runner Caravan, James Clement, Nick Mason
 - 2026-10-26 — 646 Clayface! — speakers: James Clement, Nick Mason
 - 2026-10-22 — Street Fighter: The Legend of Chun-Li - Caravan Of Garbage — speakers: Street Fighter, James Clement, Nick Mason

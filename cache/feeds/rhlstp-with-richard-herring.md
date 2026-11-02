@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-10-31T12:25:42+00:00`
-- checked_at: `2026-10-31T12:25:42+00:00`
-- etag: `"djEuMi4wOjE3OTM0MTkwNTkyMzc="`
+- fetched_at: `2026-11-02T11:01:42+00:00`
+- checked_at: `2026-11-02T11:01:42+00:00`
+- etag: `"djEuMi4wOjE3OTM1OTE4NTk5OTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-10-31T12:25:42+00:00",
+  "fetched_at": "2026-11-02T11:01:42+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "509d05ac2a4d6a77f951336ec93c70ae790b6bab",
+      "title": "Ed Byrne (Retro) - \"Perfectly Plated Avocado Toast\"",
+      "published_at": "2026-11-02T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#460 Perfectly Plated Avocado Toast - Richard records his sixth podcast in four days (how is that even possible?) and has a new question about what constitutes cheating. His guest is gazebo building stand-up, Ed Byrne. They discuss why he hasn’t been on the show as often as Sara Pascoe, how many lives he has saved, how Angela Griffin possibly got the edge over Ed and his wife on Mr and Mrs and the humour that can be found in the worst circumstances and why Ed has chosen to write a show about the death of his brother, Paul. Rich also attempts to replace Ed with AI (not so he can cheat with him though) and possibly for the second time questions his Neanderthal heritage. Watch Tragedy Plus Time here - https://www.edbyrne.com/discography/tragedy-plus-time/ See Ed live - https://www.edbyrne.com/live-dates/ Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Get an exclusive 15% discount on your first Saily data plans! Use code RHLSTP at checkout. Download Saily app or go to https://saily.com/rhlstp Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793310132170-c6aeb5e2-57bc-4a07-9552-aaf46306f942.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ae3bc0239c71ad17445cb45/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30135693",
+      "itunes_duration": "1:02:46",
+      "speakers": [
+        "Ed Byrne",
+        "Richard Herring"
+      ],
+      "topics": [
+        "byrne",
+        "retro",
+        "avocado",
+        "toast"
+      ]
+    },
     {
       "key": "d6c55b37cbf1751ba331949fae7753cbf4604f0c",
       "title": "Rich and Ally's Craven Newsround Compilation - \"Nuclear Perineum\"",
@@ -24475,6 +24497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Ed Byrne (Retro) - "Perfectly Plated Avocado Toast" — speakers: Ed Byrne, Richard Herring
 - 2026-10-31 — Rich and Ally's Craven Newsround Compilation - "Nuclear Perineum" — speakers: Craven Newsround Compilation, Nuclear Perineum, Richard Herring
 - 2026-10-30 — Clive Anderson on I Think My Name is Brodie - Book Club — speakers: Clive Anderson, Richard Herring
 - 2026-10-28 — Lenny Henry (Part 1) - "OoooooKaaaaaay" — speakers: Lenny Henry, Richard Herring

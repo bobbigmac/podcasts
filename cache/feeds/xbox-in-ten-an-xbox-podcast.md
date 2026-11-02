@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-10-26T04:44:53+00:00`
-- checked_at: `2026-10-26T04:44:53+00:00`
-- etag: `"3b4b52035d6a56e4a864f4ae86ef1e19"`
-- last_modified: `Mon, 26 Oct 2026 04:14:57 GMT`
+- fetched_at: `2026-11-02T11:01:42+00:00`
+- checked_at: `2026-11-02T11:01:42+00:00`
+- etag: `"dcd393a39534045346b3031cf9f4e8f7"`
+- last_modified: `Mon, 02 Nov 2026 05:15:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-10-26T04:44:53+00:00",
+  "fetched_at": "2026-11-02T11:01:42+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ce340eb80a51a6039392898a4a06b84e88c0a826",
+      "title": "The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388)",
+      "published_at": "2026-11-02T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/the-elder-scrolls-6sentinelrevealed-next-month-xbox-in-ten-an-xbox-podcast-ep-388",
+      "description": "Week of: 10-26-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/b/7/1/f/b71fe09bb500f7caa04421dee9605cbd/388.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/388.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14536576",
+      "itunes_duration": "10:14",
+      "speakers": [
+        "Revealed Next Month",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "elder",
+        "scrolls",
+        "sentinel",
+        "month",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "7d7d1522a583954fbc06ba9f00558715ae5ef953",
       "title": "Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387)",
@@ -9780,6 +9806,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388) — speakers: Revealed Next Month, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-26 — Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387) — speakers: Xbox Project Helix Targeting, Could Cost, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-19 — Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386) — speakers: Full Return, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-12 — Xbox CEO Asha Sharma's Town Hall Talking Series X|S, Helix's Family of Devices & More - (Xbox In Ten: An Xbox Podcast - Ep. 385) — speakers: Asha Sharma, Brandon Rosa

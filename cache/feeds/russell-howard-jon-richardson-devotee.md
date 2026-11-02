@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-01T13:20:46+00:00`
-- checked_at: `2026-11-01T13:20:46+00:00`
-- etag: `W/"6490c-1iXaWH9320YfyIPcJStMEQUwHmY"`
+- fetched_at: `2026-11-02T11:01:42+00:00`
+- checked_at: `2026-11-02T11:01:42+00:00`
+- etag: `W/"64f05-bWvkFL1dMLVdNTBGaftedp3CAK0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,53 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-01T13:20:46+00:00",
+  "fetched_at": "2026-11-02T11:01:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dcc3e2bea60f1404d0269d33d2c65444c556b70b",
+      "title": "#39 The Jon Richardson Podcast #39 – Featuring Jeff Norsen",
+      "published_at": "2026-11-02T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/39-The-Jon-Richardson-Podcast-39--Featuring-Jeff-Norsen-e3ri6v5",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793556124221-4d5a9839bd45.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5974399076.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41050970",
+      "itunes_duration": "00:42:18",
+      "speakers": [
+        "Jeff Norsen Sub"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "jeff",
+        "norsen"
+      ]
+    },
+    {
+      "key": "b0d6982d84eb9002b5edbf3527474993b6274561",
+      "title": "#38 The Jon Richardson Podcast #38",
+      "published_at": "2026-11-01T18:44:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/38-The-Jon-Richardson-Podcast-38-e3ri6ar",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793555139692-d948a043f0036.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2668101177.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23817140",
+      "itunes_duration": "00:24:32",
+      "speakers": [
+        "Pod Feed"
+      ],
+      "topics": [
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "203da61f503fcd132a97f9ab5370918d41662a5e",
       "title": "#37 The Jon Richardson Podcast #37 – Featuring Maff Brown",
@@ -6096,69 +6136,6 @@
         "lloyd",
         "langford"
       ]
-    },
-    {
-      "key": "39788c0608080c6bf9e15eb467e7164696093ab7",
-      "title": "#38 Jon Richardson Podcast with Jeff Norsen",
-      "published_at": "2026-03-24T18:47:17+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/38-Jon-Richardson-Podcast-with-Jeff-Norsen-e3gtt1b",
-      "description": "#38 Jon Richardson Podcast with Jeff Norsen",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774377779411-65e4f1c80d606.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117420523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2Fd80707c8-bcbe-8060-a18a-85f872363f46.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "20320037",
-      "itunes_duration": "00:42:10",
-      "speakers": [
-        "Jeff Norsen"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "jeff",
-        "norsen"
-      ]
-    },
-    {
-      "key": "8d03c55fd2b61f6839ad8f443d033c6f3da4a48b",
-      "title": "#38 Jon Richardson Podcast with John Gordillo",
-      "published_at": "2026-03-23T20:05:44+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/38-Jon-Richardson-Podcast-with-John-Gordillo-e3gsbgo",
-      "description": "#38 Jon Richardson Podcast with John Gordillo",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774296339228-b2c9c9b0afb2a.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117369816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2Fe5124619-25cf-025e-eda4-14398636a244.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "11795442",
-      "itunes_duration": "00:24:25",
-      "speakers": [
-        "John Gordillo"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "john",
-        "gordillo"
-      ]
-    },
-    {
-      "key": "26048d9a143ac3fda488edb95b1d00a86371ab3b",
-      "title": "#37 Jon Richardson Podcast with Maff Brown",
-      "published_at": "2026-03-22T16:23:18+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/37-Jon-Richardson-Podcast-with-Maff-Brown-e3gqe45",
-      "description": "#37 Jon Richardson Podcast with Maff Brown",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774196260981-68e4ef0028936.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117306949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2F663a6dad-1b42-c8e2-f0e4-3c0353306c07.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63339872",
-      "itunes_duration": "01:27:56",
-      "speakers": [
-        "Maff Brown"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "maff",
-        "brown"
-      ]
     }
   ]
 }
@@ -6167,6 +6144,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — #39 The Jon Richardson Podcast #39 – Featuring Jeff Norsen — speakers: Jeff Norsen Sub
+- 2026-11-01 — #38 The Jon Richardson Podcast #38 — speakers: Pod Feed
 - 2026-11-01 — #37 The Jon Richardson Podcast #37 – Featuring Maff Brown — speakers: Maff Brown
 - 2026-10-31 — #36 The Jon Richardson Podcast #36 – Featuring Carl Donnelly — speakers: Carl Donnelly Sub
 - 2026-10-30 — #35 The Jon Richardson Podcast #35 – Featuring Tom Parry — speakers: Tom Parry Sub
@@ -6430,6 +6409,3 @@
 - 2026-03-28 — #42 Jon Richardson Podcast with Gavin Webster — speakers: Gavin Webster
 - 2026-03-26 — #41 Jon Richardson Podcast with John Robbins — speakers: John Robbins
 - 2026-03-25 — #40 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford
-- 2026-03-24 — #38 Jon Richardson Podcast with Jeff Norsen — speakers: Jeff Norsen
-- 2026-03-23 — #38 Jon Richardson Podcast with John Gordillo — speakers: John Gordillo
-- 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown

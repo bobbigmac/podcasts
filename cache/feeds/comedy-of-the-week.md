@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-10-26T12:59:45+00:00`
-- checked_at: `2026-10-26T12:59:45+00:00`
-- etag: `"cbbe72c96586abd24f0bd0e55b68266e"`
-- last_modified: `Mon, 26 Oct 2026 05:00:04 GMT`
+- fetched_at: `2026-11-02T11:01:42+00:00`
+- checked_at: `2026-11-02T11:01:42+00:00`
+- etag: `"b04f22aa473245a0af46b429613a04d5"`
+- last_modified: `Mon, 02 Nov 2026 05:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-10-26T12:59:45+00:00",
+  "fetched_at": "2026-11-02T11:01:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "24f497f7eee30f0b13df4a1c515a5808f4cb8f47",
+      "title": "Randy Feltface's Human Handbook",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pkj9p4",
+      "description": "In this episode we meet a bipedal hominin with a gambling problem, argue with a conspiracy-theorist ostracod and discover the best use for our surprising grip strength. Randy Feltface’s Human Handbook is a groundbreaking four-part stand-up series where Randy fixes his ping-pong ball gaze upon the evolutionary journey of Earth’s most baffling beings Randy Feltface has been seen on Netflix, ABC, NBC, and has a huge and devoted following across the globe (1m+ social media followers, 1.6m TikTok followers, 833k subscribers, 79m YouTube views). His hour-long specials are YouTube cult classics, his world tours are sold out sensations, and he's the only Radio 4 presenter to be entirely made of felt. With Alex Papps and Chiara Goldsmith Produced and directed by David Tyler A Pozzitive production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkj8n0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28144000",
+      "itunes_duration": "1759",
+      "speakers": [
+        "Randy Feltface"
+      ],
+      "topics": [
+        "randy",
+        "feltface",
+        "human",
+        "handbook"
+      ]
+    },
     {
       "key": "7c363253de3e15186cb88e239708af9a51673192",
       "title": "Evil Animals - Crows",
@@ -986,22 +1007,6 @@
       ]
     },
     {
-      "key": "ce2077801d9fe26f868a1bb6c26adc300dc816c0",
-      "title": "Humanwatch",
-      "published_at": "2025-10-27T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0mb35ts",
-      "description": "The team look at human hobbies and wonder, what is the point? Gareth goes on a date, purely for research purposes, and roving reporter Phil is back at the Swindon nest to observe his favourite family...from a safe and morally appropriate distance. To listen to more episodes from this series, search \"Humanwatch\" on BBC Sounds. Written and presented by Marjolein Robertson and Gareth Waugh With Phil Ellis and Katia Kvinge Additional voice by Kai Humphries Produced by Lauren Mackay Sound by Fraser Jackson Photographer: Chris Quilietti A BBC Scotland production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mb355d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14176000",
-      "itunes_duration": "886",
-      "speakers": [],
-      "topics": [
-        "humanwatch"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1030,6 +1035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — Randy Feltface's Human Handbook — speakers: Randy Feltface
 - 2026-10-26 — Evil Animals - Crows — speakers: Russell Kane
 - 2026-10-19 — General Election
 - 2026-10-12 — Room 101 with Paul Merton — speakers: Paul Merton
@@ -1080,5 +1086,4 @@
 - 2025-11-17 — Tom & Lauren Are Going OOT
 - 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett
 - 2025-11-03 — Carbon Lifeforms — speakers: Carbon Lifeforms Jon Long, Tara Shine
-- 2025-10-27 — Humanwatch
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
