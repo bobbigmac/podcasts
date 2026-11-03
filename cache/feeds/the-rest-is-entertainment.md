@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-10-29T00:54:47+00:00`
-- checked_at: `2026-10-29T00:54:47+00:00`
-- last_modified: `Thu, 29 Oct 2026 00:10:00 GMT`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- last_modified: `Tue, 03 Nov 2026 00:39:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-29T00:54:47+00:00",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,74 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "546aa7c7d437f015c36d37be5c865e6e2f2f4991",
+      "title": "Celebrity Traitors - The Culture War Stupidity",
+      "published_at": "2026-11-03T00:05:00+00:00",
+      "link": null,
+      "description": "WARNING: Spoilers for Celebrity Traitors Series 2 Does Celebrity Traitors have a Woke problem? What’s the deal with Disney-Adults? Is TV audio getting worse? The Celeb Traitors finale has found itself in the middle of the Culture Wars. Has the show's fandom become toxic? ‘Disney Adults’ are going into debt to keep the magic alive. How did Disney crack the code to keeping grown-ups hooked into the world of kid characters? Recent polling shows most 18 to 24-year-olds now watch TV and Movies with the subtitles on. Is this snowflake behaviour, or has sound recording got worse? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com ⁠ Video Editor: Kieron Leslie and Louis Mealing Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b80985ae-d6c7-11f1-9eff-5b354cf50518/image/f9c56848cd74a2ff38880c2199b73b76.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7876279192.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3027",
+      "speakers": [
+        "Celebrity Traitors",
+        "Does Celebrity Traitors",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "celebrity",
+        "traitors",
+        "culture",
+        "stupidity"
+      ]
+    },
+    {
+      "key": "09c471a1fd8cf15a0d4bd7abec17c76624f0cd54",
+      "title": "CELEBRITY TRAITORS FINAL: Live Reaction",
+      "published_at": "2026-10-30T22:31:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR THE FINALE OF CELEBRITY TRAITORS Who was murdered on the eve of the final? Did the Faithfuls finally get it right? Or was it a Traitor win? Marina Hyde and Tim Hincks discuss the blockbuster final episode of The Celebrity Traitors. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com⁠ Livestream Team: Ian Dunlop & Peter Zacaroli Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bd535046-d490-11f1-8528-d73760bdc8dd/image/479287041980955ade4a80875af4b279.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1298071417.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2243",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "traitors",
+        "final",
+        "reaction"
+      ]
+    },
+    {
+      "key": "7add955180aaea79817b8385c791aabcc7736d45",
+      "title": "The Biggest Mistake Yet - Celeb Traitors Reaction (Episode 9)",
+      "published_at": "2026-10-29T22:00:00+00:00",
+      "link": null,
+      "description": "WARNING: SPOILERS FOR EPISODE NINE OF CELEBRITY TRAITORS Is that the most dramatic round table in the show's history? Is Romesh Ranganathan the most loved man in Britain? What will happen in tomorrow's finale? Richard Osman and Marina Hyde discuss the latest epic installment of The Celebrity Traitors. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Louis Mealing & Oli Oakley Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0d4da434-d3c4-11f1-99ad-4b8977278937/image/9f68ef74180d47abd19ca2d60f06db96.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3446833768.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2377",
+      "speakers": [
+        "Celeb Traitors Reaction",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "mistake",
+        "celeb",
+        "traitors",
+        "reaction"
+      ]
+    },
     {
       "key": "364ce8f479b99b91b5b8f4dd3ed44ad414f05e44",
       "title": "The Richard Gere Gerbil Conspiracy",
@@ -7190,6 +7258,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Celebrity Traitors - The Culture War Stupidity — speakers: Celebrity Traitors, Does Celebrity Traitors, Richard Osman, Marina Hyde
+- 2026-10-30 — CELEBRITY TRAITORS FINAL: Live Reaction — speakers: Richard Osman, Marina Hyde
+- 2026-10-29 — The Biggest Mistake Yet - Celeb Traitors Reaction (Episode 9) — speakers: Celeb Traitors Reaction, Richard Osman, Marina Hyde
 - 2026-10-29 — The Richard Gere Gerbil Conspiracy — speakers: Richard Gere Gerbil Conspiracy, Kylie Jenner, Richard Osman, Marina Hyde
 - 2026-10-27 — The Netflix Bloodbath: Explained — speakers: Richard Osman, Marina Hyde
 - 2026-10-23 — Who Is The Faithful's Only Hope? - Celeb Traitors Reaction (Episode 8) — speakers: Only Hope, Celeb Traitors Reaction, Richard Osman, Marina Hyde

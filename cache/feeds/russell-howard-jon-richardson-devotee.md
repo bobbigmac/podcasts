@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `W/"64f05-bWvkFL1dMLVdNTBGaftedp3CAK0"`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- etag: `W/"65ab3-Z+Jz+Z5fk+bx2YX7DQ+zipaIqSg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,76 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2fd3769801631dda2d01de4b3449821472e78a49",
+      "title": "#42 The Jon Richardson Podcast #42 – Featuring Gavin Webster",
+      "published_at": "2026-11-03T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/42-The-Jon-Richardson-Podcast-42--Featuring-Gavin-Webster-e3rk5lt",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793646600696-5429233c013a6.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8360156282.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38616083",
+      "itunes_duration": "00:39:47",
+      "speakers": [
+        "Gavin Webster"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "gavin",
+        "webster"
+      ]
+    },
+    {
+      "key": "a648bb40c0169dc87b7325d6f7e634a297625e99",
+      "title": "#41 The Jon Richardson Podcast #41 – Featuring John Robbins",
+      "published_at": "2026-11-02T19:02:37+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/41-The-Jon-Richardson-Podcast-41--Featuring-John-Robbins-e3rk5aj",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793646111316-0410562cb4467.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4855321790.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31935148",
+      "itunes_duration": "00:32:54",
+      "speakers": [
+        "John Robbins"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "john",
+        "robbins"
+      ]
+    },
+    {
+      "key": "88a3391574f49c5e8d6c2be521faa2685d7c8cc8",
+      "title": "#40 The Jon Richardson Podcast #40 – Featuring Lloyd Langford",
+      "published_at": "2026-11-02T11:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/40-The-Jon-Richardson-Podcast-40--Featuring-Lloyd-Langford-e3ri7fl",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793556861758-9db0ec4400f35.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9109964404.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71547245",
+      "itunes_duration": "01:13:43",
+      "speakers": [
+        "Lloyd Langford"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "lloyd",
+        "langford"
+      ]
+    },
     {
       "key": "dcc3e2bea60f1404d0269d33d2c65444c556b70b",
       "title": "#39 The Jon Richardson Podcast #39 – Featuring Jeff Norsen",
@@ -6056,86 +6119,6 @@
         "sarah",
         "millican"
       ]
-    },
-    {
-      "key": "0a0102c86602fbe174596fed8051988f7ffc5520",
-      "title": "#43 Jon Richardson Podcast",
-      "published_at": "2026-03-29T14:11:44+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/43-Jon-Richardson-Podcast-e3h4grm",
-      "description": "#43 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774793491716-36d6b145db8a6.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117637430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-29%2Fc31f7da4-420d-9feb-0a20-168cc9916afd.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "22815122",
-      "itunes_duration": "00:47:21",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "3c3673473e7e88497bf5d424b404b381b4a2ef39",
-      "title": "#42 Jon Richardson Podcast with Gavin Webster",
-      "published_at": "2026-03-28T18:31:14+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/42-Jon-Richardson-Podcast-with-Gavin-Webster-e3h3mm6",
-      "description": "#42 Jon Richardson Podcast with Gavin Webster",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774722671489-abf0313347b05.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117610630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-28%2Face3aca8-bd6c-767a-0fc2-d74b2433f3e5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "19115954",
-      "itunes_duration": "00:39:40",
-      "speakers": [
-        "Gavin Webster"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "gavin",
-        "webster"
-      ]
-    },
-    {
-      "key": "f426493eecf80b222e97192249c237ae142ca017",
-      "title": "#41 Jon Richardson Podcast with John Robbins",
-      "published_at": "2026-03-26T19:08:21+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/41-Jon-Richardson-Podcast-with-John-Robbins-e3h10or",
-      "description": "#41 Jon Richardson Podcast with John Robbins",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774551385383-733582053c8ba.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117522651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-26%2F2e35bca9-7495-56c7-cf0b-63f68b09a752.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "15811738",
-      "itunes_duration": "00:32:47",
-      "speakers": [
-        "John Robbins"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "john",
-        "robbins"
-      ]
-    },
-    {
-      "key": "c197accdfbcf3d1d91564e0349b1b1da68b60441",
-      "title": "#40 Jon Richardson Podcast with Lloyd Langford",
-      "published_at": "2026-03-25T19:03:21+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/40-Jon-Richardson-Podcast-with-Lloyd-Langford-e3gvgk5",
-      "description": "#40 Jon Richardson Podcast with Lloyd Langford",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774465396326-fad976a9139d9.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117473349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-25%2Fc49bfe42-3a74-e131-580f-8174a03d828b.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "53017088",
-      "itunes_duration": "01:13:36",
-      "speakers": [
-        "Lloyd Langford"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "lloyd",
-        "langford"
-      ]
     }
   ]
 }
@@ -6144,6 +6127,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — #42 The Jon Richardson Podcast #42 – Featuring Gavin Webster — speakers: Gavin Webster
+- 2026-11-02 — #41 The Jon Richardson Podcast #41 – Featuring John Robbins — speakers: John Robbins
+- 2026-11-02 — #40 The Jon Richardson Podcast #40 – Featuring Lloyd Langford — speakers: Lloyd Langford
 - 2026-11-02 — #39 The Jon Richardson Podcast #39 – Featuring Jeff Norsen — speakers: Jeff Norsen Sub
 - 2026-11-01 — #38 The Jon Richardson Podcast #38 — speakers: Pod Feed
 - 2026-11-01 — #37 The Jon Richardson Podcast #37 – Featuring Maff Brown — speakers: Maff Brown
@@ -6405,7 +6391,3 @@
 - 2026-04-01 — #46 Jon Richardson Podcast
 - 2026-03-31 — #45 Jon Richardson Podcast
 - 2026-03-30 — #44 Jon Richardson Podcast with Sarah Millican — speakers: Sarah Millican
-- 2026-03-29 — #43 Jon Richardson Podcast
-- 2026-03-28 — #42 Jon Richardson Podcast with Gavin Webster — speakers: Gavin Webster
-- 2026-03-26 — #41 Jon Richardson Podcast with John Robbins — speakers: John Robbins
-- 2026-03-25 — #40 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford

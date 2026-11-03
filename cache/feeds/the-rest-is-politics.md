@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- last_modified: `Mon, 02 Nov 2026 21:33:03 GMT`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- last_modified: `Tue, 03 Nov 2026 00:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "19d4ea54dbe6d501fe4c17a000f33acb74ddf0dc",
+      "title": "585. Rory Goes to a Trump Rally and Will the Youth Protests Spread to Britain?",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "link": null,
+      "description": "What has Rory uncovered on the road through JD Vance country, and how did he feel attending a Trump MAGA rally? What is driving the wave of youth protests sweeping across Europe, and could we see similar unrest in the UK? What will be the political legacy of the late, great Patrick Stewart, and what was he really like? Join Rory and Alastair as they answer all these questions and more in this week’s edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Kevin Rudd by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles, Emma Jackson Video Editor: Tom McCagherty, Jack Meek Assistant Producer: Daisy Alston-Horne, Jake Preston Producer: Evan Green Exec Producer: Bella Soames Reporter: Isabelle Stanley Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dcf5141c-d6dd-11f1-aa48-efbc46900c69/image/ed16a5ea72dc3b512dcd3ff799c5f54f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4135903920.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4185",
+      "speakers": [
+        "Rory Goes",
+        "JD Vance"
+      ],
+      "topics": [
+        "rory",
+        "trump",
+        "rally",
+        "youth",
+        "protests",
+        "britain"
+      ]
+    },
     {
       "key": "4fd3163b965ad07417038a05eab0ad5c0ccae676",
       "title": "David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily",
@@ -13354,6 +13378,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — 585. Rory Goes to a Trump Rally and Will the Youth Protests Spread to Britain? — speakers: Rory Goes, JD Vance
 - 2026-10-31 — David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily — speakers: David Blunkett
 - 2026-10-30 — 584. Why Is Trump Losing Voters and Will Texas Turn Blue? — speakers: Will Texas Turn Blue
 - 2026-10-28 — 583. Is Burnham’s Budget Too Safe and How Brazil Defied Trump — speakers: John Healey

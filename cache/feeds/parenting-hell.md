@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- last_modified: `Fri, 30 Oct 2026 01:00:00 GMT`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- last_modified: `Mon, 02 Nov 2026 20:52:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "Parenting Hell",
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
-  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/5205865cf78099132076b1b90ecf832f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f1851b076f879be6a8910b4f65ecf0884fb01f65",
+      "title": "⚽ The panel of dreams...⚽",
+      "published_at": "2026-11-02T01:00:00+00:00",
+      "link": null,
+      "description": "We're on a short break for half-term so you'll have to excuse the lack of topical football reactions from this weekends results. For this episode (recorded during the recent international break) we put together our dream panel to host and present football coverage. Let us know your own choices in the comments. We'll be back next week with more football hot takes (hopefully Carrick has been sacked by then) Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6271142931.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2394",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "panel",
+        "dream"
+      ]
+    },
     {
       "key": "cbdbf70e6304d7a80180713d7dd28c669d58d273",
       "title": "S13 EP30: Jon Ronson",
@@ -13203,6 +13223,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-02 — ⚽ The panel of dreams...⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-10-30 — S13 EP30: Jon Ronson — speakers: Jon Ronson, Rob Beckett, Josh Widdicombe
 - 2026-10-27 — S13 EP29: That's the end of that anecdote — speakers: Rob Beckett, Josh Widdicombe
 - 2026-10-26 — ⚽ You Get What You De Zerbi ⚽ — speakers: De Zerbi, Rob Beckett, Josh Widdicombe

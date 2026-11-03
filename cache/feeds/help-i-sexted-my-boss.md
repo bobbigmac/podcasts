@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RNek5EQXdNemsyTnpVPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RNMk9EVTJNemszTWpBPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "066b0fd7e68750814a45c3715821fd171130e51d",
+      "title": "Help His Mum’s Scent Is A Turn On | And It’s Bath Season",
+      "published_at": "2026-11-03T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-his-mums-scent-is-a-turn-on-and-its-bath-season",
+      "description": "As the nights get colder, Jordan North and William Hanson get stuck into some bath-related chat, leading to one very important question… DO BALLS FLOAT IN THE BATH? William is also back from a glitzy trip to Tinseltown, where he’s made a rather unusual but VERY famous friend. Plus, the Dilemma Daddies tackle your burning questions, including what to do when your boyfriend is turned on by his mum’s scent, and just how old your dating profile pictures can actually be. -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1793630292923-597a4898-198a-4065-a543-7a60a91bf3e7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ae88360c4ae34f69d49b363/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XVTejZiPqlwyUidrkQI0RMHe3GFa10H97_0et5WBl6E",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47114031",
+      "itunes_duration": "49:04",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "scent",
+        "turn",
+        "bath",
+        "season"
+      ]
+    },
     {
       "key": "4f62f2b325a2fbfa98cebc93e5bccbef5d1fe0ca",
       "title": "We’re In A Haunted House! | And William's Spooky Story",
@@ -15353,6 +15375,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Help His Mum’s Scent Is A Turn On | And It’s Bath Season — speakers: Jordan North, William Hanson
 - 2026-10-30 — We’re In A Haunted House! | And William's Spooky Story — speakers: Spooky Story William, William Hanson, Jordan North
 - 2026-10-27 — Help I Hooked Up With Her Dad | And Halloween Dress Codes — speakers: William Hanson, Jordan North
 - 2026-10-23 — Sexted Spelling Bee And Jordan’s Weekend Candle — speakers: Jordan North, William Hanson

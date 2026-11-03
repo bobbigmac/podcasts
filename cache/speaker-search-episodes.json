@@ -2,6 +2,50 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:a66f45b55a1d",
+        "feed_title": "Traitors Expert",
+        "source_rss_url": "https://feeds.acast.com/public/shows/695794ce6446068fdc1658ba",
+        "dedupe_key": "2f7de1540df78fae78eb06c7100b4d0597f86654",
+        "episode_key": "2f7de1540df78fae78eb06c7100b4d0597f86654",
+        "title": "James Acaster SPEAKS OUT on CELEBRITY TRAITORS",
+        "published_at": "2026-11-02T21:17:29Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster has hit back at some of the media speculation surrounding his Celebrity Traitors appearance... Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/open/s/695794ce6446068fdc1658ba/e/6ae8fda385d3a447626d05a1/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-speaks-out-on-celebrity-traitors/id1865874949?i=1000799476618&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f365e01dfc3f",
+        "feed_title": "Alan Carr's 'Life's a Beach'",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
+        "dedupe_key": "358aa0a0853e445e62c225de51235476918bc4a4",
+        "episode_key": "358aa0a0853e445e62c225de51235476918bc4a4",
+        "title": "S11 EP9: James Acaster: Traitors, Coffins and The Worst Airport Experience Ever",
+        "published_at": "2026-11-02T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Two Traitors step onto a plane… and immediately start spilling the secrets. ✈️\n\n\n\nThis week, Alan welcomes fellow Celebrity Traitor James Acaster for a debrief on castle life, murderous missions and the traumatising experience of being buried alive. Why were they left in their coffins while the cameras got their shots?",
+        "audio_url": "https://traffic.megaphone.fm/KILM1828182817.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s11-ep9-james-acaster-traitors-coffins-and-the/id1550998864?i=1000799301422&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:435b94d61d9a",
         "feed_title": "Netflix Is A Daily Joke",
         "source_rss_url": "https://feeds.megaphone.fm/NETFLIX2608127680",
@@ -3937,6 +3981,29 @@
           "James Acaster",
           "Ed Gamble",
           "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "5b273ecd3227e72b46149fa2aecd56c24b6a62f6",
+        "episode_key": "5b273ecd3227e72b46149fa2aecd56c24b6a62f6",
+        "title": "Ep 200: Ed Gamble and James Acaster (with special guest genie Rylan Clark)",
+        "published_at": "2023-08-09T03:00:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "As we round off another hundo, it’s time to flip the table once again and make Ed and James the guest diners in the dream restaurant. Have their choices changed over the last 100 episodes? And will they exploit as many loopholes as their first attempt? And, once again, the genie is transferring his powers to one of our",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/64c788b528d67b001123d55c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-200-ed-gamble-and-james-acaster-with-special/id1442950743?i=1000623874833&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true
@@ -9401,6 +9468,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "5b273ecd3227e72b46149fa2aecd56c24b6a62f6",
+        "episode_key": "5b273ecd3227e72b46149fa2aecd56c24b6a62f6",
+        "title": "Ep 200: Ed Gamble and James Acaster (with special guest genie Rylan Clark)",
+        "published_at": "2023-08-09T03:00:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "As we round off another hundo, it’s time to flip the table once again and make Ed and James the guest diners in the dream restaurant. Have their choices changed over the last 100 episodes? And will they exploit as many loopholes as their first attempt? And, once again, the genie is transferring his powers to one of our",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/64c788b528d67b001123d55c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-200-ed-gamble-and-james-acaster-with-special/id1442950743?i=1000623874833&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
           "Ed Gamble"
         ],
         "topics": [],
@@ -38716,6 +38806,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:34dfc0698f01",
+        "feed_title": "Intelligence Squared",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6ae4779753fe55e775c1ac6c",
+        "dedupe_key": "99f8b82b7aa59ef9f16b3e5058d79bd2c2c07b50",
+        "episode_key": "99f8b82b7aa59ef9f16b3e5058d79bd2c2c07b50",
+        "title": "David Baddiel: The Reluctant Atheist, Part 1",
+        "published_at": "2023-09-09T23:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David Baddiel would love there to be a God. The comedian and bestselling author has spent a lot of time fantasising about how much better life would be if there actually were a supreme being – which for him would be some kind of Superhero Dad who chased off Death. Unfortunately for him, there isn’t. Or at least, that’s",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6ae4779753fe55e775c1ac6c/e/964e95f2-4f1c-11ee-81ba-dfab435afb4f/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-baddiel-the-reluctant-atheist-part-1/id708371900?i=1000627302764&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:75bd565490aa",
         "feed_title": "Inconstant",
         "source_rss_url": "https://pinecast.com/feed/inconstant",
@@ -42140,6 +42252,28 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with Moneybox",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "df29dacab2fb8afafefdc7a26a2d507473e93725",
+        "episode_key": "df29dacab2fb8afafefdc7a26a2d507473e93725",
+        "title": "The One with Jack Dee, Philippa Dunne and Rick Stein",
+        "published_at": "2026-11-02T12:32:18Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Today on the Chris Evans Breakfast Show, Jack Dee was telling us all about his new Channel 4 show, Amandaland’s Philippa Dunne spilled the beans on her latest crime-comedy with the BBC, and our favourite Rick Stein was flicking through the pages on his latest cook book!\nCatch up on all previous episodes of TFI Unplugge",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6ae882d3c89efe586624fa7d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-one-with-jack-dee-philippa-dunne-and-rick-stein/id1450650136?i=1000799403344&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:a3df8300f96c",
         "feed_title": "Bottoms Up! With Alan Carr and Lee Peart",

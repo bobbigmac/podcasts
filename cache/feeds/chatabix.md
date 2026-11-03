@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `"djEuMi4wOjE3OTM1ODg0Mzk3NjE="`
+- fetched_at: `2026-11-03T06:45:29+00:00`
+- checked_at: `2026-11-03T06:45:29+00:00`
+- etag: `"djEuMi4wOjE3OTM2NzQ4Mzk1MTM="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-03T06:45:29+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "dab4de96f7e03e0f5db68888fd02082c2a81b288",
+      "title": "S17 Ep 913: Puppy Progress & A New Sport Pt 1",
+      "published_at": "2026-11-03T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-913-puppy-progress-a-new-sport-pt-1",
+      "description": "It’s been just over a week since David got his new puppy - so how have things been going for him and Martha? Well in this episode, Joe gets to hear the full report from a rather stressed and over-tired David. Then later in the show, David reveals he wants to get really good at a new sport but is not sure which one. So he and Joe discuss some of the options. Part two coming tomorrow… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ae455d4092a0dff19f3d901/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40305475",
+      "itunes_duration": "41:59",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "puppy",
+        "progress",
+        "sport"
+      ]
+    },
     {
       "key": "434dfa76296577d582794735abab7c930f54329f",
       "title": "S17 Ep 912 Vault Mondays: Carol Klein and Being Sacked from a Ch4 Show",
@@ -16497,6 +16518,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — S17 Ep 913: Puppy Progress & A New Sport Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2026-11-02 — S17 Ep 912 Vault Mondays: Carol Klein and Being Sacked from a Ch4 Show — speakers: Carol Klein, Joe Wilkinson, David Earl
 - 2026-10-30 — S17 Ep 911 Listeners Mailbag: Big Packages and First Kisses — speakers: Listeners Mailbag, Big Packages, Joe Wilkinson, David Earl
 - 2026-10-29 — S17 Ep 910: David’s Art Class — speakers: David’s Art, Joe Wilkinson, David Earl
