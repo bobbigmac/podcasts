@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-10-31T05:38:55+00:00`
-- checked_at: `2026-10-31T05:38:55+00:00`
-- etag: `W/"464ac-NxX3Qlo3X5evw55jmIQ6oopucTE"`
+- fetched_at: `2026-11-03T17:02:21+00:00`
+- checked_at: `2026-11-03T17:02:21+00:00`
+- etag: `W/"46b7b-M1ZWLK7hDl3q1BxsaQrM4DQgykw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-10-31T05:38:55+00:00",
+  "fetched_at": "2026-11-03T17:02:21+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "76b356b698a73bb35476397b10aab7e08ad3a065",
+      "title": "What to Do When Genre Fatigue Sets In | Windbreaker Podcast",
+      "published_at": "2026-11-03T02:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/What-to-Do-When-Genre-Fatigue-Sets-In--Windbreaker-Podcast-e3rkhtu",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about genre fatigue. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4889978206.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77440618",
+      "itunes_duration": "01:19:48",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "genre",
+        "fatigue",
+        "sets",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "0147cb76ce657b7ade9aa93b1fb4b54c48f3564a",
       "title": "Horror Mechanics Need a Refresh | Windbreaker Podcast",
@@ -3333,6 +3356,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — What to Do When Genre Fatigue Sets In | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-10-12 — Horror Mechanics Need a Refresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-10-06 — When a Developer “Levels Up” | Windbreaker Podcast — speakers: Dark Soul, Yahtzee Croshaw, Marty Sliva
 - 2026-09-29 — How Could the Zelda Movie Actually Be Good? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
