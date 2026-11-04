@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- last_modified: `Fri, 30 Oct 2026 05:01:53 GMT`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- last_modified: `Wed, 04 Nov 2026 05:01:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9b75318e2ee641fb65f275471df29507d5cdb6cb",
+      "title": "Please Keep Me Anonymous with Isy Suttie",
+      "published_at": "2026-11-04T04:55:00+00:00",
+      "link": null,
+      "description": "On this week’s Shagged Married Annoyed Chris and Rosie are joined by the brilliant comedian, actor, and Taskmaster star, Isy Suttie. As well as lots of Taskmaster chat, they discuss Ellis James’ pants, a hotel injury, the Millennium Dome and they ponder over whether Madonna is a Shagged Married Annoyed fan. All this AND have the trio invented a new podcast? You can catch Isy on the final of Taskmaster at 9pm on Channel 4 on November 5th or you can catch up at channel4.com If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0742c44e-d6d4-11f1-80bd-37564092af04/image/0aa8cd99b16d5951463d04b5854acfcf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7115596833.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2972",
+      "speakers": [
+        "Annoyed Chris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "suttie"
+      ]
+    },
     {
       "key": "07e8b6788453000a525989fb9eb3ecbc23719c6c",
       "title": "Read the room d*ckhead",
@@ -9450,6 +9471,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Please Keep Me Anonymous with Isy Suttie — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2026-10-30 — Read the room d*ckhead — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2026-10-28 — Please Keep Me Anonymous with Jack Whitehall — speakers: Jack Whitehall, Chris Ramsey, Rosie Ramsey
 - 2026-10-23 — An unlikely lube, a parkour ick and Chris has beef with Halloween decorations — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey

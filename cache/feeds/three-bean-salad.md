@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"acd28-65edc4c5b681d"`
-- last_modified: `Wed, 28 Oct 2026 01:15:27 GMT`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"ad38d-65f691bf395ac"`
+- last_modified: `Wed, 04 Nov 2026 01:15:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4f872f5fedddabb30e5795adea7fe4381c77d395",
+      "title": "Extra Beans - Free Novembermania Patreon taster",
+      "published_at": "2026-11-04T01:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/extra-beans-free-novembermania-patreon-taster",
+      "description": "It's Novembermania! We're offering 50% off your first month over on Patreon - www.patreon.com/threebeansalad To give you a taste of what lies beyond the paywall, this episode is the first half of our October 2026 Extra Beans episode - extra bits from our recordings about cowboys and trees.",
+      "image_url": "https://artwork.captivate.fm/ea471629-ce98-433f-9c7e-7474d27aa89b/Extra-Beans-magnifying-glass-small.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/41d9ce95-7b04-455b-9ac8-8d97df95d0db.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=41d9ce95-7b04-455b-9ac8-8d97df95d0db",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52873553",
+      "itunes_duration": "55:05",
+      "speakers": [
+        "Extra Beans",
+        "Free Novembermania Patreon",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "extra",
+        "beans",
+        "free",
+        "novembermania",
+        "patreon",
+        "taster"
+      ]
+    },
     {
       "key": "9e50037e4203d6a98df6a14e9a1aa1501e3af6f6",
       "title": "The Simulation Hypothesis",
@@ -54,7 +81,7 @@
     {
       "key": "fe9990445d98587fc13c6fef9bf2f57d92c9af4d",
       "title": "Wool",
-      "published_at": "2026-10-21T01:15:00+00:00",
+      "published_at": "2026-10-21T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/wool",
       "description": "This week’s topic is wool aka nature’s denim. Wool is a material that has been worn by princes, paupers and everyone in between for thousands if not millions of years. In fact, the wearing of woollen garments is one of the few things which sets us apart from the rest of the animal kingdom (other examples include close-up magic and humming. For a full list see the Three Beancyclopaedia). Thanks then to Russell of Nova Scotia for shoving wool into the Bean Machine. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/6627a3b0-a0db-43f6-a2b5-b706689bf211/S22-E07-Wool-1.jpg",
@@ -74,7 +101,7 @@
     {
       "key": "98532d37a9ac2df5d1d111c666309cd338519674",
       "title": "Trees",
-      "published_at": "2026-10-14T01:15:00+00:00",
+      "published_at": "2026-10-14T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/trees",
       "description": "Which tree are you? The graceful and ethereal silver birch? The proud and stately elm? The feeble and foul-smelling Bradford pear tree? Click HERE to find out with our online quiz and to receive lifelong, military-grade, North Korean malware! Thank you to Eleanor of Bristol for this week’s topic (trees). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/f01d28b4-1b73-4061-bba7-e5c34be520e7/S22-E06-Trees.jpg",
@@ -95,7 +122,7 @@
     {
       "key": "1ab5b17613504d03cc8fd4db3853c5147384cefa",
       "title": "Cowboys",
-      "published_at": "2026-10-07T01:15:00+00:00",
+      "published_at": "2026-10-07T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/cowboys",
       "description": "In many ways podcasters are the cowboys of today (excepting the actual cowboys of today of course) but instead of horses we ride ergonomic chairs, instead of slinging guns we sling mouths and our bullets - lukewarm banter. Thanks to Will of no location given for this week’s topic. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/d551dd9c-01bd-41f9-8b37-5747acc02d4c/S22-E05-Cowboys.jpg",
@@ -115,7 +142,7 @@
     {
       "key": "95c243a4af94c76497b8bfc9e379d6f9d81240fa",
       "title": "Fifth Wednesday semi-demi-non-ep",
-      "published_at": "2026-09-30T01:15:00+00:00",
+      "published_at": "2026-09-30T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-semi-demi-non-ep",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday September and we only do four episodes a month because of the podcasters' union) Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com insta: @beansaladpod",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -139,7 +166,7 @@
     {
       "key": "aaff0dafa5470b5a479e0f301b0e23a193fdbce0",
       "title": "Soup",
-      "published_at": "2026-09-23T01:15:00+00:00",
+      "published_at": "2026-09-23T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/soup",
       "description": "Soup of the day is lukewarm banter! That’s right, Max of Bremen has poured soup into the bean machine. Rest assured the beans shall treat this week’s liquid topic as scrupulously they would any solid one. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/9eadbf57-58da-4f9f-bafb-6e54c9c848ef/S22-E04-Soup.jpg",
@@ -159,7 +186,7 @@
     {
       "key": "dfe8554a25419c7dc9ea177cbb0e3f0688cb36cc",
       "title": "Dancing",
-      "published_at": "2026-09-16T01:15:00+00:00",
+      "published_at": "2026-09-16T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/dancing",
       "description": "We are not the only species that dances but we are the only one that has Dancercise. With that in mind, perhaps it is worth reflecting on the often misquoted words of 17th century poet and scholar John Donne: “Any man’s death diminishes me, because I am involved in Dancercise. Therefore never send to know for whom the bell tolls; it tolls for thee.” Thanks for Sandor of the other side of wherever for this week’s topic. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/ba7a9b5a-380e-45ef-885a-d7b4516dea20/S22-E03-Dancing.jpg",
@@ -179,7 +206,7 @@
     {
       "key": "1f26f8a7a9232f2be21b1bb8f0da4be952540297",
       "title": "Taxis",
-      "published_at": "2026-09-09T01:15:00+00:00",
+      "published_at": "2026-09-09T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/taxis",
       "description": "Taxi drivers in the UK are exempt from having to wear seatbelts so that their passengers have one less thing to strangle them with mid-journey - a sobering little fact and one which perhaps illustrates the nature of the relationship between cabbies and their fares through the ages. Thanks to Phil of Utrecht for suggesting taxis as this week’s topic for the podcast (which has always been and remains steadfastly anti-strangle). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Goodbye to the Hyundai video: https://www.youtube.com/watch?v=R7vC6zxNKBI With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/1d5d3d13-9fec-423a-95dc-eaabb8906374/S22-E02-Taxis-1.jpg",
@@ -200,7 +227,7 @@
     {
       "key": "66bab8fb180b83caf6d9ed3d44a17dd784258959",
       "title": "Musicals",
-      "published_at": "2026-09-02T01:15:00+00:00",
+      "published_at": "2026-09-02T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/musicals",
       "description": "It is known that EVERY event is better when punctuated by songs (hence hymns, national anthems, Auld Lang Syne etc). It stands to reason therefore that the musical is the apogee of human endeavour. Can you imagine then the excitement of the beans when this week’s topic was barfed out of The Bean Machine and musicals is what it turned out to be???!!!! Thanks to Sophie of somewhere probably for this perfectly judged suggestion. Tickets for Henry's tour: henrypaker.com Tickets for Mike's tour: mrmikewozniak.com Tickets for Beef And Dairy Network at the London Podcast Festival IN HALL: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-5/ STREAMING: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-online/ With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/8419931f-4736-46fb-96bf-a249ade70295/S22-E01-Musicals.jpg",
@@ -220,7 +247,7 @@
     {
       "key": "74b314fee37ba67bf06fc73add4aca041cc68859",
       "title": "August Anti-sode",
-      "published_at": "2026-08-05T01:15:00+00:00",
+      "published_at": "2026-08-05T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/august-anti-sode",
       "description": "No normal episode of Three Bean Salad this week (we're away until September) Join our PATREON for ad-free episodes and bonus episodes: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -243,7 +270,7 @@
     {
       "key": "09db7cd3d23fa11117e2f5a57435aa0cbf0d2692",
       "title": "Fifth Wednesday Ersatz Episode",
-      "published_at": "2026-07-30T16:50:00+00:00",
+      "published_at": "2026-07-30T15:50:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-ersatz-episode",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday July and we only do four episodes a month because of Andy Burnham)",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -265,7 +292,7 @@
     {
       "key": "2c127393e33de0478bec323be0d0b6f56c218a48",
       "title": "Frogs",
-      "published_at": "2026-07-22T01:15:00+00:00",
+      "published_at": "2026-07-22T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/frogs",
       "description": "Whatever happened to The Frog Chorus? Were Paul McCartney’s erstwhile collaborators merely one hit wonders? Or, more than four decades on from the release of their smash hit single “We All Stand Together”, might we see them dusting off their vocal sacs and hitting the road alongside so many other ’80s pop sensations? Mayhap they’ll headline next year’s Glastonbury? No way of knowing. And this is certainly not discussed in the podcast at all. But what is discussed, thanks to Glen of Okazaki, Japan, is the topic of frogs. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Ben's Dr Chance video can be found here: https://youtu.be/EtQUemmMQDg?si=g1eOYNG37Mw11U3l With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/81b78e1c-8832-496e-b102-30afde06fe1f/S21-E08-Frogs.jpg",
@@ -286,7 +313,7 @@
     {
       "key": "288ffcce5af978466fc2968e7dfb1872665ed449",
       "title": "Stationary",
-      "published_at": "2026-07-15T01:15:00+00:00",
+      "published_at": "2026-07-15T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/stationary",
       "description": "Can anything ever truly be still (apart from David Blaine)? Perhaps this is what Lou of Bend, Oregon would have the beans ponder by suggesting “stationary” as this week’s topic. Or perhaps Lou is in the middle of getting stalked by a brown bear and, while playing dead and only able to operate a mobile telephone from inside the pocket of a pair of waterproof trousers, thought posting this suggestion into the bean machine would be the quickest and surest way to get help. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/820bf216-4175-4cce-900b-62d5b60e3771/S21-E07-Stationary.jpg",
@@ -307,7 +334,7 @@
     {
       "key": "657ac3bd6248eb616011145d3511d57279f8f635",
       "title": "Village Fêtes",
-      "published_at": "2026-07-08T01:15:00+00:00",
+      "published_at": "2026-07-08T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/village-fetes",
       "description": "Samuel of 84a High Street selects village fêtes as this week’s topic for the beans. You may well ask yourself why Samuel has made this choice and wonder if perhaps Samuel was never voted as Village Fête Prince or if Samuel’s motorised float never podiumed or if Samuel shoved his hand in a lucky dip barrel and pulled it out again expecting to be holding a prize only to find his fingers had been replaced with very long springs but Samuel’s motive for his choice is Samuel’s business and Samuel’s business alone. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Tickets for Henry's tour: www.henrypaker.com Ticket's for Benjamin's Beef And Dairy Network live show: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-5/ Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/5ea55ec1-9167-43da-a452-5df2c3c1396c/S21-E06-Village-Fetes.jpg",
@@ -328,7 +355,7 @@
     {
       "key": "1b32d416c46f9def3549513d7bb850543395b396",
       "title": "The Roman Empire",
-      "published_at": "2026-07-01T01:15:00+00:00",
+      "published_at": "2026-07-01T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-roman-empire",
       "description": "Plumbers. Noon. The Planets. Just a few of the things that probably wouldn’t even exist today if it weren’t for the Roman Empire probably. And here’s another one: Luke from Bolton via Bremen. Little wonder then that he chose it as this week’s topic for the Three Bean Salad Podcast (which definitely would have existed either way). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/2eb232d5-d201-4186-a6a9-4cb6e7688b15/S21-E05-The-Roman-Empire.jpg",
@@ -349,7 +376,7 @@
     {
       "key": "19792021779616f2de89f79469b69ade0a71eba9",
       "title": "Seaside Towns",
-      "published_at": "2026-06-24T01:15:00+00:00",
+      "published_at": "2026-06-24T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/seaside-towns",
       "description": "Seaside towns have had a shaky reputation ever since the people of Hastings lifted the rope for those meddlesome Normans. Almost a millennium on is it time their notoriety was reassessed? Owen of Rhyl thinks yes and that the people for the task are beans three. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/355e8d66-4853-4084-bdcf-a06ca77572ef/S21-E04-Seaside-Towns.jpg",
@@ -370,7 +397,7 @@
     {
       "key": "2d6106878993bc63878cefc11fc23b2729e50ca2",
       "title": "The Circus",
-      "published_at": "2026-06-17T01:15:00+00:00",
+      "published_at": "2026-06-17T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-circus",
       "description": "People often say it’s not the size of a clown’s trousers that matters but the state of the custard pie in the clown’s pocket. Perhaps that’s something we should all reflect on more deeply with peak circus season fast approaching. No doubt that’s what Charlotte was thinking when she luzzed “The Circus” into the Bean Machine for use as this week’s topic. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/f1335725-71f7-477b-8296-4f400264d1af/S21-E03-The-Circus.jpg",
@@ -390,7 +417,7 @@
     {
       "key": "f0d49fc6cdb94387c807498a13a921e5af4dff76",
       "title": "Agatha Christie",
-      "published_at": "2026-06-10T01:15:00+00:00",
+      "published_at": "2026-06-10T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/agatha-christie",
       "description": "Agatha Christie has had her works translated into more languages than any other author in history according to the most superficial of Googlings. But would she have given a monkey’s? It’s impossible to know and fruitless to ask so why Alan of the Surrey Borders entered her name into the Bean Machine is a mystery the likes of which even Jack Reacher would struggle to solve but we’re here now so let’s all make the most of it. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/28f7e4a9-4943-4c2f-9f1d-8318afc4e1a5/S21-E01-Agatha-Christie.jpg",
@@ -412,7 +439,7 @@
     {
       "key": "904bdda04cc06a2d60b1515b351872505076c39c",
       "title": "Martial Arts",
-      "published_at": "2026-06-03T01:15:00+00:00",
+      "published_at": "2026-06-03T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/martial-arts",
       "description": "Munashe of Birmingham kicks of a new season of the Three Bean Salad by feeding the topic of martial arts into the Bean Machine. So far the Bean Machine hasn’t awoken abruptly from a deep trance-like state to say the words “I know Kung Fu” but you’ll know when it does because it will quickly lead to an extinction level event. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod Details of Henry's tour here: henrypaker.com Details of Mike's tour here: mrmikewozniak.com",
       "image_url": "https://artwork.captivate.fm/7e91943a-c30c-408d-9e72-3f3f143e2273/S21-E01-Martial-Arts.jpg",
@@ -435,7 +462,7 @@
     {
       "key": "72328829f94359bc95a56316aa30087532029574",
       "title": "Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales",
-      "published_at": "2026-05-06T01:15:00+00:00",
+      "published_at": "2026-05-06T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/free-patreon-episode-and-then-sparrows-took-their-eyes-three-brothers-grimm-tales",
       "description": "A freebie Patreon episode to give you a taste of what we do over there. Henry tells Mike and Ben three stories by the Brothers Grimm. www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/7c458300-0aef-4eaa-aee9-513a973c5cef/Then-sparrows-took-their-eyes.jpg",
@@ -461,7 +488,7 @@
     {
       "key": "ec6a9d4d02a7f91dd2b2d478afa2b303bb2d0529",
       "title": "Fifth Wednesday Not-A-Lotta-Podda",
-      "published_at": "2026-04-29T08:10:00+00:00",
+      "published_at": "2026-04-29T07:10:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-not-a-lotta-podda",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday April and we only do four episodes a month because of tidal science) Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -488,7 +515,7 @@
     {
       "key": "ae353ab92bdebf2ebfffcba62b9822a9492e1249",
       "title": "Smells",
-      "published_at": "2026-04-22T01:15:00+00:00",
+      "published_at": "2026-04-22T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/smells",
       "description": "The bean machine emits most known smells most days as a byproduct of its relentless toil. In a few short moments the aromas belched forth could be resinous, minty, jazzy, agricultural or anything in between. Something it has never spat out, however, is the topic of smells but that’s all changed now thanks to Andrew of Bremen, Dorset. Tune in for a gripping discourse on the difference between Eau de Cologne (water from the city of Cologne) and Odour Cologne (the smell of the city of Cologne which is Eau de Cologne which is water from the city of Cologne) and more!!! With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod Details of Henry's tour here: henrypaker.com Sponsor John Robins's marathon running here: https://www.justgiving.com/page/johnrobins",
       "image_url": "https://artwork.captivate.fm/d9312a1c-47f2-4019-99f3-a12ee6d29d08/S20E8-Smell.jpg",
@@ -508,7 +535,7 @@
     {
       "key": "415b0eed4d64d53104a0b10512de3dbbb7252d68",
       "title": "Vitamins",
-      "published_at": "2026-04-15T01:15:00+00:00",
+      "published_at": "2026-04-15T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/vitamins",
       "description": "Josh of Deep South Texas brings the beans (via the bean machine) the topic of vitamins this week. Perfect timing as this week sees the launch of Three Bean Salad’s Vita-Plex injections for glossier skin and lukewarmer banter. For just 99.99.99 in any currency of your choice you can receive bi-weekly* intravenous pints of Vita-Plex. Vita-Plex contains an unique blend of vitamins, minerals and matter tested by “scientists” who promise they’ve done their own research and that’s the Three Bean Salad guarantee!!! *whether you interpret this as twice a week or once every two weeks will have no bearing on pricing or clinical impact. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/9aaf828c-4d8b-480e-a760-0732843cbbc9/S20E7-Vitamins.jpg",
@@ -530,7 +557,7 @@
     {
       "key": "02fd60e821f1700f3caceaa6d749f91d6786983b",
       "title": "Show Us Your Onions",
-      "published_at": "2026-04-08T01:15:00+00:00",
+      "published_at": "2026-04-08T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/show-us-your-onions",
       "description": "The Moon landings. The fall of the Berlin Wall. The conviction of Al Capone. Everyone remembers exactly where they were when the news broke of these landmark moments in history. Well get memorising your surroundings people because it’s about to happen again. That’s right. None of your common-or-garden bean-machine-spewed topics this week. Oh no. Prepare to drink in a world first and please welcome the inaugural episode of a podcast format that takes The Rule Book, tears it to shreds then pickles it to prevent spoilage in case it turns out we need it later after all - it’s “Show us your onions!”. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/4a1a0037-852b-494e-9c9f-11569e33e0ce/S20E5-Show-us-your-onions.jpg",
@@ -551,7 +578,7 @@
     {
       "key": "9a775c5b2b73558356f11e45214693616d03a140",
       "title": "Saints",
-      "published_at": "2026-04-01T01:15:00+00:00",
+      "published_at": "2026-04-01T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/saints",
       "description": "This week the Bean Machine stopped weeping tears of fresh, semi-skimmed milk for the first time in four years and spat out the topic of saints as submitted by Nathan of Bristol. Which cosmic force acted through Nathan to prompt his submission we cannot know. Nor indeed is it clear if this is the only time Nathan has been used as a sacred conduit or if it occurs frequently. If the latter, is Nathan aware of what is happening? And is he using it for good or is he diverting this otherworldly force for things like avoiding traffic jams and making meringues with lovely, stiff peaks? Sounds like it’s time for an investigation by the Bishop of Bristol, P.I.! With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
       "image_url": "https://artwork.captivate.fm/40bd085e-233c-4336-a80b-60331d111497/S20E5-Saints-1.jpg",
@@ -893,7 +920,7 @@
     {
       "key": "658139335920d644ba240af34a0c9a2150956d3d",
       "title": "Town Planning",
-      "published_at": "2025-10-22T02:15:00+00:00",
+      "published_at": "2025-10-22T01:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/town-planning",
       "description": "As our days grow shorter and our ear hair grows longer what better to reflect upon than the righteous placement of bollards and ethical commercial land zoning. Thank you then to Dan from Saint Bremen who has offered up town planning as this week’s source of lukewarm banter. Whatever you think you thought you remembered you knew about town planning, prepare to have a cost-effective, zero-emission, fully-accessible ideas-tramway built right through the middle of it. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad To watch Benjamin's short film, Daddy Superior, click here: https://www.youtube.com/watch?v=YY2xsuHcDkI For Mike's tour info: www.mrmikewozniak.com Tickets for our Glasgow show, plus live streams for our London tour date, Bonjo's House Of Pain and Ratmas: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/8905941b-535a-4645-a6fe-5745f392e510/SE18-E08-Town-Planning.jpg",
@@ -914,7 +941,7 @@
     {
       "key": "b0344c0bdcfcf60a2c2306a6069d7d10fe25bdb4",
       "title": "Donkey Milk Soap",
-      "published_at": "2025-10-15T01:15:00+00:00",
+      "published_at": "2025-10-15T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/donkey-milk-soap",
       "description": "Even the most disciplined podcasters in the world are susceptible to the occasional whoopsie. So it is with this episode which, owing to circumstances outside but mostly inside the beans’ control, contains no listener topic suggestion but does contain a discourse on donkey milk soap which probably would have come up from the bean machine soon enough anyway to be fair. With thanks to our editor Laura Grimshaw. Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/c3a68fcd-61d0-46ef-b20e-8849054a590c/SE18-E07-Donkey-Milk-Soap-3.jpg",
@@ -937,7 +964,7 @@
     {
       "key": "04808c5aa66bda096e81dac176cd45c2a805885e",
       "title": "Antarctica",
-      "published_at": "2025-10-08T01:15:00+00:00",
+      "published_at": "2025-10-08T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/antarctica",
       "description": "It’s a lukewarm take on the Antarctic this week owing to the actions of Mark from near Colliers Wood. We all know that the Antarctic holds strong appeal for scientists who either A) can’t work out how else to avoid a conventional domestic life or B) are waiting out the clock on a statute of limitations in their home nation. But what on Earth is in it for the penguins? What have they got to prove? And do their feet ever stick to the ice when they have a waddle-pause? Answers on a postcard please and in the meantime enjoy what we assume is a world first: a podcast episode recorded by people actually physically in the same room. With thanks to our editor Laura Grimshaw. Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/2c399038-b66f-45c7-9ade-4fd10cb8c821/SE18-E07-The-Antarctic.jpg",
@@ -957,7 +984,7 @@
     {
       "key": "6360ead50dd99319586842c5f5a1033d735b5fd6",
       "title": "Sunday Roasts",
-      "published_at": "2025-10-01T01:15:00+00:00",
+      "published_at": "2025-10-01T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/sunday-roasts",
       "description": "Lee of the Black Country wants the beans discuss Sunday roasts this week, presumably because he’s not allowed to have one himself this weekend. But why not? Was he rude to a policeman? Did he throw a wobbly when feeling overwhelmed at an unanticipated bridge toll-booth? Has he been telling fibs about Gerard Butler? Either way the beans are happy to oblige and give Lee and you the next best thing audio wise. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f2ee5212-660d-4aea-8d69-2b188ddd2961/SE18-E05-Sunday-Roasts.jpg",
@@ -980,7 +1007,7 @@
     {
       "key": "4d2454513e94a4c441c5a549c27ea7d595587f8e",
       "title": "Extreme Sports",
-      "published_at": "2025-09-24T01:15:00+00:00",
+      "published_at": "2025-09-24T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/extreme-sports",
       "description": "In WW2 a shortage of materials led to parachute silk often being recycled into knickers and vice versa. In honour of this the beans continue to send their underpants to His Majesty’s Armed Forces today, even in peacetime. But who the blazes is using this precious commodity for recreational purposes and why? Luckily Tom of Bristol has suggested extreme sports as this week’s topic so expect answers within. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/10a1886e-141f-450f-ab08-b660982096d5/SE18-E04-Xtreme-Sportz-2.jpg",
@@ -1001,7 +1028,7 @@
     {
       "key": "3d17bf60f24cef3430ce57c0a7ae59d66a6d9a15",
       "title": "Kitchen Gadgets",
-      "published_at": "2025-09-17T01:15:00+00:00",
+      "published_at": "2025-09-17T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/kitchen-gadgets",
       "description": "This week the beans tackle kitchen gadgets thanks to Tymon of Poland. Currently there are no legal restrictions on or requirements for the personal use of vegetable spiralizers in domestic, industrial, galley or toy kitchens. We exist in a legislative black hole so this episode couldn’t be more timely. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Fundraising for Battersea Dogs & Cats Home in memory of Bluebell: https://www.justgiving.com/page/tbs-battersea Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/6c519ce9-4d8f-4929-8945-fcdbc6a06877/Se18-E-3-Kitchen-gadgets-3.jpg",
@@ -1023,7 +1050,7 @@
     {
       "key": "a4ecfe4d197108b5dd6e2955a9f5851392e88f73",
       "title": "Australia",
-      "published_at": "2025-09-10T01:15:00+00:00",
+      "published_at": "2025-09-10T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/australia",
       "description": "People are known to have travelled from Bristol to Australia and vice versa on various occasions and sometimes more than once. Given these strong links it shouldn’t come as a shock that Loz of Bristol reckons this week’s topic for the beans ought to be Australia. Let’s bean. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/aedb5a29-0d1d-46e1-8dd5-06d114f2999d/SE18-E02-Australia.jpeg",
@@ -1044,7 +1071,7 @@
     {
       "key": "4ce906e858db35743536684bd42352ccc37b2aeb",
       "title": "Noodles",
-      "published_at": "2025-09-03T01:15:00+00:00",
+      "published_at": "2025-09-03T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/noodles",
       "description": "Sam of Aurora slung noodles into the bean machine, and the beans attacked it with relish, going deep on the topic in such a way that you'll never look at a noodle, or even tagliatelle, in the same way again. You thought you knew what noodles were, well think on friend. And then think some more, and some more. And you still won't get close to the paradigm-shifting lukewarm power of the beans. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/ffeaa184-d94f-4247-a7a5-84f144fb1e86/SE18-E01-Noodles.jpg",
@@ -1065,7 +1092,7 @@
     {
       "key": "3092c0253084ca098731a024a6ee058ffc1b593f",
       "title": "Free Patreon episode - And Then Sparrows Took Their Eyes: Hans The Hedgehog",
-      "published_at": "2025-08-13T01:15:00+00:00",
+      "published_at": "2025-08-13T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/patreon-episode-and-then-sparrows-took-their-eyes-hans-the-hedgehog",
       "description": "A freebie Patreon episode to give you a taste of the sort of thing we do over there. Henry tells Mike and Ben the story of Hans The Hedgehog. www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/acd903ba-9851-468b-acd1-ae02e69e43e3/1nDdH0wSJl900Hoc8DOLQMEp.jpg",
@@ -1089,7 +1116,7 @@
     {
       "key": "79a3ddc08ec9b29c47683ba8ccfffc8383446ff5",
       "title": "It's August! Non-Ep!",
-      "published_at": "2025-08-06T01:15:00+00:00",
+      "published_at": "2025-08-06T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/its-august-non-ep",
       "description": "No normal episode of Three Bean Salad this week (we're away until September) Join our PATREON for ad-free episodes and bonus episodes: www.patreon.com/threebeansalad TOUR TICKETS: https://littlewander.co.uk/tours/three-bean-salad-podcast/",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -1109,7 +1136,7 @@
     {
       "key": "187d857d45234847c63435ad6658efdaf989df39",
       "title": "Fifth Wednesday Not-A-Pod Pod",
-      "published_at": "2025-07-30T01:15:00+00:00",
+      "published_at": "2025-07-30T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-not-a-pod-pod",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday July and we only do four episodes a month because of an EU directive) Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -1134,7 +1161,7 @@
     {
       "key": "be49c8257f4c82c8b977fffc49e9de41cbdba017",
       "title": "Hiking",
-      "published_at": "2025-07-23T01:15:00+00:00",
+      "published_at": "2025-07-23T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/hiking",
       "description": "Hailey of Guildford offers up hiking as a topic for the beans this week which is nothing to be ashamed of. Just as the cardinal rule of the hiker is to leave no trace of themselves on the landscape, the lukewarm banter of the beans will pass through your mindscape with the firm promise to leave no memorable impression of any kind. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod Henry Widdicombe's new comic, How To Survive An Affair: https://goshlondon.com/how-to-survive-an-affair-1/ Gareth Gwynn's show Cyril at the Camden Fringe: https://camdenfringe.com/events/gareth-gwynn-cyril/",
       "image_url": "https://artwork.captivate.fm/c7aabbd1-b456-4288-9f0c-ee84070c5aa5/8lxHru8rAR_Batgf8xaj2G9r.jpg",
@@ -1154,7 +1181,7 @@
     {
       "key": "3cc686d1e0ef83a508ce76bd20b739ff2171de55",
       "title": "Queen Victoria",
-      "published_at": "2025-07-16T01:15:00+00:00",
+      "published_at": "2025-07-16T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/queen-victoria",
       "description": "Queen Vic, Lil’ Drina, Granny Europe, The Windsor Widow, The Saxe-Coburg Slicker, Big Bo Peep. Whatever you call her, Queen Victoria still holds the record for the monarch with the most pubs and Spice Girls named after them. No wonder Pete from Derby wanted a lukewarm lens cast over her - and he knew just the beans for the job. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/2a486a65-e189-4b2f-981c-867b2c10f4cb/1ztSMZvSJF9_Xu7Ui5n3vT_d.jpg",
@@ -1176,7 +1203,7 @@
     {
       "key": "1de6659474f6e95fc6bf339dc3ad9f828563379c",
       "title": "Archery",
-      "published_at": "2025-07-09T01:15:00+00:00",
+      "published_at": "2025-07-09T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/archery",
       "description": "Match Of The Day. Big Break. Bullseye. All of the major British sports have been comprehensively covered by television for decades - except archery. Looks like it’s time for the beans to pick up where television couldn’t be arsed. Ta very much to Charis of Los Angeles for this week’s topic (which is archery btw). With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/fc4a7f06-5947-49ab-8f76-59982408568f/_KXuV27Kjq2yUtwLfMKZKEuf.jpg",
@@ -1196,7 +1223,7 @@
     {
       "key": "f357efc2f1cda247417ecdcc8ac3b47589fac0ba",
       "title": "Seagulls",
-      "published_at": "2025-07-02T01:15:00+00:00",
+      "published_at": "2025-07-02T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/seagulls",
       "description": "Dr G has the beans get all lukewarm under the collar about seagulls this week. Voted the animal least likely to be of any use in warfare four years running and Time Magazine’s “Worst Pet Experiment” (2003), the seagull is largely unloved by its human neighbours. Indeed a major survey by Ipsos MORI discovered that 99.23% of seagull based anecdotes cast the seagulls as the villain of the piece (and the remaining 0.77% were believed to be fabricated). Can the beans find an upside to the seagull? Or will its upside simply be covered in the shit from another seagull at higher altitude? With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/757c0300-8e29-4616-9cb8-bc605ca77a63/US_Nf9g4gHSTa-_I3sd8R6nf.jpg",
@@ -1217,7 +1244,7 @@
     {
       "key": "05d447882672ed7269c41de2b01e9bd62ee6bff8",
       "title": "Old Wives' Tales",
-      "published_at": "2025-06-25T01:15:00+00:00",
+      "published_at": "2025-06-25T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/old-wives-tales",
       "description": "The presumably unreconstructed Nick of Chicago feeds “Old Wives’ Tales” into the Bean Machine which spew-jects it just at the moment the beans are after a topic so that’s what it is. Is there no such thing as an “Old Husbands’ Tale” because husbands have no tales? Or because they typically die younger and therefore before reaching tale-telling maturity? The beans don’t know and make no effort to go into it whatsoever. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/7e6f1d02-59e0-40b4-913e-983d4e2e3f66/FwRfqwvNeL4Ic2g9KWdTGjnw.jpg",
@@ -1240,7 +1267,7 @@
     {
       "key": "526304f0b9209edf519ade450e3337e284b8667f",
       "title": "The Sixties",
-      "published_at": "2025-06-18T01:20:00+00:00",
+      "published_at": "2025-06-18T00:20:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-sixties",
       "description": "They say if you remember the 60s then you didn’t really do yourself any serious brain damage in the 60s. Perhaps someone in that situation would be well placed to offer some thoughts on arguably the most famous decade of all time. Gabby of Worthing eschews such a source and instead seeks definitive banter on the 60s from the three beans who, between them, own almost one Lovin’ Spoonful CD. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/31934bcb-0f3a-4668-ba9a-1410b9c284ae/NkGgrUpFE2gWFvKx43FV8mgn.jpg",
@@ -1260,7 +1287,7 @@
     {
       "key": "537b07e687f993f87e813897f243d044bd96388e",
       "title": "Moths",
-      "published_at": "2025-06-11T00:52:00+00:00",
+      "published_at": "2025-06-10T23:52:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/moths",
       "description": "The beans have avoided it for as long as possible but Roddy of London has spoken and what he spake is “Moths”. This could be a fearsomely difficult listen for anyone with a loathing of moths or this podcast. The beans, however, are inexorably drawn to lukewarm banter just as the badger is drawn to the dual carriageway and so they chat the chat that must finally be chatted. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/4ff74d2d-e162-4ae7-ba06-f4ba4808deac/7tk6uZ1U2b9lGR0QXEqzgz2N.jpg",
@@ -1280,7 +1307,7 @@
     {
       "key": "0857c84c77e5e9e09dcbbc47eda76659e26fd0da",
       "title": "Wild Camping",
-      "published_at": "2025-06-04T01:15:00+00:00",
+      "published_at": "2025-06-04T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/wild-camping",
       "description": "Sean of Exeter kicks off a hot summer of lukewarm banter by suggesting the beans discuss wild camping. Sub-topics could but don’t include how to make a tent out of your own trousers, evading predators by setting them against each other and if “north” is effectively the top of a huge ball, will your compass still work if that ball rolls a bit? With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/4e1820c6-ccf6-4be3-9b0b-78a358a149fe/u5abIfJITyVYRd7H9WgVyW4_.jpg",
@@ -1302,7 +1329,7 @@
     {
       "key": "39480d9aab6f72e172ce5e8dadde7ca051000efb",
       "title": "Non-isode",
-      "published_at": "2025-05-07T01:16:00+00:00",
+      "published_at": "2025-05-07T00:16:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/non-isode",
       "description": "No normal episode of Three Bean Salad this week (we're away until June). Join our PATREON for ad-free episodes and bonus episodes: www.patreon.com/threebeansalad TOUR TICKETS: https://littlewander.co.uk/tours/three-bean-salad-podcast/",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -1323,7 +1350,7 @@
     {
       "key": "0303c4485531479cb12410ba3eec42a9d626a8fc",
       "title": "Fifth Wednesday back in 10 minutes transmission",
-      "published_at": "2025-04-30T01:15:00+00:00",
+      "published_at": "2025-04-30T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-back-in-10-minutes-transmission",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday April and we will only do four Wednesday episodes in a month out of respect for all that is holy) Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -1348,7 +1375,7 @@
     {
       "key": "294d5cd7e75b2da96ab64f74d35f8f3fa74c5d28",
       "title": "The Renaissance",
-      "published_at": "2025-04-23T01:15:00+00:00",
+      "published_at": "2025-04-23T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-renaissance",
       "description": "George is a native of Stockport, birthplace of The Renaissance, and so it is little wonder he has chosen that very topic for this week’s episode. Are we on the cusp of another renaissance? Might we be better of with a de-renaissance to make everything simpler just for a bit. It’s chunky fodder to be sure so why not let the beans mince it down smooth for you while you expend your mental energy on inventing whatever it is that will eventually replace the pendulum. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for Henry's work in progress show at Machynlleth Comedy Festival: https://machcomedyfest.co.uk/show/2025/henry-paker/ Tickets for Ben's film screening in Manchester: https://www.seetickets.com/tour/daddy-superior-screening-q-a-with-ben-partridge Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod Music credit courtesy of epidemicsound.com : Weekly/The Fly Guy Five",
       "image_url": "https://artwork.captivate.fm/6a18f1c4-6f41-47ea-b86c-f3e923fd6267/23tqs3lE0nYzxqWFJ9W7AxxZ.jpg",
@@ -1368,7 +1395,7 @@
     {
       "key": "26d29e098c82a082aacd32aa8343b96f2d07c357",
       "title": "Language",
-      "published_at": "2025-04-16T01:15:00+00:00",
+      "published_at": "2025-04-16T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/language",
       "description": "Ella from Cambridge but currently in Cuba has offered up language as this week’s topic. Could she have known that the beans would not only take on this crucial subject with rigour and courage but they would use actual language to do so!!! With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/81636e0f-dd13-491a-a0e1-60897f6f45cf/KtcSXaP_7Nm893sIUqiEr8M6.jpg",
@@ -1389,7 +1416,7 @@
     {
       "key": "9902b06ae4f7362d9c67da0a007e3f82dd201ace",
       "title": "Ham Salad",
-      "published_at": "2025-04-09T01:15:00+00:00",
+      "published_at": "2025-04-09T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/ham-salad",
       "description": "You will no doubt have a strong opinion on ham. It has been a muse to poets, a justification for war lords, a promise between lovers. It is mankind’s cornerstone. But ham salad? That’s something many of us have never truly got to grips with in theory or practice. Thanks then to Michigan-based wildcard Douglas for giving the beans this urgently needed topic for this week’s episode. Hocks away. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Tickets for Ben's film screenings here: LONDON: https://www.eventbrite.co.uk/e/guest-event-daddy-superior-and-other-short-films-tickets-1310946258549 MANCHESTER: https://www.seetickets.com/tour/daddy-superior-screening-q-a-with-ben-partridge Tickets for our UK TOUR available here: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/128cffe4-0c44-4600-86b4-5df0560563e2/NhXP8YCfOogyOcXOrl_-G1Ik.jpg",
@@ -1409,7 +1436,7 @@
     {
       "key": "b29cede6c98afd2f537af461dc9323ae3c901307",
       "title": "Festivals",
-      "published_at": "2025-04-02T01:15:00+00:00",
+      "published_at": "2025-04-02T00:15:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/festivals",
       "description": "It’s Helen of Bristol’s turn to feed the bean machine this week which has led to the topic being festivals. Of course there’s a festival for bloody everything these days and they’re not like they used to be even the ones that didn’t exist previously probably but you can’t even say that in public most likely and so and so forth. With thanks to our editor Laura Grimshaw. Tickets for our tour available at this link from 10am on Friday 4th April 2025: https://littlewander.co.uk/tours/three-bean-salad-podcast/ Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/8eefcb7a-e9fe-4837-a8cb-01b313a9af3d/lOo0hmJDetxeM_mW5y-G5Zoa.jpg",
@@ -1792,7 +1819,7 @@
     {
       "key": "bed48619c9b9f435b0d141bac4d1e06c61f999db",
       "title": "Budget Airlines",
-      "published_at": "2024-10-23T00:15:02+00:00",
+      "published_at": "2024-10-22T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/budget-airlines",
       "description": "Put your seat back into the reclining position (but only if you have the express consent of the person behind you who has also ideally reclined their seat with the express consent of the person behind them ad infinitum etc), shove a lukewarm bean in each ear and enjoy a third bean as a mid-flight snack for only €79.99 for Joe from York has suggested budget airlines as this week’s topic. That may mean BYO sandwich, BYO magazine and BYO sick-bag but the lukewarm chat is complementary. Bean voyage. Join our PATREON for ad-free episodes, a monthly bonus episode and more: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/12578525-d863-4158-845c-8cd806bcee34/6518b9d308a192f2011519a85730d0c0.jpg",
@@ -1814,7 +1841,7 @@
     {
       "key": "ed400185bcc7915b275f72018818eeca3aa96c31",
       "title": "Sharks",
-      "published_at": "2024-10-16T00:12:06+00:00",
+      "published_at": "2024-10-15T23:12:06+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/sharks",
       "description": "Dan from Bremen chooses sharks for this week’s topic as well he might. After all, just as the shark is a perfectly evolved apex predator, so is the bean a perfectly evolved apex legume. No one wants three sharks to team up: that would simply lead to a bloodbath. Three beans on the other hand means a lukewarm banter bath and everyone’s invited (special rubber socks will be supplied for those with untreated athlete’s foot or verrucas). Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/edf80b4d-13ce-4280-94ae-bc4e50bd07e6/bad19363c6a0e20c6498c3d28eec8fed.jpg",
@@ -1835,7 +1862,7 @@
     {
       "key": "66b2648f2b0a4ab69df2d47ea752ba6b56967859",
       "title": "The Pyramids",
-      "published_at": "2024-10-09T00:15:01+00:00",
+      "published_at": "2024-10-08T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-pyramids",
       "description": "True to form, Tutankhamun from the Nile Delta has selected the pyramids as this week’s topic. Were these structures named after the shape or was it the other way around? Were they meant to be that shape in the first place or did they just run out of bricks? If they’ve REALLY been there for thousands of years how come they aren’t totally covered in graffiti tags and pictures of willies and stuff? For answers to all these questions and more why not try Wikipedia or Reddit or something? For a lukewarm take - press play. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/732b24be-76af-4b5b-8fab-f8615161d4d9/b5954805d9ff2cc3ebf364404596af53.jpg",
@@ -1855,7 +1882,7 @@
     {
       "key": "b30339a3ef553a88048f26bdaca3a5315e234918",
       "title": "Adverts",
-      "published_at": "2024-10-02T00:15:02+00:00",
+      "published_at": "2024-10-01T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/adverts",
       "description": "Adverts: lifeblood of the nation, engine of the economy, coal of the mind. What could be more splendid then than a podcast episode which already contains adverts also being about adverts? Thank you to Andrew from Leeds for feeding this suggestion into the bean machine for a listening experience which flicks a cold, hard finger-swear at the skip-forwards-by-30-seconds button. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/8d65f4c0-5b22-4dd3-8452-616f9b0af40d/df80686c0498937c55b576ed46d67ece.jpg",
@@ -1876,7 +1903,7 @@
     {
       "key": "8da2eca24de42c08392c3633900ee9e1198b4234",
       "title": "Pasta",
-      "published_at": "2024-09-25T00:10:01+00:00",
+      "published_at": "2024-09-24T23:10:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/pasta",
       "description": "It’s drive time on Bean FM and this week the lukewarm hits are in the key of “pasta” thanks to Matt of Bremen! We’ve got all the latest celebrity gossip, updates from Bonjamin’s traffic drone, weather from The Onion Child, something about sport presumably and unlimited adverts!! Call 0800-RIGATONI now with your crazy pasta story and you could win a sieve moulded from the face of Chris Tarrant!!!With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/1fe494f6-d607-40d6-8dca-3d80544f3980/3053e0db59cdf1364dc74e6612ce4a34.jpg",
@@ -1896,7 +1923,7 @@
     {
       "key": "ed0acc058136c0d80ef99b80a6cd81f85b403ac7",
       "title": "Mushrooms",
-      "published_at": "2024-09-18T00:15:02+00:00",
+      "published_at": "2024-09-17T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/mushrooms",
       "description": "The beans doff their caps (FUNGUS PUN!) to Adam of Bremington Spa for providing this weeks topic: mushrooms. What (or who???) are mushrooms? And why? And how come none of the other podcasts are getting to grips with them? Fear? Lobbyists? No matter. Just sit back, chuck some beans together with some mushrooms in a pot, set the hob to lukewarm and let’s see what bubbles up. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/e7748b10-6b7a-420f-82b6-cd5a22ba9c21/055dce1306a29ac4ef0998cab7ac59d3.jpg",
@@ -1917,7 +1944,7 @@
     {
       "key": "1086de665c38f8b6ca0594df39804b4c85afbe11",
       "title": "Jazz",
-      "published_at": "2024-09-11T00:15:02+00:00",
+      "published_at": "2024-09-10T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/jazz",
       "description": "Looking for a clear explanation of the syncopated contrapuntal elaboration of static half-diminished harmony tritone substitution turnaround? Then look no further as Cameron of Milton Keynes has the beans talk about jazz this week and, unless some sort of technical catastrophe has taken place resulting in a comprehensive explanation and discussion of music’s crown prince genre being replaced some quantity of bollocks, the beans have got you covered groove-style. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad STREAMING TICKETS FOR OUR LONDON PODCAST FESTIVAL LIVE SHOWS: Friday 13th Sept 2024, 7pm: https://shop.kingsplace.co.uk/30561/30562 Saturday 14th Sept 2024, 7pm: https://shop.kingsplace.co.uk/30530/30531 With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/66a4ddc1-77bc-41d7-8381-4fcf1375fd3c/2bc5d269ab27ff068d9ef909f1cfafc0.jpg",
@@ -1938,7 +1965,7 @@
     {
       "key": "aa815a182d68eb08d4a99f663f308e995b490b14",
       "title": "Vampires",
-      "published_at": "2024-09-04T00:17:40+00:00",
+      "published_at": "2024-09-03T23:17:40+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/vampires",
       "description": "Play this episode directly in front of a mirror and no reflection of it shall ye see because this episode, the first of season fourteen, is all about vampires thanks to Stan of Manchester. Little is known of the elusive Stan of Manchester other than he always travels with 50 boxes of Transylvanian soil. Make of that what you will. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/d0ef48bc-31e5-4347-a399-24ad97105a9e/e8af0bdb301380a58fb6118a921c1fd1.jpg",
@@ -1959,7 +1986,7 @@
     {
       "key": "f327fce95b890c419dc86350dca00518ce76f23a",
       "title": "Non-episode-isode-isode-isode-isode-isode",
-      "published_at": "2024-08-06T23:59:43+00:00",
+      "published_at": "2024-08-06T22:59:43+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/non-episode-isode-isode-isode-isode-isode",
       "description": "No normal episode of Three Bean Salad this week (we're away until September). Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/31fbc315-f53f-468e-87c2-8b40a9f5f5c6/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -1980,7 +2007,7 @@
     {
       "key": "161f28ac122f07055748c9ca18c4c7c9811b659c",
       "title": "Fifth Wednesday Precaution Alert",
-      "published_at": "2024-07-31T00:15:02+00:00",
+      "published_at": "2024-07-30T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-precaution-alert",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday July and we will only do four Wednesday episodes in a month on the basis of hard won workers' rights) Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/ee2d3a32-00b6-4a1a-8c4b-abf73d5fba9e/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -2006,7 +2033,7 @@
     {
       "key": "41f200824fb4f3c677ea95098eee5001000c4dfd",
       "title": "Archaeology",
-      "published_at": "2024-07-24T00:15:02+00:00",
+      "published_at": "2024-07-23T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/archaeology",
       "description": "This week the beans are scraping away the topsoil of knowledge and softly brushing away the woodlice of friendship to reveal a hoard of lukewarm banter for your pleasure. This is all thanks to Pat from Ely who buried archaeology into the bean machine in the distant past naively assuming it would never be disturbed and would be allowed to rest in peace in perpetuity. Hard cheese, Pat! Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/750ec696-35ca-40f1-9d5a-6174dc33b7d1/3961055bc918a8ab46542827b39fff8c.jpg",
@@ -2026,7 +2053,7 @@
     {
       "key": "c2b82f4c1f5aabe9c0d35303881fdab9a0ee2ebb",
       "title": "Boats",
-      "published_at": "2024-07-17T00:15:03+00:00",
+      "published_at": "2024-07-16T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/boats",
       "description": "\"Why is that Wikipedia doesn’t bother having any pages about aquatic craft these days?”, you might ask if you’d had your head stuck in a honey badger’s front porch for the last 3 years. The answer, of course, is that people come to Three Bean Salad for comprehensive data batches on this subject as well as the very hottest of takes. Previous “searches” by listeners have included submarines, the Titanic and cruise ships. This week Rowan completes the set by asking the beans to unravel the mysteries of the final category of water going vehicles: boats. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/7f08fa23-0d42-47de-b8cd-cf29ec5ab33e/4b8f6d9d04c3cbe9b97440aa81069bf2.jpg",
@@ -2046,7 +2073,7 @@
     {
       "key": "b0c269cec203f9dc4a3c2a69fbfa943d928db034",
       "title": "Haircuts",
-      "published_at": "2024-07-10T00:15:39+00:00",
+      "published_at": "2024-07-09T23:15:39+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/haircuts",
       "description": "Rebecca from (The?) Wirral selects haircuts as this week’s topic for the beans. Presumably this was a cynical attempt to silence Henry for an episode - an attempt which, of course, failed. Rebecca has been referred to the Bean Standards Select Committee and is suspended without pay pending their findings. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f9b7fec9-a1b4-4436-89d9-13d84b94d9c6/c760023becf59989c6d0da591af6bee1.jpg",
@@ -2067,7 +2094,7 @@
     {
       "key": "b3b9ce7aebb7499e3f7dba0f57559ec4c041e08b",
       "title": "My Hot Air Balloon Ride",
-      "published_at": "2024-07-03T00:15:02+00:00",
+      "published_at": "2024-07-02T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/my-hot-air-balloon-ride",
       "description": "This week, Bonjamin Partridge centralises power, unilaterally suppresses any viable opposition and brings all bean media under executive control. “Big deal!” we hear you cry. “He’s just tapping into the Zeitgeist!”. Perhaps you’re right. Perhaps such a man understands that the people need to hear a story about a hot air balloon ride even when they might not think they need to hear a story about a hot air balloon ride. Tune in again next week when Bonjamin turns his sights on the judiciary! Join our PATREON for ad-free episodes, a monthly bonus episode and more: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f7a3d100-5dfa-4d8f-a2b2-f9095e86e8d2/0364d4b77359209c0de413fceaae26f9.jpg",
@@ -2090,7 +2117,7 @@
     {
       "key": "4dcb00913c7fb4adfd56fc074ec35454d4079146",
       "title": "Feudalism",
-      "published_at": "2024-06-26T00:15:02+00:00",
+      "published_at": "2024-06-25T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/feudalism",
       "description": "Is it true what they don’t say that the world is on the brink of sliding back into a system of feudalism? If so where will you be in the pecking order? And more importantly where will podcasters be? Clergy level? Perhaps Cody from America has a take on all this? Perhaps not. Perhaps definitely Cody asked the beans to discuss feudalism and they did after a fashion. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/c2adfeaf-f53b-428c-bb67-d4a5fbd05b2f/e397913d0eb067b7b5d3bc20ea1a42cb.jpg",
@@ -2110,7 +2137,7 @@
     {
       "key": "52ab6ea6316924888e011e6e7ffbb46513ef8b1f",
       "title": "Gameshows",
-      "published_at": "2024-06-19T00:15:03+00:00",
+      "published_at": "2024-06-18T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/gameshows",
       "description": "Allison of Penistone has the beans talk about gameshows this week and by gum they don’t disappoint. Or do they? Why not play the ultimate game of chance and find out? Simply “Spin That Bean!”* and you could stand to win the best part of an hour of lukewarm banter.*conceptual bean only. Sorry. You’ll need to click the link as per. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Livestream tickets for our shows at London Podcast Festival on Friday 13 Sept and Saturday 14 Sept 2024: https://www.kingsplace.co.uk/kplayer/performer/three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/39544582-2cb2-4a02-8ef3-84fe8312c29f/c197c60569be777ec18e97fd07209630.jpg",
@@ -2131,7 +2158,7 @@
     {
       "key": "de0e8be60c0aa55c1c0b09aca1b1e3186b22dd4d",
       "title": "Libraries",
-      "published_at": "2024-06-12T00:15:03+00:00",
+      "published_at": "2024-06-11T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/libraries",
       "description": "It is said that there as many books in the libraries of the world as there are atoms in a book (although not sure which book. Actually that doesn’t make sense given the variation in the size of books. Perhaps it was in a grain of sand. Or is that the thing about there being the same number of stars in the sky as grains of sand in a beach. But which beach? West Wittering is massive. Actually forget it). Freya of Bremen has chosen libraries for this week’s topic so for once can we all just ruddy well put those phones away and read a bleeding novel?! Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Livestream tickets for our shows at London Podcast Festival on Friday 13 Sept and Saturday 14 Sept 2024: https://www.kingsplace.co.uk/kplayer/performer/three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/963ea0cd-e8ca-4d4f-9abb-992e9db94071/e9069365f9101ac13ac8b45fb62a6188.jpg",
@@ -2151,7 +2178,7 @@
     {
       "key": "b116c041a9ae8d11a1c93c9db9d76671dc04176d",
       "title": "Eggs",
-      "published_at": "2024-06-05T00:15:03+00:00",
+      "published_at": "2024-06-04T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/eggs",
       "description": "A brand new series kicks the talon of lukewarm banter through the paper-thin shell of rules before squawking truth bombs from the beak of freedom and watching its unhatched siblings being gathered by the smallholder of something else and incorporated into a pretty decent ham and cheese omelette. That’s right, thanks to Katie of Hull, the first topic of the first of episode of series 13 is eggs. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/dc2d81eb-592b-4d0e-83f5-e11fdeb39bf8/e1b4da537592bdab7da83b5b9e262521.jpg",
@@ -2169,7 +2196,7 @@
     {
       "key": "1f2301b857c036c860f45f72c617dc75d08dd057",
       "title": "Non-episode caretaker abeyance-isode",
-      "published_at": "2024-05-01T00:15:03+00:00",
+      "published_at": "2024-04-30T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/non-episode-caretaker-abeyance-isode",
       "description": "No normal episode of Three Bean Salad this week (we're away until June). Join our PATREON at patreon.com/threebeansalad for bonus episodes.",
       "image_url": "https://artwork.captivate.fm/51fdf342-a072-4db3-8cb5-491b732c9e60/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -2192,7 +2219,7 @@
     {
       "key": "39e400901980bb05a7be66c21e4e776c9e80cb38",
       "title": "Farming",
-      "published_at": "2024-04-24T00:15:03+00:00",
+      "published_at": "2024-04-23T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/farming",
       "description": "This week the beans doff their Harris Tweed flap caps to Chrissie of Bremen whose topic suggestion of farming has slipped out of the bean machine’s birth canal, glistening with the lukewarm goo of banter before landing softly on the (also lukewarm) straw of compelling, independent broadcasting and bleating with the timbre of nature’s very own promotional jingle. The beans shall return come the radish harvest (June). Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/50b726ae-65c6-4800-9637-c6ae36d4027c/1033a76337b7be54cd9e58007ca5de70.jpg",
@@ -2213,7 +2240,7 @@
     {
       "key": "dd3841a830d8d427f11b579c66fa9822b2963fdb",
       "title": "Wine",
-      "published_at": "2024-04-17T00:15:03+00:00",
+      "published_at": "2024-04-16T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/wine",
       "description": "The Industrial Revolution, the assassination of Julius Caesar, the debut performance of “Wang Dang Doodle” by Howlin’ Wolf, the wedding of Jérôme d'Ambrosio and Eleonore von Habsburg, The Black Death. What do these things have in common? All of them took place within spitting distance of some quantity of wine probably. No wonder then that Charlie of St. Louis has selected wine as this week’s topic for the beans - served lukewarm. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/05dfcbf5-2b4a-4473-a46e-def5b922bca8/b63be256d632848b6102f89d193365f5.jpg",
@@ -2233,7 +2260,7 @@
     {
       "key": "c701ca309672e1e168b96aad8398a5d3d9fc4b20",
       "title": "Olives",
-      "published_at": "2024-04-10T00:15:03+00:00",
+      "published_at": "2024-04-09T23:15:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/olives",
       "description": "Trigger warning for any misophonia sufferers this episode (although Henry probably weeded these people out long ago). Olives is this week’s topic with thanks to Lewis of Lewisham. Obviously no one really understands what an olive is so it’s a tough one for the beans but the beans battle on gamely nonetheless. Giant snails also get a mention and about ruddy time. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/76967d62-8493-41de-9350-892a2e7f873b/566afba4fd15b644eafc216ace28659d.jpg",
@@ -2253,7 +2280,7 @@
     {
       "key": "26171f4436d3a8818b1b46b2ae13a5de1c0c220c",
       "title": "Cloche Bleue",
-      "published_at": "2024-04-03T00:23:08+00:00",
+      "published_at": "2024-04-02T23:23:08+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/cloche-bleue",
       "description": "Cloche Bleue: noun 1) Term used to denote a blue bell or a cat named Bluebell by a French speaker or by members of London’s metropolitan elite 2) archaic Obsolete Royal Naval punishment also known as the “Arctic Arse Spinnaker” 3) A curate’s egg of an episode in which the podcasters forget to find a proper topic to discuss after being mesmerised by the work of a French jinglist called Samuel Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch now available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com @beansaladpod Music includes:An der schönen blauen Donau, Op.314 (Strauss Jr., Johann) by Das Orchester TSUMUGI. (Creative Commons Attribution 4.0)",
       "image_url": "https://artwork.captivate.fm/4c6e8f98-00ef-457f-9cb4-e86eede87e86/bc0b2fe3cdda5d2a6caf68758140e5d0.jpg",
@@ -2586,7 +2613,7 @@
     {
       "key": "9eed399840cd12843f438c42ff482a52270c440a",
       "title": "Surfin'",
-      "published_at": "2023-10-25T01:19:18+00:00",
+      "published_at": "2023-10-25T00:19:18+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/surfin",
       "description": "To round off series whatever it is Isabella feeds surfin' into the bean machine in the hope of crystal clear, effluent-free lukewarm banter. Will the beans turtle roll some ankle slappers? Or will they hang ten on a shubie’s mushburger? Why not tombstone a paddlepuss and find out? Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/5e4d1cb0-e7a2-4000-93bb-8c6eb754a8f6/4f8aea5c3ad2b874f39e11f636b67174.jpg",
@@ -2606,7 +2633,7 @@
     {
       "key": "fe228cfc613eb8cfdaaf22bf350907f406e9644c",
       "title": "The Trojan War",
-      "published_at": "2023-10-18T00:15:02+00:00",
+      "published_at": "2023-10-17T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-trojan-war",
       "description": "Definitely a cursed episode this one. No one’s fault. Worth knowing going in though. If you’re brave enough to take the plunge you’ll discover that Rowan had the beans grapple with the Trojan War and you’ll probably say to yourself “That shouldn’t present a problem to the beans although I bet they end up being a bit reductive about calzones” and you’d be right. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/5f5bceb3-9593-4b15-8b5e-d7e69877f98c/92eb7a9ca045bd2d4c2418d4e8da3ae6.jpg",
@@ -2626,7 +2653,7 @@
     {
       "key": "d24940d40bb052482d495b7cb36d46dee6420351",
       "title": "The Higgs Boson/Particles",
-      "published_at": "2023-10-11T00:15:02+00:00",
+      "published_at": "2023-10-10T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-higgs-boson-particles",
       "description": "Muriel from Illinois has the beans discuss The Higgs Boson/Particles this week. Listeners might be concerned the beans are entering knowledge-gap territory here but it turns out between them they average 2 ⅔ science GCSEs a piece*. *grades attained unavailable and what do they mean anyway really??? Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/c201972f-2e57-4175-aab0-901b4b97f063/8c96dd0b2ea097c39ed9469b8ab78d77.jpg",
@@ -2649,7 +2676,7 @@
     {
       "key": "f08866fd2906182899486bc18697aa047cedc70e",
       "title": "Fashion",
-      "published_at": "2023-10-03T23:15:02+00:00",
+      "published_at": "2023-10-03T22:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fashion",
       "description": "Thank goodness one of the beans is a jewel-encrusted member of London’s glitterati because this week’s topic, thanks to Catherine of Bremen, is fashion. What do your chinos say about you? What do you say about your chinos? And what would your chinos say about what you’d said about them if they’d overheard it? All questions the beans are unable to answer for you of course but while you’re working them over why not strike a pose and tune into the lukewarm banter based podcast du jour. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/efd80884-9a68-43e1-976c-5bcf31b1b6fd/693b628139dbcd149edc9b2474d36c39.jpg",
@@ -2670,7 +2697,7 @@
     {
       "key": "f61714274eeff4742d6132522275de5f974256e5",
       "title": "Elvis",
-      "published_at": "2023-09-27T00:15:02+00:00",
+      "published_at": "2023-09-26T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/elvis",
       "description": "It’s widely accepted that if Elvis Presley were alive today he would have made a really decent podcaster. Where better then to discuss his life and legacy than on a podcast which, at the time of writing, is ranked as Finland’s 245th most popular sleep aid? Thanks to Dan (presumably of Bremen) for feeding The King into the bean machine. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f6a16754-69b5-4c1f-907a-9ed6fdaa145d/ba1ae22874b8ad89a0882ba2fe1d0077.jpg",
@@ -2691,7 +2718,7 @@
     {
       "key": "6f80c8992316626c997e5927bdb514010597508f",
       "title": "Orange",
-      "published_at": "2023-09-20T00:15:02+00:00",
+      "published_at": "2023-09-19T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/orange",
       "description": "The topic of orange is wmg’s gift to the beans this week and you can bet your bottom dollar the beans don’t just squeeze every last drop of chat juice out of it. No siree! They candy the peel, compost the pith and pulverise the pips to extract linoleic acid which could be used in the production of organic varnishes for example (metaphorically). Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/51e82b2b-07fb-43d4-9217-47a3faef786e/7d243ff88a409a2f0010f27ce7b6912c.jpg",
@@ -2711,7 +2738,7 @@
     {
       "key": "c9cbbcf56ff8df0b43a2519562d0587b335260bd",
       "title": "Pencils",
-      "published_at": "2023-09-13T00:15:02+00:00",
+      "published_at": "2023-09-12T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/pencils",
       "description": "Popo (THE Popo?????) decides the beans ought to discuss pencils this week. Henry manages to crowbar in Andie MacDowell (surprise, surprise), congressional hearings get a mention as do several Roberts and Benjamin shares a top tip for increasing your household acreage without planning permission. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad To buy streaming tickets for our upcoming live shows: Saturday 16th September 2023, 7pm (UK time) https://shop.kingsplace.co.uk/29411/29415 Sunday 17th September 2023, 2pm (UK time) https://shop.kingsplace.co.uk/29666/29667 Sunday 17th September 2023, 4.30pm (UK time) https://shop.kingsplace.co.uk/29412/29416 Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/e30a9dd7-7255-403e-af47-b1ab3f5d3cb4/e94c995ea872d3be88280de0d5254b59.jpg",
@@ -2731,7 +2758,7 @@
     {
       "key": "077f4daeae85baa04e5e93e058afe5af5f0526eb",
       "title": "Beer",
-      "published_at": "2023-09-06T00:15:02+00:00",
+      "published_at": "2023-09-05T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/beer",
       "description": "The beans are back and Sean of Exeter has given them the topic of beer, the cheeky old rascal!!!!! As luck would have it the beans just so happen to know one end of a pint from the other cor bloomin’ heck don’t they just the bloody legends so don’t be surprised if the banter isn’t just served lukewarm but has a ruddy lemonade top to boot weh hey!!! Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad To buy streaming tickets for our upcoming live shows: Saturday 16th September 2023, 7pm (UK time) https://shop.kingsplace.co.uk/29411/29415 Sunday 17th September 2023, 2pm (UK time) https://shop.kingsplace.co.uk/29666/29667 Sunday 17th September 2023, 4.30pm (UK time) https://shop.kingsplace.co.uk/29412/29416 Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/b3f3dc2e-be40-440c-9f57-61d511ca84ed/f8520a038defce4a5dab9620da0ba9d3.jpg",
@@ -2751,7 +2778,7 @@
     {
       "key": "e768330754a31e44126565960b1fe6ffbba102bc",
       "title": "Non-episode-isode",
-      "published_at": "2023-08-01T00:15:02+00:00",
+      "published_at": "2023-07-31T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/non-episode-isode",
       "description": "No normal episode of Three Bean Salad this week (we're away until September). Join our PATREON at patreon.com/threebeansalad for bonus episodes. Tickets to stream our upcoming live shows: Saturday 16th Sept, 7pm: https://shop.kingsplace.co.uk/29411/29415 Sunday 17th Sept, 2pm https://shop.kingsplace.co.uk/29666/29667 Sunday 17th Sept, 4.30pm https://shop.kingsplace.co.uk/29412/29416",
       "image_url": "https://artwork.captivate.fm/1089f615-77e6-49a1-9054-994a9bc0b02f/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -2772,7 +2799,7 @@
     {
       "key": "72624d676f739d5034306fb0383d5506814ec504",
       "title": "Oats",
-      "published_at": "2023-07-26T00:15:02+00:00",
+      "published_at": "2023-07-25T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/oats",
       "description": "It’s the last episode of the season so thank goodness Gavin (of Bremen most likely) furnished the beans with the humdinger zeitgiest chat-nip topic that is…oats! The beans lurch from the grain-of-now to trouser physics and back again all for YOUR listening pleasure. Summer good and summer true dear friends. Three Bean Salad shall return at Septembertide. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/0e28f16a-b26e-464a-be46-927f5c4188f0/a83cdce821358ee8269c66b41c0ead72.jpg",
@@ -2792,7 +2819,7 @@
     {
       "key": "ce8aac7ff58fb3067b34f040296a33d51253de3b",
       "title": "Urban Legends",
-      "published_at": "2023-07-18T23:53:37+00:00",
+      "published_at": "2023-07-18T22:53:37+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/urban-legends",
       "description": "The beans have to get to grips with urban legends this week thanks to Tabby from Edinburgh. But before that Henry tells an anecdote so long that it begins to develop its own atmosphere and gravity. Finally they get stuck into urban legends and it gets scatalogical IMMEDIATELY for which Tabby surely has to take some of the blame. In fact large chunks of the episode are pretty unpalatable so please don’t listen to it anywhere near an impressionable child or unripe AI. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/9aec3fa2-c652-4120-85d0-e604ef8a79ea/407084a9a1e68e240fad7a538b7b8005.jpg",
@@ -2813,7 +2840,7 @@
     {
       "key": "929503e7581d76d0118ea1a03df8e1e2a44a7b3a",
       "title": "Whales",
-      "published_at": "2023-07-12T00:22:04+00:00",
+      "published_at": "2023-07-11T23:22:04+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/whales",
       "description": "Ben from Cardiff (WE KNOW RIGHT???!!!) submits the topic of whales and the Beans waste no time getting into some radical new theories of aquatic taxonomy and evolution. If you’re wondering whether or not they’re qualified to handle that stuff let’s not forgot that Mike’s got a biology A-level, Ben lives a mere 4 hour drive away from the Rhyl SeaQuarium and Henry can draw a ruddy good haddock. This episode also contains a dose of the Old Testament which never did anybody any harm. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/b742a055-ee1d-49eb-bd6a-6d183afed884/855c57f0e7b8d48cc0e0bf67505d4140.jpg",
@@ -2834,7 +2861,7 @@
     {
       "key": "57745f3b6bf614e55a716067e2567b1382a886da",
       "title": "Cults",
-      "published_at": "2023-07-05T00:15:02+00:00",
+      "published_at": "2023-07-04T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/cults",
       "description": "Megan from Bremen sends beans a-yappin’ about cults this week. It proves to be an episode packed with jaw-dropping revelations, not least of which is Henry’s confession to a major personal creed-shift. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/059be196-6097-4c13-acd2-1b4e216a473f/baf78d4126ce66f3961ac2f46ff6347c.jpg",
@@ -2855,7 +2882,7 @@
     {
       "key": "4e17b351219af135ee9eb751ba2e61857ed36adc",
       "title": "Time Travel",
-      "published_at": "2023-06-28T00:09:24+00:00",
+      "published_at": "2023-06-27T23:09:24+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/time-travel",
       "description": "How did scientists explain theories of time travel to laypeople before the invention of paper napkins? This is just one of the many questions surrounding this week’s topic of time travel (courtesy of Ben of Horsham) that the Beans simply don’t touch. Talc makes an appearance though. Content warning: contains audio of the podcast’s first partial nude. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/70939f78-5f78-47f9-8ab7-2aec3d561be4/f3039a4d12c2be487478324d873f2163.jpg",
@@ -2877,7 +2904,7 @@
     {
       "key": "90950b60e8b4d8fd3e1529830e4fb0613f7d54cd",
       "title": "Volcanoes",
-      "published_at": "2023-06-21T00:15:01+00:00",
+      "published_at": "2023-06-20T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/volcanoes",
       "description": "It takes every ounce of the beans’ strength to keep the banter lukewarm this week as they take on Phil of Baltimore’s inherently hot topic of volcanoes during the most violent heat wave the British Isles have ever seen. Does heat melt away their satirical fangs? No! (Listen if you dare, Tony Blair!) Does it stop them from catching up with what Silvio Berlusconi was up to in 2006? No way! Do the energy levels audibly drop towards the end of the episode? Arguably. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Live-stream tickets for our live shows at London Podcast Festival: 16th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-16-09/ 17th September: https://www.kingsplace.co.uk/whats-on/comedy/online-streaming-three-bean-salad-17-09/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/a25292ad-25e3-45e8-b4ac-57c7ff4f6a88/6c208936898aeb5439e23bea1dc4ce60.jpg",
@@ -2897,7 +2924,7 @@
     {
       "key": "bc1c36ca8054c63d1cf08bf563b5c66e41ed2549",
       "title": "Tea",
-      "published_at": "2023-06-14T00:15:02+00:00",
+      "published_at": "2023-06-13T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/tea",
       "description": "To Ben’s horror, the theme this week, thanks to Dedan-Jah Jonker the rheumatic Dutchman, is his bête noire: tea. To make things worse for poor, sweet, bean-machine laden Ben, this episode also finds him forced to confront his most recent near death experience at the hands of a certain type of central European bastard the guide books don’t warn you about. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/85f56f5c-ccf4-43a0-9cfb-14cf9a098625/60f94f48ae3bd2c08228a3cb0b0ebbbf.jpg",
@@ -2915,7 +2942,7 @@
     {
       "key": "fe571f166dcd9c105e8ed99e9ef94d0455f9ef1b",
       "title": "Fire",
-      "published_at": "2023-06-07T00:15:02+00:00",
+      "published_at": "2023-06-06T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fire",
       "description": "Hazel of Bremen throws lukewarm caution to the wind and has the beans discuss FIRE! Some sage words on friendship (and eyebrow) management are included and it will come as no surprise that Henry’s employment history is once more in the mix. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/c55e284e-4e93-4211-8dc2-80276c55b5a3/d5d720147bbf1fc8f327886023fd8dba.jpg",
@@ -2936,7 +2963,7 @@
     {
       "key": "13f38a447e9ce6869b53c2966372cfc285db8d3a",
       "title": "Not an episode non-episode episode",
-      "published_at": "2023-05-03T00:15:01+00:00",
+      "published_at": "2023-05-02T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/not-an-episode-non-episode-episode",
       "description": "No normal episode of Three Bean Salad this week (we're away until June). Join our PATREON at patreon.com/threebeansalad for bonus episodes.",
       "image_url": "https://artwork.captivate.fm/04eb52ac-3ee4-403e-ab34-83763061261c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -2955,7 +2982,7 @@
     {
       "key": "0caa116784a9d98f6e4492364b2e1c3004e408be",
       "title": "The Essence Of Fear",
-      "published_at": "2023-04-25T23:55:03+00:00",
+      "published_at": "2023-04-25T22:55:03+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-essence-of-fear",
       "description": "Without a care in the world, Zachary of Bremen tosses the spine-chilling topic of “The Essence of Fear” into the bean machine quiver and expects the beans to just deal with it once it’s fired out. Of course - they do. They dive deep. Gossamer deep. Listen only with extreme caution (one ear?). Also contains a forbidden jingle. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/28ed967f-97bb-4ae5-a67d-347a28540b77/cb8e98c4b785a256b1da48faa24da514.jpg",
@@ -2976,7 +3003,7 @@
     {
       "key": "947762a7b57c9e527248d16514c491af0a433b9a",
       "title": "Teachers",
-      "published_at": "2023-04-19T00:15:02+00:00",
+      "published_at": "2023-04-18T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/teachers",
       "description": "This week the Bean Machine, having been pre-loaded by Luke (of Bremen?), spits out the topic of teachers. It’s time for the beans to think about how many Alsatians is too many Alsatians. Also the dear listeners are called upon to help solve a cereal based codger mystery. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/99e6ff38-b9d0-4fe2-9592-16791b8578c2/26719c1e362c9bf6871f21389e468f81.jpg",
@@ -2996,7 +3023,7 @@
     {
       "key": "b302a78f9eb08e023a38b840af118afe9aebdcae",
       "title": "Dentists",
-      "published_at": "2023-04-12T00:15:02+00:00",
+      "published_at": "2023-04-11T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/dentists",
       "description": "This week’s topic comes from none other than Phillip Kerrigan of Kerrigan’s mustard. His choice: dentists. It’s a thorny one, sure, but that doesn’t put off the beans. They chat hard and true and, arguably at the top of their podcasting game, find a way to incorporate crabs. This episode is dedicated to the late, wonderfully funny and much missed comedian Gareth Richards. Gareth's website: http://www.garethrichards.net/ Gareth's EP: https://garethrichards.bandcamp.com/album/these-songs-could-be-used-in-adverts-ep Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/5e2923f5-d294-4d82-95a0-6261646b0c4b/b15ba53c57816522e291b15657f0a35f.jpg",
@@ -3017,7 +3044,7 @@
     {
       "key": "db9fab7221657033a9dae1edded6f31f69872a5c",
       "title": "TV Crime Shows",
-      "published_at": "2023-04-05T00:15:01+00:00",
+      "published_at": "2023-04-04T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/tv-crime-shows",
       "description": "Neil (presumably of Bremen) offers up the topic of TV crime shows. At least one of the beans is like a pig in the proverbial with such a fearsomely strong topic but nevertheless the beans do make time to touch upon French impressionism, infini-hills and aquatic apex predators. Also contains hot new intel on a drop-dead decent storage solution. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/598532e3-8a32-4278-82c4-ad6492c19844/b40fadb6420ad398e74df4f97da53d32.jpg",
@@ -3037,7 +3064,7 @@
     {
       "key": "5b47a18dfcf7608b9b7486005e5e6c578c1ef623",
       "title": "Fifth Wednesday Calendar Abberation Broadcast",
-      "published_at": "2023-03-29T00:05:02+00:00",
+      "published_at": "2023-03-28T23:05:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-calendar-abberation-broadcast",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday March and we will only do four Wednesday episodes in a month on the basis of human rights, the will of the moon and natural justice)",
       "image_url": "https://artwork.captivate.fm/286f3e39-c8a0-442e-b197-814f6940897a/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -3401,7 +3428,7 @@
     {
       "key": "78fb7393a22be990b200660ac6d83667791f8ed8",
       "title": "Glass",
-      "published_at": "2022-10-26T01:29:34+00:00",
+      "published_at": "2022-10-26T00:29:34+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/glass",
       "description": "This week’s topic, courtesy of “Your Worst Nightmare” is glass. Having comprehensively and definitively covered the science of glass in the deep bean past the beans find time to get entrepreneurial (watch this space, dog owners), satirical (watch out, The Man) as well as sorting out their pension plans. They even manage to squeeze in a smidge of Gérard Depardieu for good measure. A bumper crop for the last episode of this season. The beans shall return in December. In the meantime, for heaven’s sake, don’t sit on your own arse. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/3042b596-0409-4acf-b565-ca058af6d70c/28ef86f41471fa0993c0d12b89c8f30f.jpg",
@@ -3421,7 +3448,7 @@
     {
       "key": "4749a561f41bea4a50d7764af14c1eace9a20814",
       "title": "Mail",
-      "published_at": "2022-10-19T00:15:01+00:00",
+      "published_at": "2022-10-18T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/mail",
       "description": "In what would probably the worst episode ever for a brand new listener to sample the show fresh, Phillip Kerrigan of Kerrigan’s Mustard gets his Bean Machine double dip and has the beans discuss mail. What follows is a feast for veteran ears but more of a sick bag for novices as the beans get into rat poison, Bonjamin and, of course, ham. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/610653bf-d1fc-4d96-83fc-a41bad13364e/c5843a5fe12d9cd8f1c513bef397bb6b.jpg",
@@ -3441,7 +3468,7 @@
     {
       "key": "67f6d60ad30440d05dca04bf41885eb692ae5469",
       "title": "Sandwiches",
-      "published_at": "2022-10-12T00:15:02+00:00",
+      "published_at": "2022-10-11T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/sandwiches",
       "description": "This week in Three Bean Salad starring Henry Paker, Mike Wozniak, Benjamin Partridge, Neil of Bremen suggests Henry Paker and co tackle a subject close to Henry Paker et al’s heart - sandwiches. Included in this episode of Three Bean Henry Salad Paker with Henry Paker: Henry Paker ably interrogates second fiddle Benjamin Partridge on economical sandwich sourcing, Henry Paker discusses Mike “podcast linesman” Wozniak’s thoughts on sandwiches for him and Henry Paker tells a pakeresque story from the past of Henry Paker featuring Henry Paker. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/112858e4-67cb-4524-a065-4d801a68f360/a10ad55b7dfea7e941e66b76c2f3d7cb.jpg",
@@ -3461,7 +3488,7 @@
     {
       "key": "d48dbd5ca503b807d8bf37d453c30d293ca76884",
       "title": "Going To Disney World And Not Wanting To Be Dressed Up As A Ruffian",
-      "published_at": "2022-10-05T00:15:01+00:00",
+      "published_at": "2022-10-04T23:15:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/going-to-disney-world-and-not-wanting-to-be-dressed-up-as-a-ruffian",
       "description": "Jen mines her own dreams this week to provide the beans with the topic of going to Disney World and not wanting to be dressed up as a ruffian. Silk worms get a shout out early doors, before the beans glide through Gary Lineker, glance briefly over Bulgarian politics and end up somewhere in the region of The Fonz. Enjoy but remember: you can’t sit on your own arse. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/ee32e3b6-bfd3-4ae4-9ec7-b213e32e9384/1751cdead091f4348452b80bf500e442.jpg",
@@ -3483,7 +3510,7 @@
     {
       "key": "6438fc049896114512860fa32925bb91befb7316",
       "title": "RATS!",
-      "published_at": "2022-09-28T00:15:02+00:00",
+      "published_at": "2022-09-27T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/rats",
       "description": "The topic this week is no topic owing to an excess of intro prattling which the Bean Machine was unable to cope with. Did Henry forget to clean the Bean Machine slough-sump? Did Mike fail to de-scale the low-pressure waffle sprocket? Has Ben been at the raw prawns again? Or maybe rats got in. In time we may have answers for you but in the meantime here’s a hamless ham sandwich of a podcast episode to help you get to sleep. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod Feat. \"Shop Jazz\" by https://freesound.org/people/Migfus20",
       "image_url": "https://artwork.captivate.fm/f7f1b286-d2af-424c-b076-413d7eee7c75/b5fc6fac539e6504ac16d058e7a53437.jpg",
@@ -3502,7 +3529,7 @@
     {
       "key": "912a67538483eb5e18266924271defdbce6ff82d",
       "title": "Artificial Intelligence",
-      "published_at": "2022-09-21T00:15:02+00:00",
+      "published_at": "2022-09-20T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/artificial-intelligence",
       "description": "Paul from Widnes (bot status unconfirmed) serves up the topic of Artificial Intelligence for the beans this week. Sure, to begin with they simply respond by making a series of vague futuristic noises, they’re only flesh and blood (confirmed), but soon enough they get busy and deliberate crab newspapers, an unusual use of hair conditioner and the truth about the Netherlands. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/e5ead3b3-6d6b-4d5e-9fe0-0af4a78fb460/d05a3e1b3e2211644fb67f3829c0d2ce.jpg",
@@ -3524,7 +3551,7 @@
     {
       "key": "23eb75cbaa47740b1c971d7fcc9f694dd77d8cdf",
       "title": "Hats",
-      "published_at": "2022-09-14T00:15:02+00:00",
+      "published_at": "2022-09-13T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/hats",
       "description": "Steph of London isn’t shy about getting the beans to tackle hats and tackle hats they do. For the sake of completeness they incorporate oral tomato snooker, pencil sharpeners and Dobermann puppies. Also expect to hear a hot, fresh exclusive about Ben’s upcoming rebranding. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Livestream tickets for our live show on Saturday 17th Sept: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/575d5115-bcc7-435c-a8ae-5ffdad5dbe41/5a5b45f1024a88e9ec96d7720499c383.jpg",
@@ -3543,7 +3570,7 @@
     {
       "key": "29dddfbd29d916a18ac6693fc879c50db9ee0c6a",
       "title": "Teeth",
-      "published_at": "2022-09-06T23:45:52+00:00",
+      "published_at": "2022-09-06T22:45:52+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/teeth",
       "description": "Away we go for Season 6 which begins with the topic of teeth as suggested by Josh of Bremen. Tune in for tales of sea snakes, how close the world came to seeing its first coin-operated man and why you should be suspicious of anything that costs £78. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Livestream tickets for our show in September: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/b862e453-fcfc-442a-a4d4-1b9ce3469f15/30cdbd5c0f8ef36f7cdc9ec97055ad63.jpg",
@@ -3563,7 +3590,7 @@
     {
       "key": "4df16dbfc2921516f666722812770d10cb77f045",
       "title": "Non-episode-isode",
-      "published_at": "2022-08-03T00:15:02+00:00",
+      "published_at": "2022-08-02T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/non-episode-isode",
       "description": "No normal episode of Three Bean Salad this week (we're away until September), but if you want to listen to extra bonus content you can sign up at our PATREON at patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/50eb503e-7e9d-429d-852e-8cc5bd739323/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -3584,7 +3611,7 @@
     {
       "key": "b3e9590c5dcd31b594ca1379b84394d06f37d88d",
       "title": "Swords",
-      "published_at": "2022-07-26T23:57:53+00:00",
+      "published_at": "2022-07-26T22:57:53+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/swords",
       "description": "For the final episode of Season 5 Maddie of the USA hurls the beans towards the hot topic of swords. The Great Ham Cultures feature heavily, the lid is lifted on the art of car servicing and you’d better believe they cover hot pebbles (about ruddy time). The beans will return in September, fresh of face and fleet of professionally medicated foot. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Livestream tickets for our show in September: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/fd345c92-3e6b-47fe-831f-125f545a1cdb/803ae17b085830500ccd859924d277b8.jpg",
@@ -3604,7 +3631,7 @@
     {
       "key": "d72c98ea0647b1aac441a98818ec2771c322c613",
       "title": "Canada",
-      "published_at": "2022-07-19T23:27:55+00:00",
+      "published_at": "2022-07-19T22:27:55+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/canada",
       "description": "George of Canada has drawn inspiration from the fact he’s in Canada and picked the theme of “Canada” for the beans this week. Little could he have imagined he’d prompt a nation-ruining exposé as the beans unveil the gris(zz)ly truth about SBAJ! Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Livestream tickets for our show in September: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f4c6abe1-32c2-4286-80e9-670d2782b838/638d3c5b73e3264a9661f5c67c959d64.jpg",
@@ -3625,7 +3652,7 @@
     {
       "key": "1ec700d6cf486009e420d230f56cf876419edc73",
       "title": "Service Stations",
-      "published_at": "2022-07-13T00:43:56+00:00",
+      "published_at": "2022-07-12T23:43:56+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/service-stations",
       "description": "This week the juicy topic of service stations is thrown the beans’ way by none other than Hannah Kohler of London. The episode is crucial listening for anyone at risk of being trapped in a well. In addition, geese get more than honourable mention and Henry drops a hot-dog bombshell. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Livestream tickets for our show in September: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/9457ae17-8556-4686-8dfb-9c60e7fb2083/57c83ec569cd33a2fd8e8f9a004c028a.jpg",
@@ -3647,7 +3674,7 @@
     {
       "key": "dd56b238af415ebed1c57754c880909878014200",
       "title": "Sitcoms",
-      "published_at": "2022-07-06T00:15:02+00:00",
+      "published_at": "2022-07-05T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/sitcoms",
       "description": "Emma of the Seychelles sends the beans on something of a busman’s holiday with the topic of sitcoms. Ben gives our the listeners the scoop on his latest project, Mike digs his heels in on his wolf identification skills and Henry unlocks the secrets of his own past. Livestream tickets for our show in September: https://www.kingsplace.co.uk/whats-on/comedy/online-three-bean-salad/ Tickets for Mike Wozniak's tour of his new stand-up show Zusa: https://littlewander.co.uk/show/mike-wozniak-zusa/ Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/ca33d9c7-a8b8-4202-8262-2002fb5b7a5d/d5aed481de79685e51cb7026b40f2d3f.jpg",
@@ -3667,7 +3694,7 @@
     {
       "key": "f5fbd801ec3df4e5a122cdd9407c982776669c83",
       "title": "Fifth Wednesday Non-Episode Plenary Session",
-      "published_at": "2022-06-29T00:15:02+00:00",
+      "published_at": "2022-06-28T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-non-episode-plenary-session",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday June and we will only do four Wednesday episodes in a month on the basis of human rights), but if you want to listen to a new bonus episode (and all of our bonus output going back to the Genesis bean) you can sign up to our PATREON at www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/95fc9dbd-73ee-458d-8b81-2d98f7867dbf/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -3693,7 +3720,7 @@
     {
       "key": "859f113c72b465293b1580faf137908a496dd711",
       "title": "Tubes",
-      "published_at": "2022-06-21T23:14:54+00:00",
+      "published_at": "2022-06-21T22:14:54+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/tubes",
       "description": "Thanks to Dr P this week the beans get to grips with that fundamental unit of life: tubes. Essentially if looks like it tube and it sounds like a tube it’s a tube and if it doesn’t there’s a good chance it’s a tube after all if you think about it. Also we find out how Henry takes a bath. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/c75f198e-eb2e-45bf-a7dd-33de7de7d8c6/04f84aba6ace1eb07d144219c04ab2ac.jpg",
@@ -3713,7 +3740,7 @@
     {
       "key": "4740f87b9445d5dda0932d5bc075fb1a9198a320",
       "title": "France",
-      "published_at": "2022-06-15T00:15:02+00:00",
+      "published_at": "2022-06-14T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/france",
       "description": "France is this week’s topic thanks to the theme nudging of Michael. Lifelong francophilobean Henry Paker is a cochon in the proverbial merde and gives us his hot take on croissants, the quotidien life of French bakers as well a live translation of La Marseillaise for those without a firm grasp of the French language or decent wifi. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/b1a0170d-b8ff-4e6d-a554-7b9889e693bf/682d35c7aa04fb14e42823457f750cff.jpg",
@@ -3733,7 +3760,7 @@
     {
       "key": "15829f8c83fce506a808940e67d7a112905486a9",
       "title": "Prizes",
-      "published_at": "2022-06-08T00:15:02+00:00",
+      "published_at": "2022-06-07T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/prizes",
       "description": "Phillip Kerrigan of Kerrigan’s Mustards gets the beans talking about prizes. They offer up a lesser known travel tip for the Philippines, an approach for undergraduate exam preparation and Ben finally shows his true colours (listener discretion advised - they ain’t a pretty shade). Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/1fdf9fbd-8ae2-415d-9336-3a32665e2a6e/a539c39e939367913e96217ebc5a5d4a.jpg",
@@ -3754,7 +3781,7 @@
     {
       "key": "4230b12a64b46ee0b57ba68fd6209f36e6edfec2",
       "title": "Bears",
-      "published_at": "2022-06-01T00:15:02+00:00",
+      "published_at": "2022-05-31T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/bears",
       "description": "Welcome back for SEASON 5 which Henry thinks means we’ve been going for either 70 episodes or 70 years. Thanks to Steph of London the season kicks off with the topic of bears. Literally and figuratively full of beans from their hiatus, the actual beans manage to steer on course for an admirable chunk of the episode but do manage to give glancing chat blows to Paul Hogan, Thug and Nicky the Pygmy Hippos and what might have happened to Henry’s missing bag of CDs. Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/9141bcf2-b418-4200-9bb6-430b661081c5/2c8cf9ee960b7d316601fbafa2e3e5f5.jpg",
@@ -3774,7 +3801,7 @@
     {
       "key": "d46c308b94692e3908276174531f2e26f56ecf52",
       "title": "No Bean Salad Non-Beanisode",
-      "published_at": "2022-05-03T22:39:55+00:00",
+      "published_at": "2022-05-03T21:39:55+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/no-bean-salad-non-beanisode",
       "description": "No normal episode of Three Bean Salad this week (we're away until June), but if you want to listen to new bonus episodes you can sign up to our PATREON at patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/47519c33-d7fa-4736-948a-a361ec11d397/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -3799,7 +3826,7 @@
     {
       "key": "b9a96c646ca35d1adf3639e52c62e3ea0ccdb632",
       "title": "Tusks",
-      "published_at": "2022-04-27T00:10:02+00:00",
+      "published_at": "2022-04-26T23:10:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/tusks",
       "description": "For the final episode of the season, tusk monomaniac Jerome of Indiana, locks the beans onto his favourite dental protrusion. It will come as no surprise to Jerome that the beans prod their chat fangs deep into the definition of true art, the ethics of umbrella storage and Henry’s arena-filling splinter project. Get in touch: threebeansaladpod@gmail.com @beansaladpod Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/eb358319-8475-4b08-bcb2-449736a84e98/1c58dbca179ad0e6a9474adbda9f5469.jpg",
@@ -3819,7 +3846,7 @@
     {
       "key": "bcebeeade63dfcf0ca2290329b62e41d29290b4e",
       "title": "Maps",
-      "published_at": "2022-04-20T00:23:57+00:00",
+      "published_at": "2022-04-19T23:23:57+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/maps",
       "description": "Sarah of Bremen decides this week’s topic for the beans is maps and they can’t be blamed for delving into the unchartered chat territories of compressed meat biscuits, what you should rub in Luton for luck and why Ben’s career as a fantasy novelist is doomed before it’s even begun. Get in touch: threebeansaladpod@gmail.com @beansaladpod Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/03fa2128-669e-4791-8aa6-ec21a404527c/4dfecabc2fa75c13f7ac2470978c07bd.jpg",
@@ -3838,7 +3865,7 @@
     {
       "key": "7a34e0fdf4686b36d721ab87618cdf3098bb8fd6",
       "title": "Mountains",
-      "published_at": "2022-04-13T00:20:34+00:00",
+      "published_at": "2022-04-12T23:20:34+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/mountains",
       "description": "At the behest of Immanuel of Bremen, this week’s subject is mountains. The intrepid beans nearly perish in a conversational crevasse early doors, but can they get back on track and make it to the summit of Mount Chat? Get in touch: threebeansaladpod@gmail.com @beansaladpod Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/240792cb-d07b-48ed-abf9-c0c3d6ccf9c6/7ef0ca0f107e25b1abc209877f8b432c.jpg",
@@ -3858,7 +3885,7 @@
     {
       "key": "b5f1c72b9a65a2fec6683193e1d5da6f8ee89e37",
       "title": "Snow",
-      "published_at": "2022-04-06T00:15:02+00:00",
+      "published_at": "2022-04-05T23:15:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/snow",
       "description": "What’s that? A light entertainment podcast has dared to dance across the the conversational minefield that is the antimacassar? That’s right. And that podcast is Three Bean Salad. And if Lauren from Bremen hadn’t got the beans onto the topic of snow in the first place this podcasting milestone might never have been achieved at all. Get in touch: threebeansaladpod@gmail.com @beansaladpod Join our PATREON for ad-free episodes and a monthly bonus episode: www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/a46ff61a-9ff4-4b3a-9ab1-14fb6fd0631b/8c1f130301d447dfe315b8ebd98550c2.jpg",
@@ -3879,7 +3906,7 @@
     {
       "key": "1408b5bf9e7e519552afe446f49984ee014cfe61",
       "title": "Five Wednesday Month Alert",
-      "published_at": "2022-03-30T00:10:02+00:00",
+      "published_at": "2022-03-29T23:10:02+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/five-wednesday-month-alert",
       "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday March and we simply will only do four Wednesday episodes in a month because we respect the natural order of the universe), but if you want to listen to a new bonus episode you can sign up to our PATREON at www.patreon.com/threebeansalad",
       "image_url": "https://artwork.captivate.fm/7809c181-7f12-46a9-901e-849c1edb0544/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -4190,7 +4217,7 @@
     {
       "key": "0d71743995274c56fcccc8c672e951fc2827e766",
       "title": "The Titanic",
-      "published_at": "2021-10-20T00:24:40+00:00",
+      "published_at": "2021-10-19T23:24:40+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/the-titanic",
       "description": "We present the final episode of Series 2 in which Dustin (of Bremen?) has the beans discussing the luckless Titanic. In this spooooky edition of the podcast, house dust mites get a long overdue mention as do hurled milkshakes, interspecies breeding and the benefits of a sub-aquatic moth. Please stay tuned to this frequency as the beans shall return SOON! Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/2fda4a7e-b1dc-49f4-a0b9-35a05b82d903/2778b837f268f261a9aa612b3317bd3e.jpg",
@@ -4210,7 +4237,7 @@
     {
       "key": "c6feb3cbe6e67ff2948d85cafbe106ff9ae64ec8",
       "title": "Portraiture",
-      "published_at": "2021-10-12T22:44:09+00:00",
+      "published_at": "2021-10-12T21:44:09+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/portraiture",
       "description": "Portraiture is this week’s topic, responsibility for which lies squarely at the feet of Phil of Baltimore. The beans gab hard and true and, ever thorough, gab seven bells out of ham (again), Helen of Troy, lying to barbers and coastal face erosion. Get in touch: threebeansaladpod@gmail.com @beansaladpod Featuring \"superhero fanfare.wav\" by humanoid9000 of Freesound.org",
       "image_url": "https://artwork.captivate.fm/7cb1cc1b-d884-4be6-971b-f019a91bd841/8f01985190adc8cbc38263d34b814d05.jpg",
@@ -4231,7 +4258,7 @@
     {
       "key": "03215859e3f2d4decf13ba0a3230f0a4fb1a60c1",
       "title": "Pagans",
-      "published_at": "2021-10-06T00:39:38+00:00",
+      "published_at": "2021-10-05T23:39:38+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/pagans",
       "description": "Courtesy of Dr. P we present an episode on the theme of pagans. Fill your boots with golf, jet-skis, the history of rambling and the single moment at which the universe began, probably. Get in touch: threebeansaladpod@gmail.com @beansaladpod Featuring \"Castanets, Multi, A (H1).wav\" by InspectorJ ( www.jshaw.co.uk ) of Freesound.org",
       "image_url": "https://artwork.captivate.fm/ece54949-167b-42ff-b01f-0556eb5dcdcd/38c3680a4d6598b54a70536bc4eee06a.jpg",
@@ -4251,7 +4278,7 @@
     {
       "key": "064ce9df808a4c4202cf1770c52934f50e41a00f",
       "title": "Jeffreys/Geoffreys",
-      "published_at": "2021-09-28T23:18:40+00:00",
+      "published_at": "2021-09-28T22:18:40+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/jeffreys-geoffreys",
       "description": "Gavin has the beans unpack the topic of Jeffreys (Geoffreys?). In an episode stacked with boo boos and bungles the beans tackle Steves, Daves, rubber giraffes and whether or not scampi can ever be a verb. Get in touch: threebeansaladpod@gmail.com @beansaladpod Featuring \"Orchestral Strings, Warm, A.wav\" by InspectorJ ( www.jshaw.co.uk ) of Freesound.org",
       "image_url": "https://artwork.captivate.fm/49e5cb05-6407-47d9-aa4f-4be2fd3a42db/6f3a4e0d662ec02aed03d16ffce3e272.jpg",
@@ -4272,7 +4299,7 @@
     {
       "key": "46721c35f1cc8fe6f07189f343b6b3e6d21454e5",
       "title": "Islands",
-      "published_at": "2021-09-21T23:45:20+00:00",
+      "published_at": "2021-09-21T22:45:20+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/islands",
       "description": "Olana decrees that the beans have it out about islands. They comply and, in an effort to be thorough, cover ear growth, alternative aviation fuel solutions and how to avoid over-ordering in a restaurant. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/ce005240-b168-4c91-8018-a6bb75ad3a8c/6bcba2e91ee84ac3b6aaa939a529e021.jpg",
@@ -4293,7 +4320,7 @@
     {
       "key": "5941e9a5f0af47ffbe7e7ecf43d047cc3d8152d2",
       "title": "Flags",
-      "published_at": "2021-09-14T21:11:04+00:00",
+      "published_at": "2021-09-14T20:11:04+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/flags",
       "description": "Hoist the Jolly Beans! Kathy of Bremen invites the beans to discuss flags and they are careful not to miss out memory aids, brownies, sliced bread and the secret to royal longevity. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/fbbc6068-5d50-4207-848c-0ced7ce73052/f932f6780f58d140a8399d9630743310.jpg",
@@ -4313,7 +4340,7 @@
     {
       "key": "871d6e87d4ebb0167ad60a973650057bb3e540af",
       "title": "Buffets",
-      "published_at": "2021-09-07T22:55:04+00:00",
+      "published_at": "2021-09-07T21:55:04+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/buffets",
       "description": "Accordionist Alex directs the beans towards the subject of buffets this week. Pile your plates high with UN etiquette, poker with The Boys and how best to handle a fire in a chemical warehouse. Tickets for Beef and Dairy Network live on 11th September 2021 are available here: In theatre tickets - https://www.kingsplace.co.uk/whats-on/comedy/beef-and-dairy-network-podcast-3/ Livestream tickets - https://www.kingsplace.co.uk/whats-on/comedy/beef-and-dairy-network-podcast-11-9/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/324791f7-41ed-41e1-b6b7-3c3022e3d025/4e85643ffc602e03fff78825793d76fb.jpg",
@@ -4334,7 +4361,7 @@
     {
       "key": "1ccac24f1ea73c913416c3f17dc7518946c125a5",
       "title": "Dystopia",
-      "published_at": "2021-09-01T12:11:04+00:00",
+      "published_at": "2021-09-01T11:11:04+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/dystopia",
       "description": "Listener Sam steers the Beans towards the nightmarish topic of dystopia. Naturally they cover goat silos, national service for children and Andrew Lloyd Webber but they also reveal the true nature of Henry and Mike’s working relationship. Tickets for the livestream of the beans' live show on 2nd September 2021 are available here: https://www.kingsplace.co.uk/whats-on/comedy/three-bean-salad-online-streaming-event/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/90ab0479-6e61-4d6a-ad16-e607bc5351e1/3e675bfb596e1cc3055c58b579da3b66.jpg",
@@ -4355,7 +4382,7 @@
     {
       "key": "a4a6bba4f62f3b5ca25ecb740ae46b44901ecfe3",
       "title": "Romance",
-      "published_at": "2021-08-24T23:11:57+00:00",
+      "published_at": "2021-08-24T22:11:57+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/romance",
       "description": "Battling through a minor bean emergency, the beans take on the topic of romance. Roses, chocolates, candlelight, forcing an eel to swallow a wedding ring. Tickets for the livestream of the beans' live show on 2nd September 2021 are available here: https://www.kingsplace.co.uk/whats-on/comedy/three-bean-salad-online-streaming-event/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/3a131b42-97d4-4e20-9c9d-91692b4c5e28/5d9d3dff4ae690d6bb01d8d0ed6a0076.jpg",
@@ -4376,7 +4403,7 @@
     {
       "key": "074e1dcdab42fc6170fea76e56abe17577329745",
       "title": "Condiments",
-      "published_at": "2021-08-18T00:00:00+00:00",
+      "published_at": "2021-08-17T23:00:00+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/condiments",
       "description": "The beans are back! It's time for series two and they kick off by discussing condiments at the behest of a listener called Lloyd. Also covered are gnocchi, electricity pylon safety and shooting a toucan. Tickets for the livestream of the beans' live show on 2nd September 2021 are available here: https://www.kingsplace.co.uk/whats-on/comedy/three-bean-salad-online-streaming-event/ Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/57505170-d512-4a6f-ab06-260c3d937ce1/1e2dd73911d665b978db63423d425e16.jpg",
@@ -4396,7 +4423,7 @@
     {
       "key": "b079ac7c0658f516a34ec82de2660181ac668a5a",
       "title": "Bean Tasting Menu - Highlights Of Series One",
-      "published_at": "2021-08-10T23:53:32+00:00",
+      "published_at": "2021-08-10T22:53:32+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/bean-tasting-menu-highlights-of-series-one",
       "description": "Series two starts next week, but before that, here's a little bean tasting menu of the Beans' favourite bits from series one. The idea is that this might make be a good episode for confirmed Beanheads to point non-Beanheads in the direction of. Why not send it to a friend? Or a sibling? Or basically anyone whose email address you have. Even if that's the customer service email address for your energy supplier. It could be just what they need.",
       "image_url": "https://artwork.captivate.fm/566a6517-0f4f-47a1-8b3f-e8021f5cf413/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -4421,7 +4448,7 @@
     {
       "key": "ef11696be2a000744406819b7f56068b3936322d",
       "title": "Live Beans Announcement",
-      "published_at": "2021-08-05T20:34:05+00:00",
+      "published_at": "2021-08-05T19:34:05+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/live-beans-announcement",
       "description": "The Beans are doing their first ever live show (and livestream) and would like to tell you about it. London Podcast Festival, 2nd September 2021, 7pm (UK time) Tickets for the livestream can be found here: https://www.kingsplace.co.uk/whats-on/comedy/three-bean-salad-online-streaming-event/",
       "image_url": "https://artwork.captivate.fm/d691af2c-9270-42d9-b5e7-ff854186442a/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -4442,7 +4469,7 @@
     {
       "key": "83ff278b41c89682d4487ef088dd48bdab56b749",
       "title": "Purple",
-      "published_at": "2021-06-29T22:47:34+00:00",
+      "published_at": "2021-06-29T21:47:34+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/purple",
       "description": "Victoria (probably from Bremen) suggests the topic of purple and the beans roll up their silken sleeves and get stuck in. But not before they've talked about the fact that two of them have recently run into deceased dolphins (one of which was actually a porpoise). Regretably, Mike also talks about his guitar. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/4ad59e4b-d8d4-4007-9802-83869cf92d74/d5034fd04fec2a2bb138b33094522129.jpg",
@@ -4463,7 +4490,7 @@
     {
       "key": "780395fc09e560ca48560693e63abaad0dd0c559",
       "title": "Magic",
-      "published_at": "2021-06-23T00:27:26+00:00",
+      "published_at": "2021-06-22T23:27:26+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/magic",
       "description": "Lynzee (don’t know where she’s from, but one assumes Bremen) suggested that the beans talk about magic and in doing so, they discover that Henry used to work in the company of some professional sorcerors. They also read an email about a randy quail. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/a760b454-3406-428e-a62c-e75181f5b849/23fd8b939cd5d4cd4c18a94a5693e98d.jpg",
@@ -4484,7 +4511,7 @@
     {
       "key": "8c6963b7ab437f63e3de29525107389d148b9eb3",
       "title": "Musical Instruments",
-      "published_at": "2021-06-16T00:52:25+00:00",
+      "published_at": "2021-06-15T23:52:25+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/musical-instruments",
       "description": "When Anna of Bremen suggested the beans hit the topic of musical instruments she could not have known how lethally boring Mike is when he starts talking about the guitar. Luckily the beans navigate away from this sub-topic with skill and cover Henry’s youthful golden flute obsession and why Ben should stick to badminton. Listeners of a sensitive disposition should be warned this episode contains a bean crisis plus Emergency Pompidou. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/d6d729f6-0467-431d-9584-84ab207aca9a/7c9e0991fda7b4f00bd10aba394bb9fb.jpg",
@@ -4505,7 +4532,7 @@
     {
       "key": "1cb729a5347e9c4f001d26cf582eb338c0431b51",
       "title": "Sleep",
-      "published_at": "2021-06-08T23:39:23+00:00",
+      "published_at": "2021-06-08T22:39:23+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/sleep",
       "description": "Victoria suggests that the beans talk about the subject of sleep. On their way they touch on Margaret Thatcher, soldiers in the jungle, and the act of eating a crab's memories. Plus bird stories. NOTE: do not listen to this episode while you are sleeping or it will reprogramme your brain and you'll wake up with the intellect of a small brown bird. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/6d6e30ae-94ad-42b7-a2d8-aa7f078747d1/2127ba5b725b2563b79a3e72b335b3cc.jpg",
@@ -4526,7 +4553,7 @@
     {
       "key": "126d32e29c9f27dc708ea5fd9d8ff7d1f794ef0f",
       "title": "Asteroids",
-      "published_at": "2021-06-01T22:55:38+00:00",
+      "published_at": "2021-06-01T21:55:38+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/asteroids",
       "description": "Someone called Michael suggests that the beans talk about asteroids. With this episode, the listener probably benefits from a working knowledge of six-time world snooker champion Steve Davis (also known as The Nugget, Steve \"Interesting\" Davis, The Ginger Magician, The Romford Robot, Romford Slim, Master Cueman, Golden Nugget) but crucially, it's still enjoyable even to a listener with no knowledge of this snooker titan. You'll really love it if you ARE Steve Davis. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/94ed0dd2-d4e9-4d0e-83fb-5ba4f0f78564/0b9db82570011a441903f91e776b0bda.jpg",
@@ -4546,7 +4573,7 @@
     {
       "key": "fca4e4080f096e721cfa6980797a2e97e4c2a369",
       "title": "Bags",
-      "published_at": "2021-05-26T00:35:09+00:00",
+      "published_at": "2021-05-25T23:35:09+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/bags",
       "description": "It's the first episode based on a listener suggestion, and what a suggestion. Someone called Fiona suggests that the beans talk about bags and the they go at it with gusto and laser-guided precision. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/a5d027c5-6e62-4267-a451-755928454711/b444da0607a6348c7f1df1e6df95f82c.jpg",
@@ -4564,7 +4591,7 @@
     {
       "key": "4c6e761223fba40520daf398ca208e95c7149600",
       "title": "Submarines",
-      "published_at": "2021-05-18T23:53:25+00:00",
+      "published_at": "2021-05-18T22:53:25+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/submarines",
       "description": "Submarines is this week's topic, and inevitably the beans end up talking about flightless birds. And flightful birds. And flaming pedalos shaped like birds. And macadamia nuts.",
       "image_url": "https://artwork.captivate.fm/95a27aa7-5880-4bf9-aa28-d0f8a786342f/ced8f0bd44efb1c155bf40705ba8f5af.jpg",
@@ -4585,7 +4612,7 @@
     {
       "key": "4634efef13c95c014984ac7710e0e50006b26c42",
       "title": "Rome",
-      "published_at": "2021-05-11T22:27:59+00:00",
+      "published_at": "2021-05-11T21:27:59+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/rome",
       "description": "Rome is the topic this week so Coventry, sponges and Russell Crowe all get a mention and that's just for starters. Once again, thanks to a man called Gareth for the theme. Soon it'll be your turn to point us in the right direction.",
       "image_url": "https://artwork.captivate.fm/a715ed1d-2444-46f4-a785-8c5bf8fdc27b/7a3133a3e579d44218545151368835d8.jpg",
@@ -4606,7 +4633,7 @@
     {
       "key": "2ac55bc81655d823c535b0b6b1df996c177110db",
       "title": "Lizards",
-      "published_at": "2021-05-05T10:41:32+00:00",
+      "published_at": "2021-05-05T09:41:32+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/lizards",
       "description": "A man called Gareth suggests that we discuss the topic of lizards. And so we cover crabs, octopuses, wolves, and of course, the royal family. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/f2be0ea8-5a5c-4f05-99fc-f78b41cfe36e/32baede23031d6e99bf4a706b5fcecfd.jpg",
@@ -4626,7 +4653,7 @@
     {
       "key": "3aab9b3e421bd21070b6db721438940574c2696c",
       "title": "Posters",
-      "published_at": "2021-04-27T12:33:01+00:00",
+      "published_at": "2021-04-27T11:33:01+00:00",
       "link": "https://three-bean-salad.captivate.fm/episode/posters",
       "description": "A man called Gareth suggests that we discuss the topic of posters and see where it takes us. A counterfeit Santana. Prince Charles's toilet seat. Large and terrifying flightless birds. Get in touch: threebeansaladpod@gmail.com @beansaladpod",
       "image_url": "https://artwork.captivate.fm/d7893892-eb02-41de-8cd9-5c72022eba54/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
@@ -4650,6 +4677,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Extra Beans - Free Novembermania Patreon taster — speakers: Extra Beans, Free Novembermania Patreon, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-28 — The Simulation Hypothesis — speakers: Keanu Reeves, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-21 — Wool — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-10-14 — Trees — speakers: Trees Which, Mike Wozniak, Henry Paker, Benjamin Partridge
@@ -4707,7 +4735,7 @@
 - 2025-07-02 — Seagulls — speakers: Seagulls Dr, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-06-25 — Old Wives' Tales — speakers: Old Wives, Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-06-18 — The Sixties — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2025-06-11 — Moths — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2025-06-10 — Moths — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-06-04 — Wild Camping — speakers: Wild Camping Sean, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-05-07 — Non-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2025-04-30 — Fifth Wednesday back in 10 minutes transmission — speakers: Fifth Wednesday, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge
@@ -4732,29 +4760,29 @@
 - 2024-12-04 — The Netherlands — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-11-06 — Un-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-10-30 — Fifth Wednesday Informationcast — speakers: Fifth Wednesday Informationcast No, Three Bean Salad, Wednesday October, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-23 — Budget Airlines — speakers: Budget Airlines Put, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-16 — Sharks — speakers: Sharks Dan, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-09 — The Pyramids — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-10-02 — Adverts — speakers: Adverts Adverts, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-25 — Pasta — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-18 — Mushrooms — speakers: Bremington Spa, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-11 — Jazz — speakers: Jazz Looking, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-09-04 — Vampires — speakers: Vampires Play, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-22 — Budget Airlines — speakers: Budget Airlines Put, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-15 — Sharks — speakers: Sharks Dan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-08 — The Pyramids — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-10-01 — Adverts — speakers: Adverts Adverts, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-24 — Pasta — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-17 — Mushrooms — speakers: Bremington Spa, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-10 — Jazz — speakers: Jazz Looking, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-09-03 — Vampires — speakers: Vampires Play, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-08-06 — Non-episode-isode-isode-isode-isode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-31 — Fifth Wednesday Precaution Alert — speakers: Fifth Wednesday Precaution Alert, Three Bean Salad, Wednesday July, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-24 — Archaeology — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-17 — Boats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-10 — Haircuts — speakers: Haircuts Rebecca, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-07-03 — My Hot Air Balloon Ride — speakers: My Hot Air Balloon, Bonjamin Partridge, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-26 — Feudalism — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-19 — Gameshows — speakers: Gameshows Allison, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-12 — Libraries — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-06-05 — Eggs — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-05-01 — Non-episode caretaker abeyance-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-24 — Farming — speakers: Harris Tweed, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-17 — Wine — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-10 — Olives — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2024-04-03 — Cloche Bleue — speakers: Cloche Bleue Cloche Bleue, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-30 — Fifth Wednesday Precaution Alert — speakers: Fifth Wednesday Precaution Alert, Three Bean Salad, Wednesday July, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-23 — Archaeology — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-16 — Boats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-09 — Haircuts — speakers: Haircuts Rebecca, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-07-02 — My Hot Air Balloon Ride — speakers: My Hot Air Balloon, Bonjamin Partridge, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-25 — Feudalism — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-18 — Gameshows — speakers: Gameshows Allison, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-11 — Libraries — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-06-04 — Eggs — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-30 — Non-episode caretaker abeyance-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-23 — Farming — speakers: Harris Tweed, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-16 — Wine — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-09 — Olives — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2024-04-02 — Cloche Bleue — speakers: Cloche Bleue Cloche Bleue, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-03-27 — The Beach — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-03-20 — Tough Guys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2024-03-13 — Ghosts — speakers: Ghosts Isaac, Mike Wozniak, Henry Paker, Benjamin Partridge
@@ -4771,28 +4799,28 @@
 - 2023-12-06 — Assassinations — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-11-01 — Non-episode-isode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-10-25 — Surfin' — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-10-18 — The Trojan War — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-10-11 — The Higgs Boson/Particles — speakers: Particles Muriel, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-10-17 — The Trojan War — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-10-10 — The Higgs Boson/Particles — speakers: Particles Muriel, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-10-03 — Fashion — speakers: Fashion Thank, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-09-27 — Elvis — speakers: Elvis Presley, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-09-20 — Orange — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-09-13 — Pencils — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-09-06 — Beer — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-08-01 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-07-26 — Oats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-09-26 — Elvis — speakers: Elvis Presley, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-09-19 — Orange — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-09-12 — Pencils — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-09-05 — Beer — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-07-31 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-07-25 — Oats — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-07-18 — Urban Legends — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-07-12 — Whales — speakers: Whales Ben, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-07-05 — Cults — speakers: Cults Megan, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-28 — Time Travel — speakers: Time Travel How, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-21 — Volcanoes — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-14 — Tea — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-06-07 — Fire — speakers: Fire Hazel, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-05-03 — Not an episode non-episode episode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-07-11 — Whales — speakers: Whales Ben, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-07-04 — Cults — speakers: Cults Megan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-27 — Time Travel — speakers: Time Travel How, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-20 — Volcanoes — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-13 — Tea — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-06-06 — Fire — speakers: Fire Hazel, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-05-02 — Not an episode non-episode episode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-04-25 — The Essence Of Fear — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-04-19 — Teachers — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-04-12 — Dentists — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-04-05 — TV Crime Shows — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2023-03-29 — Fifth Wednesday Calendar Abberation Broadcast — speakers: Fifth Wednesday Calendar Abberation, Broadcast No, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-04-18 — Teachers — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-04-11 — Dentists — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-04-04 — TV Crime Shows — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2023-03-28 — Fifth Wednesday Calendar Abberation Broadcast — speakers: Fifth Wednesday Calendar Abberation, Broadcast No, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-22 — Pirates — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-15 — Ice Cream — speakers: Ice Cream Gemma, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2023-03-08 — The Arctic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
@@ -4810,29 +4838,29 @@
 - 2022-11-09 — Best Of Series Two — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-11-02 — Zero Bean Salad Non-Episode — speakers: Salad Non-Episode, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-10-26 — Glass — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-10-19 — Mail — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-10-12 — Sandwiches — speakers: Henry Paker, Mike Wozniak, Benjamin Partridge
-- 2022-10-05 — Going To Disney World And Not Wanting To Be Dressed Up As A Ruffian — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-09-28 — RATS! — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-09-21 — Artificial Intelligence — speakers: Artificial Intelligence Paul, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-09-14 — Hats — speakers: Hats Steph, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-10-18 — Mail — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-10-11 — Sandwiches — speakers: Henry Paker, Mike Wozniak, Benjamin Partridge
+- 2022-10-04 — Going To Disney World And Not Wanting To Be Dressed Up As A Ruffian — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-09-27 — RATS! — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-09-20 — Artificial Intelligence — speakers: Artificial Intelligence Paul, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-09-13 — Hats — speakers: Hats Steph, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-09-06 — Teeth — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-08-03 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-08-02 — Non-episode-isode — speakers: Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-07-26 — Swords — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-07-19 — Canada — speakers: Canada George, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-07-13 — Service Stations — speakers: Hannah Koh, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-07-06 — Sitcoms — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-29 — Fifth Wednesday Non-Episode Plenary Session — speakers: Fifth Wednesday Non, Three Bean Salad, Wednesday June, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-07-12 — Service Stations — speakers: Hannah Koh, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-07-05 — Sitcoms — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-06-28 — Fifth Wednesday Non-Episode Plenary Session — speakers: Fifth Wednesday Non, Three Bean Salad, Wednesday June, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-06-21 — Tubes — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-15 — France — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-08 — Prizes — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-06-01 — Bears — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-06-14 — France — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-06-07 — Prizes — speakers: Phillip Kerrigan, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-05-31 — Bears — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-05-03 — No Bean Salad Non-Beanisode — speakers: No Bean Salad Non, Beanisode No, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-04-27 — Tusks — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-04-20 — Maps — speakers: Maps Sarah, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-04-13 — Mountains — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-04-06 — Snow — speakers: Snow What, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2022-03-30 — Five Wednesday Month Alert — speakers: Five Wednesday Month Alert, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-04-26 — Tusks — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-04-19 — Maps — speakers: Maps Sarah, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-04-12 — Mountains — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-04-05 — Snow — speakers: Snow What, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2022-03-29 — Five Wednesday Month Alert — speakers: Five Wednesday Month Alert, Three Bean Salad, Wednesday March, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-23 — Goblins — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-16 — Bicycles — speakers: Bicycles Hazel, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2022-03-09 — Slippers — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
@@ -4847,24 +4875,24 @@
 - 2021-12-15 — Biscuits — speakers: Squid Game, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-08 — Immortality — speakers: Listener Sam, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-12-01 — Exercise — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-10-20 — The Titanic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-10-19 — The Titanic — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-10-12 — Portraiture — speakers: Portraiture Portraiture, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-10-06 — Pagans — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-10-05 — Pagans — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-28 — Jeffreys/Geoffreys — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-21 — Islands — speakers: Islands Olana, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-14 — Flags — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-07 — Buffets — speakers: Accordionist Alex, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-09-01 — Dystopia — speakers: Listener Sam, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-24 — Romance — speakers: Romance Battling, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-08-18 — Condiments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-08-17 — Condiments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-10 — Bean Tasting Menu - Highlights Of Series One — speakers: Bean Tasting Menu, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-08-05 — Live Beans Announcement — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-06-29 — Purple — speakers: Purple Victoria, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-23 — Magic — speakers: Magic Lynzee, Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-06-16 — Musical Instruments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-22 — Magic — speakers: Magic Lynzee, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-06-15 — Musical Instruments — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-06-08 — Sleep — speakers: Sleep Victoria, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-06-01 — Asteroids — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
-- 2021-05-26 — Bags — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2021-05-25 — Bags — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-18 — Submarines — speakers: Submarines Submarines, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-11 — Rome — speakers: Russell Crowe, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2021-05-05 — Lizards — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-01T00:06:42+00:00`
-- checked_at: `2026-11-01T00:06:42+00:00`
-- etag: `"djEuMi4wOjE3OTM0OTE1MzkyNTc="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NTI5NTk1MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-01T00:06:42+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "a74684589a564368999a7006875672264ba6f6a5",
+      "title": "Darting and Sharting",
+      "published_at": "2026-11-04T00:42:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/darting-and-sharting",
+      "description": "Mike Bubbins, Elis James and Steff Garrero are back in their respective studios after their trip to Clapham, and there's still plenty to discuss from their adventures in London. While Elis was bolting across the capital to get back for childcare, Steff was making an equally urgent dash for the toilet. Meanwhile, Mike was enjoying a period of sobriety that lasted right up until he spotted a pint of Madri. Several pints later, he's holding court on a train and somehow managing to steal a job from Elis as Great Western Railway's Cymru Connector . A remarkable career change, given that he was supposed to be having a quiet weekend. There's also an extensive discussion about erotic fiction before the boys finally remember they're supposed to be making a sports podcast. Finally, some sport! Mike brings in some rugby referees who might benefit from reconsidering their approach to the job, Elis has NFL legend Jason Kelce trying his hand at rugby , and Steff finds former Premier League striker Papiss Cissé taking Sunday league football rather more seriously than anyone expected . Clips Mike: (Some) Rugby Referees https://www.instagram.com/reel/DeXEW7SirYX/?mdxt=OHIzbmI2ZjJ2NjZu Elis: Jason Kelce Plays Rugby https://www.instagram.com/reel/DeXFVbKjYEf/?cplk=d3c4YjRseHZtZm0y Steff: Papiss Cissé Takes Sunday League Too Seriously https://www.instagram.com/reel/DeZSoW2Jeu8/?rpxt=NG1lbHFmZHpob2gy Trains. Toilets. Erotic fiction. Papiss Cissé. Another perfectly normal week at The Socially Distant Sports Bar. Part 2, That's My Sense of Humour , will be out on Friday, featuring a documentary about an old friend of the podcast and a book about running an extraordinarily long way. And if you want the entire episode early and advert-free, including the exclusive Part 3, subscribe to Distant Pod Bonus Club on Apple Podcasts . Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ae87277b478422f9126ee5a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64006687",
+      "itunes_duration": "1:06:40",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "sharting"
+      ]
+    },
     {
       "key": "dbb953643f3e109bf7bd98af7984a4c955dbcdbb",
       "title": "Bad Coaching: Pint Size",
@@ -16410,6 +16430,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Darting and Sharting — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-01 — Bad Coaching: Pint Size — speakers: Bad Coaching, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-30 — Live At Cheerful Earful With Kate Mason (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-28 — Live At Cheerful Earful (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero

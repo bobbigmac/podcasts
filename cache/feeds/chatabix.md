@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-03T06:45:29+00:00`
-- checked_at: `2026-11-03T06:45:29+00:00`
-- etag: `"djEuMi4wOjE3OTM2NzQ4Mzk1MTM="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NjEyMzk1NjI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-03T06:45:29+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e94f71f1e167cb07bd108624e6ad4f15de01e94a",
+      "title": "S17 Ep 914: Puppy Progress & A New Sport Pt 2",
+      "published_at": "2026-11-04T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-914-puppy-progress-a-new-sport-pt-2",
+      "description": "Picking up from yesterday’s show, there’s more chat about playing a new sport in your 50’s, what the difference is between Padel and Pickleball, whether anyone actually likes going to parties, David’s current lack of sleep and much more discussion about the highs and lows of puppy parenting. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ae455f9d925811fc20ed4b8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37297423",
+      "itunes_duration": "38:51",
+      "speakers": [
+        "Puppy Progress",
+        "New Sport Pt",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "puppy",
+        "progress",
+        "sport"
+      ]
+    },
     {
       "key": "dab4de96f7e03e0f5db68888fd02082c2a81b288",
       "title": "S17 Ep 913: Puppy Progress & A New Sport Pt 1",
@@ -16518,6 +16541,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — S17 Ep 914: Puppy Progress & A New Sport Pt 2 — speakers: Puppy Progress, New Sport Pt, Joe Wilkinson, David Earl
 - 2026-11-03 — S17 Ep 913: Puppy Progress & A New Sport Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2026-11-02 — S17 Ep 912 Vault Mondays: Carol Klein and Being Sacked from a Ch4 Show — speakers: Carol Klein, Joe Wilkinson, David Earl
 - 2026-10-30 — S17 Ep 911 Listeners Mailbag: Big Packages and First Kisses — speakers: Listeners Mailbag, Big Packages, Joe Wilkinson, David Earl

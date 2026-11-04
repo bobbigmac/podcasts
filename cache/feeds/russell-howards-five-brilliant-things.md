@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- last_modified: `Wed, 28 Oct 2026 02:07:58 GMT`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- last_modified: `Wed, 04 Nov 2026 02:07:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "711f76a26130d669a4194d76a6c1db332c2eebd4",
+      "title": "Tez Ilyas",
+      "published_at": "2026-11-04T02:00:00+00:00",
+      "link": null,
+      "description": "Comedian Tez Ilyas, from Man Like Mobeen (among many other things) has arrived in the studio with his Five Brilliant Things! You can hear Tez eulogise about his wedding, his nieces and nephews, Istanbul and the joys of a big old wet-ass pudding. Yum. Tez is currently on tour! He’s doing his latest show ‘Tez Things I Hate About You’ up and down the country and you can find out the dates and book tickets by going to https://tezilyas.com . You can also watch his specials there and, er, also look at some pictures of him. There’s your lot. ‘Ave it. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/14e7bf32-d76a-11f1-8f38-03f823056271/image/5695a50469424f0c905e6a3c2c745cf8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8596949855.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3421",
+      "speakers": [
+        "Tez Ilyas",
+        "Comedian Tez Ilyas",
+        "Russell Howard"
+      ],
+      "topics": [
+        "ilyas"
+      ]
+    },
     {
       "key": "e66a0d134e3e4c6b6f00cd3add6d0f5d6abeb9a6",
       "title": "Ralf Little",
@@ -3596,6 +3616,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Tez Ilyas — speakers: Tez Ilyas, Comedian Tez Ilyas, Russell Howard
 - 2026-10-28 — Ralf Little — speakers: Ralf Little One, Two Pints, Russell Howard
 - 2026-10-21 — Isy Suttie — speakers: Isy Suttie Current Taskmaster, Isy Suttie, Russell Howard
 - 2026-10-14 — Catherine Bohart — speakers: Catherine Bohart, Russell Howard

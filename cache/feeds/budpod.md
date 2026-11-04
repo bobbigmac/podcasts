@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-10-28T12:52:13+00:00`
-- checked_at: `2026-10-28T12:52:13+00:00`
-- etag: `"djEuMi4wOjE3OTMxNjcyOTk1MDQ="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NzIwOTk0MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-10-28T12:52:13+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "253442c96faca370bcf6a1108ca6ac9a1c437fdf",
+      "title": "S2E73 | Forest Lung",
+      "published_at": "2026-11-04T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e73-forest-lung",
+      "description": "Youtube version available here! This week the buds discuss Charlie Bigham lasagna, the news 'oracle', denim curtains, forest lung, The BudPod guide to life, PR disasters and Ed Davey Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Catch Glenn's 'Best of' Show on November 24th! Tickets available here - https://www.pleasance.co.uk/event/glenn-moore-best Pierre is on tour in 2027! Get your tickets here - https://www.pierrenovellie.com Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6aea6e6fdc2860cef4d173bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61805247",
+      "itunes_duration": "42:51",
+      "speakers": [
+        "Forest Lung",
+        "Charlie Bigham",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "forest",
+        "lung"
+      ]
+    },
     {
       "key": "db0e95fe173d0590ba4c793c927985db185b0dcc",
       "title": "S2E72 | The Wronged Trousers",
@@ -8223,6 +8245,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — S2E73 | Forest Lung — speakers: Forest Lung, Charlie Bigham, Phil Wang, Pierre Novellie
 - 2026-10-28 — S2E72 | The Wronged Trousers — speakers: Ronald Diplomacy, Phil Wang, Pierre Novellie
 - 2026-10-21 — S2E71 | Azteca Syndrome — speakers: Azteca Syndrome Youtube, News Knight, Phil Wang, Pierre Novellie
 - 2026-10-14 — S2E70 | Log Dogs — speakers: Log Dogs, Phil Wang, Pierre Novellie

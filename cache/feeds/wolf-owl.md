@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- last_modified: `Tue, 27 Oct 2026 15:11:29 GMT`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- last_modified: `Wed, 04 Nov 2026 00:27:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/GLT9487939818",
   "title": "Wolf & Owl",
   "link": "https://feeds.megaphone.fm/GLT9487939818",
-  "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
+  "description": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever. Every Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified. Contains swearing because it’s really cool. “As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,56 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6b6ec95d8dbe7ccf0621ed85fb94523beb3f472f",
+      "title": "Percy Pig Addiction, A Hot Baker and A Missing Arsenal Ticket",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "link": null,
+      "description": "Is Tom’s Percy Pigs habit now officially out of control? And what happens when Rom leaves his phone (and his Arsenal ticket) at home? This week on Wolf & Owl, Rom and Tom roleplay a very awkward chance meeting with Steven Bartlett, trade secrets on the perfect roast potato, and find out whether Tom’s idea of a family day out at Westfield was a bit too much fun. Send your questions and queries to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 05:04 Tom’s Percy Pigs addiction 10:11 Is food fuel or joy? 11:11 The secret to a perfect roast potato 13:14 Fry-up standards 19:23 Romesh’s Steven Bartlett podcast experience 29:04 Romesh’s Arsenal day 36:14 Romesh is a traitor 38:47 Tom’s weekend of kids’ birthday parties 40:49 Westfield Saturday night 43:21 The lingerie table incident 45:22 Tom feels like a kid again 50:02 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/25cb1b18-d478-11f1-9ff1-531e1ac5d5f3/image/c7ab45239d485a43938f6347871729aa.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT4010287681.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3209",
+      "speakers": [
+        "Tom’s Percy Pigs",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "percy",
+        "addiction",
+        "baker",
+        "missing",
+        "arsenal",
+        "ticket"
+      ]
+    },
+    {
+      "key": "2d268dd79a6f9bf36744c7bd00d59c042a6ddc8a",
+      "title": "Songs Stuck In Our Heads, Shower Etiquette and Family Wedding Drama",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "link": null,
+      "description": "Could Tom spin a grown man above his head like a cartoon strongman Which sad song is Tom planning for his funeral? And how has Rom's shower confession gotten EVEN worse? Rom and Tom also share their best advice on surviving a family wedding, Tom gets honest about imposter syndrome, and Romesh has a “fake it till you make it” plan. Send your questions and queries to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 01:04 Squatting too low and hip agony 04:06 Tom picks his funeral song 08:13 The great 80s power ballads 10:18 The crack-first showering debate 10:50 King Gary wins over a sceptic 11:20 Estranged dad at the brother’s wedding 16:30 Imposter syndrome 17:01 Tom opens up about his own imposter syndrome 19:01 Romesh’s advice: fake it till you make it 21:37 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1143384709.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1483",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "song",
+        "head",
+        "shower",
+        "etiquette",
+        "family",
+        "wedding",
+        "drama"
+      ]
+    },
     {
       "key": "9dbc41102f2e145aeed00f9a4b81b538c218f915",
       "title": "KFCereal, Clint Eastwood & Unacceptable Gym Behaviour",
@@ -7858,6 +7908,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-03 — Percy Pig Addiction, A Hot Baker and A Missing Arsenal Ticket — speakers: Tom’s Percy Pigs, Romesh Ranganathan, Tom Davis
+- 2026-10-30 — Songs Stuck In Our Heads, Shower Etiquette and Family Wedding Drama — speakers: Romesh Ranganathan, Tom Davis
 - 2026-10-27 — KFCereal, Clint Eastwood & Unacceptable Gym Behaviour — speakers: Clint Eastwood, Unacceptable Gym Behaviour Does, Romesh Ranganathan, Tom Davis
 - 2026-10-22 — Rob Beckett Crashes The Studio, Romesh’s Rap and The Worst Best Man Speech Ever — speakers: Rob Beckett Crashes, Romesh Ranganathan, Tom Davis
 - 2026-10-19 — Peking Jackfruit, Percy Pigs and Tom’s Worst One Night Stand — speakers: Percy Pigs, Tom’s Worst, Romesh Ranganathan, Tom Davis

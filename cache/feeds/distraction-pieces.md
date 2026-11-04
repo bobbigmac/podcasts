@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- etag: `"djEuMi4wOjE3OTMzMzQwMzkzOTI="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NjYwMzkzOTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "65d3da8f649fea77b1d5abd92204141cae586f9e",
+      "title": "NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694",
+      "published_at": "2026-11-04T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the star of stage and screen NATALIE IMBRUGLIA ! For those of a certain age who grew up in a certain era, Natalie will be like a familiar friend or relative. Neighbours was one of the biggest Australian exports around the early 90's and essential after-school viewing on one of the 4 or 5 channels the UK had on terrestrial TV. Natalie played Beth Brennan, but later made a transition to music superstar with the undeniable hit song 'Torn' - a single that has survived very well through the ages. It's a pleasure to have her here in studio with Pip catching up on all things including all of the above, emerging as an incidental mental health advocate, recording processes, and all sorts of awesome stuff that maybe you're not expecting. It's a really great one, this - oh and also, you'll get to hear Natalie's reaction to Pip's bold, bold claim he played guitar on 'Torn'. No spoilers here. PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM BETH CALLS OF THE WEDDING TORN SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1793724615022-ce0218d8-db55-443c-83fc-3a1a3883829b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aea13644ca6aa86042373ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172536613",
+      "itunes_duration": "1:11:48",
+      "speakers": [
+        "Beth Brennan"
+      ],
+      "topics": [
+        "natalie",
+        "imbruglia",
+        "algorithm",
+        "beth",
+        "brennan",
+        "neighbours",
+        "firebird"
+      ]
+    },
     {
       "key": "ad99f7b5793190c4718df2623db584728f414717",
       "title": "AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind",
@@ -19899,6 +19923,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694 — speakers: Beth Brennan
 - 2026-10-30 — AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind
 - 2026-10-28 — HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693
 - 2026-10-23 — KONNIE HUQ (Cookie & The Most Annoying Boy In The World / podcasts) • Friday Rewind

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `"djEuMi4wOjE3OTM1OTE4NTk5OTI="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NjQ2NTkzNDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "33da61d02ae77583c88352abf7f8596fc8075792",
+      "title": "Lenny Henry (Part 2) - \"Heckled by Van Morrison\"",
+      "published_at": "2026-11-04T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #634 - Heckled by Van Morrison - The second part of this extraordinary interview with comedian, actor and writer Lenny Henry. Rich quizzes Lenny about his attempt to break America with the film Eddie Murphy rejected, True Identity and how it led to Lenny taking control of his future projects, how the Three of a Kind were chosen and why it triumphed over other sketch shows of the era, Lenny’s illustrious acting career and the tricky role that both Rich and he have played, plus appearing on the brilliant The Assembly. Lenny’s latest tour show Still at Large will continue in late 2027. Look out for more dates for Lenny’s tour in late 2027 https://www.fane.co.uk/lenny-henry#event-listing SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Podcast Room Get an exclusive 15% discount on your first Saily data plans! Use code RHLSTP at checkout. Download Saily app or go to https://saily.com/rhlstp Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793310314215-7c54fa36-84bc-48ce-8c1c-4ba00ea3fb9d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ae3bbdd61856eee597b1cb8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21153541",
+      "itunes_duration": "44:04",
+      "speakers": [
+        "Lenny Henry",
+        "Van Morrison",
+        "Richard Herring"
+      ],
+      "topics": [
+        "lenny",
+        "henry",
+        "morrison"
+      ]
+    },
     {
       "key": "509d05ac2a4d6a77f951336ec93c70ae790b6bab",
       "title": "Ed Byrne (Retro) - \"Perfectly Plated Avocado Toast\"",
@@ -24497,6 +24519,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Lenny Henry (Part 2) - "Heckled by Van Morrison" — speakers: Lenny Henry, Van Morrison, Richard Herring
 - 2026-11-02 — Ed Byrne (Retro) - "Perfectly Plated Avocado Toast" — speakers: Ed Byrne, Richard Herring
 - 2026-10-31 — Rich and Ally's Craven Newsround Compilation - "Nuclear Perineum" — speakers: Craven Newsround Compilation, Nuclear Perineum, Richard Herring
 - 2026-10-30 — Clive Anderson on I Think My Name is Brodie - Book Club — speakers: Clive Anderson, Richard Herring

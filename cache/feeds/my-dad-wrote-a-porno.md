@@ -2,9 +2,9 @@
 
 - slug: `my-dad-wrote-a-porno`
 - source: `https://feeds.acast.com/public/shows/ee6fd316-9ce1-4f8a-ba2c-a4a4bf5643e4`
-- fetched_at: `2026-10-04T12:20:34+00:00`
-- checked_at: `2026-10-04T12:20:34+00:00`
-- etag: `"djEuMi4wOjE3ODcwNzMzOTI2NzQ="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM2NTEwMDc1NzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://mydadwroteaporno.com",
   "description": "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he's decided to read it to the world in this award-winning comedy podcast.",
   "image_url": "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/show-cover.jpg",
-  "fetched_at": "2026-10-04T12:20:34+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Jamie Morton",
     "James Cooper",
@@ -318,10 +318,10 @@
     },
     {
       "key": "ddbd17f7210b7a5e9ce64a46e31a838f3dd28dcf",
-      "title": "The Best Of (And Unheard Bits) - Part Nine",
+      "title": "The Best Of (And Unheard Bits) - Unsexiest Sexy Bits",
       "published_at": "2024-03-25T00:01:03+00:00",
       "link": "https://www.mydadwroteaporno.com",
-      "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. This time, the gang look back at some of the \"sexiest\" moments from the series. Spoiler: It's not sexy. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. This time, the gang look back at some of the \"sexiest\" moments from the series. Prepare to be turned off. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/1711323774520-48c86ec60b2864fb75032e4f0d74a01c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/mydadwroteaporno/e/6600ba982280af0016e105e9/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -335,12 +335,14 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "unsexiest",
+        "sexy"
       ]
     },
     {
       "key": "d2f51d9740d380277cc61af4d88dfd01fc2839c4",
-      "title": "The Best Of (And Unheard Bits) - Part Eight",
+      "title": "The Best Of (And Unheard Bits) - Rocky Revelations",
       "published_at": "2024-02-19T00:01:38+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. This time, the gang look back at the funniest stories about the man, the myth, the legend, and the author Mr. Rocky Flintstone. Hosted on Acast. See acast.com/privacy for more information.",
@@ -357,12 +359,14 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "rocky",
+        "revelations"
       ]
     },
     {
       "key": "779fe7146a3cd17ef45b05f91eade42a159f2502",
-      "title": "The Best Of (And Unheard Bits) - Part Seven",
+      "title": "The Best Of (And Unheard Bits) - Character Voices",
       "published_at": "2024-01-22T00:01:47+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. This time, the gang reminisce about the astonishing range, breadth and questionable quality of the voices and accents in 'Belinda Blinked'. Hosted on Acast. See acast.com/privacy for more information.",
@@ -380,12 +384,13 @@
       "topics": [
         "unheard",
         "bits",
-        "seven"
+        "character",
+        "voice"
       ]
     },
     {
       "key": "18639177b99ec9c9f286bd7fe690a71da3da0479",
-      "title": "The Best Of (And Unheard Bits) - Part Six",
+      "title": "The Best Of (And Unheard Bits) - Christmas Chaos",
       "published_at": "2023-12-18T00:01:03+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. This time, the gang get festive looking back at the Christmas specials... Hosted on Acast. See acast.com/privacy for more information.",
@@ -402,12 +407,14 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "christmas",
+        "chaos"
       ]
     },
     {
       "key": "115adea0c4ee115f7446adac792cbd74e70eb7dd",
-      "title": "The Best Of (And Unheard Bits) - Part Five",
+      "title": "The Best Of (And Unheard Bits) - Famous Faces...well, voices",
       "published_at": "2023-11-20T00:01:16+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive. This time, it's a starry line-up as the gang look back at their favourite Footnotes guests featuring Dame Emma Thompson, Lin-Manuel Miranda, Dan Levy, Michael Sheen, Nicholas Hoult, Hayley Atwell, Jessie Ware, Elijah Wood, Joe Lycett, Daisy Ridley, Josh Groban, Rachel Bloom, George Ezra, Thomas Middleditch, Stephen Mangan, Ben Barnes and Samara Weaving. Hosted on Acast. See acast.com/privacy for more information.",
@@ -424,12 +431,15 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "famous",
+        "face",
+        "voice"
       ]
     },
     {
       "key": "39a0a2f8740b2e2f11930c23fc0bccce33d4d775",
-      "title": "The Best Of (And Unheard Bits) - Part Four",
+      "title": "The Best Of (And Unheard Bits) - Cracking Up & Corpsing",
       "published_at": "2023-10-22T23:01:00+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive. This time, the gang looked back at times they just couldn't hold it together when reading Rocky's supposedly sexy prose. Expect A LOT of squawking. Hosted on Acast. See acast.com/privacy for more information.",
@@ -451,7 +461,7 @@
     },
     {
       "key": "1c372246154a8b517bdee167b5ae15e59320ea18",
-      "title": "The Best Of (And Unheard Bits) - Part Three",
+      "title": "The Best Of (And Unheard Bits) - Funny Stories",
       "published_at": "2023-09-24T23:01:05+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. In this episode, the gang share funny stories about coming-of-age through their teenage, university and early London lives. Hosted on Acast. See acast.com/privacy for more information.",
@@ -468,12 +478,14 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "funny",
+        "stories"
       ]
     },
     {
       "key": "4958cd44eb222dd2115167365ffd6c887fc8cc9d",
-      "title": "The Best Of (And Unheard Bits) - Part Two",
+      "title": "The Best Of (And Unheard Bits) - Sex & Dating",
       "published_at": "2023-08-27T23:01:33+00:00",
       "link": "https://www.mydadwroteaporno.com",
       "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. In this episode, the gang look back on their funniest sex, relationship and body stories. Hosted on Acast. See acast.com/privacy for more information.",
@@ -490,15 +502,16 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "dating"
       ]
     },
     {
       "key": "f3f95b713d4ac39ea52a8b7c40ce4edc27f4e79c",
-      "title": "The Best Of (And Unheard Bits) - Part One",
+      "title": "The Best Of (And Unheard Bits) - Weird Childhoods",
       "published_at": "2023-07-30T23:01:53+00:00",
       "link": "https://www.mydadwroteaporno.com",
-      "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. In this episode, the gang share stories about their weird childhoods. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Jamie, Alice and James choose their favourite moments from the 'Porno' archive as well as playing some exclusive never-before-heard bits. In this episode, the gang share stories about their unusual upbringings. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/1690722038674-2764f84c36e804ddc96c836cf5672557.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/mydadwroteaporno/e/64c660e86e090900116261e7/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -512,7 +525,9 @@
       ],
       "topics": [
         "unheard",
-        "bits"
+        "bits",
+        "weird",
+        "childhoods"
       ]
     },
     {
@@ -4282,15 +4297,15 @@
 - 2025-10-07 — S1E3 - 'The Regional Sales Meeting' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-06 — S1E2 - 'The Leather Room' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-05 — S1E1 - 'The Job Interview' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2024-03-25 — The Best Of (And Unheard Bits) - Part Nine — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2024-02-19 — The Best Of (And Unheard Bits) - Part Eight — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2024-01-22 — The Best Of (And Unheard Bits) - Part Seven — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-12-18 — The Best Of (And Unheard Bits) - Part Six — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-11-20 — The Best Of (And Unheard Bits) - Part Five — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-10-22 — The Best Of (And Unheard Bits) - Part Four — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-09-24 — The Best Of (And Unheard Bits) - Part Three — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-08-27 — The Best Of (And Unheard Bits) - Part Two — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-07-30 — The Best Of (And Unheard Bits) - Part One — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2024-03-25 — The Best Of (And Unheard Bits) - Unsexiest Sexy Bits — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2024-02-19 — The Best Of (And Unheard Bits) - Rocky Revelations — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2024-01-22 — The Best Of (And Unheard Bits) - Character Voices — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-12-18 — The Best Of (And Unheard Bits) - Christmas Chaos — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-11-20 — The Best Of (And Unheard Bits) - Famous Faces...well, voices — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-10-22 — The Best Of (And Unheard Bits) - Cracking Up & Corpsing — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-09-24 — The Best Of (And Unheard Bits) - Funny Stories — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-08-27 — The Best Of (And Unheard Bits) - Sex & Dating — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
+- 2023-07-30 — The Best Of (And Unheard Bits) - Weird Childhoods — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2022-12-12 — Rocky Flintstone Revealed — speakers: Rocky Flintstone Revealed Hold, Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2022-12-05 — The Finale - Part 2 — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2022-12-01 — Finale Footnotes: Send Offs, Surprises & Songs — speakers: Jamie Morton, James Cooper, Alice Levine

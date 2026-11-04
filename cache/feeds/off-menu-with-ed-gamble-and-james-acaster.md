@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNjAwNDAyMzA="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NjQ4Mzk1NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82c301ca84a01fbd78978ece03aa8b0869773572",
+      "title": "Andi Osho",
+      "published_at": "2026-11-04T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/andi-osho",
+      "description": "Actor, ‘Blue Lights’ star and author Andi Osho is this week’s guest in the Dream Restaurant. Did YOU know you can order as many poppadoms as you want? Series 4 of ‘Blue Lights’ is out now, with all episodes available on BBC iPlayer. Watch it here . Andi’s latest book, ‘Most Wanted’, is out now published by HarperCollins. Buy it here . Follow Andi on Instagram @theandioshow Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1793186523768-3a4c5b21-1c82-4a91-93d5-e0af0f7372d6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ae1dae979221fdbfffe6ff5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72409756",
+      "itunes_duration": "1:15:25",
+      "speakers": [
+        "Andi Osho Actor",
+        "Andi Osho",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "andi",
+        "osho"
+      ]
+    },
     {
       "key": "d963e829b43fe00491c6bdb0214950ad9a7d5eaa",
       "title": "Rob Auton",
@@ -9101,6 +9124,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Andi Osho — speakers: Andi Osho Actor, Andi Osho, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-28 — Rob Auton — speakers: Rob Auton, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-21 — Lara Ricote — speakers: Lara Ricote Award, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-14 — John Cena — speakers: John Cena Wwe, John Cena, Ed Gamble, James Acaster, Ben Williams

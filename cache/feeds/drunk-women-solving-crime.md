@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- etag: `"djEuMi4wOjE3OTM2MTk1ODU0Nzg="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NTQwMzk0NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,31 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "ee60939aeecf93d2993a462f828eba9f05259167",
+      "title": "The Poop Deck, with Daisy Kelliher",
+      "published_at": "2026-11-04T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/the-poop-deck-with-daisy-kelliher",
+      "description": "Well, shiver me timbers, we're all at sea this week as we welcome star of Below Deck, Daisy Kelliher onto dry land to help solve a crime featuring a heroine that draws some parallels from her own ancestry - but how? Plus, we also hear a tale from the high seas from our guest that shows the high seas are not for the faint hearted - ot the faint stomached. Come and see Hannah and Taylor LIVE in 2027! Don't miss out on your only chance to see them live in London, on 9th April at The Pleasance Theatre. Tickets and info here ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6ae86a3fecb76dfeb13e54bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64202292",
+      "itunes_duration": "1:06:52",
+      "speakers": [
+        "Poop Deck",
+        "Daisy Kelliher",
+        "Below Deck",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "poop",
+        "deck",
+        "daisy",
+        "kelliher"
+      ]
+    },
     {
       "key": "c13bbeee96378c6d94618631e4f6e5ac6b23e36c",
       "title": "Ignacio Lopez & Blanche in Franche",
@@ -11720,6 +11745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — The Poop Deck, with Daisy Kelliher — speakers: Poop Deck, Daisy Kelliher, Below Deck, Hannah George, Taylor Glenn
 - 2026-10-28 — Ignacio Lopez & Blanche in Franche — speakers: Ignacio Lopez, Hannah George, Taylor Glenn
 - 2026-10-21 — DWSC LIVE: With Esther Manito — speakers: Esther Manito, Hannah George, Taylor Glenn
 - 2026-10-14 — DWSC LIVE: With Matt Richardson — speakers: Matt Richardson, Hannah George, Taylor Glenn

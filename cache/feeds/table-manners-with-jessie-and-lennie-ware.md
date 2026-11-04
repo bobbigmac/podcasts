@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-10-28T05:40:31+00:00`
-- checked_at: `2026-10-28T05:40:31+00:00`
-- etag: `"djEuMi4wOjE3OTMxNDkyMzk2NTg="`
+- fetched_at: `2026-11-04T06:17:28+00:00`
+- checked_at: `2026-11-04T06:17:28+00:00`
+- etag: `"djEuMi4wOjE3OTM3NTQwMzk0NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-10-28T05:40:31+00:00",
+  "fetched_at": "2026-11-04T06:17:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e9362a4d0a8614274b8c92ff2629f10fa7729ba2",
+      "title": "Arlene Phillips",
+      "published_at": "2026-11-04T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/arlene-phillips",
+      "description": "Dame Arlene Phillips really has stories to last a lifetime! She’s worked with icons like Whitney Houston, Freddie Mercury, Elton John, Tina Turner and Aretha Franklin, choreographed legendary West End & Broadway musicals and also created the iconic Hot Gossip dance troupe. The legendary choreographer joined us for a brilliant trip through her extraordinary career, we heard about a shy Whitney finding her confidence, teaching Elton to dance and how kind Freddie was on set. Arlene also took us back to her childhood in Manchester, how she started her dance training and her unexpected route into choreography that began with Ridley Scott, Miriam Margolyes, and a Dr Pepper advert! Of course we chatted Strictly, Starlight Express, Guys and Dolls and we hear her crazy food combo of bagels with pickles, strawberry jam and cream cheese! Thank you Arlene for such a gorgeous and fascinating afternoon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1793732709467-f80da7fb-c75e-4756-8bc0-8a89308aa493.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6aea2faf99361192386e10a5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54041704",
+      "itunes_duration": "56:17",
+      "speakers": [
+        "Arlene Phillips",
+        "Whitney Hou"
+      ],
+      "topics": [
+        "arlene",
+        "phillips"
+      ]
+    },
     {
       "key": "cf8aa0c8cb7bf3b08f2a36d736e66c84d9d38929",
       "title": "Nick Mohammed",
@@ -7536,6 +7556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Arlene Phillips — speakers: Arlene Phillips, Whitney Hou
 - 2026-10-28 — Nick Mohammed — speakers: Nick Mohammed
 - 2026-10-21 — Ashley Walters — speakers: Ashley Walters, Solid Crew
 - 2026-10-14 — Christine Baranski — speakers: Christine Baranski
