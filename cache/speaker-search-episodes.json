@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "7c861ddd2847c45db4dba7ef5e94f9db35ab67b5",
+        "episode_key": "7c861ddd2847c45db4dba7ef5e94f9db35ab67b5",
+        "title": "Andi Osho",
+        "published_at": "2026-11-04T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actor, ‘Blue Lights’ star and author Andi Osho is this week’s guest in the Dream Restaurant. Did YOU know you can order as many poppadoms as you want? \nSeries 4 of ‘Blue Lights’ is out now, with all episodes available on BBC iPlayer. Watch it here. \nAndi’s latest book, ‘Most Wanted’, is out now published by HarperColli",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ae1dae979221fdbfffe6ff5/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/andi-osho/id1442950743?i=1000799741754&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:a66f45b55a1d",
         "feed_title": "Traitors Expert",
         "source_rss_url": "https://feeds.acast.com/public/shows/695794ce6446068fdc1658ba",
@@ -6575,6 +6598,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "7c861ddd2847c45db4dba7ef5e94f9db35ab67b5",
+        "episode_key": "7c861ddd2847c45db4dba7ef5e94f9db35ab67b5",
+        "title": "Andi Osho",
+        "published_at": "2026-11-04T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actor, ‘Blue Lights’ star and author Andi Osho is this week’s guest in the Dream Restaurant. Did YOU know you can order as many poppadoms as you want? \nSeries 4 of ‘Blue Lights’ is out now, with all episodes available on BBC iPlayer. Watch it here. \nAndi’s latest book, ‘Most Wanted’, is out now published by HarperColli",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6ae1dae979221fdbfffe6ff5/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/andi-osho/id1442950743?i=1000799741754&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:047786d0dded",
         "feed_title": "Joanne McNally Investigates",

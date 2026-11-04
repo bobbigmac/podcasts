@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-11-03T06:45:29+00:00`
-- checked_at: `2026-11-03T06:45:29+00:00`
-- etag: `W/"1be90-8T/+rldT7VqbPENk6gzqICwMJvI"`
+- fetched_at: `2026-11-04T14:40:03+00:00`
+- checked_at: `2026-11-04T14:40:03+00:00`
+- etag: `W/"1c706-AM24f83FKi1+8cP/prUWTYXK8QY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-11-03T06:45:29+00:00",
+  "fetched_at": "2026-11-04T14:40:03+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3a31bf8ecb49f22c1f5e63023a2ee2d933910417",
+      "title": "Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast",
+      "published_at": "2026-11-04T14:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Remembering-Patrick-Stewart--the-Wonder-of-Wildwood--The-Rewind-Podcast-e3ro050",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about the life and career of Patrick Stewart, Laika's new stop-motion animation film Wildwood, and everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/128761440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F4d384cc6-ff1b-5485-683a-438a884b466e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "241826144",
+      "itunes_duration": "02:47:56",
+      "speakers": [
+        "Patrick Stewart",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "remembering",
+        "patrick",
+        "stewart",
+        "wonder",
+        "wildwood",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "f0b136dc7b86b08bebf93148f007272d835a8479",
       "title": "Digger, Carrie, and the Lanterns Finale | The Rewind Podcast",
@@ -1442,6 +1469,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast — speakers: Patrick Stewart, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-10-14 — Digger, Carrie, and the Lanterns Finale | The Rewind Podcast — speakers: Tom Cruise, Mike Flanagan, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-30 — Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-16 — Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast — speakers: Resi Rewatch, Darren Mooney, Jack Packard, Marty Sliva

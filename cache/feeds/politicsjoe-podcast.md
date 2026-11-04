@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- etag: `"djEuMi4wOjE3OTM2Mjg0ODU0MTA="`
+- fetched_at: `2026-11-04T14:40:03+00:00`
+- checked_at: `2026-11-04T14:40:03+00:00`
+- etag: `"djEuMi4wOjE3OTM3OTExMzcxODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-04T14:40:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a3dc6da7862aee3b31f124f817efc04481c2fc6d",
+      "title": "Is Trump about to start Nuclear War? | Scott Lucas interview",
+      "published_at": "2026-11-04T11:18:56+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aeb1446f502e64dc463c417",
+      "description": "Friend of the podcast Scott Lucas joins us to dig into claims made by Tucker Carlson that Donald Trump wants to nuke Iran. Also, what might a post-midterms America look like? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aeb1446f502e64dc463c417/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32914546",
+      "itunes_duration": "22:51",
+      "speakers": [
+        "Scott Lucas",
+        "Tucker Carlson",
+        "Donald Tru"
+      ],
+      "topics": [
+        "nuclear",
+        "scott",
+        "lucas"
+      ]
+    },
     {
       "key": "ddbf3670953735151065c58a544463c5f2d2db98",
       "title": "Why I called out a GB News host on live TV",
@@ -14049,6 +14071,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Is Trump about to start Nuclear War? | Scott Lucas interview — speakers: Scott Lucas, Tucker Carlson, Donald Tru
 - 2026-11-02 — Why I called out a GB News host on live TV — speakers: Andy Twelves, Nana Akua
 - 2026-10-30 — The American Midterms Can END Trump | Jacob Weisberg interview — speakers: Jacob Weisberg
 - 2026-10-28 — Going Deep on Andy Burnham's First Budget — speakers: Andy Burnham, John Healey

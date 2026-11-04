@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-10-28T20:15:17+00:00`
-- checked_at: `2026-10-28T20:15:17+00:00`
-- etag: `"djEuMi4wOjE3OTMxOTYwMzk1NjY="`
+- fetched_at: `2026-11-04T14:40:03+00:00`
+- checked_at: `2026-11-04T14:40:03+00:00`
+- etag: `"djEuMi4wOjE3OTM4MDA4Mzk1MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-10-28T20:15:17+00:00",
+  "fetched_at": "2026-11-04T14:40:03+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e15d0a8f4f48611825687c4cd722b27c7a300bb8",
+      "title": "Global Democracy Lives?",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/global-democracy-lives",
+      "description": "The Bugle is back in person! Joining Andy in the studio for issue 4396 of The Bugle is Tiff Stevenson and Ria Lina! As the three take a dive in the biggest news stories from the past few weeks. From Lula historic fourth term win as Brazilian president, Serbian election win for student protest movement and a look ahead to the USA's mid-terms. PLUS Neil Young files second lawsuit against Trump and former PM Liz Truss' new book! 🇧🇷 Lula for Four: Lula wins historic fourth term as Brazilian president 🇺🇸 Trump v Young: The Bugle reports on the news that Neil Young files his 2nd lawsuit against President Trump 🇬🇧 Former PM's new book: Andy, Tiff and Ria report the on news of former PM Liz Truss' new book as the reviews pour in Andy's Links: https://www.andyzaltzman.co.uk/ Tiff Stevenson's Links: https://tiffstevenson.co.uk Ria Lina's Links: https://beacons.ai/rialina/home/p/press 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6aeb109136bf5ef90952a690/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46249273",
+      "itunes_duration": "48:10",
+      "speakers": [
+        "Joining Andy",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "democracy"
+      ]
+    },
     {
       "key": "fbb71e1072e3c41ca25f2b890e3d76f517db043e",
       "title": "Brilliant Bugle Debuts ft. Nish Kumar, Alice Fraser and many more!",
@@ -14688,6 +14707,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — Global Democracy Lives? — speakers: Joining Andy, Andy Zaltzman
 - 2026-10-28 — Brilliant Bugle Debuts ft. Nish Kumar, Alice Fraser and many more! — speakers: Bugle Debuts, Alice Fraser, Andy Zaltzman
 - 2026-10-21 — Holy Sh*t it’s Been a Whole Decade — speakers: Andy Zaltzman
 - 2026-10-15 — Surprise Nobel snub for Trump — speakers: Joining Andy, Andy Zaltzman

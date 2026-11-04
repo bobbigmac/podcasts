@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-03T06:45:29+00:00`
-- checked_at: `2026-11-03T06:45:29+00:00`
-- etag: `W/"65ab3-Z+Jz+Z5fk+bx2YX7DQ+zipaIqSg"`
+- fetched_at: `2026-11-04T14:40:03+00:00`
+- checked_at: `2026-11-04T14:40:03+00:00`
+- etag: `W/"6720d-uX7aB3gQ5SsTpDQeQFRwF7CVLhw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,72 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-03T06:45:29+00:00",
+  "fetched_at": "2026-11-04T14:40:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "07e5ccd63cecbe11bf46d12144af6e7ae108529d",
+      "title": "#45 The Jon Richardson Podcast #45",
+      "published_at": "2026-11-04T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/45-The-Jon-Richardson-Podcast-45-e3rm5sp",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793729247461-5735bae531c65.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3259347948.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46594453",
+      "itunes_duration": "00:48:01",
+      "speakers": [
+        "Pod Feed"
+      ],
+      "topics": [
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "0b238d6307d442a57146e57da370c6506f399fa7",
+      "title": "#44 The Jon Richardson Podcast – Featuring Sarah Millican",
+      "published_at": "2026-11-03T19:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/44-The-Jon-Richardson-Podcast--Featuring-Sarah-Millican-e3rm57h",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793728608652-16eaace81249f.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6876210017.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41401393",
+      "itunes_duration": "00:42:39",
+      "speakers": [
+        "Sarah Millican"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "sarah",
+        "millican"
+      ]
+    },
+    {
+      "key": "2d0ad9a76a86d53b724da3b7929734a557937a7c",
+      "title": "#43 The Jon Richardson Podcast #43",
+      "published_at": "2026-11-03T11:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/43-The-Jon-Richardson-Podcast-43-e3rk5rj",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ Step back into the BBC Radio 6 Music archives with Jon Richardson. Before becoming one of the UK’s best-known comedians, Jon brought his trademark overthinking, dry humour and brilliantly awkward observations to BBC 6 Music. Expect funny conversations, strange stories, music, guests and plenty of classic Jon Richardson moments as he dissects the little things in life that most of us would probably be better off ignoring. A nostalgic listen for fans of Jon Richardson, British comedy and classic BBC radio. Originally broadcast on BBC Radio 6 Music",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793646808949-0b5b6d8738812.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9953792518.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46072869",
+      "itunes_duration": "00:47:28",
+      "speakers": [
+        "Pod Feed"
+      ],
+      "topics": [
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "2fd3769801631dda2d01de4b3449821472e78a49",
       "title": "#42 The Jon Richardson Podcast #42 – Featuring Gavin Webster",
@@ -6127,6 +6186,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — #45 The Jon Richardson Podcast #45 — speakers: Pod Feed
+- 2026-11-03 — #44 The Jon Richardson Podcast – Featuring Sarah Millican — speakers: Sarah Millican
+- 2026-11-03 — #43 The Jon Richardson Podcast #43 — speakers: Pod Feed
 - 2026-11-03 — #42 The Jon Richardson Podcast #42 – Featuring Gavin Webster — speakers: Gavin Webster
 - 2026-11-02 — #41 The Jon Richardson Podcast #41 – Featuring John Robbins — speakers: John Robbins
 - 2026-11-02 — #40 The Jon Richardson Podcast #40 – Featuring Lloyd Langford — speakers: Lloyd Langford
