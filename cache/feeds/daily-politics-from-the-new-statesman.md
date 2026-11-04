@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- etag: `"djEuMi4wOjE3OTM2MzcyODM4MzI="`
+- fetched_at: `2026-11-04T21:19:48+00:00`
+- checked_at: `2026-11-04T21:19:48+00:00`
+- etag: `"djEuMi4wOjE3OTM4MTExMTg1OTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-04T21:19:48+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ebf50108650f80ff681e92f0c5f8f410c5ea92b7",
+      "title": "US midterms: Democrats flip the House and Senate",
+      "published_at": "2026-11-04T16:51:58+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/us-midterms-democrats-flip-the-house-and-senate",
+      "description": "America has delivered its verdict on Donald Trump’s second term, and it is a resounding one. Democrats won sweeping victories in Tuesday’s midterm elections and will take control of the House and Senate next year. Trump has congratulated the Democrats, while insisting he doesn’t see the results as a rejection of his leadership. So who voted, why, and what does this mean for US politics? Freddie Hayward is joined by Ashley Koning, director of the Eagleton Center for Public Interest Polling at Rutgers University, the New Statesman’s senior data journalist, Ben Walker. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793810889580-26b31097-ea47-464b-9213-38073a9d5db7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aeb61594a2e55ca0ffbfc98/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64263000",
+      "itunes_duration": "26:44",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "midterm",
+        "democrats",
+        "house",
+        "senate"
+      ]
+    },
     {
       "key": "0dc3d68c89c2a37ad9c13b93c53aec2b06e2374c",
       "title": "Shabana Mahmood’s new immigration rules",
@@ -32845,6 +32867,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-04 — US midterms: Democrats flip the House and Senate — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-02 — Shabana Mahmood’s new immigration rules — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
 - 2026-10-31 — Andy Burnham’s first 100 days in power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-10-29 — Budget 2026: Cautious or radical? — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
