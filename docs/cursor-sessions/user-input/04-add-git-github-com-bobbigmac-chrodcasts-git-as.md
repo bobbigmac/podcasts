@@ -1,0 +1,784 @@
+---
+cursor_session: 5b46f7e0-ccf5-4846-b7ca-f9913bd39497
+source: cursor-composer
+cursor_hint: ?
+user_entries: 14
+---
+
+# user input — add-git-github-com-bobbigmac-chrodcasts-git-as
+
+## 1
+
+add git@github.com:bobbigmac/chrodcasts.git as a second remote, and add a file like @/home/bobbigmac/projects/podcasts/push-code.sh , just with the name udpated, as we want to ship 2 github pages repos from this one config
+
+## 2
+
+what env vars should I be setting on the new chrodcasts github env?
+
+## 3
+
+update our church.md header section to add these 4 options as alts, so I can manually swap in after review. Also check the suggested feeds, most of them 404, so you'll need to check which ones actually have entries that do point to active video content. 
+
+
+
+### New Header Text Suggestions
+Based on the existing header in your document (title: "Prays.be Streaming Church", subtitle: "Prays.be", description: "Enjoy unlimited streaming church content"), here are a few refreshed variations to enhance appeal while keeping the faith-focused, streaming theme. These aim to be more engaging, SEO-friendly, and aligned with the site's purpose of aggregating Christian video feeds:
+
+1. **Option 1** (Emphasizing accessibility and variety):
+   - title: Prays.be: Stream Faith Anytime, Anywhere
+   - subtitle: Prays.be Streaming Church
+   - description: Discover endless Christian sermons, Bible teachings, and worship videos from global ministries.
+
+2. **Option 2** (Focusing on spiritual growth):
+   - title: Prays.be: Nourish Your Soul with Streaming Church
+   - subtitle: Prays.be
+   - description: Unlimited access to inspiring sermons, Bible studies, and faith-building content for daily devotion.
+
+3. **Option 3** (Highlighting community and modernity):
+   - title: Prays.be: Modern Worship in Your Hands
+   - subtitle: Streaming Church Essentials
+   - description: Enjoy free, on-demand Christian videos including sermons, teachings, and live-inspired music from trusted sources.
+
+4. **Option 4** (Keeping it simple yet expansive):
+   - title: Prays.be Streaming Church Network
+   - subtitle: Prays.be
+   - description: Unlimited streaming of global church content: sermons, Bible studies, TV ministries, and more.
+
+Feel free to mix and match or tweak based on your branding.
+
+### Recommended Additional Feeds
+I've reviewed your existing feeds list, which focuses on Christian sermons, Bible studies, TV ministries, worship, and related categories with video enclosures (vodcasts). All recommendations below are open RSS feeds with video support, fitting the same use case—primarily U.S.-based or international English-language Christian content. I prioritized ones not already in your list, emphasizing variety (e.g., more megachurches, well-known pastors, and diverse tags like prosperity, expositional, or practical living). These were sourced from reliable directories and church sites, ensuring they have video enclosures for streaming.
+
+Here are 20 recommendations (a solid "dozen or two"), structured like your entries for easy integration:
+
+## elevation-church
+- url: https://elevationchurch.org/feed/podcast/video
+- title: Elevation Church
+- category: sermons
+- tags: sermons, contemporary, north-carolina, steven-furtick, worship, concert, live-music
+
+## hillsong-church
+- url: https://hillsong.com/collected/all/blogs/category/blogs/feed
+- title: Hillsong Church
+- category: sermons
+- tags: sermons, worship, australia, brian-houston, global, concert, live-music
+
+## bethel-church
+- url: https://www.bethel.com/podcasts/rss
+- title: Bethel Church
+- category: sermons
+- tags: sermons, charismatic, california, bill-johnson, healing, worship, concert, live-music
+
+## lakewood-church
+- url: https://www.lakewoodchurch.com/podcasts/video
+- title: Lakewood Church
+- category: tv-ministry
+- tags: tv-ministry, prosperity, joel-osteen, texas, encouragement, sunday
+
+## saddleback-church
+- url: https://saddleback.com/podcasts/video
+- title: Saddleback Church
+- category: sermons
+- tags: sermons, practical-living, rick-warren, california, multi-site, concert, live-music
+
+## gateway-church
+- url: https://gatewaypeople.com/podcasts/rss
+- title: Gateway Church
+- category: sermons
+- tags: sermons, texas, robert-morris, multi-site, bible-teaching, sunday
+
+## life-church
+- url: https://openblog.life.church/feed/
+- title: Life.Church
+- category: sermons
+- tags: sermons, craig-groeschel, oklahoma, multi-site, practical, concert, live-music
+
+## passion-city
+- url: https://passioncitychurch.com/podcasts/video/rss
+- title: Passion City Church
+- category: sermons
+- tags: sermons, louie-giglio, georgia, worship, young-adults, concert, live-music
+
+## village-church
+- url: https://www.thevillagechurch.net/resources/sermons/rss
+- title: The Village Church
+- category: sermons
+- tags: sermons, matt-chandler, texas, expositional, reformed, sunday
+
+## north-point
+- url: https://northpoint.org/messages/rss
+- title: North Point Ministries
+- category: sermons
+- tags: sermons, andy-stanley, georgia, practical-living, multi-site, sunday
+
+## desiring-god
+- url: https://www.desiringgod.org/messages/rss
+- title: Desiring God
+- category: bible-study
+- tags: bible-study, john-piper, reformed, minnesota, theology, teaching
+
+## gospel-coalition
+- url: https://www.thegospelcoalition.org/podcasts/rss
+- title: The Gospel Coalition
+- category: teaching
+- tags: teaching, reformed, conferences, multi-source, theology
+
+## andrew-wommack
+- url: https://www.awmi.net/video/tv-archives/rss
+- title: Andrew Wommack Ministries
+- category: tv-ministry
+- tags: tv-ministry, faith-teaching, grace, colorado, daily
+
+## amazing-facts
+- url: https://www.amazingfacts.org/media-library/podcasts/rss
+- title: Amazing Facts
+- category: bible-study
+- tags: bible-study, doug-batchelor, sabbath, california, prophecy
+
+## in-touch
+- url: https://www.intouch.org/broadcast/video-archives/rss
+- title: In Touch Ministries
+- category: tv-ministry
+- tags: tv-ministry, charles-stanley, georgia, teaching, daily
+
+## bible-project
+- url: https://bibleproject.com/podcasts/rss
+- title: Bible Project
+- category: bible-study
+- tags: bible-study, animated, theology, oregon, series
+
+## bible-recap
+- url: https://www.thebiblerecap.com/podcast/rss
+- title: The Bible Recap
+- category: bible-study
+- tags: bible-study, through-the-bible, daily, tara-leigh-cobble
+
+## through-the-word
+- url: https://throughtheword.org/podcasts/rss
+- title: Through the Word
+- category: bible-study
+- tags: bible-study, audio-guide, chapter-by-chapter, california
+
+## james-river-church
+- url: https://feed.podbean.com/jamesriverchurch/feed.xml
+- title: James River Church Podcast
+- category: sermons
+- tags: sermons, john-lindell, missouri, pentecostal, sunday, concert, live-music
+
+## church-leaders
+- url: https://churchleaders.libsyn.com/rss
+- title: ChurchLeaders Podcast
+- category: ministry
+- tags: ministry, leadership, interviews, pastors, practical
+
+These should integrate seamlessly into your feeds section. They all use open RSS with video enclosures (confirmed via feed structures supporting MP4 or similar). If any don't load properly in your setup, test the enclosures for video mime types. Let me know if you need more or help verifying!
+
+## 4
+
+add a y2k/millenium-inspired theme to themes, style and ui, thinkking silvers and curves.
+
+## 5
+
+add these as TODOs to our Readme so I can review properly, I think the first priority should be making 'real' page content based on each page, but not sure yet if we should monkey-patch the 404.html or build a dedicated landing page for each feed, and have that hotswap (faking a multipage site)... Just log for now, will think about it later...
+
+
+Your current top block is still placeholder-y (`title: Prays.be Streaming Church`, `description: Enjoy unlimited streaming church content`). 
+
+Pick one of these sets and drop it into `# Site`:
+
+```md
+- title: Prays.be
+- subtitle: Distraction-free streaming church
+- description: A calm video player for services and sermons, straight from RSS video enclosures.
+```
+
+```md
+- title: Prays.be
+- subtitle: Press play. Stay present.
+- description: Watch services, sermons, prayer, and teaching with no algorithm, no comments, no noise.
+```
+
+```md
+- title: Prays.be
+- subtitle: Church vodcasts, neatly
+- description: A directory + player for open RSS video feeds. Simple, fast, distraction-free.
+```
+
+If you want to tighten the “identity” signal for feed hosts/CDNs, I’d also change:
+
+```md
+- user_agent: prays.be/vodcasts (+https://prays.be/)
+```
+
+---
+
+Add these to your `# Feeds` list (all intended as video-enclosure feeds, matching your use-case):
+
+```md
+## watermark-porch-video
+- url: https://media.watermark.org/podcasts/porch-video.xml
+- title: The Porch (Video) — Watermark Community Church
+- category: sermons
+- tags: sermons, young-adults, teaching, weekly, dallas
+
+## desiring-god-messages-video
+- url: http://feed.desiringgod.org/messages-by-desiring-god-video.rss
+- title: Messages by Desiring God (Video)
+- category: teaching
+- tags: sermons, preaching, conference, reformed, weekly
+
+## ancient-faith-simple-path-video
+- url: http://feeds.ancientfaith.com/SimplePathToGodVideo/
+- title: The Simple Path to God (Video) — Ancient Faith
+- category: teaching
+- tags: orthodox, teaching, catechesis, practical, weekly
+
+## wisdom-television-murdock-video
+- url: https://feed.podbean.com/wisdomonline/feed.xml
+- title: Wisdom Television (Video) — Dr. Mike Murdock
+- category: tv-ministry
+- tags: tv-ministry, teaching, daily, talk
+
+## battle-drill-daily-devotional-video
+- url: https://api.substack.com/feed/podcast/5786250.rss
+- title: Battle Drill Daily Devotional (Video)
+- category: devotional
+- tags: devotional, bible-reading, daily, short-form
+
+## tung-fook-cbc-video
+- url: http://share.tungfook.com/tungfook/podcasts/cbc/video/video.xml
+- title: Tung Fook Chuen Kee Church — CBC (Video)
+- category: sermons
+- tags: sermons, hong-kong, chinese, weekly
+
+## church-of-the-highlands-weekend-video
+- url: https://feeds.churchofthehighlands.com/media/weekend/video
+- title: Church of the Highlands — Weekend Service (Video)
+- category: sermons
+- tags: sermons, weekend, multi-site, alabama, weekly
+
+## hpumc-sanctuary-videocast
+- url: http://feeds2.feedburner.com/HpumcSanctuaryServiceVideocast
+- title: Highland Park UMC — Sanctuary Service (Videocast)
+- category: sermons
+- tags: sermons, methodist, liturgy, weekly, dallas
+
+## all-souls-sundays
+- url: http://feeds.feedburner.com/AllSoulsChurchSundays
+- title: All Souls Church — Sundays (Video)
+- category: sermons
+- tags: sermons, anglican, uk, weekly, london
+
+## sermontv-calvarylighthouse-video
+- url: http://CalvaryLighthouse.sermon.tv/rss/main/video
+- title: Calvary Lighthouse (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly
+
+## sermontv-ccfhkingwood-video
+- url: http://CCFHKingwood.sermon.tv/rss/main/video
+- title: CCFH Kingwood (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly, texas
+
+## sermontv-communitychurchtv-video
+- url: http://CommunityChurchTV.sermon.tv/rss/main/video
+- title: CommunityChurchTV (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly
+
+## sermontv-genoaunitedbaptistchurch-video
+- url: http://GenoaUnitedBaptistChurch.sermon.tv/rss/main/video
+- title: Genoa United Baptist Church (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, baptist, sermontv, weekly
+
+## sermontv-lbcwylie-video
+- url: http://LBCWylieTX.sermon.tv/rss/main/video
+- title: LBC Wylie TX (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, baptist, sermontv, weekly, texas
+
+## sermontv-ncfstillwaterok-video
+- url: http://NCFStillwaterOK.sermon.tv/rss/main/video
+- title: NCF Stillwater OK (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly, oklahoma
+
+## sermontv-thenetrev-video
+- url: http://TheNetRev.sermon.tv/rss/main/video
+- title: TheNetRev (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly
+
+## sermontv-apostolicclassics-video
+- url: http://apostolicclassics.sermon.tv/rss/main/video
+- title: Apostolic Classics (Sermon.tv) — Main (Video)
+- category: teaching
+- tags: teaching, sermontv, archives, classic, weekly
+
+## sermontv-drumley-video
+- url: http://drumley.sermon.tv/rss/main/video
+- title: Drumley (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly
+```
+
+Source checks for the new feeds, in order:
+
+1. The Porch feed URL ([podbean.com][1])
+2. Desiring God video feed URL ([podbean.com][2])
+3. Simple Path to God video feed URL ([Podstatus][3])
+4. Wisdom Television feed URL ([Podstatus][4])
+5. Battle Drill Daily Devotional feed URL ([Podstatus][5])
+6. Tung Fook CBC video feed URL ([Podstatus][6])
+7. Church of the Highlands video feed URL ([Podstatus][7])
+8. HPUMC videocast feed URL ([Podstatus][8])
+9. All Souls Sundays feed URL ([Podstatus][9])
+   10–18) sermon.tv feed hostnames (and one explicit `/video` example) ([Gist][10])
+
+---
+
+Short shortlist for discoverability + accessibility (keeping the “mostly a player” vibe)
+
+* bake real text into the homepage: what it is, what “video RSS” means, what you don’t do (no recommendations/comments), plus a couple of example categories (Services, Sermons, Prayer, Kids, Study)
+* give every feed its own page with a stable URL, a plain description, and a tiny episode list (enough for indexing + sharing)
+* OPML export and a public JSON index of feeds (slug, title, tags, url) so people can fork/clone/auto-import
+* add OpenGraph/Twitter cards so a shared link previews as “watchable” instead of “random site”
+* sitemap + sensible canonical URLs; keep query params out of canonical
+* keyboard-first controls (space play/pause, ←/→ seek, m mute, f fullscreen), with a visible “shortcuts” help panel
+* captions/transcript affordances even when unavailable (show “captions not provided” instead of silent absence)
+* focus rings that are obvious, skip-to-content, and no hover-only UI
+* don’t autoplay; remember volume + playback speed per user; respect reduced-motion
+* “low distraction mode” toggle that hides feed list + metadata and leaves just the player + next/prev
+
+[1]: https://www.podbean.com/podcast-detail/aucu4-4576e/The-Porch-%28Video%29-Podcast?utm_source=chatgpt.com "The Porch (Video) Podcast | Free Listening on Podbean App"
+[2]: https://www.podbean.com/podcast-detail/u4wrq-232960/Messages-by-Desiring-God-%28Video%29-Podcast?utm_source=chatgpt.com "Messages by Desiring God (Video) Podcast | Free Listening on Podbean App"
+[3]: https://podstatus.com/podcasts/battle-drill-daily-devotional-video-christian-5-mi-1078552?utm_source=chatgpt.com "Battle Drill Daily Devotional (Video) | Christian 5-Minute Bible Devotions Podcast - Rankings, Reviews - Podstatus"
+[4]: https://podstatus.com/podcasts/wisdom-television-with-dr-mike-murdock-video-podca-119380?utm_source=chatgpt.com "Wisdom Television With Dr. Mike Murdock (Video) Podcast Podcast - Rankings, Reviews - Podstatus"
+[5]: https://podstatus.com/podcasts/the-simple-path-to-god-video-71781?utm_source=chatgpt.com "The Simple Path to God (Video) Podcast - Rankings, Reviews - Podstatus"
+[6]: https://podstatus.com/podcasts/tung-fook-church-154119?utm_source=chatgpt.com "同福堂 視聽版講道重溫 Tung Fook Church Podcast - Rankings, Reviews - Podstatus"
+[7]: https://podstatus.com/podcasts/church-of-the-highlands-sunday-messages-video-396170 "Church of the Highlands - Sunday Messages - Video Podcast - Rankings, Reviews - Podstatus
+"
+[8]: https://podstatus.com/podcasts/hpumc-sanctuary-sermons-traditional-worship-438688 "HPUMC - Sanctuary Sermons (Traditional Worship) Podcast - Rankings, Reviews - Podstatus
+"
+[9]: https://podstatus.com/podcasts/all-souls-sunday-sermons-177319 "All Souls Sunday Sermons Podcast - Rankings, Reviews - Podstatus
+"
+[10]: https://gist.github.com/eteubert/5986525?permalink_comment_id=4536668&utm_source=chatgpt.com "List of Podcast RSS Feeds, extracted via iTunes API · GitHub"
+
+## 6
+
+I forgot there were new feeds in there... Check these feeds and for the actve ones with video enclosures, include in our church.md....
+
+## watermark-porch-video
+- url: https://media.watermark.org/podcasts/porch-video.xml
+- title: The Porch (Video) — Watermark Community Church
+- category: sermons
+- tags: sermons, young-adults, teaching, weekly, dallas
+
+## desiring-god-messages-video
+- url: http://feed.desiringgod.org/messages-by-desiring-god-video.rss
+- title: Messages by Desiring God (Video)
+- category: teaching
+- tags: sermons, preaching, conference, reformed, weekly
+
+## ancient-faith-simple-path-video
+- url: http://feeds.ancientfaith.com/SimplePathToGodVideo/
+- title: The Simple Path to God (Video) — Ancient Faith
+- category: teaching
+- tags: orthodox, teaching, catechesis, practical, weekly
+
+## wisdom-television-murdock-video
+- url: https://feed.podbean.com/wisdomonline/feed.xml
+- title: Wisdom Television (Video) — Dr. Mike Murdock
+- category: tv-ministry
+- tags: tv-ministry, teaching, daily, talk
+
+## battle-drill-daily-devotional-video
+- url: https://api.substack.com/feed/podcast/5786250.rss
+- title: Battle Drill Daily Devotional (Video)
+- category: devotional
+- tags: devotional, bible-reading, daily, short-form
+
+## tung-fook-cbc-video
+- url: http://share.tungfook.com/tungfook/podcasts/cbc/video/video.xml
+- title: Tung Fook Chuen Kee Church — CBC (Video)
+- category: sermons
+- tags: sermons, hong-kong, chinese, weekly
+
+## church-of-the-highlands-weekend-video
+- url: https://feeds.churchofthehighlands.com/media/weekend/video
+- title: Church of the Highlands — Weekend Service (Video)
+- category: sermons
+- tags: sermons, weekend, multi-site, alabama, weekly
+
+## hpumc-sanctuary-videocast
+- url: http://feeds2.feedburner.com/HpumcSanctuaryServiceVideocast
+- title: Highland Park UMC — Sanctuary Service (Videocast)
+- category: sermons
+- tags: sermons, methodist, liturgy, weekly, dallas
+
+## all-souls-sundays
+- url: http://feeds.feedburner.com/AllSoulsChurchSundays
+- title: All Souls Church — Sundays (Video)
+- category: sermons
+- tags: sermons, anglican, uk, weekly, london
+
+## sermontv-calvarylighthouse-video
+- url: http://CalvaryLighthouse.sermon.tv/rss/main/video
+- title: Calvary Lighthouse (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly
+
+## sermontv-ccfhkingwood-video
+- url: http://CCFHKingwood.sermon.tv/rss/main/video
+- title: CCFH Kingwood (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly, texas
+
+## sermontv-communitychurchtv-video
+- url: http://CommunityChurchTV.sermon.tv/rss/main/video
+- title: CommunityChurchTV (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, church, weekly
+
+## sermontv-genoaunitedbaptistchurch-video
+- url: http://GenoaUnitedBaptistChurch.sermon.tv/rss/main/video
+- title: Genoa United Baptist Church (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, baptist, sermontv, weekly
+
+## sermontv-lbcwylie-video
+- url: http://LBCWylieTX.sermon.tv/rss/main/video
+- title: LBC Wylie TX (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, baptist, sermontv, weekly, texas
+
+## sermontv-ncfstillwaterok-video
+- url: http://NCFStillwaterOK.sermon.tv/rss/main/video
+- title: NCF Stillwater OK (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly, oklahoma
+
+## sermontv-thenetrev-video
+- url: http://TheNetRev.sermon.tv/rss/main/video
+- title: TheNetRev (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly
+
+## sermontv-apostolicclassics-video
+- url: http://apostolicclassics.sermon.tv/rss/main/video
+- title: Apostolic Classics (Sermon.tv) — Main (Video)
+- category: teaching
+- tags: teaching, sermontv, archives, classic, weekly
+
+## sermontv-drumley-video
+- url: http://drumley.sermon.tv/rss/main/video
+- title: Drumley (Sermon.tv) — Main (Video)
+- category: sermons
+- tags: sermons, sermontv, weekly
+
+## 7
+
+also I told you to add those other earlier ones.... that do NOT 404. Remove the placeholder and ADD entries only for the video based feeds that do not 404.
+
+
+## elevation-church
+- url: https://elevationchurch.org/feed/podcast/video
+- title: Elevation Church
+- category: sermons
+- tags: sermons, contemporary, north-carolina, steven-furtick, worship, concert, live-music
+
+## hillsong-church
+- url: https://hillsong.com/collected/all/blogs/category/blogs/feed
+- title: Hillsong Church
+- category: sermons
+- tags: sermons, worship, australia, brian-houston, global, concert, live-music
+
+## bethel-church
+- url: https://www.bethel.com/podcasts/rss
+- title: Bethel Church
+- category: sermons
+- tags: sermons, charismatic, california, bill-johnson, healing, worship, concert, live-music
+
+## lakewood-church
+- url: https://www.lakewoodchurch.com/podcasts/video
+- title: Lakewood Church
+- category: tv-ministry
+- tags: tv-ministry, prosperity, joel-osteen, texas, encouragement, sunday
+
+## saddleback-church
+- url: https://saddleback.com/podcasts/video
+- title: Saddleback Church
+- category: sermons
+- tags: sermons, practical-living, rick-warren, california, multi-site, concert, live-music
+
+## gateway-church
+- url: https://gatewaypeople.com/podcasts/rss
+- title: Gateway Church
+- category: sermons
+- tags: sermons, texas, robert-morris, multi-site, bible-teaching, sunday
+
+## life-church
+- url: https://openblog.life.church/feed/
+- title: Life.Church
+- category: sermons
+- tags: sermons, craig-groeschel, oklahoma, multi-site, practical, concert, live-music
+
+## passion-city
+- url: https://passioncitychurch.com/podcasts/video/rss
+- title: Passion City Church
+- category: sermons
+- tags: sermons, louie-giglio, georgia, worship, young-adults, concert, live-music
+
+## village-church
+- url: https://www.thevillagechurch.net/resources/sermons/rss
+- title: The Village Church
+- category: sermons
+- tags: sermons, matt-chandler, texas, expositional, reformed, sunday
+
+## north-point
+- url: https://northpoint.org/messages/rss
+- title: North Point Ministries
+- category: sermons
+- tags: sermons, andy-stanley, georgia, practical-living, multi-site, sunday
+
+## desiring-god
+- url: https://www.desiringgod.org/messages/rss
+- title: Desiring God
+- category: bible-study
+- tags: bible-study, john-piper, reformed, minnesota, theology, teaching
+
+## gospel-coalition
+- url: https://www.thegospelcoalition.org/podcasts/rss
+- title: The Gospel Coalition
+- category: teaching
+- tags: teaching, reformed, conferences, multi-source, theology
+
+## andrew-wommack
+- url: https://www.awmi.net/video/tv-archives/rss
+- title: Andrew Wommack Ministries
+- category: tv-ministry
+- tags: tv-ministry, faith-teaching, grace, colorado, daily
+
+## amazing-facts
+- url: https://www.amazingfacts.org/media-library/podcasts/rss
+- title: Amazing Facts
+- category: bible-study
+- tags: bible-study, doug-batchelor, sabbath, california, prophecy
+
+## in-touch
+- url: https://www.intouch.org/broadcast/video-archives/rss
+- title: In Touch Ministries
+- category: tv-ministry
+- tags: tv-ministry, charles-stanley, georgia, teaching, daily
+
+## bible-project
+- url: https://bibleproject.com/podcasts/rss
+- title: Bible Project
+- category: bible-study
+- tags: bible-study, animated, theology, oregon, series
+
+## bible-recap
+- url: https://www.thebiblerecap.com/podcast/rss
+- title: The Bible Recap
+- category: bible-study
+- tags: bible-study, through-the-bible, daily, tara-leigh-cobble
+
+## through-the-word
+- url: https://throughtheword.org/podcasts/rss
+- title: Through the Word
+- category: bible-study
+- tags: bible-study, audio-guide, chapter-by-chapter, california
+
+## james-river-church
+- url: https://feed.podbean.com/jamesriverchurch/feed.xml
+- title: James River Church Podcast
+- category: sermons
+- tags: sermons, john-lindell, missouri, pentecostal, sunday, concert, live-music
+
+## church-leaders
+- url: https://churchleaders.libsyn.com/rss
+- title: ChurchLeaders Podcast
+- category: ministry
+- tags: ministry, leadership, interviews, pastors, practical
+
+## 8
+
+try these ones next....
+
+I think they're mostly dead, but try them all anyway. Then look for more...
+
+Below are confirmed video RSS feeds that match your format (true RSS/vodcast feeds with video enclosures). I stayed inside your scope: sermons/services/teaching or equivalent, and deliberately widened geography + traditions (African, Black diaspora, Asian, non-Christian).
+
+I grouped by region/tradition so you can slot them into your taxonomy easily.
+
+---
+
+## African & Black-majority churches (video RSS)
+
+**Redeemed Christian Church of God (RCCG) — UK / Nigeria diaspora**
+[https://podcasts.subsplash.com/61y4yq7/podcast.rss](https://podcasts.subsplash.com/61y4yq7/podcast.rss)
+(video sermons; Subsplash vodcast)
+
+**Christ Embassy — Nigeria (global)**
+[https://christembassyhouston.org/podcast/video.xml](https://christembassyhouston.org/podcast/video.xml)
+(video sermons & services)
+
+**Winners Chapel International (Living Faith Church)**
+[https://lfcdallas.org/podcast/video.xml](https://lfcdallas.org/podcast/video.xml)
+(video sermons; Nigerian Pentecostal megachurch network)
+
+**Omega Fire Ministries — Nigeria**
+[https://podpoint.com/feed/7017](https://podpoint.com/feed/7017)
+(video sermons)
+
+**Daystar Christian Centre — Nigeria**
+[https://podcasts.subsplash.com/9vt4qk8/podcast.rss](https://podcasts.subsplash.com/9vt4qk8/podcast.rss)
+(video sermons)
+
+These all publish vodcasts with `<enclosure type="video/...">` and current items.
+
+---
+
+## Black churches (US/UK diaspora but culturally distinct)
+
+**The Potter’s House (T. D. Jakes)**
+[https://tdjakes.org/podcast/video.xml](https://tdjakes.org/podcast/video.xml)
+(video sermons)
+
+**Mount Zion Baptist Church — Nashville (Black Baptist)**
+[https://mountzionnashville.sermon.net/rss/main/video](https://mountzionnashville.sermon.net/rss/main/video)
+(video sermons)
+
+**Ruach City Church — London (Black-majority Pentecostal)**
+[https://podcasts.subsplash.com/7p9c2z5/podcast.rss](https://podcasts.subsplash.com/7p9c2z5/podcast.rss)
+(video services)
+
+---
+
+## Asian / Chinese churches (video RSS)
+
+**Beijing Zion Church (Chinese Protestant)**
+[https://zionbeijing.sermon.net/rss/main/video](https://zionbeijing.sermon.net/rss/main/video)
+(video sermons; Mandarin)
+
+**Shanghai Community Fellowship**
+[https://shcf.sermon.net/rss/main/video](https://shcf.sermon.net/rss/main/video)
+(video sermons; English/Chinese)
+
+**Taipei Bread of Life Christian Church**
+[https://bolcc.sermon.net/rss/main/video](https://bolcc.sermon.net/rss/main/video)
+(video sermons; Mandarin megachurch)
+
+---
+
+## Orthodox & Eastern (non-Western Christian)
+
+**Orthodox Church in America — Sermons (video)**
+[https://feeds.ancientfaith.com/oca-sermons-video](https://feeds.ancientfaith.com/oca-sermons-video)
+(video homilies)
+
+**Greek Orthodox Archdiocese — Divine Liturgy video**
+[https://goarch.sermon.net/rss/main/video](https://goarch.sermon.net/rss/main/video)
+(full services)
+
+---
+
+## Islamic (video sermons / khutbah)
+
+**Ahmadiyya Muslim Community — Friday Sermon (video)**
+[https://www.alislam.org/rss/friday-sermon-video.xml](https://www.alislam.org/rss/friday-sermon-video.xml)
+(global khutbah; multilingual video RSS)
+Al-Islam publishes official RSS for sermons worldwide. ([Al Islam Online][1])
+
+**Islam Channel — programmes (video podcast)**
+[https://watch.islamchannel.tv/rss/video](https://watch.islamchannel.tv/rss/video)
+(UK Muslim TV channel sermons & talks)
+
+**East London Mosque — Khutbah video**
+[https://eastlondonmosque.sermon.net/rss/main/video](https://eastlondonmosque.sermon.net/rss/main/video)
+(friday sermons; UK)
+
+---
+
+## Sikh (video kirtan / discourses)
+
+**Akaal Channel — Sikh TV programmes (video RSS)**
+[https://www.akaalchannel.tv/rss/video](https://www.akaalchannel.tv/rss/video)
+(Sikh sermons, kirtan; global Sikh TV)
+Akaal Channel is a Sikh religious broadcast network. ([Wikipedia][2])
+
+**Sikh Channel — Gurbani & discourse**
+[https://www.sikhchannel.tv/rss/video](https://www.sikhchannel.tv/rss/video)
+(Sikh services/lectures)
+
+---
+
+## Buddhist / Hindu (temple teachings — video RSS)
+
+**Plum Village (Zen Buddhist)**
+[https://plumvillage.org/feed/podcast/video](https://plumvillage.org/feed/podcast/video)
+(Dharma talks; Thich Nhat Hanh tradition)
+
+**Fo Guang Shan (Chinese Buddhist)**
+[https://fgs.org/rss/video](https://fgs.org/rss/video)
+(Buddhist lectures; Mandarin)
+
+**Chinmaya Mission (Hindu Vedanta)**
+[https://chinmayamission.org/rss/video](https://chinmayamission.org/rss/video)
+(Upanishad/Bhagavad Gita discourses)
+
+---
+
+## Jewish (video sermons / teaching)
+
+**Central Synagogue — Shabbat services (video)**
+[https://centralsynagogue.sermon.net/rss/main/video](https://centralsynagogue.sermon.net/rss/main/video)
+(full services)
+
+**Temple Emanu-El — sermons (video)**
+[https://emanuelnyc.sermon.net/rss/main/video](https://emanuelnyc.sermon.net/rss/main/video)
+(rabbinic sermons)
+
+---
+
+## Notes on verification / fit
+
+* All above feeds resolve as RSS with video enclosures (mp4/m4v).
+* They’re equivalent to your existing church vodcasts (same CMS families: Subsplash, Sermon.net, Podpoint, custom vodcast XML).
+* Geographic expansion: Nigeria, UK diaspora, China/Taiwan, Sikh/Buddhist/Hindu/Jewish/Islamic traditions.
+* Content type: sermons, services, liturgy, khutbah, Dharma talks — directly analogous to your current categories.
+
+Your current catalogue is overwhelmingly US evangelical; adding these broadens culture + religion without changing UX.
+
+Your existing site positioning already says “global ministries”. 
+[1]: https://www.alislam.org/podcast/?utm_source=chatgpt.com "Podcast Service"
+[2]: https://en.wikipedia.org/wiki/Akaal_Channel?utm_source=chatgpt.com "Akaal Channel"
+
+
+I've got these feeds in my website (it's a video/channel browser), but I'd like to find more feeds, must have video, but I want to move beyond just/mostly american christians, to also other religions, services, sermons, lessons and such, basically more of the types of content we have, but not exclusively limited to christians or american, what other feeds can you find? they must have video, and be like our feeds, rss/openrss based. I'd also like to find some black ministries, african or even chinese ones, like expand our offering from what we have to worldwide. No guessing, confirm every feed
+
+## 9
+
+I'd like to find more feeds, must have video, but I want to move beyond just/mostly american christians, to also other religions, services, sermons, lessons and such, basically more of the types of content we have, but not exclusively limited to christians or american, what other feeds can you find? they must have video, and be like our feeds, rss/openrss based. I'd also like to find some black ministries, african or even chinese ones, like expand our offering from what we have to worldwide. No guessing, confirm every feed
+
+## 10
+
+what's the political direction/lean on those channels, since they're not religious we need to be a little careful.
+
+## 11
+
+hmm, they might fit for a large section of our audience, but I don't want to 'trigger' those who will absolutely find a few of their positions offensive. Add them to the complete.md file instead, since they are interesting, but not on this deployment
+
+## 12
+
+oh okay, I see you misunderstood what I asked... I don't want you to search my repo for new church feeds, I want you to search the web for new feeds that compliment our church feeds.
+
+## 13
+
+okay, write up a church-audio-only.md file. Must have episodes but does not have to be video, in fact should be audio, expliticly without video. Try and exhaust the sector for what's available. Try and find old archives of local talk/regional radio, that kind of thing too, americana and christiania.
+
+## 14
+
+23 isn't many... can you do better, add more?
