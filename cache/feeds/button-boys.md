@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-10-29T00:54:47+00:00`
-- checked_at: `2026-10-29T00:54:47+00:00`
-- last_modified: `Thu, 29 Oct 2026 00:07:56 GMT`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
+- last_modified: `Thu, 05 Nov 2026 00:07:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-29T00:54:47+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,33 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "b2f16def04f98ff9b4789f90021a5df7f0040b56",
+      "title": "Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "link": null,
+      "description": "This week we're headed to Tinseltown, doll. That's right, the dream factory has come a-knockin' and it's time to talk about the best and worst movie tie-in games. From scantily clad babes performing kung fu moves to top-down tactical thrillers, the Boys dissect the mainly terrible, but sometimes great, film forays into gaming, as well as which films are absolutely ripe for adaptation. But before all that, they discuss their games of the week, with Sarah catching up on one of Glenn's early gaming recommendations, Pierre's being absolutely dominated throughout the ages and Glenn's becoming souls-obsessed with two very different takes on the genre. To follow along with the Button Boys outside the podcast: ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Killer Frequency IRON NEST: Heavy Turret Simulator Iron Lung The Outlast Trials Age of Empires II: The Age of Kings Heavy Rain Mortal Shell Mortal Shell II Lies of P Bloodborne Valor Mortis BioShock Infinite Ghostrunner Ghostrunner II Superhot Kingdom Come: Deliverance Mirror's Edge Still Wakes the Deep Cairn The Simpsons: Hit & Run The Simpsons Wrestling The Simpsons: Road Rage Aliens: Fireteam Elite 2 Aliens: Dark Descent Alien: Isolation Charlie's Angels Dead or Alive 007: The World is Not Enough Star Wars Episode I: Jedi Power Battles GoldenEye 007 Pirates of the Caribbean Kingdom Hearts II Disney's Hercules Disney's Tarzan The Lion King Aladdin Fortnite Dead by Daylight Enter the Matrix The Lord of the Rings: The Two Towers The Lord of the Rings: The Battle for Middle-earth The Warriors Die Hard Trilogy Stuart Little: Big City Adventures Small Soldiers Toy Story 3 A Bug's Life The Sum of All Fears Conflict: Desert Storm Batman: Arkham Asylum Dead Space Wax Heads Produced and edited by Ben Drayton Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3104366167.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3453",
+      "speakers": [
+        "Movie Magic",
+        "Awful Adaptations",
+        "Worst Movie Tie",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "movie",
+        "magic",
+        "awful",
+        "adaptations",
+        "worst"
+      ]
+    },
     {
       "key": "5487414cc51bc2fc00051731b03bc3b6710f805e",
       "title": "Halloween Spooktacula Special",
@@ -1611,6 +1638,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins — speakers: Movie Magic, Awful Adaptations, Worst Movie Tie, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-29 — Halloween Spooktacula Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-21 — Terrible Times: Who’s Got it the Worst? — speakers: Terrible Times, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-14 — Side Quests Vol. 1 — speakers: Side Quests Vol, Glenn Moore, Sarah Keyworth, Pierre Novellie

@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-10-29T09:56:52+00:00`
-- checked_at: `2026-10-29T09:56:52+00:00`
-- etag: `W/"4d5fe7aab51d34629783e06b7fd24ee3"`
-- last_modified: `Thu, 29 Oct 2026 02:00:01 GMT`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
+- etag: `W/"c94e832130b5bd4ac4de49f01f07eba8"`
+- last_modified: `Thu, 05 Nov 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-10-29T09:56:52+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "feb95c396b4fc2f87ef321920efcce8dca32da97",
+      "title": "Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "link": "https://audioboom.com/posts/8973257",
+      "description": "This week, Nish is back from tour and joins Coco to speak to rockstar economist, Mariana Mazzucato. Her brand of ‘mazzonomics’ has influenced governments and politicians around the world, and she digs into what a ‘common good economy’ might look like: less talking, more doing; fewer silos, more collective purpose. Mariana also explains why we should be recognising the social value of cultural places and events, like Notting Hill Carnival, and shares how she accidentally ended up on Wikifeet… We contain multitudes at Pod Save the UK! Also, Coco & Nish catch up on the Labour government’s latest, as Shabana Mahmood ‘softens’ her (still pretty hardline) immigration reforms, and Burnham tries to avoid a reparations row while opening the door to a formal state apology for Britain’s role in the slave trade. And, it’s the blue wave! Pronouns back in your emails please! We check in with Tommy Vietor from Pod Save America to hear their take on the stunning set of midterm election results and what this means for the last years of Trump 2.0. USEFUL LINKS Buy Mariana’s book: https://www.hive.co.uk/product/mariana-mazzucato/the-common-good-economy--a-new-compass/32296162 Read the Empire of AI: https://www.hive.co.uk/product/karen-hao/empire-of-ai--inside-the-reckless-race-for-total-domination/31755930 CHECK OUT THESE DEALS FROM OUR SPONSORS BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43924916/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8973257.mp3?modified=1793816448&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4426",
+      "speakers": [
+        "Mariana Mazzucato",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "reparation",
+        "immigration",
+        "reform",
+        "economy",
+        "mariana",
+        "mazzucato"
+      ]
+    },
     {
       "key": "d2ae619997c14aa92a5c3040caa265757b779962",
       "title": "Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0",
@@ -669,10 +694,10 @@
       "link": "https://audioboom.com/posts/8900190",
       "description": "This week, Nish and Coco make sense of a bruising local election week, as Labour braces for heavy losses, Reform eyes major gains, and the Greens look to break through in London. They’re joined by Will Hayward, award-winning investigative journalist and expert on Welsh politics, to break down what’s happening in Wales, where Labour’s century-long dominance could be coming to an end. He explains the new Senedd voting system, the rise of Plaid and Reform, and what this election could mean for the future of devolution. Plus: Zoë Grünewald joins to unpack Reform’s latest migrant detention centre proposal, Green hopes in the capital, and what a bad night could mean for Keir Starmer. And: should MPs be allowed to drink on the job, or is Parliament’s bar tab finally becoming a political problem? GUESTS Zoë Grünewald, political journalist Will Hayward, Cardiff-based investigative journalist USEFUL LINKS Guide to Senedd voting system: https://senedd.wales/senedd-now/senedd-blog/how-will-the-new-voting-system-work-at-the-next-senedd-election/ CREDITS Radio 4, Today Show Tiktok, Zia Yusef (@ziayusufuk) Instagram, Hannah Spencer (@hannahtheplumbermcr) Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43633006.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900190.mp3?modified=1778096618&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900190.mp3?modified=1793682232&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3813",
+      "itunes_duration": "3505",
       "speakers": [
         "Will Hayward",
         "Zoë Grünewald",
@@ -4389,6 +4414,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato — speakers: Mariana Mazzucato, Nish Kumar, Coco Khan
 - 2026-10-29 — Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0 — speakers: Zoë Grünewald, Nish Kumar, Coco Khan
 - 2026-10-22 — Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker — speakers: Thomas Piketty, Susan Stryker, Nish Kumar, Coco Khan
 - 2026-10-15 — The Brexit Cinematic Universe w/ Anand Menon, and Premier League pitfalls ft. Man City — speakers: Anand Menon, Nish Kumar, Coco Khan

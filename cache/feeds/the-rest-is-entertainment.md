@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-03T06:45:29+00:00`
-- checked_at: `2026-11-03T06:45:29+00:00`
-- last_modified: `Tue, 03 Nov 2026 00:39:35 GMT`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
+- last_modified: `Thu, 05 Nov 2026 00:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-03T06:45:29+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,34 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "faa9b51dc8b72c64252c8f3602c0d5fd9811931f",
+      "title": "Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal",
+      "published_at": "2026-11-05T00:05:00+00:00",
+      "link": null,
+      "description": "How did an unknown actor convince Hollywood bigshots to make Rocky? What was really behind Sly Stallone’s legendary rivalry with Arnold Schwarzenegger? And, how did football legend Pelé break the actor’s finger. In this very special interview, Marina Hyde and Sylvester Stallone discuss his extraordinary career. Including his biggest regrets, and roles he wishes he took. Sylvester reflects on half a century in Hollywood, answering why the industry has stopped taking risks, working with Dolly Parton and his ongoing hatred of Steven Seagal. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5002060e-d84b-11f1-9e4f-e3028e88ecf3/image/5ffcdc59d16addaaca9b1384769b552d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4963092773.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2559",
+      "speakers": [
+        "Sly Stallone",
+        "Steven Seagal",
+        "Sly Stall",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "stallone",
+        "rivalry",
+        "arnie",
+        "outsider",
+        "hating",
+        "steven",
+        "seagal"
+      ]
+    },
     {
       "key": "546aa7c7d437f015c36d37be5c865e6e2f2f4991",
       "title": "Celebrity Traitors - The Culture War Stupidity",
@@ -7258,6 +7286,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal — speakers: Sly Stallone, Steven Seagal, Sly Stall, Richard Osman, Marina Hyde
 - 2026-11-03 — Celebrity Traitors - The Culture War Stupidity — speakers: Celebrity Traitors, Does Celebrity Traitors, Richard Osman, Marina Hyde
 - 2026-10-30 — CELEBRITY TRAITORS FINAL: Live Reaction — speakers: Richard Osman, Marina Hyde
 - 2026-10-29 — The Biggest Mistake Yet - Celeb Traitors Reaction (Episode 9) — speakers: Celeb Traitors Reaction, Richard Osman, Marina Hyde

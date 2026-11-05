@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NjEyMzk1NjI="`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
+- etag: `"djEuMi4wOjE3OTM4NDc2Mzk1MTQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "b0f51c881fce14e931d9ce0bcb8925a7d747fb8e",
+      "title": "S17 Ep 915: A Slice Of Life",
+      "published_at": "2026-11-05T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-915-a-slice-of-life",
+      "description": "Well this one was supposed to be a Mailbag episode, but as is the way these days, Joe and David get completely distracted by puppy chat. And then more importantly, it turns out that David’s been doing more of his impromptu ‘houses-for-sale’ viewings. So the Mailbag is completely abandoned as Joe insists on hearing everything about it. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ae4562c309881b50b205428/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35665293",
+      "itunes_duration": "37:09",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "slice",
+        "life"
+      ]
+    },
     {
       "key": "e94f71f1e167cb07bd108624e6ad4f15de01e94a",
       "title": "S17 Ep 914: Puppy Progress & A New Sport Pt 2",
@@ -16541,6 +16561,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — S17 Ep 915: A Slice Of Life — speakers: Joe Wilkinson, David Earl
 - 2026-11-04 — S17 Ep 914: Puppy Progress & A New Sport Pt 2 — speakers: Puppy Progress, New Sport Pt, Joe Wilkinson, David Earl
 - 2026-11-03 — S17 Ep 913: Puppy Progress & A New Sport Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2026-11-02 — S17 Ep 912 Vault Mondays: Carol Klein and Being Sacked from a Ch4 Show — speakers: Carol Klein, Joe Wilkinson, David Earl

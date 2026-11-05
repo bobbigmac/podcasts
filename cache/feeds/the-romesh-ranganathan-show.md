@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-11-02T00:44:04+00:00`
-- checked_at: `2026-11-02T00:44:04+00:00`
-- last_modified: `Mon, 02 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
+- last_modified: `Thu, 05 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T00:44:04+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9f64e6fb1380585c181658988f151f45c9927188",
+      "title": "The Traitors Special: Alan Carr is here and Shanthi plays Claudia Winkleman",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "link": null,
+      "description": "Happy Bonfire Night! The main question we are asking is: would Shanthi be a Faithful or a Traitor? It’s Thursday, so Romesh’s mum Shanthi is here to answer your questions and family dilemmas. Plus, there’s a very special surprise guest: The Traitors’ very own Alan Carr. Alan talks tactics in the castle to the moments they never want to make the edit - with Romesh revealing his truth about James Acaster… Shanthi unveils her best Claudia Winkleman impression, and the pair role play the Traitors round table. Plus, there are listener dilemmas from parenting to strong opinions on bonfires and firework displays. Happy Bonfire Night from Romesh, Shanthi and the whole Ranga Bee team. A Ranga Bee Production. Chapters: 00:00 Intro 01:42 Shanthi does Claudia Winkleman 03:57 Testing the new studio 04:26 Romesh's Traitors win 06:23 The Traitors vs Last One Laughing 14:22 Airport searches and border control 18:28 Phone calls from the castle 26:44 Why Romesh didn't go to Oxford 28:46 Listener questions 44:11 Ellie: Traitor or faithful? 50:00 Round table role play 52:00 How seriously do people take the game? 53:07 Who did Romesh keep in touch with? 54:09 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cebea010-d896-11f1-a538-fb6873cba298/image/7a304b50dd9a0d62c5d88924f23eaf51.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4777738017.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3446",
+      "speakers": [
+        "Alan Carr",
+        "Claudia Winkleman",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "traitors",
+        "special",
+        "alan",
+        "carr",
+        "shanthi",
+        "claudia",
+        "winkleman"
+      ]
+    },
     {
       "key": "92423860490b4fc02223f5a047ce7e22c0bab353",
       "title": "Riz Ahmed: Dealing with grief, Tom Cruise & trying stand-up comedy",
@@ -2701,6 +2727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — The Traitors Special: Alan Carr is here and Shanthi plays Claudia Winkleman — speakers: Alan Carr, Claudia Winkleman, Romesh Ranganathan
 - 2026-11-02 — Riz Ahmed: Dealing with grief, Tom Cruise & trying stand-up comedy — speakers: Riz Ahmed, Tom Cruise, Romesh Ranganathan
 - 2026-10-29 — The Halloween Special: Terrifying Costumes, Would You Rather & Spooky Dilemmas — speakers: Spooky Dilemmas, Romesh Ranganathan
 - 2026-10-26 — John Cena & Jessica Biel: Matchbox, Stunt Fears & Why London Food Is Great — speakers: John Cena Jessica Biel, Jessica Biel, John Cena, Romesh Ranganathan

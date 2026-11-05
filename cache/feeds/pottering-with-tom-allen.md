@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-10-29T09:56:52+00:00`
-- checked_at: `2026-10-29T09:56:52+00:00`
+- fetched_at: `2026-11-05T06:43:42+00:00`
+- checked_at: `2026-11-05T06:43:42+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 29 Oct 2026 05:07:54 GMT`
+- last_modified: `Thu, 05 Nov 2026 05:08:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-10-29T09:56:52+00:00",
+  "fetched_at": "2026-11-05T06:43:42+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fda40b669159b0a068c7935d945ab561e7b681a8",
+      "title": "Kieran Hodgson",
+      "published_at": "2026-11-05T05:00:00+00:00",
+      "link": null,
+      "description": "For this special episode, sponsored by Tripadvisor and VisitScotland, I had the pleasure of being joined in The Royal Botanic Garden Edinburgh by the brilliant Kieran Hodgson ! 🌿🏴󠁧󠁢󠁳󠁣󠁴󠁿 Best known for the hit Glasgow sitcom Two Doors Down and his fabulously successful Edinburgh shows, it was an absolute delight to chat with Kieran! We discuss my experience of being cryogenically frozen, shampoo commercials and, of course, the many joys to be found in Scotland, from cold-water swimming to the crags and tails of Edinburgh. 🏰 So, pour yourself a dram, pack your suitcase and come Pottering away with us in Scotland. 🧳 Start your own Scotland story at tripadvisor.co.uk/scotland and discover a side of Scotland you might not have explored yet. Watch on YouTube, Spotify and Apple, or listen wherever you get your podcasts. And please, as ever, don't forget to like and subscribe! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8fd37c42-d87b-11f1-8a41-d7c94964cf7d/image/574a2f4a9e0c80a01715dcb699cbcf44.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2074862536.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3264",
+      "speakers": [
+        "Kieran Hodgson",
+        "Tom Allen"
+      ],
+      "topics": [
+        "kieran",
+        "hodgson"
+      ]
+    },
     {
       "key": "0be469713ddf760e0e6d636684efa557bd50b61f",
       "title": "Mark Gatiss",
@@ -1224,6 +1244,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Kieran Hodgson — speakers: Kieran Hodgson, Tom Allen
 - 2026-10-29 — Mark Gatiss — speakers: Mark Gatiss, Tom Allen
 - 2026-10-22 — Jenna Russell — speakers: Jenna Russell, Tom Allen
 - 2026-10-15 — George Fouracres — speakers: George Fouracres, Tom Allen
