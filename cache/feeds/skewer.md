@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-06-16T11:33:31+00:00`
-- checked_at: `2026-06-16T11:33:31+00:00`
-- etag: `"152f7e731681d58323062d947aa9943b"`
-- last_modified: `Tue, 16 Jun 2026 08:52:02 GMT`
+- fetched_at: `2026-11-05T17:23:16+00:00`
+- checked_at: `2026-11-05T17:23:16+00:00`
+- etag: `"71c2f1d6d08b50ffe0ed636438874391"`
+- last_modified: `Tue, 03 Nov 2026 09:34:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,8 +17,8 @@
   "title": "The Skewer (BBC Radio 4)",
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
-  "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-06-16T11:33:31+00:00",
+  "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p2mks7.jpg",
+  "fetched_at": "2026-11-05T17:23:16+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -29,6 +29,106 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "38ef107c695257a2f06b1d9a790802be816ba5cd",
+      "title": "Hope, Pope, and Clarkson's Terrorism Farm",
+      "published_at": "2026-09-30T22:30:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m00324d4",
+      "description": "Multi-award-winning satirical soundscapes as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - Burnham offers hope, Warhammer meets the Pope, and we're off to Clarkson's Terrorism Farm. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd7qr3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Jon Holmes"
+      ],
+      "topics": [
+        "hope",
+        "pope",
+        "clarkson",
+        "terrorism",
+        "farm"
+      ]
+    },
+    {
+      "key": "0c5dbcf52e3fc02464ce9ab885eb4f0a5ec8cebc",
+      "title": "The Days of Earl(y) Spencer",
+      "published_at": "2026-09-23T22:30:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0031vcl",
+      "description": "Multi-award-winning satirical soundscapes as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - Ed Sheeran on a loop, Earl Spencer on his book, and Ed Davey and the Liberal Democrats on a hiding to nothing. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc3hdv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Spencer Multi-award",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "spencer"
+      ]
+    },
+    {
+      "key": "e43f1aadefc06014cf034b55d3b84623ea9e7664",
+      "title": "Money, Monkeys, and Jam",
+      "published_at": "2026-09-16T22:30:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0031kr6",
+      "description": "Multi-award-winning satirical soundscapes as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - money, monkeys and jam. WARNING: Listen quickly, as there is a 10% chance that this show will kill all of humanity. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9xzjl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Jam Multi-award",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "money",
+        "monkeys"
+      ]
+    },
+    {
+      "key": "14aa5cb0de49f94ccfe2db49f9d170d5a9a09184",
+      "title": "We don't know. Like Nigel Farage, we weren't listening.",
+      "published_at": "2026-09-09T22:30:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m00316zw",
+      "description": "The multi-award-winning satire returns, as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - Reform reject, Portsmouth protests and.. actually we don't know the rest as, like Nigel Farage at his drink with undercover reporters, we weren't listening. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p8s7fr.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Jon Holmes"
+      ],
+      "topics": [
+        "nigel",
+        "farage"
+      ]
+    },
+    {
+      "key": "2776c30bcaae87b9e0348c0b879f7ac7deae53e3",
+      "title": "New series. New term. New prime minister",
+      "published_at": "2026-09-02T22:30:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0030xj5",
+      "description": "The multi-award-winning satire returns, as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - Andy Burnham embarks on his Odyssey, and Harry and Meghan's dog barks at The Gentlemen on Netflix. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7lx9h.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Jon Holmes"
+      ],
+      "topics": [
+        "series",
+        "term",
+        "minister"
+      ]
+    },
     {
       "key": "c140e1a75d4d5e44e258becafe69619bcfa477b6",
       "title": "5. Married At First Sh*te",
@@ -1475,102 +1575,6 @@
         "Jon Holmes"
       ],
       "topics": []
-    },
-    {
-      "key": "fe39e3de0bfb63659f1920744eaa55d52c6131b6",
-      "title": "Episode 1",
-      "published_at": "2021-11-04T09:34:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m001154r",
-      "description": "Fresh from winning in three categories at the 2021 New York Festival Awards, Jon Holmes returns with his multi-award winning satirical soundscape The Skewer, as it twists itself into the news like a concept album of current affairs. It's your new news fix. \"Its sharpness left me slack-jawed.\" The Times \"A surreal flow of snippets - news and views, music and memories - melded into a huge orchestral piece of compelling originality. THE SKEWER is satire at its cleverest, both biting and beautiful. If you could listen to a Francis Bacon painting, this is what it would sound like.” “A unique celebration of diversity in terms of views, contributors, and attitude. The Skewer is a masterpiece that gives voice to the unheard”. AWARDS The Skewer wins in 3 categories at the 2021 New York Festival Awards: Comedy, Sound Art, and Innovation. The Skewer wins Gold (Best Radio Podcast) at the 2021 British Podcast Awards The Skewer wins Gold (Best Comedy Producer) at the 2021 Audio Production Awards The Skewer wins Gold (Best Comedy) and Silver (Best New Show) at the 2021 Radio Academy Awards, the #UKArias The Skewer wins Gold for Best Comedy at the 2021 BBC Audio & Drama Awards The Skewer wins Gold at the New York Radio Festival in 2020. The Skewer wins Silver at the 2020 Podcast Awards. The Skewer wins Bronze (Best Sound Design) at the 2020 Audio Production Awards The Skewer is nominated for a 2020 Chortle Award ('Radio Comedy') The Skewer pilot (BBC Radio 4 - April 2019) won the 'Best Comedy Producer' Silver award at the 2019 Audio Production Awards. The Halloween Skewer (BBC Radio 4 - October 2019) is nominated in two categories at the 2020 BBC Audio Drama Awards: 'Best Comedy' and 'Best Use of Sound'.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b26tn9.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14080000",
-      "itunes_duration": "880",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "0155bd15f152075d9cbc35101472a5b4c84641df",
-      "title": "Episode 8",
-      "published_at": "2021-07-22T08:48:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000y0l3",
-      "description": "Jon Holmes's multi-award winning The Skewer twists itself into - and remixes - the news. This week, Suicide Squad Freedom Day and Deadpool reads a CBeebies bedtime story. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS Gold Winner 2021 Radio Academy Awards (Best Comedy) Silver Winner 2021 Radio Academy Awards (Best New Show) Gold Winner British Podcast Awards 2021 Gold Winner BBC Audio and Drama Awards 2021 Gold Winner 2020 New York Festival Gold Winner 2020Audio Production Awards British Podcast Awards 2020 Winner Audio Production Awards 2019 Winner Winner (Sound Design) Audio Production Awards 2020 BBC Radio and Music Awards 2020 Nominee Chortle Awards Nominee 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09q3dss.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14384000",
-      "itunes_duration": "899",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "661e8cc1dfeca4d76310d8dde7d702df1d8a7e1e",
-      "title": "Episode 7",
-      "published_at": "2021-07-15T08:46:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000xr9f",
-      "description": "The week’s biggest stories like you’ve never heard them before. The news, remixed as a twisted comedy treat. Jon Holmes presents the multi-award winning The Skewer. Headphones on. This week - Boris The Gambler, and England’s footballers meet Thanos. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS Gold Winner 2021 Radio Academy Awards (Best Comedy) Gold Winner 2021 The British Podcast Awards (Best Radio Podcast) Silver Winner 2021 Radio Academy Awards (Best New Show) BBC Audio and Drama Awards 2021 Gold winner British Podcast Awards 2021 Nominee New York Festival Gold Winner 2020 Audio Production Awards Gold Winner 2020 British Podcast Awards 2020 Winner Audio Production Awards 2019 Winner Winner (Sound Design) Audio Production Awards 2020 BBC Radio and Music Awards 2020 Nominee Chortle Awards Nominee 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ph909.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14256000",
-      "itunes_duration": "891",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "8ff369190463acddf4905ad59d38eb5f8b088c05",
-      "title": "Episode 6",
-      "published_at": "2021-07-08T08:51:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000xm81",
-      "description": "The week’s biggest stories like you’ve never heard them before. The news, remixed into a satirical river of sound. Jon Holmes presents the multi-award winning The Skewer. Headphones on. This week - Freedom Day, Wacky Space Races, and William and Harry take on The Krays. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS Gold Winner 2021 Radio Academy Awards (Best Comedy) Silver Winner 2021 Radio Academy Awards (Best New Show) BBC Audio and Drama Awards 2021 Gold winner British Podcast Awards 2021 Nominee New York Festival Gold Winner 2020 Audio Production Awards Gold Winner 2020 British Podcast Awards 2020 Winner Audio Production Awards 2019 Winner Winner (Sound Design) Audio Production Awards 2020 BBC Radio and Music Awards 2020 Nominee Chortle Awards Nominee 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ns1s1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14560000",
-      "itunes_duration": "910",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "d7ddf32e6d061253f57b5d4ecfaffa1b4e8a02e3",
-      "title": "Episode 5",
-      "published_at": "2021-07-01T08:47:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000xdr2",
-      "description": "The week’s biggest stories like you’ve never heard them before. The news, remixed as a twisted comedy treat. Jon Holmes presents the multi-award winning The Skewer. Headphones on. This week - Hancock’s Half Hour, Fatal Matt-action, and The Death of Stalin – sorry – Starmer. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS Gold Winner 2021 Radio Academy Awards (Best Comedy) Silver Winner 2021 Radio Academy Awards (Best New Show) BBC Audio and Drama Awards 2021 Gold winner British Podcast Awards 2021 Nominee New York Festival Gold Winner 2020 Audio Production Awards Gold Winner 2020 British Podcast Awards 2020 Winner Audio Production Awards 2019 Winner Winner (Sound Design) Audio Production Awards 2020 BBC Radio and Music Awards 2020 Nominee Chortle Awards Nominee 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09n2mrf.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14320000",
-      "itunes_duration": "895",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
-    },
-    {
-      "key": "c062b72c8df9352f63a10297d409a81cd73c61d5",
-      "title": "Episode 4",
-      "published_at": "2021-06-24T09:26:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m000x4x9",
-      "description": "The news - twisted and remixed. Jon Holmes presents the multi-award winning The Skewer. Headphones on. This week - Five Go Racially Abusing, and A Beef With UK Farmers The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS Gold Winner 2021 Radio Academy Awards (Best Comedy) Silver Winner 2021 Radio Academy Awards (Best New Show) BBC Audio and Drama Awards 2021 Gold winner British Podcast Awards 2021 Nominee New York Festival Gold Winner 2020 Audio Production Awards Gold Winner 2020 British Podcast Awards 2020 Winner Audio Production Awards 2019 Winner Winner (Sound Design) Audio Production Awards 2020 BBC Radio and Music Awards 2020 Nominee Chortle Awards Nominee 2020 Producer: Jon Holmes An Unusual production for BBC Radio 4",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09mdnwq.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14384000",
-      "itunes_duration": "899",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": []
     }
   ]
 }
@@ -1579,6 +1583,11 @@
 
 ## Episodes (newest first)
 
+- 2026-09-30 — Hope, Pope, and Clarkson's Terrorism Farm — speakers: Jon Holmes
+- 2026-09-23 — The Days of Earl(y) Spencer — speakers: Spencer Multi-award, Jon Holmes
+- 2026-09-16 — Money, Monkeys, and Jam — speakers: Jam Multi-award, Jon Holmes
+- 2026-09-09 — We don't know. Like Nigel Farage, we weren't listening. — speakers: Jon Holmes
+- 2026-09-02 — New series. New term. New prime minister — speakers: Jon Holmes
 - 2026-05-20 — 5. Married At First Sh*te — speakers: Jon Holmes
 - 2026-05-13 — 4. Hard Labour — speakers: Jon Holmes
 - 2026-05-06 — 3. Local Elections and a Middle Eastern Ship-Show — speakers: Local Elections, Middle Eastern Ship, Show Local, Middle East, Jon Holmes
@@ -1663,9 +1672,3 @@
 - 2021-11-25 — Episode 4 — speakers: Jon Holmes
 - 2021-11-18 — Episode 3 — speakers: Jon Holmes
 - 2021-11-11 — Episode 2 — speakers: Jon Holmes
-- 2021-11-04 — Episode 1 — speakers: Jon Holmes
-- 2021-07-22 — Episode 8 — speakers: Jon Holmes
-- 2021-07-15 — Episode 7 — speakers: Jon Holmes
-- 2021-07-08 — Episode 6 — speakers: Jon Holmes
-- 2021-07-01 — Episode 5 — speakers: Jon Holmes
-- 2021-06-24 — Episode 4 — speakers: Jon Holmes

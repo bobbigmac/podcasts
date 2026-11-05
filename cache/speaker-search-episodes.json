@@ -5051,6 +5051,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "573a4506546237925cbb341786267c2f1a9644cf",
+        "episode_key": "573a4506546237925cbb341786267c2f1a9644cf",
+        "title": "Ep 1: Scroobius Pip",
+        "published_at": "2018-12-05T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the grand opening of the magical restaurant and the first guest through the doors is Mr Podcast himself, Scroobius Pip. The rapper, podcaster, actor and record label owner talks Ed Gamble and James Acaster through his dream meal, gives advice on pizza hut thriftiness and introduces his own food invention, the Mead",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep1-scroobiuspip/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-1-scroobius-pip/id1442950743?i=1000425166733&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6690c4405592",
         "feed_title": "James Acaster's Stay Home Special Series",
         "source_rss_url": "https://feeds.sharp-stream.com/content/fubar_radio/feed-files/james_acasters_stay_home_special_series.xml",
@@ -10161,6 +10184,29 @@
         "enclosure_type": null,
         "speakers": [
           "Richard Osman",
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "573a4506546237925cbb341786267c2f1a9644cf",
+        "episode_key": "573a4506546237925cbb341786267c2f1a9644cf",
+        "title": "Ep 1: Scroobius Pip",
+        "published_at": "2018-12-05T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the grand opening of the magical restaurant and the first guest through the doors is Mr Podcast himself, Scroobius Pip. The rapper, podcaster, actor and record label owner talks Ed Gamble and James Acaster through his dream meal, gives advice on pizza hut thriftiness and introduces his own food invention, the Mead",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep1-scroobiuspip/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-1-scroobius-pip/id1442950743?i=1000425166733&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
           "James Acaster",
           "Ed Gamble"
         ],
@@ -23711,6 +23757,28 @@
       }
     ],
     "lou-sanders": [
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "30c73ca6166983de0ce804359ccb5b7c8c2526c4",
+        "episode_key": "30c73ca6166983de0ce804359ccb5b7c8c2526c4",
+        "title": "#589 - Hazards (General) , Glis Glis Glee and Old Tricky Digits",
+        "published_at": "2026-11-03T15:40:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "If you listen to this show wanting #HotCelebrityGoss then you’re in luck. Elis and John lift the lid on a star-studded Halloween party attended by some of the nation’s great celebs.\nBut just a warning that the goss only goes as far as hazmat-suited Elis being told off by a cardigan-wearing political podcaster, and John",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/6ae8c4f6375d48fb43106afc/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/589-hazards-general-glis-glis-glee-and-old-tricky-digits/id1465290044?i=1000799624977&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",

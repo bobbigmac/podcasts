@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-04T14:40:03+00:00`
-- checked_at: `2026-11-04T14:40:03+00:00`
-- etag: `"djEuMi4wOjE3OTM3OTExMzcxODQ="`
+- fetched_at: `2026-11-05T17:23:16+00:00`
+- checked_at: `2026-11-05T17:23:16+00:00`
+- etag: `"djEuMi4wOjE3OTM4OTM5NDY1NzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-04T14:40:03+00:00",
+  "fetched_at": "2026-11-05T17:23:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ff4bf3edef5fedf10dc0034367f80a52c48c4964",
+      "title": "Why are Labour banning porn?",
+      "published_at": "2026-11-05T15:52:26+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aeca63a3a774bc73129b2ed",
+      "description": "From tomorrow, Labour will crack down on porn depicting strangulation or suffocation, sexual activity between people who are related, or adults role-playing as children under 16. The legislation will bring online pornography in line with existing regulations for offline material, but has been victim to poor communication. Ava, Andy, and Seán are here to break it down. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aeca63a3a774bc73129b2ed/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59482542",
+      "itunes_duration": "41:18",
+      "speakers": [],
+      "topics": [
+        "labour",
+        "porn"
+      ]
+    },
     {
       "key": "a3dc6da7862aee3b31f124f817efc04481c2fc6d",
       "title": "Is Trump about to start Nuclear War? | Scott Lucas interview",
@@ -14071,6 +14088,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Why are Labour banning porn?
 - 2026-11-04 — Is Trump about to start Nuclear War? | Scott Lucas interview — speakers: Scott Lucas, Tucker Carlson, Donald Tru
 - 2026-11-02 — Why I called out a GB News host on live TV — speakers: Andy Twelves, Nana Akua
 - 2026-10-30 — The American Midterms Can END Trump | Jacob Weisberg interview — speakers: Jacob Weisberg

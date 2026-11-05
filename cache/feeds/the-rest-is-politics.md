@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- last_modified: `Wed, 04 Nov 2026 16:52:02 GMT`
+- fetched_at: `2026-11-05T17:23:16+00:00`
+- checked_at: `2026-11-05T17:23:16+00:00`
+- last_modified: `Thu, 05 Nov 2026 14:32:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-05T17:23:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -74,12 +74,12 @@
       "title": "David Blunkett on Blindness, Adversity and Why Politicians Give Up Too Easily",
       "published_at": "2026-10-31T00:05:00+00:00",
       "link": null,
-      "description": "To hear the full episode, and the whole series, sign up at therestispolitics.com This week, Alastair sits down with someone who – in his opinion – is the most persevilient person in politics, Lord David Blunkett. Blind since birth, he lost his father at the age of 12 and grew up in a very poor household. Despite this, he went on to become leader of Sheffield Council at 33, then MP for Sheffield Brightside and Hillsborough, and a key architect of New Labour. You’ll hear how differently he experiences the world, not least in Westminster, why he thinks politics has before too ephemeral and why he never wants to be pitied. Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Gabriela Gibbs Producer: India Dunkley Executive Producer: Bella Soames Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "To hear the full episode, and the whole series, sign up at therestispolitics.com This week, Alastair sits down with someone who – in his opinion – is the most persevilient person in politics, Lord David Blunkett. Blind since birth, he lost his father at the age of 12 and grew up in a very poor household. Despite this, he went on to become leader of Sheffield Council at 33, then MP for Sheffield Brightside and Hillsborough, and a key architect of New Labour. You’ll hear how differently he experiences the world, not least in Westminster, why he thinks politics has before too ephemeral and why he never wants to be pitied. Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Gabriela Gibbs Producer: India Dunkley Assistant producer: Evie Townend Executive Producer: Bella Soames Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2b56c09e-d47a-11f1-a0e6-334bdaaf1c1a/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3523678396.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1366",
+      "itunes_duration": "1501",
       "speakers": [
         "David Blunkett"
       ],
@@ -140,12 +140,12 @@
       "title": "Kim Leadbeater, MP: My Sister's Murder and Why I Never Wanted To Go Into Politics",
       "published_at": "2026-10-22T23:05:00+00:00",
       "link": null,
-      "description": "This week, we bring you one of Alastair’s favourite interviews. He’s joined by Kim Leadbeater MP, whose sister Jo Cox was murdered in 2016, and his lifelong friend Lindsay Nicholson, who lost her husband John and nine-year-old daughter Ellie to the same rare cancer. They discuss grief, breakdowns, anger and faith, why they disagree on assisted dying, and how to find hope when the worst has already happened. To hear the whole interview and the rest of Alastair's series on Persevilience, sign up at therestispolitics.com Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Producer: India Dunkley Video Editor: Caroline Kay Social Producer: Celine Charles Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "This week, we bring you one of Alastair’s favourite interviews. He’s joined by Kim Leadbeater MP, whose sister Jo Cox was murdered in 2016, and his lifelong friend Lindsay Nicholson, who lost her husband John and nine-year-old daughter Ellie to the same rare cancer. They discuss grief, breakdowns, anger and faith, why they disagree on assisted dying, and how to find hope when the worst has already happened. To hear the whole interview and the rest of Alastair's series on Persevilience, sign up at therestispolitics.com Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Producer: India Dunkley Assistant producer: Evie Townend Video Editor: Caroline Kay Social Producer: Celine Charles Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/939534dc-ce36-11f1-a373-4b4e0698121a/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6002875674.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1517",
+      "itunes_duration": "1652",
       "speakers": [
         "Kim Leadbeater"
       ],
@@ -206,12 +206,12 @@
       "title": "Addiction, Breakdown and Finding Persevilience: Rory Interviews Alastair",
       "published_at": "2026-10-15T23:00:00+00:00",
       "link": null,
-      "description": "How has Alastair managed to come back from some of the darkest places in his life, overcoming a breakdown while in the public eye? Is his obsession with work unhealthy, or necessary to achieving great things and what does it cost his family and those around him? And, beyond the personal, could the word he invented, “Persevilience”, be the antidote to populism, polarisation and post-truth? Listen to Rory Stewart interviewing Alastair Campbell for part one of Persevilience where they discuss all of this and more. Producer: India Dunkley Video Editor: Louis Mealing Social Producer: Emma Jackson Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "How has Alastair managed to come back from some of the darkest places in his life, overcoming a breakdown while in the public eye? Is his obsession with work unhealthy, or necessary to achieving great things and what does it cost his family and those around him? And, beyond the personal, could the word he invented, “Persevilience”, be the antidote to populism, polarisation and post-truth? Listen to Rory Stewart interviewing Alastair Campbell for part one of Persevilience where they discuss all of this and more. Producer: India Dunkley Assistant producer: Evie Townend Video Editor: Louis Mealing Social Producer: Emma Jackson Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5c92d68e-c89f-11f1-bcd7-4354ed9e2f36/image/1eb4a833deff3e5d9bbebb62ce0eb3dd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6607182470.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4054",
+      "itunes_duration": "4189",
       "speakers": [],
       "topics": [
         "addiction",
@@ -361,12 +361,12 @@
       "title": "Why Nuclear War Is More Likely Than You Think (with Carlo Rovelli)",
       "published_at": "2026-09-24T22:55:00+00:00",
       "link": null,
-      "description": "Why have we stopped talking about the risk of nuclear war when the risk is greater than ever? What is a ‘nuclear winter’ and why are nuclear exchanges such extreme risks for the future of humanity? And should the UK be investing in nuclear weapons – or could this make the country more vulnerable? Rory is joined this week by physicist and philosopher, Carlo Rovelli for the next episode in his series on Existential Risk. Catch up on episode one with Yuval Noah Harari ⁠here.⁠ To hear the whole epiosde, sign up at therestispolitics.com Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Why have we stopped talking about the risk of nuclear war when the risk is greater than ever? What is a ‘nuclear winter’ and why are nuclear exchanges such extreme risks for the future of humanity? And should the UK be investing in nuclear weapons – or could this make the country more vulnerable? Rory is joined this week by physicist and philosopher, Carlo Rovelli for the next episode in his series on Existential Risk. Catch up on episode one with Yuval Noah Harari ⁠here.⁠ To hear the whole epiosde, sign up at therestispolitics.com Producer: India Dunkley Assistant producer: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/faa0a2ea-b821-11f1-83ce-b3fd13556486/image/c5b30f0a32b6c9259bb5ea1ebb393641.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9537500677.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1096",
+      "itunes_duration": "1231",
       "speakers": [
         "Carlo Rovelli"
       ],
@@ -420,7 +420,7 @@
       "title": "The Greatest Threat Humans Just Can’t Stomach with Yuval Noah Harari",
       "published_at": "2026-09-17T23:00:00+00:00",
       "link": null,
-      "description": "Episode 2 is available right now for TRIP Plus members. Sign up at therestispolitics.com What can the Aztec Empire's catastrophic failure to understand Cortés and the Spanish conquistadors teach us about the threat AI poses today? Why does Yuval Noah Harari believe our gut refuses to accept an \"alien intelligence\" our brains already understand to be a threat? And can Britain avoid becoming an \"AI vassal state\" - or has that moment already passed? Rory is joined by Professor Yuval Noah Harari for Part 1 of their conversation on existential threats. Part 2 is available now for TRIP Plus members. Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Episode 2 is available right now for TRIP Plus members. Sign up at therestispolitics.com What can the Aztec Empire's catastrophic failure to understand Cortés and the Spanish conquistadors teach us about the threat AI poses today? Why does Yuval Noah Harari believe our gut refuses to accept an \"alien intelligence\" our brains already understand to be a threat? And can Britain avoid becoming an \"AI vassal state\" - or has that moment already passed? Rory is joined by Professor Yuval Noah Harari for Part 1 of their conversation on existential threats. Part 2 is available now for TRIP Plus members. Producer: India Dunkley Assistant producer: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3154b0a0-b12a-11f1-b9ef-e720abc2d09d/image/d37d1a91c744df03eea6e0298defb2b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9593153845.mp3",
       "enclosure_type": "audio/mpeg",

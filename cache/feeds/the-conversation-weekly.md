@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-10-29T18:27:34+00:00`
-- checked_at: `2026-10-29T18:27:34+00:00`
-- etag: `"26e46d-65efcc6642a42"`
-- last_modified: `Thu, 29 Oct 2026 16:00:13 GMT`
+- fetched_at: `2026-11-05T17:23:16+00:00`
+- checked_at: `2026-11-05T17:23:16+00:00`
+- etag: `"26f720-65f84a8639f8d"`
+- last_modified: `Thu, 05 Nov 2026 10:07:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-10-29T18:27:34+00:00",
+  "fetched_at": "2026-11-05T17:23:16+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "566028a544a5988efaf5fe512a4ccf9a72381c25",
+      "title": "Democrats won Congress. How much can they rein in Trump?",
+      "published_at": "2026-11-05T10:07:00+00:00",
+      "link": "https://theconversation.com/young-men-and-latino-voters-helped-drive-the-democrats-blue-wave-why-did-they-abandon-trump-295965",
+      "description": "Democrats have swept back into control of Congress, winning Senate seats in Republican strongholds including including Texas, Kansas, and South Carolina. So what drove this blue wave - and how much can it change Trump’s presidency? In this episode, Charles Hunt, a political scientist at Boise State University in Idaho, explores shifts among young men and Hispanic and Latino voters, economic discontent and the limits of billionaire campaign spending. He explains how Democrats could constrain Trump’s agenda and investigate alleged corruption - and where presidential power remains. He also unpacks whether Democrats can turn this victory into a coalition that lasts beyond Trump. This episode was written and produced by me, Justin Bergman, Gemma Ware, and executive producer Grace Jennings Edquist. Sound mixing is by Michelle Macklem, and our theme music is by Nita Sarle. Ashlynne McGhee is our head of editorial innovation, and Mischa Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation, an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/037e67c6-a591-421c-8d87-edcfeb7e1b12.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39981809",
+      "itunes_duration": "27:46",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "democrats",
+        "congress",
+        "trump"
+      ]
+    },
     {
       "key": "be9fd9096516204d40841b78ee328d5d8f30e2ed",
       "title": "How Big Porn made sexual violence mainstream",
@@ -6445,6 +6465,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Democrats won Congress. How much can they rein in Trump? — speakers: Gemma Ware
 - 2026-10-29 — How Big Porn made sexual violence mainstream — speakers: How Big Porn, Gemma Ware
 - 2026-10-22 — America's death penalty: why executions are rising again — speakers: Christa Pike, Gemma Ware
 - 2026-10-15 — In Alberta, far-right populism drives bid to leave Canada — speakers: Gemma Ware

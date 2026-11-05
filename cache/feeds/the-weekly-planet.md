@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `"djEuMi4wOjE3OTM1OTM2ODU1NzU="`
+- fetched_at: `2026-11-05T17:23:16+00:00`
+- checked_at: `2026-11-05T17:23:16+00:00`
+- etag: `"djEuMi4wOjE3OTM4ODE4MzkzNTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-05T17:23:16+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a3709962a0f158e12ec8533e00bff0f5459b9eac",
+      "title": "Maze Runner: The Scorch Trials - Caravan Of Garbage",
+      "published_at": "2026-11-05T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/maze-runner-the-scorch-trials-caravan-of-garbage",
+      "description": "After a brisk one-year wait, The Maze Runner returned with its second entry, The Scorch Trials. And it's shocking to some, but not others, the huge drop in quality in terms of narrative. The boys from the maze are dumped into a wider world of baffling conspiracies and various encampments as they hunt for... a cure for the newly revealed zombie virus, or safety, or maybe the answers to another mystery I've already forgotten. Thanks for watching our Caravan Of Garbage review! SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ae577ddb478422f91510c18/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22375486",
+      "itunes_duration": "21:23",
+      "speakers": [
+        "Maze Runner",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "maze",
+        "runner",
+        "scorch",
+        "trials",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "8c97c15e147281312a95da9f6b42ee58eec520f5",
       "title": "647 Rest in peace Patrick Stewart & Primetime",
@@ -23410,6 +23435,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — Maze Runner: The Scorch Trials - Caravan Of Garbage — speakers: Maze Runner, James Clement, Nick Mason
 - 2026-11-02 — 647 Rest in peace Patrick Stewart & Primetime — speakers: Patrick Stewart Primetime Very, Patrick Stewart, James Clement, Nick Mason
 - 2026-10-29 — The Maze Runner - Caravan of Garbage — speakers: Maze Runner Caravan, James Clement, Nick Mason
 - 2026-10-26 — 646 Clayface! — speakers: James Clement, Nick Mason
