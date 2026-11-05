@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-10-30T00:58:34+00:00`
-- checked_at: `2026-10-30T00:58:34+00:00`
-- etag: `"e1bf7-65f0197cd8d78"`
-- last_modified: `Thu, 29 Oct 2026 21:45:06 GMT`
+- fetched_at: `2026-11-05T23:38:05+00:00`
+- checked_at: `2026-11-05T23:38:05+00:00`
+- etag: `"e2349-65f8e68927a48"`
+- last_modified: `Thu, 05 Nov 2026 21:45:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-10-30T00:58:34+00:00",
+  "fetched_at": "2026-11-05T23:38:05+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "796c199a4f618d2fbacdceb1efae14c62eea3eaf",
+      "title": "*Series 22 Winner* Series 22 Ep 10",
+      "published_at": "2026-11-05T21:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "The time has come for Ed to talk to the winner of Series 22 about their time on the show! There's loads to get through, plus Ed and our champ talk through episode 10, task by task, including some intel on the ep 10 costumes and the WhatsApp group! You can catch up on all Taskmaster at Channel4.com You can get all the latest Christmas goodies at Taskmaster.tv For all the behind the scenes and for more TM content visit the Taskmaster YouTube channel! Keep your eye on the podcast feed for any exciting news!",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/159eddc8-c198-4632-8cde-0892438323c9.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=159eddc8-c198-4632-8cde-0892438323c9",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57296425",
+      "itunes_duration": "59:41",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "series",
+        "winner"
+      ]
+    },
     {
       "key": "a5c71b50a8d9fa96b7d68feb30b56d40c1e4d361",
       "title": "Joel Dommett - Series 22 Ep.9",
@@ -5800,6 +5819,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — *Series 22 Winner* Series 22 Ep 10 — speakers: Ed Gamble
 - 2026-10-29 — Joel Dommett - Series 22 Ep.9 — speakers: Joel Dommett, Ed Gamble
 - 2026-10-22 — Joanna Page - Series 22 Ep.8 — speakers: Joanna Page, Ed Gamble
 - 2026-10-15 — Armando Iannucci - Series 22 Ep.7 — speakers: Joining Ed, Ed Gamble

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-02T00:44:04+00:00`
-- checked_at: `2026-11-02T00:44:04+00:00`
-- etag: `"djEuMi4wOjE3OTM1Nzc3NTkzMDc="`
+- fetched_at: `2026-11-05T23:38:05+00:00`
+- checked_at: `2026-11-05T23:38:05+00:00`
+- etag: `"djEuMi4wOjE3OTM4OTQxODM4MTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-02T00:44:04+00:00",
+  "fetched_at": "2026-11-05T23:38:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
