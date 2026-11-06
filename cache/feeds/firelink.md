@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-10-30T22:17:42+00:00`
-- checked_at: `2026-10-30T22:17:42+00:00`
-- etag: `W/"42292-Xxt2weRvSdQr7mUTHPWGfkr5yyE"`
+- fetched_at: `2026-11-06T16:45:34+00:00`
+- checked_at: `2026-11-06T16:45:34+00:00`
+- etag: `W/"42b4d-YoBOlSXgGkt7WzrIzKX3PhqtfhI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-10-30T22:17:42+00:00",
+  "fetched_at": "2026-11-06T16:45:34+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "3a3558fa2a2833b138a14865e25742ce4501b508",
+      "title": "The Elder Scrolls VI Has a Name and God of War Laufey Has a Delay | Firelink Podcast",
+      "published_at": "2026-11-06T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Elder-Scrolls-VI-Has-a-Name-and-God-of-War-Laufey-Has-a-Delay--Firelink-Podcast-e3rs91q",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about The Elder Scrolls VI: Sentinel, Xbox/Arkane drama, God of War Laufey's delay, and thoughts on what they've been playing, including the opening hours of The Legend of Zelda: Ocarina of Time remake. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/128901626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F06fb733d-d379-c723-3169-4bad422defb4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "159329696",
+      "itunes_duration": "01:50:38",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "elder",
+        "scrolls",
+        "laufey",
+        "delay",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "1786e0e73396a8653264811daf438ac93fab53dc",
       "title": "Pouring One Out For BioWare | Firelink Podcast",
@@ -3380,6 +3405,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — The Elder Scrolls VI Has a Name and God of War Laufey Has a Delay | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-30 — Pouring One Out For BioWare | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-16 — Game Companies Sure Seem to Love Their AI Controversies... | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-09 — Burnout Is Back in Star Wars: Galactic Racer | Firelink Podcast — speakers: Firelink Nick, Xbox XP, Marty Sliva, Nick Calandra, KC Nwosu

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-05T17:23:16+00:00`
-- checked_at: `2026-11-05T17:23:16+00:00`
-- etag: `"djEuMi4wOjE3OTM4OTYyMzkzNjc="`
+- fetched_at: `2026-11-06T16:45:34+00:00`
+- checked_at: `2026-11-06T16:45:34+00:00`
+- etag: `"djEuMi4wOjE3OTM5NzY0NTI3MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-05T17:23:16+00:00",
+  "fetched_at": "2026-11-06T16:45:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -32,7 +32,7 @@
       "title": "Burnham's Ten-Year-Plan",
       "published_at": "2026-11-05T16:30:00+00:00",
       "link": "https://shows.acast.com/newstatesman/episodes/burnhams-ten-year-plan",
-      "description": "The Democrats swept the US midterms, and Andy Burnham responded by saying the world now has a chance to unite around the cost of living, with energy bills the immediate test at home. Meanwhile, the Prime Minister’s ten-year plan for Britain is the big domestic story. I’m Anoosh Chakelian, and this is the Politics Show from The New Statesman. I’m joined today by Ailbhe Rea and Tom Mctague. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "The Democrats swept the US midterms, and Andy Burnham responded by saying the world now has a chance to unite around the cost of living, with energy bills the immediate test at home. Meanwhile, the Prime Minister’s ten-year plan for Britain is the big domestic story. Anoosh Chakelian is joined by Ailbhe Rea and Tom McTague to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793891058260-fbaf6ad6-5cb3-4c99-9c06-b007863907b3.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aec9775e986b4405af2edb0/media.mp3",
       "enclosure_type": "audio/mpeg",

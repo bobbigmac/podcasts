@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-05T17:23:16+00:00`
-- checked_at: `2026-11-05T17:23:16+00:00`
-- etag: `"djEuMi4wOjE3OTM4OTM5NDY1NzE="`
+- fetched_at: `2026-11-06T16:45:34+00:00`
+- checked_at: `2026-11-06T16:45:34+00:00`
+- etag: `"djEuMi4wOjE3OTM5Njc0NTM1NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-05T17:23:16+00:00",
+  "fetched_at": "2026-11-06T16:45:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3907421297507b7fe485edcf707b8c8d2902d734",
+      "title": "We Need to Talk About Reparations | Marvin Rees interview",
+      "published_at": "2026-11-06T12:17:33+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aedc55d95bf1df992eeeb89",
+      "description": "Should Britain pay reparations for its role in the transatlantic slave trade after Charles' apology? As the King expresses his sorrow over Britain's historical involvement in slavery, the debate over reparations is once again gathering momentum. Former Bristol mayor Lord Marvin Rees joins PoliticsJOE to explain why Britain needs to confront its imperial history and why the argument for reparations is about much more than simply handing over a cheque. He also challenges the idea that reparations would mean ordinary white working-class people paying for the actions of their ancestors. Instead, Rees argues that wealthy elites profited from slavery while exploiting Britain's own working classes, and that politicians are increasingly using working-class grievances to shut down an important conversation. Is it time for Britain to confront the debt it inherited? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aedc55d95bf1df992eeeb89/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71246468",
+      "itunes_duration": "37:05",
+      "speakers": [
+        "Marvin Rees"
+      ],
+      "topics": [
+        "reparations",
+        "marvin",
+        "rees"
+      ]
+    },
     {
       "key": "ff4bf3edef5fedf10dc0034367f80a52c48c4964",
       "title": "Why are Labour banning porn?",
@@ -14088,6 +14108,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — We Need to Talk About Reparations | Marvin Rees interview — speakers: Marvin Rees
 - 2026-11-05 — Why are Labour banning porn?
 - 2026-11-04 — Is Trump about to start Nuclear War? | Scott Lucas interview — speakers: Scott Lucas, Tucker Carlson, Donald Tru
 - 2026-11-02 — Why I called out a GB News host on live TV — speakers: Andy Twelves, Nana Akua
