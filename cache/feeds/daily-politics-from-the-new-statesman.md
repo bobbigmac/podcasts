@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-06T16:45:34+00:00`
-- checked_at: `2026-11-06T16:45:34+00:00`
-- etag: `"djEuMi4wOjE3OTM5NzY0NTI3MjI="`
+- fetched_at: `2026-11-06T23:06:25+00:00`
+- checked_at: `2026-11-06T23:06:25+00:00`
+- etag: `"djEuMi4wOjE3OTM5ODM1MzkzMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-06T16:45:34+00:00",
+  "fetched_at": "2026-11-06T23:06:25+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8d11ecf49eb4c262c84bd6c8bb7e286e3ffc1a2b",
+      "title": "Nigel Farage is losing the far right",
+      "published_at": "2026-11-06T16:45:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/nigel-farage-is-losing-the-far-right",
+      "description": "Who are Nigel Farage's bastards? Emily Lawford has spent 6 months getting to know the young men who've left Reform, chasing politics and values even further to the right. Their new leader? Farage's old friend and leader of the splinter party Restore, Rupert Lowe. Read Emily's full article here LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aedb743b08f5eb11fa36649/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43003749",
+      "itunes_duration": "29:51",
+      "speakers": [
+        "Emily Lawford",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "nigel",
+        "farage",
+        "right"
+      ]
+    },
     {
       "key": "6e46b4a5822ca6a7d1873c684b4c1ec498f79ffe",
       "title": "Burnham's Ten-Year-Plan",
@@ -32889,6 +32911,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — Nigel Farage is losing the far right — speakers: Emily Lawford, Anoosh Chakelian, Oli Dugmore
 - 2026-11-05 — Burnham's Ten-Year-Plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-04 — US midterms: Democrats flip the House and Senate — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-02 — Shabana Mahmood’s new immigration rules — speakers: Shabana Mahmood, Anoosh Chakelian, Oli Dugmore
