@@ -14483,6 +14483,28 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:1c2bc93e548b",
+        "feed_title": "Brown Bread",
+        "source_rss_url": "https://feeds.feedburner.com/BrownBread",
+        "dedupe_key": "bb9be49b25eb8f685563acf8399ee3299bd22b4e",
+        "episode_key": "bb9be49b25eb8f685563acf8399ee3299bd22b4e",
+        "title": "Harriet Kemsley",
+        "published_at": "2017-04-04T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the deadliest podcast around and this week's visitor is Harriet Kemsley (Damned, Doctor Foster, The One Show Edinburgh Showcase)! In this edition, Harriet discusses dyspraxia, raw vegetable allergies, heavenly bike accidents and other reasons why she should be dead already.",
+        "audio_url": "http://feeds.soundcloud.com/stream/315968139-britishcomedyguide-brown-bread-0103-harriet-kemsley.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley/id1212550727?i=1000383726237&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "richard-herring": [
@@ -43246,6 +43268,28 @@
         "description": "'Oh My Dog!' with Jack Dee and Seann Walsh - COMING SOON! \n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
         "audio_url": "https://anchor.fm/s/10b7d8230/podcast/play/110960032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2F412185044-44100-2-7df524fb2386e387.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/trailer-oh-my-dog-with-jack-dee-and-seann-walsh-coming-soon/id1675517221?i=1000602648699&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with Moneybox",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "2f7590a6fe072116aaf53eb8311953e0c8cec20b",
+        "episode_key": "2f7590a6fe072116aaf53eb8311953e0c8cec20b",
+        "title": "Ross Kemp, Jack Dee, Mark Watson, Ricky Wilson",
+        "published_at": "2023-01-13T15:28:57Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on the show we welcome friends from the world of music, television and comedy.\nReal-life action man Ross Kemp chats the return of his BBC One gameshow 'Bridge of Lies'.\nThe hilarious Jack Dee tells us about 'Hancock: Very Nearly an Armful', a documentary about Brummie comedian Tony Hancock.\nLoveable funnyman ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/63c178baff3d070011619937/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ross-kemp-jack-dee-mark-watson-ricky-wilson/id1450650136?i=1000594316133&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

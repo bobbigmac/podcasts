@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NjQ2NTkzNDk="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5Mzc0NTkyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "498209a3a44dae5a5af050b8035deb00d3d385c0",
+      "title": "Super Hans on Moreish - Book Club",
+      "published_at": "2026-11-06T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #200 - Moreish - Rich has been reading the memoir of Superhans from Peep Show, though is unable to chat with the man himself, so instead talks to actor and stand-up Matt King. Matt talks about his terrifying year after a stroke in April, some of his other acting work, including a major role in a show that didn’t happen and why he decided to return to the character of Superhans and overcame the hurdles that allowed him to write this book. They chat about how much he become the character as he writes, why he wanted to give the character some depth (as well as explore the hilarious way Superhans brain works), how much of a challenge the audio book was and how the last eighth of the book had to be written post-stroke. Plus the autobiography and more Superhans books to come. A really fascinating and inspiring conversation. Buy the book here - https://uk.bookshop.org/p/books/moreish-super-hans/73ec11acec77e550 Or get the audiobook here - https://www.amazon.co.uk/AUDIBLE-Moreish-My-Mad-Autobiography/dp/B0G5FDKPW4/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Get an exclusive 15% discount on your first Saily data plans! Use code RHLSTP at checkout. Download Saily app or go to https://saily.com/rhlstp Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793894547706-7237f210-8a25-4959-ad94-a1295a17de0e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aeca89e74a96cc5a4b1d270/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27017299",
+      "itunes_duration": "56:17",
+      "speakers": [
+        "Super Hans",
+        "Book Club",
+        "Peep Show",
+        "Richard Herring"
+      ],
+      "topics": [
+        "super",
+        "hans",
+        "moreish",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "33da61d02ae77583c88352abf7f8596fc8075792",
       "title": "Lenny Henry (Part 2) - \"Heckled by Van Morrison\"",
@@ -24519,6 +24544,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — Super Hans on Moreish - Book Club — speakers: Super Hans, Book Club, Peep Show, Richard Herring
 - 2026-11-04 — Lenny Henry (Part 2) - "Heckled by Van Morrison" — speakers: Lenny Henry, Van Morrison, Richard Herring
 - 2026-11-02 — Ed Byrne (Retro) - "Perfectly Plated Avocado Toast" — speakers: Ed Byrne, Richard Herring
 - 2026-10-31 — Rich and Ally's Craven Newsround Compilation - "Nuclear Perineum" — speakers: Craven Newsround Compilation, Nuclear Perineum, Richard Herring

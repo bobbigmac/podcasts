@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- last_modified: `Wed, 04 Nov 2026 05:01:39 GMT`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- last_modified: `Fri, 06 Nov 2026 04:57:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f81feeb0b1975550ddc358a457060ac02cf83907",
+      "title": "Mini bar wine, a Halloween debrief and Bopit at bedtime",
+      "published_at": "2026-11-06T04:52:00+00:00",
+      "link": null,
+      "description": "Chris and Rosie are still ships in the night, but this week they finally come together to tackle Halloween, the horror of adults dressing up and the mystery of how they’ve both become such miserable b*stards! Meanwhile, Chris has moved on from his love affair with brutalist architecture and discovered parquet flooring – much to Rosie’s absolute delight! There’s a round of ‘Would You Rather’, a beef with Bopit and Rosie unveils her genius idea for a bath disco. And the love affair with the TV show Ghosts continues... Plus, there are voice notes and brilliant stories from you lovely lot, including a rather unexpected tale involving an undertaker… All that and more! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3890758691.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3530",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "wine",
+        "halloween",
+        "debrief",
+        "bopit",
+        "bedtime"
+      ]
+    },
     {
       "key": "9b75318e2ee641fb65f275471df29507d5cdb6cb",
       "title": "Please Keep Me Anonymous with Isy Suttie",
@@ -9471,6 +9494,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — Mini bar wine, a Halloween debrief and Bopit at bedtime — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-04 — Please Keep Me Anonymous with Isy Suttie — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2026-10-30 — Read the room d*ckhead — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2026-10-28 — Please Keep Me Anonymous with Jack Whitehall — speakers: Jack Whitehall, Chris Ramsey, Rosie Ramsey

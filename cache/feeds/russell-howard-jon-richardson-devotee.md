@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- etag: `W/"672a7-6wV0EqAdFYGDIjEO1tIATH/k5SE"`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `W/"67409-AkGQ3Qi3KJBZpPoq9DVMwZTlY0s"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,79 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2aafc6ae594db570d48beab4d953b25a326542c3",
+      "title": "#50 The Jon Richardson Edinburgh Specials with Matt Forde",
+      "published_at": "2026-11-06T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/50-The-Jon-Richardson-Edinburgh-Specials-with-Matt-Forde-e3rr4b4",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793900195874-8039db6bf60bb.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9693674112.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51547113",
+      "itunes_duration": "00:53:07",
+      "speakers": [
+        "Matt Forde Sub"
+      ],
+      "topics": [
+        "richardson",
+        "edinburgh",
+        "specials",
+        "matt",
+        "forde"
+      ]
+    },
+    {
+      "key": "4997e2ba4c2369828ee44e81c87a1922517e33e9",
+      "title": "#49 The Jon Richardson Edinburgh Specials with Matt Forde",
+      "published_at": "2026-11-06T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/49-The-Jon-Richardson-Edinburgh-Specials-with-Matt-Forde-e3rr3hq",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793899717704-1e1fc81431763.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1814118677.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46722837",
+      "itunes_duration": "00:48:08",
+      "speakers": [
+        "Matt Forde Sub"
+      ],
+      "topics": [
+        "richardson",
+        "edinburgh",
+        "specials",
+        "matt",
+        "forde"
+      ]
+    },
+    {
+      "key": "9633793255fffc9c6409e23315c7d3fb55c07970",
+      "title": "#48 The Jon Richardson Edinburgh Specials with Matt Forde",
+      "published_at": "2026-11-05T18:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/48-The-Jon-Richardson-Edinburgh-Specials-with-Matt-Forde-e3roqkh",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1793818967412-79395ff3cdf95.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1236473730.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46722837",
+      "itunes_duration": "00:48:08",
+      "speakers": [
+        "Matt Forde Sub"
+      ],
+      "topics": [
+        "richardson",
+        "edinburgh",
+        "specials",
+        "matt",
+        "forde"
+      ]
+    },
     {
       "key": "543f87e77e21f5f83beb20a24ec27c02a1631e71",
       "title": "#47 The Jon Richardson Edinburgh Specials with Matt Forde",
@@ -6133,57 +6199,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "aab2ff386a72618670602b405bef06249242579a",
-      "title": "#48 Jon Richardson Podcast",
-      "published_at": "2026-04-03T17:04:17+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/48-Jon-Richardson-Podcast-e3hd1l7",
-      "description": "#48 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775235805571-b679732277f0c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117916775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2F3c48bbb8-893d-646a-6e03-4c52b1300bf9.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "23195666",
-      "itunes_duration": "00:48:08",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "68d707442ff1ab5277b642b72dc51dd630ae762b",
-      "title": "#47 Jon Richardson Podcast",
-      "published_at": "2026-04-02T18:03:47+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/47-Jon-Richardson-Podcast-e3hbe6m",
-      "description": "#47 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775153012590-047ddb358637c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117864086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-2%2F5168e566-5b4e-efbd-2a29-6ee43d4a02f0.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "28353942",
-      "itunes_duration": "00:58:53",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "7a5da998ffa65529f2c7f4538eaf565072f88c5d",
-      "title": "#46 Jon Richardson Podcast",
-      "published_at": "2026-04-01T18:20:27+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/46-Jon-Richardson-Podcast-e3h9u89",
-      "description": "#46 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775067478346-9c94ec05c7a01.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117814985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F553dc489-49e2-f312-7772-b824dc78c4ed.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "22043018",
-      "itunes_duration": "00:45:44",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6192,6 +6207,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — #50 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
+- 2026-11-06 — #49 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
+- 2026-11-05 — #48 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-05 — #47 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-04 — #46 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-04 — #45 The Jon Richardson Podcast #45 — speakers: Pod Feed
@@ -6456,6 +6474,3 @@
 - 2026-04-06 — #51 Jon Richardson Podcast
 - 2026-04-05 — #50 Jon Richardson Podcast
 - 2026-04-04 — #49 Jon Richardson Podcast
-- 2026-04-03 — #48 Jon Richardson Podcast
-- 2026-04-02 — #47 Jon Richardson Podcast
-- 2026-04-01 — #46 Jon Richardson Podcast

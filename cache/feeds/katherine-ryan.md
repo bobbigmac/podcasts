@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-10-30T09:59:28+00:00`
-- checked_at: `2026-10-30T09:59:28+00:00`
-- etag: `"djEuMi4wOjE3OTMzNDAwMzk2NDY="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5Mjg1MTA3NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-10-30T09:59:28+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,23 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fc6e7d5281ca5dd9821a5f5487dc3069bb953311",
+      "title": "This and That",
+      "published_at": "2026-11-06T01:28:26+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/this-and-that",
+      "description": "This week, Katherine's Telling Everybody Everything from a hotel room in Glasgow where she reflects on Karl something, the man who thought he could be of best use to his son by spending thirty years away walking around the world instead of actively parenting. Okay, dads. Where to start with this one? Also, the verdict in the Russell Brand case is in and our reaction is one of relief alongside grief. Plus, Andrew Johnston @mandrewbrawnston joins us from Hollywood with more weird behaviour from nobody's favourite couple, Dax Shephard and Kristen Bell. Some real estate guys might be purely evil and Martha Stewart dresses as an unhoused person for Halloween. Yikes. It's a really strange episode to be fair. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1793927769290-cab04332-d3a8-44d9-860f-2c5664b2e204.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6aed2d3e2cf7bf424476cc8e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53397338",
+      "itunes_duration": "37:04",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": []
+    },
     {
       "key": "1148296e81fae9924d0f9d18f75b6211a52990a9",
       "title": "Billy Corgan Chose This",
@@ -6612,6 +6629,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — This and That — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-30 — Billy Corgan Chose This — speakers: Billy Corgan, Katherine Ryan
 - 2026-10-23 — The Halloween Costume of 2026 — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-16 — Would You Attend Your Husband's Assault Trial? — speakers: Assault Trial, Katherine Ryan

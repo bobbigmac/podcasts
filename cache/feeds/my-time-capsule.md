@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-05T23:38:05+00:00`
-- checked_at: `2026-11-05T23:38:05+00:00`
-- etag: `"djEuMi4wOjE3OTM4OTQxODM4MTg="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5MjMzNjAzODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-05T23:38:05+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "52a661a3a125cbd7912eba11ac95562377a15c89",
+      "title": "My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre)",
+      "published_at": "2026-11-06T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-25-with-dame-imelda-staunton-reco",
+      "description": "Mike interviewed Dame Imelda Staunton (Harry Potter, The Crown, Vera Drake, Pride, Paddington and Chicken Run) as she opened the new theatre at the youth theatre charity, Viva. Mike is the President of Viva and we thought you would enjoy hearing it . Also, Mike and his producer and son John chat about this weeks episode with Temi Wilkey and find out where she wants to bury her time capsule and answer listener's emails and voice notes . Donte to John's running challenge here! - https://prostateunited.prostatecanceruk.org/fundraising/john-fs-5km-a-day . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1793893534971-7dae06a0-2fb9-4ded-b6f5-838324a988ef.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aeca7274cac7bbabb0da8a3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51775655",
+      "itunes_duration": "43:08",
+      "speakers": [
+        "Imelda Staunton"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "dame",
+        "imelda",
+        "staunton",
+        "viva",
+        "youth",
+        "theatre"
+      ]
+    },
     {
       "key": "1c2819c455aa2185b0eaad484bd5eec994951050",
       "title": "Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season)",
@@ -13820,6 +13845,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre) — speakers: Imelda Staunton
 - 2026-11-02 — Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season) — speakers: Temi Wilkey
 - 2026-10-30 — My Time Capsule The Dig - Ep. 24
 - 2026-10-26 — Ep. 611 - Ben Hanlin - Award-winning magician and presenter best known for his ITV2 show Tricked — speakers: Ben Hanlin

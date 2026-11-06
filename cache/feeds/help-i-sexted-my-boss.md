@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-11-03T06:45:29+00:00`
-- checked_at: `2026-11-03T06:45:29+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RNMk9EVTJNemszTWpBPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RNNU5EUTNOemt6TXpjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-11-03T06:45:29+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5af098b79262708868ae5efe1d3b6007ac05ea8a",
+      "title": "We Speak To A Chimney Sweep! | And Working Class Problems",
+      "published_at": "2026-11-06T05:59:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/we-speak-to-a-chimney-sweep-and-working-class-problems",
+      "description": "After William Hanson and Jordan North delved into your most middle-class problems, they thought it was only fair to cross the tracks and see what G&Diva’s most WORKING CLASS woes are. And let's just say, the struggle is very real. Plus, the boys get a VERY exciting LIVE phone call from our resident chimney sweep, Tommy, who's spilling the soot on exactly why chimney sweeps are considered so lucky. Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1793894388614-ecdc624b-61e7-4488-99d0-5da8ed7fee84.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6aeb3b4d8b7d6e46cd710ed5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nHtn9vDBD7Nrj1vm0bFw51jpUtJuixMAL_a4hfTXvy4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27987800",
+      "itunes_duration": "29:09",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "chimney",
+        "sweep",
+        "working",
+        "class",
+        "problems"
+      ]
+    },
     {
       "key": "066b0fd7e68750814a45c3715821fd171130e51d",
       "title": "Help His Mum’s Scent Is A Turn On | And It’s Bath Season",
@@ -15375,6 +15398,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — We Speak To A Chimney Sweep! | And Working Class Problems — speakers: William Hanson, Jordan North
 - 2026-11-03 — Help His Mum’s Scent Is A Turn On | And It’s Bath Season — speakers: Jordan North, William Hanson
 - 2026-10-30 — We’re In A Haunted House! | And William's Spooky Story — speakers: Spooky Story William, William Hanson, Jordan North
 - 2026-10-27 — Help I Hooked Up With Her Dad | And Halloween Dress Codes — speakers: William Hanson, Jordan North

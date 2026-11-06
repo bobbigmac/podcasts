@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NTI5NTk1MTM="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5MjYxMTkyMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "90d1f2460a96c35fb63d718790e8d9895198f8d3",
+      "title": "That's My Sense Of Humour",
+      "published_at": "2026-11-06T00:48:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/thats-my-sense-of-humour",
+      "description": "Welcome to the second half of this week's Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero. This week, Mike's documentary selection takes us back into the life of one of the podcast's most enduring figures. Michael Owen. Yes, that Michael Owen. The man who has already inspired an entire Distant Pod spin-off is back in our lives, and this time we're getting to know him rather better. Documentary of the Week Mike: Meet The Owens Mike has chosen Meet The Owens , the Prime Video documentary series following former England striker and Ballon d'Or winner Michael Owen, his family and their horse racing business. Away from football, the series gives us a look at Michael's home life, his ambitions in racing and the rather different world he's built since hanging up his boots. And the big question for Elis, Mike and Steff is whether spending more time with the man himself might actually change their opinions. After years of Michael Owen's Movie Club , are we finally starting to understand him? Could this be the beginning of a beautiful friendship? And, most importantly, does the Movie Club now need a new name? Almost certainly not. https://link.amazon/B0d1l7kgQ Book of the Week Steff: Running Up That Hill by Vassos Alexander Steff heads in an altogether more physically demanding direction with Running Up That Hill , Vassos Alexander's account of the extraordinary world of ultra-distance running. From mountain races to the legendary Spartathlon, Alexander explores why otherwise sensible people voluntarily sign up to run distances that most of us wouldn't particularly fancy driving. It's a book about endurance, obsession, adventure and the peculiar satisfaction of discovering just how far your body can go. And, naturally, the sort of conversations that follow when someone who enjoys running ridiculous distances brings a book about other people running even more ridiculous distances to a podcast. https://link.amazon/B03URJdSO Michael Owen and ultramarathons. Two very different kinds of endurance. That's it for the regular feed this week. If you want Part 3, The Ronaldo of Pigeon Shooting , it's available exclusively to Distant Pod Bonus Club subscribers on Apple Podcasts , along with early and advert-free episodes every Tuesday. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ae873ff98a5c8b2e3540ab9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30749675",
+      "itunes_duration": "32:01",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "sense",
+        "humour"
+      ]
+    },
     {
       "key": "a74684589a564368999a7006875672264ba6f6a5",
       "title": "Darting and Sharting",
@@ -16430,6 +16451,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — That's My Sense Of Humour — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-04 — Darting and Sharting — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-01 — Bad Coaching: Pint Size — speakers: Bad Coaching, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-10-30 — Live At Cheerful Earful With Kate Mason (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero

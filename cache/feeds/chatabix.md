@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- etag: `"djEuMi4wOjE3OTM4NDc2Mzk1MTQ="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5MzQwNDAxMDk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,31 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "3f772b381870cb6a3467dbae4af9d786a5d808b1",
+      "title": "S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads",
+      "published_at": "2026-11-06T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-916-listeners-mailbag-funny-names-and-mad-grandads",
+      "description": "Time to delve into the mailbag again. And this week, there’s lots and lots of funny names (and some stupid ones too), a cool classmate, news of a Chatabix inspired early retirement and three tales about a mad grandad. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6ae4565353fe55e775b76667/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22385475",
+      "itunes_duration": "23:19",
+      "speakers": [
+        "Funny Names",
+        "Mad Grandads Time",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "funny",
+        "names",
+        "grandad"
+      ]
+    },
     {
       "key": "b0f51c881fce14e931d9ce0bcb8925a7d747fb8e",
       "title": "S17 Ep 915: A Slice Of Life",
@@ -16561,6 +16586,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads — speakers: Funny Names, Mad Grandads Time, Joe Wilkinson, David Earl
 - 2026-11-05 — S17 Ep 915: A Slice Of Life — speakers: Joe Wilkinson, David Earl
 - 2026-11-04 — S17 Ep 914: Puppy Progress & A New Sport Pt 2 — speakers: Puppy Progress, New Sport Pt, Joe Wilkinson, David Earl
 - 2026-11-03 — S17 Ep 913: Puppy Progress & A New Sport Pt 1 — speakers: Joe Wilkinson, David Earl

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NjYwMzkzOTA="`
+- fetched_at: `2026-11-06T06:40:47+00:00`
+- checked_at: `2026-11-06T06:40:47+00:00`
+- etag: `"djEuMi4wOjE3OTM5Mzg4MzkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-06T06:40:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0364a6aa4f2b270127e276942c7a9818dc6da012",
+      "title": "CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind",
+      "published_at": "2026-11-06T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with CHARLIE COOPER , originally episode 473 from 2022-09-14. Original writeup: A long awaited one right here, as long term listeners will already be aware of how big a fan Pip is of This Country... Charlie was one of those responsible for the whole thing (along with his sister Daisy May), but obviously NOT ONLY that... As you'll hear, there's a ton going on with Charlie, including a starring role in See How They Run alongside some insanely great acting talent (none of which is lost on him), and together he and Pip cover all things fantasy football-style casting, the Tom George comfort animal, the process of ideas and realising them, refining scripts on the go, working with Daisy and Tom, his roles in Stath Lets Flats and Avenue 5 (in front of the camera or in the writers room), and everything else. A deep one which covers the fun of it all alongside the hard work involved. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM SEE HOW THEY RUN THIS COUNTRY STATH LETS FLATS AVENUE 5 PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1793726647068-1dd12358-629d-4aa7-a92f-9b0dcb61fe85.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aea19bc4ca6aa860425aa21/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119783943",
+      "itunes_duration": "49:49",
+      "speakers": [],
+      "topics": [
+        "charlie",
+        "cooper",
+        "country",
+        "avenue",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "65d3da8f649fea77b1d5abd92204141cae586f9e",
       "title": "NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694",
@@ -19923,6 +19944,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-06 — CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind
 - 2026-11-04 — NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694 — speakers: Beth Brennan
 - 2026-10-30 — AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind
 - 2026-10-28 — HANNAH WALTERS • 'Amazing Grace' coming soon... (Matriarch Productions / A Thousand Blows / Adolescence) #693
