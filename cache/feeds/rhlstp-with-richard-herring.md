@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- etag: `"djEuMi4wOjE3OTM5Mzc0NTkyNDE="`
+- fetched_at: `2026-11-07T19:25:41+00:00`
+- checked_at: `2026-11-07T19:25:41+00:00`
+- etag: `"djEuMi4wOjE3OTQwNjk2MDgzNDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-07T19:25:41+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "924989a66fa2e224fea68bfab9e67d8a80212927",
+      "title": "Rich and Ally's Craven Newsround Compilation - \"Jousting on Lime Bikes\"",
+      "published_at": "2026-11-07T14:05:50+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "2nd November 2026 - Jousting on Lime Bikes - Rich and Ally start a new week by looking at the crazy things young people are getting up to today, with some warnings from history about what could go wrong. Plus a song about a mouse with a needle riding on a cat, as you would probably be expecting. 3rd November 2026 - Mouse Eunuchs - Rich and Ally continue to cover the stories that no one else will touch for fear of their shadowy overlords. Today it’s whether getting castrated can make you live longer (or will it just feel like it). Warning Richard gets his testicle out in this 5 minute live broadcast. 4th November 2026 - Snap Erection - There’s only one story worth covering in today’s news cycle and of course we have gone for that one. But with some opinions and ideas that you won’t have seen in the lamestream media, especially about breakfast. Support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794059675121-5848fa43-8a4e-4c9a-a774-e849966e1d6a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aef303e9527a781753444c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54873360",
+      "itunes_duration": "59:16",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Lime Bikes",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "lime",
+        "bikes"
+      ]
+    },
     {
       "key": "498209a3a44dae5a5af050b8035deb00d3d385c0",
       "title": "Super Hans on Moreish - Book Club",
@@ -99,7 +124,7 @@
       "key": "d6c55b37cbf1751ba331949fae7753cbf4604f0c",
       "title": "Rich and Ally's Craven Newsround Compilation - \"Nuclear Perineum\"",
       "published_at": "2026-10-31T03:57:00+00:00",
-      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-nuclear-perineum",
+      "link": "https://rhlstp.co.uk",
       "description": "27/10/26 Nuclear Perineum - Rich and Ally are back. Or are they? Is this even happening? Let’s hope not because our PM has advised us to stuck up on legumes for an upcoming and unspecified disaster. Well, it can’t be worse than what’s happening here. 29/10/26 Take Me To Poundland - Rich and Ally cover the big news of the day, the fact that Poundland might be going out of business. What could have caused this? Plus a report from a Poundland where you can get batteries for a pound, but probably not very good ones. 30/10/26 Cryptocuntacy - It’s the last Newsround of the week and the month and maybe ever if it keeps nose-diving at this rate. Rich and Ally discuss the daring theft of some imaginary money by some people who don’t deserve it from some people who did nothing to earn it. Plus a report from inside a Cryptomine. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793374416314-e2483a16-ebc0-4f27-b85c-71f473f0dcd9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ae4c48ec89efe58660884f1/media.mp3",
@@ -24544,6 +24569,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-07 — Rich and Ally's Craven Newsround Compilation - "Jousting on Lime Bikes" — speakers: Craven Newsround Compilation, Lime Bikes, Richard Herring
 - 2026-11-06 — Super Hans on Moreish - Book Club — speakers: Super Hans, Book Club, Peep Show, Richard Herring
 - 2026-11-04 — Lenny Henry (Part 2) - "Heckled by Van Morrison" — speakers: Lenny Henry, Van Morrison, Richard Herring
 - 2026-11-02 — Ed Byrne (Retro) - "Perfectly Plated Avocado Toast" — speakers: Ed Byrne, Richard Herring

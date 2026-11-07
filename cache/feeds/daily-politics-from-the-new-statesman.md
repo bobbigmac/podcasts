@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-06T23:06:25+00:00`
-- checked_at: `2026-11-06T23:06:25+00:00`
-- etag: `"djEuMi4wOjE3OTM5ODM1MzkzMjk="`
+- fetched_at: `2026-11-07T19:25:41+00:00`
+- checked_at: `2026-11-07T19:25:41+00:00`
+- etag: `"djEuMi4wOjE3OTQwNzA4Mzk0NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-06T23:06:25+00:00",
+  "fetched_at": "2026-11-07T19:25:41+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d9de2cc62eef7fd8cff65fa979f7b041ff3a00bd",
+      "title": "Britain's U-turn on the white working class",
+      "published_at": "2026-11-07T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/britains-u-turn-on-the-white-working-class",
+      "description": "Labour’s new version of the ASBO, pet owners’ campaigns against Bonfire Night and Karl Bushby’s controversial voyage back to Hull. Anoosh Chakelian and Will Dunn discuss the stories of the week. READ: https://www.newstatesman.com/politics/the-sketch/2026/11/budget-debates-are-a-chance-for-mps-to-play-to-the-gallery https://www.newstatesman.com/the-weekend-essay/2026/11/return-of-the-asbo LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1793970288827-399b1284-8ade-4dd0-a774-2a5ff70d420e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aedcffb495336fbc33a2298/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69177536",
+      "itunes_duration": "35:58",
+      "speakers": [
+        "Karl Bushby",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "britain",
+        "turn",
+        "class"
+      ]
+    },
     {
       "key": "8d11ecf49eb4c262c84bd6c8bb7e286e3ffc1a2b",
       "title": "Nigel Farage is losing the far right",
@@ -32911,6 +32933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-07 — Britain's U-turn on the white working class — speakers: Karl Bushby, Anoosh Chakelian, Oli Dugmore
 - 2026-11-06 — Nigel Farage is losing the far right — speakers: Emily Lawford, Anoosh Chakelian, Oli Dugmore
 - 2026-11-05 — Burnham's Ten-Year-Plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-04 — US midterms: Democrats flip the House and Senate — speakers: Anoosh Chakelian, Oli Dugmore
