@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- etag: `"djEuMi4wOjE3OTM5MjYxMTkyMzI="`
+- fetched_at: `2026-11-08T00:34:25+00:00`
+- checked_at: `2026-11-08T00:34:25+00:00`
+- etag: `"djEuMi4wOjE3OTQwOTc1MzkzNDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-08T00:34:25+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "476f6bea98ca8478aa3a72829983893892f53e99",
+      "title": "Jive Bunny: Pint Size",
+      "published_at": "2026-11-08T00:25:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/jive-bunny-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 221: The Jackets of Paul Heaton with Elis & The Rock\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6aedcb525e56bd617cd16ee3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37333440",
+      "itunes_duration": "15:33",
+      "speakers": [
+        "Jive Bunny Pint Size",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "jive",
+        "bunny",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "90d1f2460a96c35fb63d718790e8d9895198f8d3",
       "title": "That's My Sense Of Humour",
@@ -16451,6 +16475,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-08 — Jive Bunny: Pint Size — speakers: Jive Bunny Pint Size, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-06 — That's My Sense Of Humour — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-04 — Darting and Sharting — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-01 — Bad Coaching: Pint Size — speakers: Bad Coaching, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
