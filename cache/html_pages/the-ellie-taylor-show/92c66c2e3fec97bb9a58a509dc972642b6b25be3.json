@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/?page=5",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/?page=5",
-  "fetched_at": "2026-11-08T00:34:25+00:00",
+  "fetched_at": "2026-11-08T17:55:44+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "4de06ef9098c50f2ce8b4004e595617dc09721da",
+      "guid": "e634ec90-3d70-4f62-8017-3a000f20f588",
+      "title": "The Ellie Taylor Show (21st July)",
+      "published_at": "2024-07-21T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-21st-july1/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1721548979-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e634ec90-3d70-4f62-8017-3a000f20f588&awCollectionId=fubar_radio-standalone&providerId=fubar",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "7ce6acb91001e111e1e50825d5e51efe65d5fcde",
       "guid": "2e454efb-359d-46e7-9184-8e7213013db7",
