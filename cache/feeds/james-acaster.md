@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
+- fetched_at: `2026-11-09T19:47:52+00:00`
+- checked_at: `2026-11-09T19:47:52+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-09T19:47:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b5fb24e1714bd760ba05c81b3c1c37a184af3714",
+      "guid": "9e16ce5c-aac3-44f5-a2b0-ad93a750adfd",
+      "title": "James Acaster (9th November)",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-9th-november/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1794222267-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=9e16ce5c-aac3-44f5-a2b0-ad93a750adfd&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "a9494e07afc48fd172c2bb917fca37b84198c793",
       "guid": "3fb9cc59-86c0-4d49-8f6f-b9c8523d8b74",
@@ -2839,6 +2852,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — James Acaster (9th November)
 - 2026-11-02 — James Acaster (2nd November)
 - 2026-10-26 — James Acaster (26th October)
 - 2026-10-19 — James Acaster (19th October)

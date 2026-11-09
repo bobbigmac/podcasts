@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-11-06T23:06:25+00:00`
-- checked_at: `2026-11-06T23:06:25+00:00`
-- last_modified: `Fri, 06 Nov 2026 22:18:39 GMT`
+- fetched_at: `2026-11-09T19:47:52+00:00`
+- checked_at: `2026-11-09T19:47:52+00:00`
+- last_modified: `Mon, 09 Nov 2026 16:23:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-06T23:06:25+00:00",
+  "fetched_at": "2026-11-09T19:47:52+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3c582ac7ed0925f71f6dd1e1ff6fc30137df3470",
+      "title": "⚽ Old Trafford: Theatre of Nightmares⚽",
+      "published_at": "2026-11-09T16:22:00+00:00",
+      "link": null,
+      "description": "Back with some more topical football hot takes... How does Carrick still have a job? Is Jason Wilcox sinking into his coat? Is Florian Wirtz good now? How do you send off 53 people in a match? And much much more.... If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6811207712.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2757",
+      "speakers": [
+        "Jason Wilcox",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "trafford",
+        "theatre",
+        "nightmares"
+      ]
+    },
     {
       "key": "d5fcaa116160a71f65e09ab5d7e0c42731220d78",
       "title": "S13 EP32: Chance would be a fine thing",
@@ -13244,6 +13266,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — ⚽ Old Trafford: Theatre of Nightmares⚽ — speakers: Jason Wilcox, Rob Beckett, Josh Widdicombe
 - 2026-11-06 — S13 EP32: Chance would be a fine thing — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-03 — S13 EP31: King of the Buffer — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-02 — ⚽ The panel of dreams...⚽ — speakers: Rob Beckett, Josh Widdicombe

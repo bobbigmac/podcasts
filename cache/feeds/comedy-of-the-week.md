@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"f4173557e26dc0a96fc51da70c79c202"`
-- last_modified: `Tue, 03 Nov 2026 05:00:04 GMT`
+- fetched_at: `2026-11-09T19:47:52+00:00`
+- checked_at: `2026-11-09T19:47:52+00:00`
+- etag: `"40f4a339143220817a22e52fbc0745a2"`
+- last_modified: `Mon, 09 Nov 2026 10:09:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-09T19:47:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "3fcb06afca725e2464c71161e1bf20f0e7f41fb4",
+      "title": "The Matt Forde Focus Group",
+      "published_at": "2026-11-09T07:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0plll7d",
+      "description": "Give us what we want, or else! It’s how small children approach Halloween, and increasingly how everyone else approaches politics - with menace, ultimatums and threats. Comedian Matt Forde convenes a special Halloween Focus Group in front of a live theatre audience and asks if politics is now just one long game of Trick-or-Treat. Joining him to make idle threats and scare the locals are The Spectator’s Isabel Hardman, Malawian-born stand-up Daliso Chaponda and MP Jess Phillips. Together they work out who’s knocking, what they’re after, and whether it’s ever wise to hide behind the sofa and pretend you’re not in. Written and performed by Matt Forde Additional writing from Karl Minns, Katie Storey and Richard Garvin Producer: Richard Garvin Co Producer: Daisy Knight Broadcast Assistant: Eunice Oshiguwa Sound Design and Editing: David Thomas An Avalon production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0plljdh.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27600000",
+      "itunes_duration": "1725",
+      "speakers": [
+        "Group Give"
+      ],
+      "topics": [
+        "matt",
+        "forde",
+        "focus",
+        "group"
+      ]
+    },
     {
       "key": "24f497f7eee30f0b13df4a1c515a5808f4cb8f47",
       "title": "Randy Feltface's Human Handbook",
@@ -1015,6 +1036,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — The Matt Forde Focus Group — speakers: Group Give
 - 2026-11-02 — Randy Feltface's Human Handbook — speakers: Randy Feltface
 - 2026-10-26 — Evil Animals - Crows — speakers: Russell Kane
 - 2026-10-19 — General Election

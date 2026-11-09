@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `W/"67158-xtldrEd/PzStne+cNq9w7f5nudw"`
+- fetched_at: `2026-11-09T19:47:52+00:00`
+- checked_at: `2026-11-09T19:47:52+00:00`
+- etag: `W/"66a1c-dmBHsgKKEjG36uEsSb88u6ZDN8s"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,57 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-09T19:47:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "685ba25d4b56be7425ef394ba41de7972ec20baa",
+      "title": "#55 The Jon Richardson Edinburgh Specials with Matt Forde",
+      "published_at": "2026-11-09T18:30:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/55-The-Jon-Richardson-Edinburgh-Specials-with-Matt-Forde-e3s3g0p",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794247378363-54ff4cdb32c44.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1990014239.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49486643",
+      "itunes_duration": "00:50:59",
+      "speakers": [
+        "Matt Forde Sub"
+      ],
+      "topics": [
+        "richardson",
+        "edinburgh",
+        "specials",
+        "matt",
+        "forde"
+      ]
+    },
+    {
+      "key": "c77d7959971dcf36c97e0c13d515f73bc5da306f",
+      "title": "#54 The Jon Richardson Edinburgh Specials with Matt Forde",
+      "published_at": "2026-11-09T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/54-The-Jon-Richardson-Edinburgh-Specials-with-Matt-Forde-e3s0tce",
+      "description": "Sub to the new Pod Feed here: https://open.spotify.com/episode/1mlnydquRr2FtdEGNOJlkf?si=QkOSGYaqSiWacWYIiQvpHQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794152107961-288f4bd8dbb64.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9783939874.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52598280",
+      "itunes_duration": "00:54:12",
+      "speakers": [
+        "Matt Forde Sub"
+      ],
+      "topics": [
+        "richardson",
+        "edinburgh",
+        "specials",
+        "matt",
+        "forde"
+      ]
+    },
     {
       "key": "11eeffab2a8bb801bee6c51cf497216c029a81f2",
       "title": "#53 The Jon Richardson Edinburgh Specials with Matt Forde",
@@ -6129,74 +6173,6 @@
         "scrape",
         "lycett"
       ]
-    },
-    {
-      "key": "3823d361645ad92683aab4311c61aeb846f502e4",
-      "title": "#56 Jon Richardson Podcast",
-      "published_at": "2026-04-11T18:01:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/56-Jon-Richardson-Podcast-e3hnhr6",
-      "description": "#54 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775844138079-e103a6e083484.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118261030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-10%2Ff29968f5-ac3b-8293-0104-15b8c435138a.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "22032440",
-      "itunes_duration": "00:45:44",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "3f60d31516e5d37577e84b9e4b16b15d67185c84",
-      "title": "#55 Jon Richardson Podcast",
-      "published_at": "2026-04-10T18:01:33+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/55-Jon-Richardson-Podcast-e3hnhoh",
-      "description": "#55 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775844066540-67015487f36e5.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118260945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-10%2F6fac8063-b12c-514c-6109-2b0b37cdb94c.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "24552230",
-      "itunes_duration": "00:50:59",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "2b84bf2775c5268f7189de8c579f4cdaddfff210",
-      "title": "#54 Jon Richardson Podcast",
-      "published_at": "2026-04-09T18:56:04+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/54-Jon-Richardson-Podcast-e3hlvjs",
-      "description": "#54 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775760534666-97da32f422d3f.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118209596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-9%2Fbfe06aef-262b-5862-6e0b-e8bc39ce166e.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26102624",
-      "itunes_duration": "00:54:12",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "0f67f86d95132a47493b8a55a4b5bdf91bc0a313",
-      "title": "#53 Jon Richardson Podcast",
-      "published_at": "2026-04-08T17:59:15+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/53-Jon-Richardson-Podcast-e3hkahk",
-      "description": "#53 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775671138757-e9e07ebc56056.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118155252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-8%2F5b3dca56-1594-1e1d-a077-cf0e280522b8.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "23535723",
-      "itunes_duration": "00:48:52",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6205,6 +6181,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — #55 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
+- 2026-11-09 — #54 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-08 — #53 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-08 — #52 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-07 — #51 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
@@ -6467,7 +6445,3 @@
 - 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-26 — Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III — speakers: James Acaster Classic Scrape, Joe Lycett, Richard Iii, James Acaster
 - 2026-04-23 — Josh Widdicombe XFM #1 - Stephen Merchant, James Acaster Classic Scrape, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett Ricky Gervais, Josh Widdicombe, Stephen Merchant
-- 2026-04-11 — #56 Jon Richardson Podcast
-- 2026-04-10 — #55 Jon Richardson Podcast
-- 2026-04-09 — #54 Jon Richardson Podcast
-- 2026-04-08 — #53 Jon Richardson Podcast

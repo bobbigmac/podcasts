@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- last_modified: `Mon, 02 Nov 2026 12:30:59 GMT`
+- fetched_at: `2026-11-09T19:47:52+00:00`
+- checked_at: `2026-11-09T19:47:52+00:00`
+- last_modified: `Mon, 09 Nov 2026 15:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-09T19:47:52+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,55 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b0de65d53759ced9fa0f264902abdce76431d6cf",
+      "title": "Guilty Feminist Culture Club: Hunting Alice Bell with Toni O’Rourke",
+      "published_at": "2026-11-09T15:00:00+00:00",
+      "link": null,
+      "description": "Guilty Feminist Culture Club: Hunting Alice Bell Presented by Deborah Frances-White with special guest Toni O’Rourke Recorded 5 November in London. Released 9 November. The Guilty Feminist theme composed by Mark Hodge. Hunting Alice Bell will launch on Channel 4 on Wednesday 11 November at 9:00pm More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Hunting Alice Bell https://www.instagram.com/toniorourke_ https://www.channel4.com/programmes/hunting-alice-bell For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Interview with Cody Dahler . https://www.fane.co.uk/cody-dahler#event-listing Camp as Christmas . https://unionchapel.org.uk/whats-on/camp-as-christmas-christmas-comes-early Stand up for Gaza . https://www.komedia.co.uk/shows/stand-up-for-gaza/ The Museum of Comedy, 6 December . https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873668406 Australia / NZ tour . https://guiltyfeminist.com/australia-new-zealand-2027 Royal Albert Hall . https://www.royalalberthall.com/tickets/events/2027/the-guilty-feminist Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db9290a4-db9c-11f1-9af2-4f150212cabd/image/e340f6861a89a971310fb28a9fec45fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL7413051056.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2972",
+      "speakers": [
+        "Alice Bell",
+        "Culture Club",
+        "Alice Bell Presented",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "guilty",
+        "feminist",
+        "culture",
+        "club",
+        "alice",
+        "bell",
+        "toni"
+      ]
+    },
+    {
+      "key": "f4bd71f1487d3f4eee84dfad4e967d1b39b049fd",
+      "title": "508. The Most Normal Woman with Rosin Kiberd",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 508. The Most Normal Woman Presented by Deborah Frances-White with special guest Rosin Kiberd Recorded 22 October via Riverside. Released 9 November. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Rosin Kiberd https://www.instagram.com/roisinkiberd https://tramppress.com/product/the-most-normal-woman-essays-on-appearances-pre-order-now/ https://www.waterstones.com/book/the-most-normal-woman/roisin-kiberd/9781915290229 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Interview with Cody Dahler . https://www.fane.co.uk/cody-dahler#event-listing Camp as Christmas . https://unionchapel.org.uk/whats-on/camp-as-christmas-christmas-comes-early Stand up for Gaza . https://www.komedia.co.uk/shows/stand-up-for-gaza/ The Museum of Comedy, 6 December . https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873668406 Australia / NZ tour . https://guiltyfeminist.com/australia-new-zealand-2027 Royal Albert Hall . https://www.royalalberthall.com/tickets/events/2027/the-guilty-feminist Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7189df5c-db9a-11f1-abf3-2f170daf9a49/image/098f709ead67a3c603b84902199d506e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL3267139382.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3510",
+      "speakers": [
+        "Rosin Kiberd",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "normal",
+        "woman",
+        "rosin",
+        "kiberd"
+      ]
+    },
     {
       "key": "b60c44fe199a3933f95ce8db0af2c771be496b0a",
       "title": "507. John Proctor is the Villain with Susan Wokoma",
@@ -18753,6 +18802,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Guilty Feminist Culture Club: Hunting Alice Bell with Toni O’Rourke — speakers: Alice Bell, Culture Club, Alice Bell Presented, Deborah Frances-White
+- 2026-11-09 — 508. The Most Normal Woman with Rosin Kiberd — speakers: Rosin Kiberd, Deborah Frances-White
 - 2026-11-02 — 507. John Proctor is the Villain with Susan Wokoma — speakers: John Proctor, Susan Wokoma, Deborah Frances-White, Susan Wo
 - 2026-10-26 — 506. More than Medicine with Rachel Parris, Nnenna Kanu and Sam Jacobs — speakers: Sam Jacobs, Deborah Frances-White, Rachel Parris
 - 2026-10-19 — 505. Misinformation with Catherine Bohart and special guest Isabella Heaver — speakers: Catherine Bohart, Isabella Heaver, Deborah Frances-White
