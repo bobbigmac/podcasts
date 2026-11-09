@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- etag: `"djEuMi4wOjE3OTM5MjMzNjAzODE="`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"djEuMi4wOjE3OTQxODI1NTk0MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f40ccc5f66d88395314c5a16d0459803413c25d3",
+      "title": "Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group",
+      "published_at": "2026-11-09T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-613-jay-james-singer-with-the-overtones-the-multi-platinu",
+      "description": "Jay James is a singer with The Overtones, the multi-platinum harmony group, X Factor finalist and songwriter for John Legend, Booker T and Beyoncé. Jay joined The Overtones in 2019. The group has six top 10 albums and 13 sell-out UK tours, and has performed for the Queen and to a million people at Berlin’s Brandenburg Gate. Since he joined, their album 10 hit No.1 on the UK Independent Albums Chart, and their version of “Celebration” soundtracked the Queen’s Platinum Jubilee Parade. Before The Overtones, Jay signed to Decca/Universal, recorded an album in New York, supported Jessie J and Rebecca Ferguson, and secured a publishing deal. He has written with Booker T (his mentor), Jimmy Jam & Terry Lewis, John Legend and members of the Jonas Brothers, and wrote a song for Beyoncé. Justin Timberlake wanted to sign him after they met at the Grammys. He went on to reach the X Factor live finals, where Simon Cowell called him “a genius” With his wife, Victoria, he founded My Diabetes Story, a platform supporting families and raising awareness of Type 1 diabetes following their son’s diagnosis. Jay James is our guest in episode 613 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Tickets for The Overtones live shows - https://theovertones.tv . For My Diabetes Story, visit - https://www.mydiabetesstory.org . Follow Jay James on Instagram : @jayjames . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aedd7c33845163e532a88c4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93424242",
+      "itunes_duration": "1:17:51",
+      "speakers": [
+        "Jay James Singer",
+        "Jay James"
+      ],
+      "topics": [
+        "james",
+        "singer",
+        "overtones",
+        "harmony",
+        "group"
+      ]
+    },
     {
       "key": "52a661a3a125cbd7912eba11ac95562377a15c89",
       "title": "My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre)",
@@ -13845,6 +13868,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group — speakers: Jay James Singer, Jay James
 - 2026-11-06 — My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre) — speakers: Imelda Staunton
 - 2026-11-02 — Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season) — speakers: Temi Wilkey
 - 2026-10-30 — My Time Capsule The Dig - Ep. 24

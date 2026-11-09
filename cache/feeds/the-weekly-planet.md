@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-08T17:55:44+00:00`
-- checked_at: `2026-11-08T17:55:44+00:00`
-- etag: `"djEuMi4wOjE3OTQxNDU1NjE1MDg="`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"djEuMi4wOjE3OTQxODczMjk1MzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-08T17:55:44+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dba53cf815aec92b542074ebd875c16127660ed9",
+      "title": "648 Godzilla Minus Zero",
+      "published_at": "2026-11-08T15:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/648-godzilla-minus-zero",
+      "description": "Thank goodness it's time for another Weekly Planet podcast. This week we discuss the much-anticipated follow-up to Godzilla Minus One, Godzilla Minus Zero. We also break down all the latest James Bond casting rumours, some names being floated for the new X-Men reboot, including Jeremy Allen White for Wolverine, trailers for Stranger Things: Other Worlds and Criminal, a new Constantine movie for the DCU, and more! Thanks for listening. New movie commentary for Equilibrium with James & Maso out now! Available exclusively to listen alongside entire back catalogue on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 08:25 New James Bond Leaks & Robert Pattinson Rumour 19:08 More X-Men Reboot Movie Casting 29:12 Criminal Amazon Series Trailer 34:25 Stranger Things \"Other Worlds\" Trailer 38:34 Constantine DCU Movie Maybe 44:21 Godzilla Minus Zero Movie Review 01:03:26 Godzilla Minus Zero Spoiler Segment 01:16:19 What We Reading, What We Gonna Read 01:21:23 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6af07824baaf18ccf9480dc0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144020406",
+      "itunes_duration": "1:40:00",
+      "speakers": [
+        "Godzilla Minus Zero Thank",
+        "Weekly Planet",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "godzilla",
+        "minus"
+      ]
+    },
     {
       "key": "a3709962a0f158e12ec8533e00bff0f5459b9eac",
       "title": "Maze Runner: The Scorch Trials - Caravan Of Garbage",
@@ -23435,6 +23457,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-08 — 648 Godzilla Minus Zero — speakers: Godzilla Minus Zero Thank, Weekly Planet, James Clement, Nick Mason
 - 2026-11-05 — Maze Runner: The Scorch Trials - Caravan Of Garbage — speakers: Maze Runner, James Clement, Nick Mason
 - 2026-11-02 — 647 Rest in peace Patrick Stewart & Primetime — speakers: Patrick Stewart Primetime Very, Patrick Stewart, James Clement, Nick Mason
 - 2026-10-29 — The Maze Runner - Caravan of Garbage — speakers: Maze Runner Caravan, James Clement, Nick Mason

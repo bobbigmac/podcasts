@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-07T19:25:41+00:00`
-- checked_at: `2026-11-07T19:25:41+00:00`
-- etag: `"djEuMi4wOjE3OTQwNjk2MDgzNDA="`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"djEuMi4wOjE3OTQxOTY2NTkzNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-07T19:25:41+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a80018f4bd977cb4d6c918f3b608e5221658526a",
+      "title": "Jazz Emu (Retro) - \"Judy Murray Nose Recorder\"",
+      "published_at": "2026-11-09T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#461 Judy Murray Nose Recorder - Richard is trying to teach his five year old to swear like someone from the 1980s. His guest is the man behind internet sensation Jazz Emu, Archie Henderson. They talk about where this extraordinary character came from, producing high quality internet content on a tiny budget, touring the USA in an RV, putting himself into the background of every photo of a random fan, the demons of sleep paralysis, whether Archie will follow in the footsteps of Minchin and the Conchords. Check out Jazz Emu’s YouTube channel - https://www.youtube.com/channel/UCM-Imt636hk4nHrXKwxR7XA See Jazz Emu on tour - https://www.jazzemu.com/gigs Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794167370346-c9dae8c6-76ea-42c5-ab0f-6b3d1129f2f4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6af0d1eb9272884e5717040c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28469707",
+      "itunes_duration": "59:18",
+      "speakers": [
+        "Judy Murray Nose",
+        "Recorder Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jazz",
+        "retro",
+        "judy",
+        "murray",
+        "nose",
+        "recorder"
+      ]
+    },
     {
       "key": "924989a66fa2e224fea68bfab9e67d8a80212927",
       "title": "Rich and Ally's Craven Newsround Compilation - \"Jousting on Lime Bikes\"",
@@ -24569,6 +24594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Jazz Emu (Retro) - "Judy Murray Nose Recorder" — speakers: Judy Murray Nose, Recorder Richard, Richard Herring
 - 2026-11-07 — Rich and Ally's Craven Newsround Compilation - "Jousting on Lime Bikes" — speakers: Craven Newsround Compilation, Lime Bikes, Richard Herring
 - 2026-11-06 — Super Hans on Moreish - Book Club — speakers: Super Hans, Book Club, Peep Show, Richard Herring
 - 2026-11-04 — Lenny Henry (Part 2) - "Heckled by Van Morrison" — speakers: Lenny Henry, Van Morrison, Richard Herring

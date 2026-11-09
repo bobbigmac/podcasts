@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- last_modified: `Thu, 05 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- last_modified: `Mon, 09 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7806497f05ee7bb9844d976db97ed505f5b685a5",
+      "title": "Bob Mortimer: Writing Novels, Gone Fishing & Last One Laughing",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "link": null,
+      "description": "Why did Bob Mortimer never speak to Damon Albarn again? In this episode of The Romesh Ranganathan Show, Romesh is joined by comedian, writer and national treasure Bob Mortimer, ahead of his new novel Michael. They talk about how Bob writes a book without a plan, the surprising second series of Last One Laughing, and why Gone Fishing has become so much more than two men by a river. There’s also a heated cats vs dogs debate, a very particular opinion on lard, and a story about a pair of stolen glasses that Bob clearly hasn’t recovered from. A Ranga Bee Production. Chapters: 00:00 Intro 00:45 Meet Bob Mortimer 02:04 Last One Laughing: series two nerves 08:09 A gift for Bob 11:17 Why Bob prefers cats 12:09 Writing a book with no plan 15:25 Why Michael is such a brilliant book 25:22 How Gone Fishing started 33:01 Why Gone Fishing gets so deep 38:44 Romesh's House of Fools audition 45:12 A question from Shanthi 50:00 Bob's notes on the show 55:41 Bob's health and the lard question 1:09:49 The ending of Michael 1:12:59 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/92fc8808-d9e0-11f1-8c2d-7759fbfbbddf/image/e4ed09eaf5918fd7a012d74047b1b201.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2153900646.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4582",
+      "speakers": [
+        "Bob Mortimer",
+        "Damon Albarn",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "mortimer",
+        "writing",
+        "novels",
+        "gone",
+        "fishing",
+        "laughing"
+      ]
+    },
     {
       "key": "9f64e6fb1380585c181658988f151f45c9927188",
       "title": "The Traitors Special: Alan Carr is here and Shanthi plays Claudia Winkleman",
@@ -2727,6 +2752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Bob Mortimer: Writing Novels, Gone Fishing & Last One Laughing — speakers: Bob Mortimer, Damon Albarn, Romesh Ranganathan
 - 2026-11-05 — The Traitors Special: Alan Carr is here and Shanthi plays Claudia Winkleman — speakers: Alan Carr, Claudia Winkleman, Romesh Ranganathan
 - 2026-11-02 — Riz Ahmed: Dealing with grief, Tom Cruise & trying stand-up comedy — speakers: Riz Ahmed, Tom Cruise, Romesh Ranganathan
 - 2026-10-29 — The Halloween Special: Terrifying Costumes, Would You Rather & Spooky Dilemmas — speakers: Spooky Dilemmas, Romesh Ranganathan

@@ -13573,6 +13573,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:e3e516d0d8b6",
+        "feed_title": "RED TALKS",
+        "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
+        "dedupe_key": "26fa11b435071a7c7878912e797b5b404516cc07",
+        "episode_key": "26fa11b435071a7c7878912e797b5b404516cc07",
+        "title": "HARRIET KEMSLEY: The Difference Between Harriet & Red’s Crowd, How To Use Bear Spray & Red’s True Heritage",
+        "published_at": "2026-11-09T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Red is fresh back from his US tour. This week, Harriet Kemsley joins Red in the studio to talk about the difference between their crowds, the correct way to use bear spray and Red’s true heritage, plus much more.\n\nFollow Red on ⁠⁠Instagram⁠⁠\n\nFollow Harriet on ⁠⁠Instagram⁠⁠\n\nFind Red on ⁠⁠Tour\n\n\n\n\nLearn more about your",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL7175453411.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-the-difference-between-harriet-reds/id1849405652?i=1000800641698&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:285070b97e35",
         "feed_title": "Rich Fulcher's TalkBox",
         "source_rss_url": "https://anchor.fm/s/104aea1a0/podcast/rss",
@@ -39189,6 +39211,28 @@
         "description": "Richard Ayoade and Lou Sanders join Roisin Conaty for a special bonus episode. They look back on the hair-raising happenings from Last One Laughing: Halloween, answer listeners’ burning questions about exactly how the show gets made, and spill the beans on what it was like being part of Last One Laughing Series 1.Conta",
         "audio_url": "https://rss.art19.com/episodes/99f38c64-12b6-41e2-aa2d-d01ce0633feb.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
         "link_url": "https://podcasts.apple.com/gb/podcast/halloween-bonus-ep-with-richard-ayoade-and-lou-sanders/id1885620207?i=1000798820501&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c4f63bb5acfa",
+        "feed_title": "9Natree Korean",
+        "source_rss_url": "https://feed.9natree.com/public/24/feed.xml",
+        "dedupe_key": "14da64dbb280b7a4977c86abc37da1dc25dddffc",
+        "episode_key": "14da64dbb280b7a4977c86abc37da1dc25dddffc",
+        "title": "[리뷰] Ayoade on Ayoade: A Cinematic Odyssey (Richard Ayoade) 요약 완료.",
+        "published_at": "2026-10-26T16:05:23Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ayoade on Ayoade: A Cinematic Odyssey (Richard Ayoade)\n\n\n\n- Amazon USA Store: https://www.amazon.com/dp/B00LRI2ZSY?tag=9natree-20 \n\n\n- Amazon Worldwide Store: https://global.buys.trade/Ayoade-on-Ayoade%3A-A-Cinematic-Odyssey-Richard-Ayoade.html \n\n\n\n- Ap",
+        "audio_url": "https://stream.9natree.com/request/?lang=Korea&voice=B00LRI2ZSY.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/%EB%A6%AC%EB%B7%B0-ayoade-on-ayoade-a-cinematic-odyssey-richard-ayoade-%EC%9A%94%EC%95%BD-%EC%99%84%EB%A3%8C/id6817017114?i=1000798205642&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

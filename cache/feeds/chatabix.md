@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-07T05:57:01+00:00`
-- checked_at: `2026-11-07T05:57:01+00:00`
-- etag: `"djEuMi4wOjE3OTM5NTEwNTk2NjY="`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"djEuMi4wOjE3OTQxOTMyMzk2OTQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-07T05:57:01+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e9687b242ec19d3fd90310c38f548d91337d4bdf",
+      "title": "S17 Ep 917 Vault Mondays: Life Is Embarrassing",
+      "published_at": "2026-11-09T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-917-vault-mondays-life-is-embarrassing",
+      "description": "In this old episode from the Chatabix archives, we returned to one of our favourite subjects - finding life embarrassing. First posted on 27th July 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6aed7f541f928a40b3fd2241/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27985293",
+      "itunes_duration": "29:09",
+      "speakers": [
+        "Vault Mondays",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "life"
+      ]
+    },
     {
       "key": "3f772b381870cb6a3467dbae4af9d786a5d808b1",
       "title": "S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads",
@@ -16586,6 +16608,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — S17 Ep 917 Vault Mondays: Life Is Embarrassing — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-11-06 — S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads — speakers: Funny Names, Mad Grandads Time, Joe Wilkinson, David Earl
 - 2026-11-05 — S17 Ep 915: A Slice Of Life — speakers: Joe Wilkinson, David Earl
 - 2026-11-04 — S17 Ep 914: Puppy Progress & A New Sport Pt 2 — speakers: Puppy Progress, New Sport Pt, Joe Wilkinson, David Earl

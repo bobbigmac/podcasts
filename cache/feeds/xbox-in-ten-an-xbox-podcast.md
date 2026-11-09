@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `"dcd393a39534045346b3031cf9f4e8f7"`
-- last_modified: `Mon, 02 Nov 2026 05:15:19 GMT`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"c0b815a2f6fac1964870917d80d5b60e"`
+- last_modified: `Mon, 09 Nov 2026 05:16:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6f4f2452551b57c8fe38a33030fbb6200b6fc95b",
+      "title": "Bethesda Confirms The Elder Scrolls 6 is Called Sentinel but it is 2+ Years Away? - (Xbox In Ten: An Xbox Podcast - Ep. 389)",
+      "published_at": "2026-11-09T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/bethesda-confirms-the-elder-scrolls-6-is-called-sentinel-but-it-is-2-years-away-xbox-in-ten-an-xbox-podcast-ep-389",
+      "description": "Week of: 11-2-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/0/1/8/e/018e693bb5a1f7355f2e77a3093c12a1/389.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/389.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15888736",
+      "itunes_duration": "11:28",
+      "speakers": [
+        "Elder Scrolls",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "bethesda",
+        "confirms",
+        "elder",
+        "scrolls",
+        "sentinel",
+        "year",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "ce340eb80a51a6039392898a4a06b84e88c0a826",
       "title": "The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388)",
@@ -9806,6 +9832,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Bethesda Confirms The Elder Scrolls 6 is Called Sentinel but it is 2+ Years Away? - (Xbox In Ten: An Xbox Podcast - Ep. 389) — speakers: Elder Scrolls, Brandon Rosa
 - 2026-11-02 — The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388) — speakers: Revealed Next Month, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-26 — Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387) — speakers: Xbox Project Helix Targeting, Could Cost, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-19 — Xbox is Considering a Full Return to Exclusivity? - (Xbox In Ten: An Xbox Podcast - Ep. 386) — speakers: Full Return, Xbox Gaming News, Fun Fact, Brandon Rosa

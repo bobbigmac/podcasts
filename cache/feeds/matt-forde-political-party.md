@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- etag: `"djEuMi4wOjE3OTM2MjAwMTk5Mzk="`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"djEuMi4wOjE3OTQxOTMzNTkyOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,34 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c549edee5c924f720b3fb946d17766dd325921af",
+      "title": "'This is what Andy Burnham MUST include in his 10 Year Plan' with Co-Op Party General Secretary, Caitlin Prowse",
+      "published_at": "2026-11-09T03:02:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/this-is-what-andy-burnham-must-include-in-his-10-year-plan-w",
+      "description": "Andy Burnham is the first ever Co-operative Party Prime Minister. So who are the Co-operative Party, how are they funded and what do they stand for? And more importantly, what do co-operative values tell us about what Andy Burnham plans to do with the country? Caitlin Prowse is the General Secretary of the Co-operative Party and she's just 29. How has she risen so quickly and what does she expect Andy Burnham to do? See the Political Party Live on Stage: 9 November: Liz Kendall and Mishal Husain 21 December: Christmas Special with Wes Streeting https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 3 SALFORD Lowry - EXTRA DATE 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 17 LONDON Bloomsbury - EXTRA DATE 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6af0a67ab68b03091eafd998/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68803826",
+      "itunes_duration": "47:46",
+      "speakers": [
+        "Andy Burnham",
+        "Caitlin Prowse",
+        "Matt Forde"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "year",
+        "plan",
+        "party",
+        "general",
+        "secretary",
+        "caitlin",
+        "prowse"
+      ]
+    },
     {
       "key": "70c01162ef7180054d5f6a98c072b367bcfc5f94",
       "title": "Jeffrey Archer - REPLAY",
@@ -10890,6 +10918,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — 'This is what Andy Burnham MUST include in his 10 Year Plan' with Co-Op Party General Secretary, Caitlin Prowse — speakers: Andy Burnham, Caitlin Prowse, Matt Forde
 - 2026-11-02 — Jeffrey Archer - REPLAY — speakers: Jeffrey Archer Replay, Jeffrey Archer, Matt Forde
 - 2026-10-26 — We will help NEETS, but if they don’t accept the opportunity they'll lose their benefits with Andrew Western, Minister of State for Employment — speakers: Andrew Western, Matt Forde
 - 2026-10-19 — Why I'm still fighting for veterans (and why I've put on weight) with Johnny Mercer — speakers: Johnny Mercer, Matt Forde

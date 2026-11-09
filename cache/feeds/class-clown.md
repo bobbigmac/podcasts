@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-11-02T00:44:04+00:00`
-- checked_at: `2026-11-02T00:44:04+00:00`
-- last_modified: `Mon, 02 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- last_modified: `Mon, 09 Nov 2026 03:10:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-02T00:44:04+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c4154239169b0f4001bdf302022dc7b035f6579e",
+      "title": "MOST PLAYED: Jamie Hutchinson Part 1",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "link": null,
+      "description": "Jamie Hutchinson is one of Britain's best cult comedians. Host of his own hit show Intrusive Thoughts and co-host of The Hot Water Green Room podcast, Jamie has one of the most unique voices on the circuit and his upbringing was equally original. Listen and watch as we did into the weird and wonderful childhood of Jamie Hutchinson! Check out Jamie Hutchinson's Intrusive Thoughts on Spotify and on YouTube . See Seann Walsh Live On Tour! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7459903922.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3215",
+      "speakers": [
+        "Jamie Hutchinson",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "played",
+        "jamie",
+        "hutchinson"
+      ]
+    },
     {
       "key": "73a82aae7530a06deeb546e85720dc0db862d289",
       "title": "MOST PLAYED: Joanne McNally",
@@ -36,7 +57,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL6342699026.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3448",
+      "itunes_duration": "3628",
       "speakers": [
         "Joanne McNally",
         "Seann Walsh"
@@ -57,7 +78,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7603846034.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4192",
+      "itunes_duration": "4372",
       "speakers": [
         "Seann Walsh"
       ],
@@ -2061,6 +2082,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — MOST PLAYED: Jamie Hutchinson Part 1 — speakers: Jamie Hutchinson, Seann Walsh
 - 2026-11-02 — MOST PLAYED: Joanne McNally — speakers: Joanne McNally, Seann Walsh
 - 2026-10-26 — MOST PLAYED: Romesh Ranganathan — speakers: Seann Walsh
 - 2026-10-18 — ALEXEI SAYLE: Getting Excluded, What Art School Taught Me & The Founding Of Modern Comedy — speakers: Getting Excluded, Seann Walsh

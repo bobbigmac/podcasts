@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-11-02T11:01:42+00:00`
-- checked_at: `2026-11-02T11:01:42+00:00`
-- etag: `"b04f22aa473245a0af46b429613a04d5"`
-- last_modified: `Mon, 02 Nov 2026 05:00:05 GMT`
+- fetched_at: `2026-11-09T06:23:38+00:00`
+- checked_at: `2026-11-09T06:23:38+00:00`
+- etag: `"f4173557e26dc0a96fc51da70c79c202"`
+- last_modified: `Tue, 03 Nov 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-11-02T11:01:42+00:00",
+  "fetched_at": "2026-11-09T06:23:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -987,26 +987,6 @@
       ]
     },
     {
-      "key": "f84e87cdf5504ad06262a026f05619fcd9ba7289",
-      "title": "Carbon Lifeforms",
-      "published_at": "2025-11-03T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0mcgfyz",
-      "description": "Jon Long and Dr Tara Shine join forces for more of the hybrid comedy-magazine show that emits jokes and facts that (carbon) capture all things climate to demystify the issues and offer advice on how to make positive choices in our everyday lives. This week - The Carbon Cost of Tech, The Internet and AI with special guests Chris McCausland and Mike Berners-Lee. In previous episodes, we’ve covered Food, Travel and Christmas, so what’s next? Well, it turns out that our previous episodes did not solve the climate crisis on their own. So, for this series, we will be looking at the topics of Tech and AI, Waste Management and Recycling, and The Fashion Footprint. Expect new in-studio guests and on-location experts, more games, more practical advice, more cold hard stats, and the return of Greenwash of the Week to shout out the heroes and villains of the climate crisis. Presenters: Jon Long and Dr Tara Shine Guests: Chris McCausland and Mike Berners-Lee Producer: Laura Grimshaw Executive Producer: Jon Holmes Live Sound: Jerry Peal Post-production Sound: Tony Churnside An unusual production for BBC Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mcgdh9.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27456000",
-      "itunes_duration": "1716",
-      "speakers": [
-        "Carbon Lifeforms Jon Long",
-        "Tara Shine"
-      ],
-      "topics": [
-        "carbon",
-        "lifeforms"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1085,5 +1065,4 @@
 - 2025-11-24 — It's a Fair Cop: Scam Special — speakers: Fair Cop, Scam Special Ever
 - 2025-11-17 — Tom & Lauren Are Going OOT
 - 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett
-- 2025-11-03 — Carbon Lifeforms — speakers: Carbon Lifeforms Jon Long, Tara Shine
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
