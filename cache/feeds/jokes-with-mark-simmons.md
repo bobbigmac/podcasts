@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-10-29T09:56:52+00:00`
-- checked_at: `2026-10-29T09:56:52+00:00`
-- etag: `"djEuMi4wOjE3OTMyNDYzNzkyMjQ="`
+- fetched_at: `2026-11-10T14:51:31+00:00`
+- checked_at: `2026-11-10T14:51:31+00:00`
+- etag: `"djEuMi4wOjE3OTQzMTMyNjU4MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-10-29T09:56:52+00:00",
+  "fetched_at": "2026-11-10T14:51:31+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "45eb53cfe31ad00f5407abe8bf622e92f37b34fa",
+      "title": "Tour Talk - New York Part 1",
+      "published_at": "2026-11-10T12:21:05+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-new-york-art-1",
+      "description": "Mark went to do shows in New York, Danny is late to the record, it's chaos! The USA gig chat will continue to next week... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6af30c3143e2f445c2517c66/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55057966",
+      "itunes_duration": "38:12",
+      "speakers": [
+        "Tour Talk New York",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "york"
+      ]
+    },
     {
       "key": "a8b097e8e22bf2dd2b11a14887b4a0c08e9048b3",
       "title": "ComedyIQ's Tony Dunn",
@@ -7648,6 +7669,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — Tour Talk - New York Part 1 — speakers: Tour Talk New York, Mark Simmons
 - 2026-10-29 — ComedyIQ's Tony Dunn — speakers: Tony Dunn, Mark Simmons
 - 2026-10-16 — Tour Talk - Ireland, UHT milk & a strip search — speakers: Tour Talk Ireland, Mark Simmons
 - 2026-10-03 — Elouise Eftos — speakers: Eloise Eftos, Mark Simmons

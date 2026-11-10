@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-11-02T21:42:38+00:00`
-- checked_at: `2026-11-02T21:42:38+00:00`
-- etag: `"11dced-65f497ed17050"`
-- last_modified: `Mon, 02 Nov 2026 11:32:05 GMT`
+- fetched_at: `2026-11-10T14:51:31+00:00`
+- checked_at: `2026-11-10T14:51:31+00:00`
+- etag: `"11e5a4-65fe82cc9c777"`
+- last_modified: `Tue, 10 Nov 2026 08:50:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-11-02T21:42:38+00:00",
+  "fetched_at": "2026-11-10T14:51:31+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dbd4ac680f6b2574bc9e49d52762ed623effafec",
+      "title": "Falling Into the Trap of Fun - S22, Ep. 10",
+      "published_at": "2026-11-09T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Bound into the Taskmaster Series 22 Grand Final with Jack and Jenny! And it’s a special one, a week wherewe get an even fuller picture of Isy Suttie’s family, learn why you can’t have a fridge full of stinking monkeys, get a master class from Chloe Petts in how to shave the legs of someone you just met and ask ourselves - why Liz Truss? Plus, where does our series winner land in the all time leader board? Jack’s got the data. Next week we’re joined by a very special guest to help us debrief on Series’s 22 so make sure you get all your questions in to fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8a493337-4fe1-4f68-b3cf-412acdc2bab9.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=8a493337-4fe1-4f68-b3cf-412acdc2bab9",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55087511",
+      "itunes_duration": "57:23",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "trap"
+      ]
+    },
     {
       "key": "eb37539998a931de1a1fe47366cfc9299e8d0d30",
       "title": "Still Looking For My X - S22, Ep.9",
@@ -5034,6 +5053,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-11-02 — Still Looking For My X - S22, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-26 — Drinking Is Just Spilling Stuff Inside Yourself - S22, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-19 — First Tingle in a Measuring Shop - S22, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
