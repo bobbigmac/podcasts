@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-10-27T22:12:30+00:00`
-- checked_at: `2026-10-27T22:12:30+00:00`
-- etag: `W/"d3554cb985c47bd99d1e5199f06afdb2"`
-- last_modified: `Tue, 27 Oct 2026 16:47:34 GMT`
+- fetched_at: `2026-11-10T21:18:02+00:00`
+- checked_at: `2026-11-10T21:18:02+00:00`
+- etag: `W/"e175968e0a6a7c1070849b991b7555d3"`
+- last_modified: `Tue, 10 Nov 2026 16:32:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-10-27T22:12:30+00:00",
+  "fetched_at": "2026-11-10T21:18:02+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,27 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "e58a19f7363ec7a8fbe62691b954a0e65bfc0c78",
+      "title": "195: Branded",
+      "published_at": "2026-11-10T16:31:34+00:00",
+      "link": "https://audioboom.com/posts/8975456",
+      "description": "The team (with Justine Smith) discuss the long, long failure in the media to notice Russell Brand telling the world who he was; with extra reports on the calls for help from Samaritans volunteers and the ‘Dirty COP’ climate conference happening in Turkey. For more on Russell Brand, including Helen’s encounter with him at the New Statesman, try Episode 88, Brand Management. The Samaritans can be contacted on 116 123.",
+      "image_url": "https://audioboom.com/i/43933432.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8975456.mp3?modified=1794328363&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2378",
+      "speakers": [
+        "Justine Smith",
+        "Russell Brand",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "branded"
+      ]
+    },
     {
       "key": "551c3b4435ef9334235c0adafa220ea34d92c2bb",
       "title": "194: Hot Cheeks and Cheesecake",
@@ -4143,6 +4164,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — 195: Branded — speakers: Justine Smith, Russell Brand, Andrew Hunter Murray, Ian Hislop
 - 2026-10-27 — 194: Hot Cheeks and Cheesecake — speakers: Barack Obama, Andrew Hunter Murray, Ian Hislop
 - 2026-10-13 — 193: The Jeffrey Archer Tribute Show — speakers: Ian Hislop, Andrew Hunter Murray
 - 2026-09-29 — 192: Who Cares? — speakers: Andrew Hunter Murray, Ian Hislop
