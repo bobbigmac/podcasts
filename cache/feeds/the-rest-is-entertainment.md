@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- last_modified: `Thu, 05 Nov 2026 00:05:00 GMT`
+- fetched_at: `2026-11-10T03:33:39+00:00`
+- checked_at: `2026-11-10T03:33:39+00:00`
+- last_modified: `Mon, 09 Nov 2026 19:03:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-10T03:33:39+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "dc47ad576db405f60f280b8c6394c2698007a0c7",
+      "title": "Russell Brand: What The Media Knew",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "link": null,
+      "description": "On Monday 9th November, Russell Brand was sentenced to 10 years and six months for rape and multiple sexual assaults. Richard Osman and Marina Hyde speak in detail about Russell Brand’s career, his ability to ‘hide in plain sight’ and the UK’s toxic media culture. This episode contains discussion of sexual violence, which may be distressing. If you’ve been affected by sexual violence, support is available for you. rapecrisis.org.uk survivorsuk.org The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: James Clayden & Tom McCagherty Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cfadaa62-dc5a-11f1-b88e-0f4dd7b1eb62/image/2cabd7b59043d85e96eeec734f4b89c4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1890539783.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2950",
+      "speakers": [
+        "Russell Brand",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "russell",
+        "brand",
+        "medium"
+      ]
+    },
     {
       "key": "faa9b51dc8b72c64252c8f3602c0d5fd9811931f",
       "title": "Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal",
@@ -7286,6 +7308,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-09 — Russell Brand: What The Media Knew — speakers: Russell Brand, Richard Osman, Marina Hyde
 - 2026-11-05 — Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal — speakers: Sly Stallone, Steven Seagal, Sly Stall, Richard Osman, Marina Hyde
 - 2026-11-03 — Celebrity Traitors - The Culture War Stupidity — speakers: Celebrity Traitors, Does Celebrity Traitors, Richard Osman, Marina Hyde
 - 2026-10-30 — CELEBRITY TRAITORS FINAL: Live Reaction — speakers: Richard Osman, Marina Hyde

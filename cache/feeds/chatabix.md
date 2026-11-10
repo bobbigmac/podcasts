@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"djEuMi4wOjE3OTQxOTMyMzk2OTQ="`
+- fetched_at: `2026-11-10T03:33:39+00:00`
+- checked_at: `2026-11-10T03:33:39+00:00`
+- etag: `"djEuMi4wOjE3OTQyNzk2Mzk1ODQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-10T03:33:39+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "3054579d21d0606fb17eea333ec961c9b255c61f",
+      "title": "S17 Ep 918 - Fake Raps and Long Noses",
+      "published_at": "2026-11-10T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-918-fake-raps-and-long-noses",
+      "description": "The subjects covers on today’s very varied show include Joe’s fake rap video with Joe Marler, not liking photoshoots, long floppy noses, the greatness of Ghosts, Joe getting a Larry Grayson style glasses chain and getting lots of crunch crunches. Plus, there’s a quick catch up on how Martha’s doing and a now very out of date discussion about The Celebrity Traitors. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6aed7fc2d256fade123d0d6f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45025489",
+      "itunes_duration": "46:54",
+      "speakers": [
+        "Joe Marler",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "raps",
+        "long",
+        "nose"
+      ]
+    },
     {
       "key": "e9687b242ec19d3fd90310c38f548d91337d4bdf",
       "title": "S17 Ep 917 Vault Mondays: Life Is Embarrassing",
@@ -16608,6 +16630,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — S17 Ep 918 - Fake Raps and Long Noses — speakers: Joe Marler, Joe Wilkinson, David Earl
 - 2026-11-09 — S17 Ep 917 Vault Mondays: Life Is Embarrassing — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-11-06 — S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads — speakers: Funny Names, Mad Grandads Time, Joe Wilkinson, David Earl
 - 2026-11-05 — S17 Ep 915: A Slice Of Life — speakers: Joe Wilkinson, David Earl

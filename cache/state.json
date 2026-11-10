@@ -12,15 +12,15 @@
       "last_modified": "Wed, 18 Feb 2026 19:12:20 GMT"
     },
     "taskmaster-peoples": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253678,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281629,
       "etag": "\"11dced-65f497ed17050\"",
       "last_modified": "Mon, 02 Nov 2026 11:32:05 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253679,
-      "last_modified": "Mon, 09 Nov 2026 16:23:05 GMT"
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281629,
+      "last_modified": "Tue, 10 Nov 2026 01:30:00 GMT"
     },
     "films-to-be-buried-with": {
       "last_checked_at": "2026-08-19T07:05:07+00:00",
@@ -187,8 +187,8 @@
       "last_error_message": "Unauthorized"
     },
     "daily-politics-from-the-new-statesman": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253676,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
       "etag": "\"djEuMi4wOjE3OTQwNzA4Mzk0NjY=\""
     },
     "firelink": {
@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253676,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
       "etag": "\"djEuMi4wOjE3OTMyNDYzNzkyMjQ=\""
     },
     "judge-dredd": {
@@ -268,8 +268,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253677,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
       "etag": "W/\"d3554cb985c47bd99d1e5199f06afdb2\"",
       "last_modified": "Tue, 27 Oct 2026 16:47:34 GMT"
     },
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253677,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
       "etag": "\"djEuMi4wOjE3OTM5Njc0NTM1NTM=\""
     },
     "ramon-fears-terror-tapes": {
@@ -326,13 +326,13 @@
       "etag": "\"djEuMi4wOjE3ODU2Nzg1NzgxMTQ=\""
     },
     "the-apocalypse-players": {
-      "last_checked_at": "2026-11-03T06:45:29+00:00",
-      "last_checked_unix": 1793688333,
-      "etag": "\"72d9a92dfa94cf8c1a3be105b1f7e533\""
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
+      "etag": "\"ccd96fbe1a3cb066b5a6fcf9939a1e55\""
     },
     "the-comedians-comedian-podcast": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253678,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
       "etag": "\"djEuMi4wOjE3OTMzNDAwMzk2NDc=\""
     },
     "the-conversation-weekly": {
@@ -352,9 +352,9 @@
       "last_modified": "Thu, 05 Nov 2026 15:05:59 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-11-05T06:43:42+00:00",
-      "last_checked_unix": 1793861027,
-      "last_modified": "Thu, 05 Nov 2026 00:05:00 GMT",
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281624,
+      "last_modified": "Mon, 09 Nov 2026 19:03:56 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -383,8 +383,8 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253678,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281627,
       "etag": "\"djEuMi4wOjE3OTQxODczMjk1MzU=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
@@ -394,9 +394,9 @@
       "etag": "\"djEuMi4wOjE3OTQxMjQ4MzkzODM=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-11-03T17:02:21+00:00",
-      "last_checked_unix": 1793725345,
-      "etag": "W/\"46b7b-M1ZWLK7hDl3q1BxsaQrM4DQgykw\""
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281627,
+      "etag": "W/\"46b7b-gdR6dD74ZYV9rT5t02C328lCOcg\""
     },
     "xbox-casuals-an-xbox-podcast": {
       "last_checked_at": "2026-06-25T22:45:21+00:00",
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTM3NTQwMzk0NzM=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253683,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281630,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,15 +486,15 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253683,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281630,
       "last_modified": "Thu, 05 Nov 2026 14:32:44 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-11-09T06:23:38+00:00",
-      "last_checked_unix": 1794205454,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281630,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
-      "etag": "\"djEuMi4wOjE3OTQxOTMyMzk2OTQ=\"",
+      "etag": "\"djEuMi4wOjE3OTQyNzk2Mzk1ODQ=\"",
       "consecutive_failures": 0
     },
     "skewer": {
@@ -542,8 +542,8 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-11-09T19:47:52+00:00",
-      "last_checked_unix": 1794253687,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281633,
       "etag": "\"djEuMi4wOjE3OTQwODU5MjU3Njc=\"",
       "consecutive_failures": 0
     },
@@ -633,10 +633,10 @@
       "consecutive_failures": 0
     },
     "best-of-fubar": {
-      "last_checked_at": "2026-11-09T06:23:38+00:00",
-      "last_checked_unix": 1794205454,
+      "last_checked_at": "2026-11-10T03:33:39+00:00",
+      "last_checked_unix": 1794281656,
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-11-09T19:47:52+00:00"
+  "updated_at": "2026-11-10T03:33:39+00:00"
 }
