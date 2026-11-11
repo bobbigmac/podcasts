@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-11-10T21:18:02+00:00`
-- checked_at: `2026-11-10T21:18:02+00:00`
-- etag: `"djEuMi4wOjE3OTQzMzY1NjE3MDE="`
+- fetched_at: `2026-11-11T01:17:27+00:00`
+- checked_at: `2026-11-11T01:17:27+00:00`
+- etag: `"djEuMi4wOjE3OTQzNTg4Mzk0NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-11-10T21:18:02+00:00",
+  "fetched_at": "2026-11-11T01:17:27+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "b4b8a06dbd98e0fecf1a1dd1efa2a185fd77f64e",
+      "title": "Claire Rafferty Gets the Gist",
+      "published_at": "2026-11-11T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/claire-rafferty-gets-the-gist",
+      "description": "Hello and welcome to today's offering of DWSC, and joining the force is an actor whose powers to deceive has luckily only been used for good is Claire Rafferty, and she starts off the show with a tale featuring many, many steps. The team then send fur flying as they entrap themselves in a story in which the perp has an epic will for survival. Next week, it's the first of our live shows from Canterbury Festival with special guest, Mark Steel. Come and see Hannah and Taylor LIVE in 2027! Don't miss out on your only chance to see them live in London, on 9th April at The Pleasance Theatre. Tickets and info here ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6aef931897f44ee2485aea05/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84898532",
+      "itunes_duration": "58:57",
+      "speakers": [
+        "Claire Rafferty",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "claire",
+        "rafferty",
+        "gist"
+      ]
+    },
     {
       "key": "ee60939aeecf93d2993a462f828eba9f05259167",
       "title": "The Poop Deck, with Daisy Kelliher",
@@ -11745,6 +11767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Claire Rafferty Gets the Gist — speakers: Claire Rafferty, Hannah George, Taylor Glenn
 - 2026-11-04 — The Poop Deck, with Daisy Kelliher — speakers: Poop Deck, Daisy Kelliher, Below Deck, Hannah George, Taylor Glenn
 - 2026-10-28 — Ignacio Lopez & Blanche in Franche — speakers: Ignacio Lopez, Hannah George, Taylor Glenn
 - 2026-10-21 — DWSC LIVE: With Esther Manito — speakers: Esther Manito, Hannah George, Taylor Glenn

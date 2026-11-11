@@ -30791,6 +30791,28 @@
     ],
     "lee-mack": [
       {
+        "feed_slug": "external:apple:8ed14477e280",
+        "feed_title": "THD美籍华人英语访谈秀",
+        "source_rss_url": "http://www.ximalaya.com/album/24851364.xml",
+        "dedupe_key": "430c1d15b4514d59f15a8c674f4bf7f136c3eb57",
+        "episode_key": "430c1d15b4514d59f15a8c674f4bf7f136c3eb57",
+        "title": "Lee Mack: The Carrot or the Stick",
+        "published_at": "2026-11-10T22:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lee Mack is an education innovator, investor and researcher.  He is co-founder of Meridian Education and also writes a newsletter called Educationology.  He was previously Director of Admissions and Marketing at Wellington College International Shanghai.  Today, we discuss the enormous and innovative changes that need ",
+        "audio_url": "https://jt.ximalaya.com//GKwRIUEOyTMuAwd-vAT5XzUr.m4a?channel=rss&album_id=24851364&track_id=1031784668&uid=180629730&jt=https://aod.cos.tx.xmcdn.com/storages/4444-audiofreehighqps/05/63/GKwRIUEOyTMuAwd-vAT5XzUr.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-the-carrot-or-the-stick/id1565264649?i=1000801080930&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8e22327570e3",
         "feed_title": "Sunday Brunch Picky Bits",
         "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",

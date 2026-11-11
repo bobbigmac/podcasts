@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-08T00:34:25+00:00`
-- checked_at: `2026-11-08T00:34:25+00:00`
-- etag: `"djEuMi4wOjE3OTQwOTc1MzkzNDM="`
+- fetched_at: `2026-11-11T01:17:27+00:00`
+- checked_at: `2026-11-11T01:17:27+00:00`
+- etag: `"djEuMi4wOjE3OTQzNTU2NTkzMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-08T00:34:25+00:00",
+  "fetched_at": "2026-11-11T01:17:27+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "8607cbcc2a4d81206696eb070c4377dbbfef641d",
+      "title": "Trudge State",
+      "published_at": "2026-11-11T00:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/trudge-state",
+      "description": "Elis James, Mike Bubbins, Steff Garrero and The Socially Distant Sports Bar are always in search of a legacy. And this week is no different. Will it be literary ? Perhaps the boys will be remembered for introducing new expressions into the English language, with \"trudge state\" surely destined to become part of the sporting vernacular. Will it be social ? Is the true legacy of Distant Pod the fact that you can walk into almost any pub in Wales and there's a reasonable chance you'll find a Patreon subscriber with his top off, proudly honouring the podcast? And trust us, you probably don't want to know. Somewhere amongst all this legacy building, there's actually some sport. Mike brings us NHL goalkeeper Devin Cooley , Elis explores the increasingly blurred lines between rugby and football, and Steff has a reminder that sometimes the best thing you can do is just run anyway . Clips Mike: Devin Cooley https://www.instagram.com/reel/DesbRZzCe-o/?psln=MTdmNzExdHlpdDgwZw== Elis: Rugby/Football https://www.instagram.com/reel/Degg1ywoDPd/?srtk=MXV1YXZ2MTV3NTJnOA== Steff: Run Anyway https://www.instagram.com/reel/DerMLJxlbuh/?dlrf=MXNhdWlkM3hxb25wbA== Language. Legacy. Topless men in Welsh pubs. The Socially Distant Sports Bar. Building a legacy, one ridiculous conversation at a time. Part 2, Hang It In The Louvre , will be out on Friday, featuring a fascinating Netflix documentary about the world of chess and a book about the building of one of football's greatest dynasties. And if you want the entire episode early and advert-free, including our exclusive Bonus Club episode, subscribe to Distant Pod Bonus Club on Apple Podcasts . Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6af1aad24639eb370f461d4b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144239040",
+      "itunes_duration": "1:00:05",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "trudge",
+        "state"
+      ]
+    },
     {
       "key": "476f6bea98ca8478aa3a72829983893892f53e99",
       "title": "Jive Bunny: Pint Size",
@@ -16475,6 +16496,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Trudge State — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-08 — Jive Bunny: Pint Size — speakers: Jive Bunny Pint Size, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-06 — That's My Sense Of Humour — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-04 — Darting and Sharting — speakers: Mike Bubbins, Elis James, Steff Garrero

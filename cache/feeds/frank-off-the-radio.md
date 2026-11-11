@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- last_modified: `Mon, 09 Nov 2026 01:06:52 GMT`
+- fetched_at: `2026-11-11T01:17:27+00:00`
+- checked_at: `2026-11-11T01:17:27+00:00`
+- last_modified: `Wed, 11 Nov 2026 01:06:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-11T01:17:27+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "f3b74d5db34d8b4f707cad52f94e87fa8a6e1ae5",
+      "title": "Frank Skinner's Radio Days: Magazine Man",
+      "published_at": "2026-11-11T01:00:00+00:00",
+      "link": null,
+      "description": "The gang talk remedies for an insect bite, Frank becoming a magazine man and Victoria Beckham and bee pollen. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6c76ed76-dd01-11f1-8fd2-2bd0e13ff5af/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8486424762.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2125",
+      "speakers": [
+        "Frank Skinner",
+        "Victoria Beckham"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "days",
+        "magazine"
+      ]
+    },
     {
       "key": "3664893c037736e4d277608e9b58665a69d73584",
       "title": "Prog Rock God! Steven Wilson",
@@ -25218,6 +25241,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Frank Skinner's Radio Days: Magazine Man — speakers: Frank Skinner, Victoria Beckham
 - 2026-11-09 — Prog Rock God! Steven Wilson — speakers: Steven Wilson Frank, Steven Wilson, Frank Skinner
 - 2026-11-06 — Word of the Year — speakers: Year Frank, Huge Davies, Frank Skinner
 - 2026-11-04 — Frank Skinner's Radio Days: Flat Stomach — speakers: Frank Skinner
