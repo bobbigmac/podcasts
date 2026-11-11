@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-10T03:33:39+00:00`
-- checked_at: `2026-11-10T03:33:39+00:00`
-- etag: `"djEuMi4wOjE3OTQyNzk2Mzk1ODQ="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNjYwMzk2Nzg="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-10T03:33:39+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e8d551c4ab9c48b1b7ff3aa69f984b7fca353cbf",
+      "title": "S17 Ep 919: Estate Agents and Money Matters",
+      "published_at": "2026-11-11T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-919-estate-agents-and-money-matters",
+      "description": "David’s back on the house hunting again - and this time it’s for real as he and his family are now seriously looking to move. So on today’s show, he tells Joe all about the lovely estate agent he’s just met and really got on with, plus a few others that he didn’t. Then, after whole load more chat about houses, the conversation turns to money and how much they both worry about it. And to close the show, Joe pitches his new idea for an App. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6aed802b4cac7bbabb5f083e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44065436",
+      "itunes_duration": "45:54",
+      "speakers": [
+        "Estate Agents",
+        "Money Matters David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "estate",
+        "agents",
+        "money",
+        "matter"
+      ]
+    },
     {
       "key": "3054579d21d0606fb17eea333ec961c9b255c61f",
       "title": "S17 Ep 918 - Fake Raps and Long Noses",
@@ -16630,6 +16654,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — S17 Ep 919: Estate Agents and Money Matters — speakers: Estate Agents, Money Matters David, Joe Wilkinson, David Earl
 - 2026-11-10 — S17 Ep 918 - Fake Raps and Long Noses — speakers: Joe Marler, Joe Wilkinson, David Earl
 - 2026-11-09 — S17 Ep 917 Vault Mondays: Life Is Embarrassing — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-11-06 — S17 Ep 916 Listener’s Mailbag: Funny Names and Mad Grandads — speakers: Funny Names, Mad Grandads Time, Joe Wilkinson, David Earl

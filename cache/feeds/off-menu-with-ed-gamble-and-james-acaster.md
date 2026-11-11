@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NjQ4Mzk1NDk="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNjk2Mzk5Mzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ecfdd579deea0f91a5f88e6a6d0e531de1d435df",
+      "title": "Sara Cox",
+      "published_at": "2026-11-11T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/sara-cox",
+      "description": "Author, podcaster and broadcasting legend Sara Cox – host of the Radio 2 Breakfast Show and co-host of The Teen Commandments podcast – is this week’s guest in the Dream Restaurant. And now we all know what Janet Jackson on the radio means. Listen to ‘ The Sara Cox Breakfast Show ’ on BBC Radio 2 every weekday morning. Listen to Sara’s podcast, ‘ Ten Teen Commandments ’, wherever you get your podcasts. Sara’s latest book, ‘The Truth of Us’, is out now published by Hodder & Stoughton. Buy it here . Follow Sara on Instagram @djsaracox Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Subscribe to Craig Simons’ (the UK’s number one James Acaster tribute act) YouTube @craigsimonslive Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1794242869442-554af992-6392-45a5-a7d9-f78eeb65e7e0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aec6b32d4f80160633fa595/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103850176",
+      "itunes_duration": "1:26:32",
+      "speakers": [
+        "Sara Cox Author",
+        "Sara Cox",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "sara"
+      ]
+    },
     {
       "key": "82c301ca84a01fbd78978ece03aa8b0869773572",
       "title": "Andi Osho",
@@ -9124,6 +9146,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Sara Cox — speakers: Sara Cox Author, Sara Cox, Ed Gamble, James Acaster, Ben Williams
 - 2026-11-04 — Andi Osho — speakers: Andi Osho Actor, Andi Osho, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-28 — Rob Auton — speakers: Rob Auton, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-21 — Lara Ricote — speakers: Lara Ricote Award, Ed Gamble, James Acaster, Ben Williams

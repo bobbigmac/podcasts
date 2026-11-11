@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-11-08T17:55:44+00:00`
-- checked_at: `2026-11-08T17:55:44+00:00`
-- etag: `"djEuMi4wOjE3OTQxMjQ4MzkzODM="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNjYwMzk2NzQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-11-08T17:55:44+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "42b09b46c82d578af78a2d7d574d534cf9d9f0bb",
+      "title": "WDWDY #95.1: Racing a tram (Max's Yesterday)",
+      "published_at": "2026-11-11T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-951-racing-a-tram-maxs-yesterday",
+      "description": "On this midweek mayhem we find out what Max did with his yesterday... He races a tram, finds a missing crystal, and does a 30 minute youtube kettle bell workout. Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1794083847563-817c5fb4-b137-47ef-993a-aa82555eab7b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6aef8db19272884e57a92b17/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116654213",
+      "itunes_duration": "48:29",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "tram",
+        "yesterday"
+      ]
+    },
     {
       "key": "8b327e3896d87267a1832ecb4c3f50a106e0057b",
       "title": "S6 EP9: Sophie Duker",
@@ -4416,6 +4436,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — WDWDY #95.1: Racing a tram (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-11-08 — S6 EP9: Sophie Duker — speakers: Sophie Duker, Max Rushden, David O'Doherty
 - 2026-11-04 — WDWDY #94.1: Lawn mower eggs (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-11-01 — S6 EP8: Henry Paker — speakers: Henry Paker, Max Rushden, David O'Doherty

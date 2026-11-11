@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- last_modified: `Wed, 04 Nov 2026 00:27:21 GMT`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- last_modified: `Tue, 10 Nov 2026 14:58:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever. Every Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified. Contains swearing because it’s really cool. “As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,53 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2e30fc94619d563316cf97c9001bc33776c5fd83",
+      "title": "Touring, Stand-Up Nerves and Pre-Show Routines",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "link": null,
+      "description": "What's the best way to get ready for a stand-up show? This week, the boys attempt to settle who is the more likeable of the two, using the only reliable measure available: an Instagram poll. Then it’s life on the road: stand-up nerves, pre-show rituals, a gobo, a tour programme and the great merch debate. There’s a complaint about the pre-show music, a flyer campaign that lasted a single night, and a backstage emergency that really should stay between friends. Send your emails to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 01:04 Tom’s favourite ever text from Romesh (a backstage emergency) 06:02 Roleplay: the front of house manager 15:43 Why being approached in public is awkward 21:02 Who’s more likeable? 27:07 Gig nerves 31:06 Pre-show routines 35:21 The red microphone 37:44 What goes in a tour programme? 43:47 FPL formulas and Theo’s advice 44:47 Listener complaints about the freestyle words 47:25 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a847e84c-da03-11f1-82b7-17590fbad552/image/4a284c1ac21e22e3d30067a20efb4623.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT8744867795.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3017",
+      "speakers": [
+        "Up Nerves",
+        "Show Routines What",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "touring",
+        "nerves",
+        "routines"
+      ]
+    },
+    {
+      "key": "aa8d9e7c96710ed8f2955f4ad4369571e3b67b2b",
+      "title": "Jason Momoa, Bad Comebacks and A Very Awkward Transfer Bus",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "link": null,
+      "description": "Is Tom the internet’s favourite erection suppressant? Your emails are in, and the boys are ready to help. Tom and Rom get honest about how to cope when a stranger’s cruel comment won’t leave your head, and why chasing the perfect comeback is a waste of energy. They also tackle a very inconvenient problem for one young listener, and Tom becomes an unlikely mental off-switch. Plus the big question: vampire, werewolf or merman? Send your questions and stories to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 03:23 Tom on insults that stick 06:57 Romesh and the top-off comment 09:45 The Tour de France episode and the weight of TV 13:07 School boners 14:28 Romesh’s Canada story 21:41 Sex on moving transport 24:03 Vampire, werewolf or merman? 26:11 The Jason Momoa and Aquaman debate 26:42 Minecraft takes 28:51 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7866e8a8-d783-11f1-ba10-8be21936fabd/image/1c9fde82601a4eea6321bf3bcfcb4689.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT4475385910.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1920",
+      "speakers": [
+        "Jason Momoa",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "jason",
+        "momoa",
+        "comebacks",
+        "awkward",
+        "transfer"
+      ]
+    },
     {
       "key": "6b6ec95d8dbe7ccf0621ed85fb94523beb3f472f",
       "title": "Percy Pig Addiction, A Hot Baker and A Missing Arsenal Ticket",
@@ -7908,6 +7955,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-10 — Touring, Stand-Up Nerves and Pre-Show Routines — speakers: Up Nerves, Show Routines What, Romesh Ranganathan, Tom Davis
+- 2026-11-06 — Jason Momoa, Bad Comebacks and A Very Awkward Transfer Bus — speakers: Jason Momoa, Romesh Ranganathan, Tom Davis
 - 2026-11-03 — Percy Pig Addiction, A Hot Baker and A Missing Arsenal Ticket — speakers: Tom’s Percy Pigs, Romesh Ranganathan, Tom Davis
 - 2026-10-30 — Songs Stuck In Our Heads, Shower Etiquette and Family Wedding Drama — speakers: Romesh Ranganathan, Tom Davis
 - 2026-10-27 — KFCereal, Clint Eastwood & Unacceptable Gym Behaviour — speakers: Clint Eastwood, Unacceptable Gym Behaviour Does, Romesh Ranganathan, Tom Davis

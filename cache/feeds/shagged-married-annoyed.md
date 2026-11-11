@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- last_modified: `Fri, 06 Nov 2026 04:57:22 GMT`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- last_modified: `Wed, 11 Nov 2026 04:36:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1f5d2b20ef74be03231f011b0a3085090dd961a5",
+      "title": "Please Keep Me Anonymous with Chris Addison and Philippa Dunne",
+      "published_at": "2026-11-11T04:30:00+00:00",
+      "link": null,
+      "description": "This week, Chris and Rosie are joined by the brilliant comedian, writer, actor and director Chris Addison, alongside Motherland and Derry Girls star Philippa Dunne! They join Chris and Rosie to chat about their brand-new show, Tall Tales and Murder – which Chris and Rosie are already completely hooked on! Along the way, they get into everything from cats and auditions to Philippa’s rather unusual fear, Catholic guilt and plenty more! You can catch Tall Tales and Murder on BBC One every Tuesday at 10.40pm, or binge-watch the entire series on BBC Iplayer! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4db9b12a-dd01-11f1-97cf-7f549d1562ae/image/e1416d5d517c3beef4f9c042f27f9bba.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5948737968.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2657",
+      "speakers": [
+        "Chris Addison",
+        "Philippa Dunne",
+        "Chris Ad",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "chris",
+        "addison",
+        "philippa",
+        "dunne"
+      ]
+    },
     {
       "key": "f81feeb0b1975550ddc358a457060ac02cf83907",
       "title": "Mini bar wine, a Halloween debrief and Bopit at bedtime",
@@ -9494,6 +9520,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Please Keep Me Anonymous with Chris Addison and Philippa Dunne — speakers: Chris Addison, Philippa Dunne, Chris Ad, Chris Ramsey, Rosie Ramsey
 - 2026-11-06 — Mini bar wine, a Halloween debrief and Bopit at bedtime — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-04 — Please Keep Me Anonymous with Isy Suttie — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
 - 2026-10-30 — Read the room d*ckhead — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey

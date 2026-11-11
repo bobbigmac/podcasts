@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"djEuMi4wOjE3OTQxOTY2NTkzNjU="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNjk0NTk0ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c254e49e3ce8ce961f9cb1df699bad744be23910",
+      "title": "David Baddiel - \"Vet Threatener\"",
+      "published_at": "2026-11-11T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #635 - Vet Threatener - Rich is back at the Podcast Room where he has been keeping his guest this week waiting in reception, but it’s Penn and Piff’s fault, it’s David Baddiel. They discuss Baddiel’s disastrous morning and why he has a big bike chain with him, but no bike, David’s new thriller “Hunting Alice Bell” (starts on Channel 4 on 28th October) and the real life events that inspired it and how the internet never forgets or lets you forget, appearing on Horrible Histories, but not Ghosts, trying to define Baddiel and the range of his work, appearing on Bake Off and why neither of these men will turn up on Strictly anytime soon. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1793310521867-d7593cf6-b31f-46aa-85b3-e9e02253c4e7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6ae3bbeb61856eee597b244b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22079947",
+      "itunes_duration": "45:59",
+      "speakers": [
+        "David Baddiel Vet Threatener",
+        "Richard Herring"
+      ],
+      "topics": [
+        "david",
+        "baddiel",
+        "threatener"
+      ]
+    },
     {
       "key": "a80018f4bd977cb4d6c918f3b608e5221658526a",
       "title": "Jazz Emu (Retro) - \"Judy Murray Nose Recorder\"",
@@ -24594,6 +24615,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — David Baddiel - "Vet Threatener" — speakers: David Baddiel Vet Threatener, Richard Herring
 - 2026-11-09 — Jazz Emu (Retro) - "Judy Murray Nose Recorder" — speakers: Judy Murray Nose, Recorder Richard, Richard Herring
 - 2026-11-07 — Rich and Ally's Craven Newsround Compilation - "Jousting on Lime Bikes" — speakers: Craven Newsround Compilation, Lime Bikes, Richard Herring
 - 2026-11-06 — Super Hans on Moreish - Book Club — speakers: Super Hans, Book Club, Peep Show, Richard Herring

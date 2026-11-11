@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-11-10T21:18:02+00:00`
-- checked_at: `2026-11-10T21:18:02+00:00`
-- etag: `"djEuMi4wOjE3OTQzMzUzNjAwNjI="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNzY4Mzk4ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-11-10T21:18:02+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "278abf62d0e79bab5b8a1e7a938f328d1e437151",
+      "title": "Remembering Dai Henwood",
+      "published_at": "2026-11-11T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/455-remembering-dai-henwood",
+      "description": "Today we’re revisiting our conversation with the incredible Dai Henwood , who has sadly passed away after living with colon cancer for six years. One of New Zealand’s most accomplished stand-ups enjoying success around the world and countless awards, Dai was also a regular fixture on TV screens across the country with 7Days, Taskmaster and host of Dancing With The Stars. In this episode Dai shared his vulnerability with us all through his cancer diagnosis, and you’ll see his infectious positivity and the magnetic charm that pulled strangers and friends into his orbit. Nothing made him happier than making people laugh, and he shared that gift his whole life. I found him enormously uplifting to talk to, and if you’re struggling with your own health right now, I hope you find his outlook as inspiring as I did. Please consider the United North Piha Lifeguard Service if you are looking for a charity to support Everything I'm up to: Come and see me LIVE , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1794335351102-644e441a-7ced-4395-b7f7-cd893fed6e06.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6af344624019cd26551d5000/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92800512",
+      "itunes_duration": "1:04:26",
+      "speakers": [
+        "Dai Henwood",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "remembering",
+        "henwood"
+      ]
+    },
     {
       "key": "a315624b7c8376c64196bc5de66712373f3e2d89",
       "title": "Paul Foot Returns",
@@ -11839,6 +11859,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — Remembering Dai Henwood — speakers: Dai Henwood, Stuart Goldsmith
 - 2026-10-30 — Paul Foot Returns — speakers: Paul Foot, Stuart Goldsmith
 - 2026-10-16 — Elf Lyons Returns — speakers: Elf Lyons Returns Elf, Stuart Goldsmith
 - 2026-09-24 — Larry Dean (2020): ComCompendium — speakers: Larry Dean, Stuart Goldsmith

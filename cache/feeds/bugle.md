@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-11-04T14:40:03+00:00`
-- checked_at: `2026-11-04T14:40:03+00:00`
-- etag: `"djEuMi4wOjE3OTM4MDA4Mzk1MTk="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTM5MjEyMjI1Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-11-04T14:40:03+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -28,12 +28,35 @@
   ],
   "episodes": [
     {
+      "key": "50c722a07a133b5b47ee6ace5cd81250f621b6f8",
+      "title": "SNAP BUGLE: Blue Wave Washes over Washington",
+      "published_at": "2026-11-05T21:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/snap-bugle-blue-wave-washes-over-washington",
+      "description": "We've called a SNAP Bugle! As Andy jumps in with Nato Green to discuss all the latest from the Blue Wave flooding Washington during the US mid-terms. If you like The Bugle ad-free and uninterrupted. Then why not join The Bugle’s voluntary subscription, with your support Andy and his cohort of co-hosts can continue to blast there trademark mix of satirical insight and shameless drivel all over the planet. Nato Green's Links : https://natogreen.net & https://natogreen.bandcamp.com/album/the-darkest-hour 🧦 Remember you can still buy our phenomenal pairs of Bugle socks created by the company Stand4Socks. Socks are the most requested item at homeless shelters because they’re rarely donated - so for every one of you Buglers that has received a pair of socks someone in a shelter has also received a pair. And it’s not too late to sign up and become a Superbugler right now go to thebuglepodcast.com. 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6aece7d68cf6e857f945d66e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29178984",
+      "itunes_duration": "30:23",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "snap",
+        "bugle",
+        "blue",
+        "wave",
+        "washes",
+        "washington"
+      ]
+    },
+    {
       "key": "e15d0a8f4f48611825687c4cd722b27c7a300bb8",
       "title": "Global Democracy Lives?",
       "published_at": "2026-11-04T14:00:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/global-democracy-lives",
       "description": "The Bugle is back in person! Joining Andy in the studio for issue 4396 of The Bugle is Tiff Stevenson and Ria Lina! As the three take a dive in the biggest news stories from the past few weeks. From Lula historic fourth term win as Brazilian president, Serbian election win for student protest movement and a look ahead to the USA's mid-terms. PLUS Neil Young files second lawsuit against Trump and former PM Liz Truss' new book! 🇧🇷 Lula for Four: Lula wins historic fourth term as Brazilian president 🇺🇸 Trump v Young: The Bugle reports on the news that Neil Young files his 2nd lawsuit against President Trump 🇬🇧 Former PM's new book: Andy, Tiff and Ria report the on news of former PM Liz Truss' new book as the reviews pour in Andy's Links: https://www.andyzaltzman.co.uk/ Tiff Stevenson's Links: https://tiffstevenson.co.uk Ria Lina's Links: https://beacons.ai/rialina/home/p/press 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1793888299779-98539c11-8913-41ad-b00a-969ed47817d1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6aeb109136bf5ef90952a690/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "46249273",
@@ -14707,6 +14730,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-05 — SNAP BUGLE: Blue Wave Washes over Washington — speakers: Andy Zaltzman
 - 2026-11-04 — Global Democracy Lives? — speakers: Joining Andy, Andy Zaltzman
 - 2026-10-28 — Brilliant Bugle Debuts ft. Nish Kumar, Alice Fraser and many more! — speakers: Bugle Debuts, Alice Fraser, Andy Zaltzman
 - 2026-10-21 — Holy Sh*t it’s Been a Whole Decade — speakers: Andy Zaltzman

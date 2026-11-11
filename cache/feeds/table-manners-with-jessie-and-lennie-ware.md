@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-11-04T06:17:28+00:00`
-- checked_at: `2026-11-04T06:17:28+00:00`
-- etag: `"djEuMi4wOjE3OTM3NTQwMzk0NzM="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNTg4Mzk0MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-11-04T06:17:28+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,30 @@
   ],
   "episodes": [
     {
+      "key": "9e92e10c92c6159bf20dae7ef4ba1845fd899838",
+      "title": "James Acaster",
+      "published_at": "2026-11-11T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/james-acaster",
+      "description": "James Acaster is a man of many talents - he’s one of Britain’s best loved comedians, the co-host of our rival podcast (yet we love them!) Off Menu, a regular on the telly, and most recently became a very reluctant Traitor on the Celebrity Traitors. James joined us for a chat about his early days in stand-up, the story of his band The Wow Scenario, and we hear about his latest comedy creation, Craig Simons - the UK's number one James Acaster tribute act! We chatted about his experience in the Traitors castle, his lovely friendship with Romesh Ranganathan, and the time he caused a public outcry by punching a fake polar bear on Saturday Kitchen. What a lovely treat to be joined by such a fab guest, thank you James for such a fun afternoon! James’ new YouTube comedy special ‘James Acaster is Craig Simons’ is released on 1st December. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1794334759330-65f3d364-4626-4d86-8f49-793d76a9e2c7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6af3479de73609d62c4acf8a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63836577",
+      "itunes_duration": "1:06:29",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "james",
+        "acaster"
+      ]
+    },
+    {
       "key": "e9362a4d0a8614274b8c92ff2629f10fa7729ba2",
       "title": "Arlene Phillips",
       "published_at": "2026-11-04T01:00:00+00:00",
       "link": "https://shows.acast.com/tablemanners/episodes/arlene-phillips",
-      "description": "Dame Arlene Phillips really has stories to last a lifetime! She’s worked with icons like Whitney Houston, Freddie Mercury, Elton John, Tina Turner and Aretha Franklin, choreographed legendary West End & Broadway musicals and also created the iconic Hot Gossip dance troupe. The legendary choreographer joined us for a brilliant trip through her extraordinary career, we heard about a shy Whitney finding her confidence, teaching Elton to dance and how kind Freddie was on set. Arlene also took us back to her childhood in Manchester, how she started her dance training and her unexpected route into choreography that began with Ridley Scott, Miriam Margolyes, and a Dr Pepper advert! Of course we chatted Strictly, Starlight Express, Guys and Dolls and we hear her crazy food combo of bagels with pickles, strawberry jam and cream cheese! Thank you Arlene for such a gorgeous and fascinating afternoon. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Dame Arlene Phillips really has stories to last a lifetime! She’s worked with icons like Whitney Houston, Freddie Mercury, Elton John, Tina Turner and Aretha Franklin, choreographed legendary West End & Broadway musicals and also created the iconic Hot Gossip dance troupe. The legendary choreographer joined us for a brilliant trip through her extraordinary career, we heard about a shy Whitney finding her confidence, teaching Elton to dance and how kind Freddie was on set. Arlene also took us back to her childhood in Manchester, how she started her dance training and her unexpected route into choreography that began with Ridley Scott, Miriam Margolyes, and a Dr Pepper advert! Of course we chatted Strictly, Starlight Express, Guys and Dolls and we hear her crazy food combo of bagels with pickles, strawberry jam and cream cheese! Thank you Arlene for such a gorgeous and fascinating afternoon. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1793732709467-f80da7fb-c75e-4756-8bc0-8a89308aa493.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6aea2faf99361192386e10a5/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -7556,6 +7575,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — James Acaster — speakers: James Acaster
 - 2026-11-04 — Arlene Phillips — speakers: Arlene Phillips, Whitney Hou
 - 2026-10-28 — Nick Mohammed — speakers: Nick Mohammed
 - 2026-10-21 — Ashley Walters — speakers: Ashley Walters, Solid Crew

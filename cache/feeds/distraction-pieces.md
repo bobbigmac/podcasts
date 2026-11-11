@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-11T01:17:27+00:00`
-- checked_at: `2026-11-11T01:17:27+00:00`
-- etag: `"djEuMi4wOjE3OTQzMjY1NjYxNTE="`
+- fetched_at: `2026-11-11T10:55:24+00:00`
+- checked_at: `2026-11-11T10:55:24+00:00`
+- etag: `"djEuMi4wOjE3OTQzNzA4MzkyNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-11T01:17:27+00:00",
+  "fetched_at": "2026-11-11T10:55:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f7494e5bc5f0cb3fde241cd8bec95ebbac270303",
+      "title": "LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695",
+      "published_at": "2026-11-11T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the fabulous music maker LA ROUX ! La Roux joins Pip this week for a truly engaging conversation which goes into so much depth, and will delight those who consider themselves the day ones as well as the new members of the club. La Roux aka Elly Jackson has put out some absolute bangers since the late 2000's which were also remixed by some heavyweights in the dubstep and electronic scene, but as it turns out this may well have been a gift and a curse... What followed was high (and warped) expectations, genre mis-representation, extreme stress and burnout culminating in a breakdown, not to mention losing the tool which she had been sharpening throughout her career - her voice. It's a really honest chat and definitely one that people should listen to, as the world of music stardom is absolutely not one for everyone, and can affect people in a myriad of ways (obviously not always positively). There's also the touring element which can turn the heat up even further. Oh and don't mention EDM unless you're referring to... extremely... decent... music...?? And let's not get started on the pillowy bottom-end conundrum. You'll get it. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature ONLINE (it's all here) INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1794325592516-d3a1ab79-f56c-4096-86d6-8bf8d2de4c5d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6af34026513ebeb6d632d3af/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "190310148",
+      "itunes_duration": "1:19:12",
+      "speakers": [],
+      "topics": [
+        "roux",
+        "flames",
+        "quicksand",
+        "bulletproof",
+        "kill"
+      ]
+    },
     {
       "key": "0364a6aa4f2b270127e276942c7a9818dc6da012",
       "title": "CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind",
@@ -19944,6 +19964,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695
 - 2026-11-06 — CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind
 - 2026-11-04 — NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694 — speakers: Beth Brennan
 - 2026-10-30 — AUNTY DONNA (Australia's favourite surrealist comedy group!) • Friday Rewind
