@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-10T03:33:39+00:00`
-- checked_at: `2026-11-10T03:33:39+00:00`
-- last_modified: `Mon, 09 Nov 2026 19:03:56 GMT`
+- fetched_at: `2026-11-11T19:34:15+00:00`
+- checked_at: `2026-11-11T19:34:15+00:00`
+- last_modified: `Wed, 11 Nov 2026 19:31:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-10T03:33:39+00:00",
+  "fetched_at": "2026-11-11T19:34:15+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "997f199cd317146070e9c29303e16a18a6563ebd",
+      "title": "David Walliams: The Reckoning?",
+      "published_at": "2026-11-11T19:28:00+00:00",
+      "link": null,
+      "description": "After a three-year investigation by The Guardian and ITN, David Walliams has been accused of using his power and celebrity status to prey on young women and teenagers for sex. Some of these alleged victims were as young as 15. Richard Osman and Marina Hyde discuss the allegations, the investigation into Walliams and whether the media can find a way to root out sexual misconduct. Lucy Beaumont and Kathy Newman’s Sky News interview: https://www.youtube.com/watch?v=wiuOCjS62JI This episode contains frank conversations about sexual assault. If you’ve been affected by sexual violence, support is available for you. rapecrisis.org.uk survivorsuk.org The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editors: Louis Mealing, Caroline Kaye & Oli Ortega-Smith Assistant Producers: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3ba24384-ddf2-11f1-862d-13c37542b43f/image/c9b75912182743490a5935e30eb6612e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8829779265.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2407",
+      "speakers": [
+        "David Walliams",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "david",
+        "walliams",
+        "reckoning"
+      ]
+    },
     {
       "key": "dc47ad576db405f60f280b8c6394c2698007a0c7",
       "title": "Russell Brand: What The Media Knew",
@@ -7308,6 +7330,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — David Walliams: The Reckoning? — speakers: David Walliams, Richard Osman, Marina Hyde
 - 2026-11-09 — Russell Brand: What The Media Knew — speakers: Russell Brand, Richard Osman, Marina Hyde
 - 2026-11-05 — Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal — speakers: Sly Stallone, Steven Seagal, Sly Stall, Richard Osman, Marina Hyde
 - 2026-11-03 — Celebrity Traitors - The Culture War Stupidity — speakers: Celebrity Traitors, Does Celebrity Traitors, Richard Osman, Marina Hyde

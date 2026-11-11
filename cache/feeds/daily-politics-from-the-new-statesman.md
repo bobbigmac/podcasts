@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-07T19:25:41+00:00`
-- checked_at: `2026-11-07T19:25:41+00:00`
-- etag: `"djEuMi4wOjE3OTQwNzA4Mzk0NjY="`
+- fetched_at: `2026-11-11T19:34:15+00:00`
+- checked_at: `2026-11-11T19:34:15+00:00`
+- etag: `"djEuMi4wOjE3OTQ0MjExNzM0ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-07T19:25:41+00:00",
+  "fetched_at": "2026-11-11T19:34:15+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f7640695b22f9cf8dc2ace28be0e6aef6316a78c",
+      "title": "US midterms: Is the Trump era over?",
+      "published_at": "2026-11-11T18:19:33+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/us-midterms-is-the-trump-era-over",
+      "description": "A week on from the US midterms, and the scale of the Democrats sweeping victory is still sinking in. On the right, the language has been apocalyptic. On the left, the mood is jubilant but wary - there are warnings of overconfidence. What comes next for a Democratic Party with a new generation of stars, and for a Republican Party that has tied its fate to one man for a decade? Freddie Hayward is joined by Will Marshall, President of the Progressive Policy Institute, a centre left think tank. READ: https://www.newstatesman.com/international-content/only-in-america/2026/11/maga-after-trump LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1794421117377-07cb4142-dbe6-4883-aabe-c79e76ffe183.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6af4b15880cc4523871ac22d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42978244",
+      "itunes_duration": "17:50",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "midterm",
+        "trump"
+      ]
+    },
     {
       "key": "d9de2cc62eef7fd8cff65fa979f7b041ff3a00bd",
       "title": "Britain's U-turn on the white working class",
@@ -32933,6 +32953,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-11 — US midterms: Is the Trump era over? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-07 — Britain's U-turn on the white working class — speakers: Karl Bushby, Anoosh Chakelian, Oli Dugmore
 - 2026-11-06 — Nigel Farage is losing the far right — speakers: Emily Lawford, Anoosh Chakelian, Oli Dugmore
 - 2026-11-05 — Burnham's Ten-Year-Plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
