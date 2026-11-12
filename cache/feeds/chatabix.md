@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- etag: `"djEuMi4wOjE3OTQzNjYwMzk2Nzg="`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- etag: `"djEuMi4wOjE3OTQ0NTI0Mzk5OTM="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "0961d4254b0d4302d4f39e69874d8d085b69ab11",
+      "title": "S17 Ep 920: Back at the Dentists",
+      "published_at": "2026-11-12T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-920-back-at-the-dentists",
+      "description": "Over the past few weeks, David’s been back at the dentists for yet more root canal treatment. So in today’s show, he takes the opportunity to document the whole experience in his own inimitable style. Well, as Joe points out, David is one of the nations top storytellers - so settle back and enjoy as the story unfolds… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6aed807a5e56bd617cb4a08c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37105580",
+      "itunes_duration": "38:39",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dentist"
+      ]
+    },
     {
       "key": "e8d551c4ab9c48b1b7ff3aa69f984b7fca353cbf",
       "title": "S17 Ep 919: Estate Agents and Money Matters",
@@ -16654,6 +16673,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — S17 Ep 920: Back at the Dentists — speakers: Joe Wilkinson, David Earl
 - 2026-11-11 — S17 Ep 919: Estate Agents and Money Matters — speakers: Estate Agents, Money Matters David, Joe Wilkinson, David Earl
 - 2026-11-10 — S17 Ep 918 - Fake Raps and Long Noses — speakers: Joe Marler, Joe Wilkinson, David Earl
 - 2026-11-09 — S17 Ep 917 Vault Mondays: Life Is Embarrassing — speakers: Vault Mondays, Joe Wilkinson, David Earl

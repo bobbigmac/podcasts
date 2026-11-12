@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-11-05T17:23:16+00:00`
-- checked_at: `2026-11-05T17:23:16+00:00`
-- etag: `"db759618d30cc17c2ebe4a34a8fbabc0"`
-- last_modified: `Thu, 05 Nov 2026 08:36:52 GMT`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- etag: `"ca883490873b836dc1326c784d4f9493"`
+- last_modified: `Thu, 12 Nov 2026 08:34:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-11-05T17:23:16+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,25 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "a900a9df10758eb1982ab599f3d69c0e5939a1de",
+      "title": "Tan & Sober Gentlemen Interview #782",
+      "published_at": "2026-11-12T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/tan-sober-gentlemen-interview-782",
+      "description": "An interview with The Tan and Sober Gentlemen anchors this episode, with live cuts from the Haw River Ballroom and a set of fan favorites played in their own scrappy, joyful style. Around them, Clann An Drumma bring the thunder of Boudica's Revenge and Jack Houston carries the fiddle straight into the Gaeltacht. It's the Irish & Celtic Music Podcast #782. - - Subscribe now at CelticMusicPodcast.com ! Clann An Drumma, Jack Houston, Band O'Brothers, Jocelyn Pettit, The Tan and Sober Gentlemen, Seán Heely, Enda Reilly, The Occasionals, Lane to the Glen GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! All regular polls close on Friday, December 4, 2026 at 9 AM Eastern. THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Tan and Sober Gentlemen 0:12 - Clann An Drumma \"Fire & Ashes\" from Boudica's Revenge 4:47 - WELCOME 6:11 - Jack Houston \"Gaeltacht\" from An Fhidil Bhriste Pronunciation: Gaeltacht = GWAYL - tukht (Irish for an Irish - speaking region). An Fhidil Bhriste = un IDD - il VRISH - chuh (The Broken Fiddle). 9:15 - Band O'Brothers \"Elm City Ramble\" from All Together Again 12:31 - Jocelyn Pettit \"Royal Gala Waltz\" from Wind Rose 16:27 - INTERVIEW - THE TAN AND SOBER GENTLEMEN 17:04 - ABOUT THE BAND 23:46 - The Tan and Sober Gentlemen \"Follow Me Up to Carlow (Live)\" from Live at the Haw River Ballroom 27:57 - ABOUT THE ALBUM 32:08 - The Tan and Sober Gentlemen \"Corn Likker (Corn Likker)\" from Live at the Haw River Ballroom 35:37 - RAPID FIRE QUESTIONS 38:50 - The Tan and Sober Gentlemen \"Colleen Malone\" 42:18 - THANKS 43:53 - Seán Heely \"Ghoid iad mo bhean uam a - raoir / Willie's Auld Trews\" from Dramagical Pronunciation: Seán = SHAWN. Ghoid iad mo bhean uam a - raoir = GOTCH ee - ut mo VYEN OO - um uh - RUIR (Scottish Gaelic, \"They stole my wife from me last night\"). 50:06 - Enda Reilly \"The Fiddler of Dooney\" from The Mystery 52:15 - The Occasionals \"The Highland Schottische\" from The Occasionals at 40 55:26 - CLOSING 56:28 - Lane to the Glen \"St James' Kitchen : Lord Gordon (Reels)\" from Lane to the Glen 59:28 - CREDITS Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from Hank Woodward. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from John Sharkey White, II. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Here is something good happening close to home. Solar and battery prices have fallen dramatically over the last decade, and a lot of communities now offer community solar programs, where you can get clean power without putting a single panel on your roof. Renters and apartment dwellers can often join too. Many cities and utilities also run public meetings where residents help decide how local energy gets built. Take ten minutes this week to search your city or utility name plus \"community solar\" and see what is on offer near you. Small local choices add up, and neighbors who show up make them happen. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic songwriter and musician and also host of Pub Songs & Stories, your backstage pass to Celtic songwriters and the stories they'd only tell you after a few pints. Every artist on this show is an independent voice, sharing their music from a kitchen, a studio, or a little stage near you. When a song or a tune moves you, tell them. Send an email and say you're listening to the Irish & Celtic Music Podcast. A few kind words can fuel a musician all season long. This is more than a radio show. It's a gathering of people who love Celtic music and culture, and like any good gathering, it thrives when everyone brings something. Support the musicians you love. Buy a CD, an Album Pin, a shirt, or a digital download. Or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . CELTIC PODFEST AND NERDY ARTS MARKET Mark your calendar. The Second Annual Celtic PodFest and Nerdy Arts Market is coming to The Lost Druid Brewery in Avondale Estates, Georgia. It's Sunday, February 28, from 11 am until 6 pm the morning. Enjoy live Celtic music from Olivia Bradley, The BorderCollies, and May Will Bloom, plus a solo set from me, The Celtfather. Wander the Nerdy Arts Market, packed with independent makers. Grab a pint, meet the artists, and spend the day with your Celtic community. Get all the details at celticmusic.org ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Every month, our patrons make this show possible. Your support pays our audio engineer and our graphic designer, helps spread the word about independent Celtic artists, and lets us buy music from the bands we feature. Thank you. You are the reason an hour of Irish and Celtic music lands in listeners' ears every week. As a patron you also get Emerald Wave: A Field Guide to Modern Celtic Music, a guide to the artists and songs fans voted the best of the year, plus a seat in our community hub, SongHenge. It is where fellow listeners swap favorite bands, ask questions and talk music between episodes. Thanks to our Patrons of the Podcast. HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. In 2027, we're hiking the Isle of Skye. Head on over to http://celticinvasion.com/ . #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/2/4/9/6/24962bf4aceac179a04421dee9605cbd/782-The_Tan_and_Sober_Gentlemen_Interview-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-782.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58923839",
+      "itunes_duration": "01:01:02",
+      "speakers": [
+        "Marc Gunn"
+      ],
+      "topics": [
+        "sober",
+        "gentlemen"
+      ]
+    },
     {
       "key": "b4978aa3d830ef62f46cc5a54c26d092bea96628",
       "title": "Occasional Scotland #781",
@@ -16733,6 +16752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Tan & Sober Gentlemen Interview #782 — speakers: Marc Gunn
 - 2026-11-05 — Occasional Scotland #781 — speakers: Marc Gunn
 - 2026-10-29 — Celtic Halloween Interview with Louise Bichan #780 — speakers: Louise Bichan, Marc Gunn
 - 2026-10-22 — Unquiet Spirits Arise #779 — speakers: Unquiet Spirits Arise, Marc Gunn

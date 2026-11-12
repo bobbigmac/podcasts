@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 05 Nov 2026 05:08:13 GMT`
+- last_modified: `Thu, 12 Nov 2026 06:33:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c16944824b24c070877fd18567deb0ca547a4ef3",
+      "title": "Sindhu Vee",
+      "published_at": "2026-11-12T05:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the utterly brilliant Sindhu Vee ! 🎤✨ From the trading floors of investment banking to the rather different pressures of stand-up comedy, Sindhu has had a wonderfully unconventional journey. We chat motherhood, getting older and wiser and making a life in Britain, as well as dogs, food trends and the increasingly baffling world of social media. Sindhu also shares some beautiful memories of gardens from her childhood in the Philippines and why, all these years later, she still finds such comfort in them. 🌿 So, put down the financial pages, grab yourself something delicious, and come Pottering with us. 🪴 🎧 Watch on YouTube, Apple and Spotify, or listen wherever you may get your podcasts. And please do like and subscribe, or why not leave a review? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/290dc210-ddcb-11f1-aafd-43ba08e6a4c7/image/a903d586d9b6bb6420fa41a04e3b5dea.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8205729067.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3245",
+      "speakers": [
+        "Sindhu Vee",
+        "Tom Allen"
+      ],
+      "topics": [
+        "sindhu"
+      ]
+    },
     {
       "key": "fda40b669159b0a068c7935d945ab561e7b681a8",
       "title": "Kieran Hodgson",
@@ -1244,6 +1263,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Sindhu Vee — speakers: Sindhu Vee, Tom Allen
 - 2026-11-05 — Kieran Hodgson — speakers: Kieran Hodgson, Tom Allen
 - 2026-10-29 — Mark Gatiss — speakers: Mark Gatiss, Tom Allen
 - 2026-10-22 — Jenna Russell — speakers: Jenna Russell, Tom Allen

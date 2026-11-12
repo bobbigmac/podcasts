@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-11-05T17:23:16+00:00`
-- checked_at: `2026-11-05T17:23:16+00:00`
-- etag: `"26f720-65f84a8639f8d"`
-- last_modified: `Thu, 05 Nov 2026 10:07:05 GMT`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- etag: `"27067e-6600bd928b653"`
+- last_modified: `Thu, 12 Nov 2026 03:24:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-11-05T17:23:16+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "f13604f7b9d8b739cb7feb38e95262137fc88a38",
+      "title": "Have 30 years of global climate talks actually made a difference?",
+      "published_at": "2026-11-12T00:55:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "Thousands of delegates and world leaders are gathered in Turkey for the UN climate summit, COP31. Australia’s Climate and Energy Minister Chris Bowen is leading negotiations, despite Australia remaining one of the world’s biggest exporters of coal and gas. With the world on track to overshoot 1.5°C of warming, have three decades of UN climate talks achieved anything? And with the US withdrawn from international climate cooperation for now, can these summits still make a difference? In this episode, The Conversation Australia’s environment and energy editor Miki Perkins speaks to climate diplomacy expert Dr Wesley Morgan from the UNSW Institute for Climate Risk & Response about what climate negotiations have achieved – and what might come out of this year’s summit. This episode was written and produced by Miki Perkins and executive producer Grace Jennings-Edquist. Sound mixing is by Michelle Macklem, and our theme music is by Neeta Sarl. Ashlynne McGhee is our head of editorial innovation, and Gemma Ware is our head of audio. Misha Ketchell and Stephen Khan are our editors-in-chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation, an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/afa355a5-ef9d-4b04-bd4d-4698b4555cc9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34716150",
+      "itunes_duration": "24:06",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "year",
+        "climate",
+        "talk",
+        "difference"
+      ]
+    },
     {
       "key": "566028a544a5988efaf5fe512a4ccf9a72381c25",
       "title": "Democrats won Congress. How much can they rein in Trump?",
@@ -6465,6 +6486,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Have 30 years of global climate talks actually made a difference? — speakers: Gemma Ware
 - 2026-11-05 — Democrats won Congress. How much can they rein in Trump? — speakers: Gemma Ware
 - 2026-10-29 — How Big Porn made sexual violence mainstream — speakers: How Big Porn, Gemma Ware
 - 2026-10-22 — America's death penalty: why executions are rising again — speakers: Christa Pike, Gemma Ware

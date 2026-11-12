@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- etag: `W/"c94e832130b5bd4ac4de49f01f07eba8"`
-- last_modified: `Thu, 05 Nov 2026 02:00:00 GMT`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- etag: `W/"b1f62f3aa4a93b09264d8e9b338d8fa8"`
+- last_modified: `Thu, 12 Nov 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,36 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "638fc1bab61e95d1c8a834297cc8f02175918d59",
+      "title": "Russell Brand, David Walliams: media’s misogyny problem. Plus, ‘pragmatism’ and climate villains w/ Greenpeace",
+      "published_at": "2026-11-12T02:00:00+00:00",
+      "link": "https://audioboom.com/posts/8976000",
+      "description": "This week, Coco and Nish reckon with the allegations that have finally come out about another one of comedy’s ‘open secrets’, while reflecting on Russell Brand’s sentencing, and the persistent problem of misogyny and rape culture– not just in the entertainment industry, but at all levels of society. They ask what it will take to see systemic change: an independent monitoring organisation, or referral system? A government-led mission to truly tackle violence against women and girls? And a commitment to sack, rather than enable, those who abuse their position of power. (Nish puts it in swearier terms, as you might imagine.) Then, we’re joined by Areeba Hamid, powerhouse and co-exec director of Greenpeace, who shares her optimism in the fight for the planet’s future. As Andy Burnham heads to COP and the government looks set to slash EV targets, Nish & Coco want to know what we can do to fight the oil and gas lobby before it’s too late. And let’s start naming the climate villains: Shell, we’re looking at you. Also, we’d love to do another mailbag episode for the Christmas holidays, so send over your best festive (or non-festive) questions, queries, quizzes to podsavetheuk@crooked.com . USEFUL LINKS In the UK, Rape Crisis offers support for rape and sexual abuse on 0808 802 9999 in England and Wales, 0808 801 0302 in Scotland, or 0800 0246 991 in Northern Ireland. You can also find out more here: https://rapecrisis.org.uk/get-help/ If you would like to find your nearest Sexual Assault Referral Centre (SARC), you can do so here: https://www.nhs.uk/service-search/other-services/Rape-and-sexual-assault-referral-centres/LocationSearch/364 In the US, Rainn offers support on 800-656-4573. In Australia, support is available at 1800Respect (1800 737 732). Get Off Live Comedy: https://getofflivecomedy.org/ - independent, confidential support service dealing with sexual harassment in live comedy Write to your MP and tell them to say no to Rosebank: https://act.greenpeace.org/page/203021/action/1?source=UN&subsource=ECCLPLSOUN01N0 Stop Rosebank Day of Action on 13 November, everyone can take part in - online or in your communities: https://www.stopcambo.org.uk/ (iii) Follow Greenpeace on their social channels onlin e: https://www.instagram.com/greenpeaceuk/ and you can become a supporter here to fuel their work holding power to account for climate action: https://tinyurl.com/4u9k4bdt CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43935496/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8976000.mp3?modified=1794424342&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4415",
+      "speakers": [
+        "Russell Brand",
+        "David Walliams",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "russell",
+        "brand",
+        "david",
+        "walliams",
+        "medium",
+        "misogyny",
+        "problem",
+        "pragmatism",
+        "climate",
+        "villain"
+      ]
+    },
     {
       "key": "feb95c396b4fc2f87ef321920efcce8dca32da97",
       "title": "Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato",
@@ -87,7 +117,7 @@
       "link": "https://audioboom.com/posts/8967606",
       "description": "It’s a bumper episode this week! Put on your big brain hats, as Nish & Coco are joined by two incredible thinkers from around the world: PSUK goes global. First up, it’s pioneering (or ‘OG’) trans historian Susan Stryker who discusses her new book, ‘Changing Gender’: charting the history and development of the concept and language of gender, weaving in elements of memoir and observations from the present day. As “gender” has become the bogeyman for gender-critical campaigners, ethno-nationalists and religious conservatives alike, Susan traces the development of these transphobic ideologies, and sets out how the existence of ‘transness’ itself could offer the potential for human liberation. Next, we’re joined by academic and economist Thomas Piketty, who runs Nish & Coco through the Global Justice Report that was released this summer: a comprehensive roadmap to achieving global equality and planetary sustainability by 2100. What’s the catch? Look away, billionaires– it’s time for global redistribution. He also explains the significance of the mass student protests in France, and the role they may play in next year’s presidential election. No prizes for guessing the common enemy in both conversations… What a treat! Let us know what you think of the episode in the comments, and don’t forget you can email podsavetheuk@crooked.com with any questions, musings, or thoughts! USEFUL LINKS Read the Global Justice Report: https://globaljusticeproject.wid.world/global-justice-report/ Buy Susan’s book: https://www.hive.co.uk/product/susan-stryker/changing-gender--the-history-and-future-of-a-concept/26517789 Justice for Joelle: https://www.translegalclinic.com/justice-for-joelle Further information about the NHS’s ‘single sex spaces’ guidance: https://genderedintelligence.co.uk/news/37-nhs-single-sex-guidance CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://www.shopify.co.uk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43897489/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967606.mp3?modified=1792626534&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967606.mp3?modified=1792667882&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5091",
@@ -115,7 +145,7 @@
       "link": "https://audioboom.com/posts/8964294",
       "description": "This week, Nish & Coco reckon with the latest act of political desperation from Farage and his ailing Reform party: returning to their single-issue roots and promising to shut down England’s asylum system altogether. Plus, amidst the ongoing Manchester City scandal, we dive into the PSUK vault and return to an interview from June 2023 with then-mayor Andy Burnham, where Nish & Coco quizzed him on Abu Dhabi investment in the city. Back then, he said broader issues were a “matter for government”. Now he is the government–what next? Also, Nish outs himself as a football nerd. And, Brexit’s back on the table– again?! We’re joined by Professor of European Politics Anand Menon, to talk about whether rejoining the EU is desirable, or even possible anymore. Will this dominate the next ten years’ worth of political debate? Does Europe even want us back? We discuss, using a lot of Marvel metaphors… USEFUL LINKS Manchester Mill’s reporting on Abu Dhabi’s relationship with Manchester City Council: https://manchestermill.co.uk/exclusive-sheikh-mansour-contract-manchester/ UK in a Changing Europe website and resources: https://ukandeu.ac.uk/ Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43883585/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964294.mp3?modified=1792014375&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964294.mp3?modified=1792046815&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4580",
@@ -671,10 +701,10 @@
       "link": "https://audioboom.com/posts/8903237",
       "description": "This week, as Labour reels from a brutal set of election results, Nish and Coco try to make sense of Keir Starmer’s fight to stay in Downing Street, a story moving faster than political journalists can refresh their phones. They’re joined by Helena, aka NoJusticeMTG, Twitch streamer, YouTuber and Novara Media contributor, to break down Labour’s post-election meltdown, the rise of Reform, and whether the Greens’ surge points to a more hopeful progressive future. They also dig into who might replace Starmer, from Angela Rayner to Andy Burnham and Wes Streeting. Plus, what should we take from Plaid Cymru’s win in Wales, Reform’s new foothold, and the Greens breaking through in places Labour once took for granted? And former Google executive Mo Gawdat joins to discuss Chasing Utopia, the new documentary asking whether AI is about to transform our lives, our politics, and possibly the future of humanity itself. Watch Mo Gawdat in Atlantic Studios new release Chasing Utopia from Friday 15th May 2026 at Everyman Cinemas. Book tickets at everymancinema.com . GUESTS Mo Gawdat NoJusticeMTG USEFUL LINKS Raphael Behr https://www.theguardian.com/commentisfree/2026/may/13/labour-battle-of-ideas-no-10-keir-starmer-leadership CREDITS BBC ONE: Sunday with Laura Kuenssberg Youtube: Novara Media Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43645233.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903237.mp3?modified=1778759121&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903237.mp3?modified=1794287088&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4624",
+      "itunes_duration": "4308",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4414,6 +4444,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Russell Brand, David Walliams: media’s misogyny problem. Plus, ‘pragmatism’ and climate villains w/ Greenpeace — speakers: Russell Brand, David Walliams, Nish Kumar, Coco Khan
 - 2026-11-05 — Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato — speakers: Mariana Mazzucato, Nish Kumar, Coco Khan
 - 2026-10-29 — Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0 — speakers: Zoë Grünewald, Nish Kumar, Coco Khan
 - 2026-10-22 — Pod Save…the world? Global justice w/ Thomas Piketty and ‘Changing Gender’ w/ Susan Stryker — speakers: Thomas Piketty, Susan Stryker, Nish Kumar, Coco Khan

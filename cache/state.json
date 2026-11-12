@@ -18,8 +18,8 @@
       "last_modified": "Tue, 10 Nov 2026 08:50:48 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481457,
       "last_modified": "Wed, 11 Nov 2026 02:02:33 GMT"
     },
     "films-to-be-buried-with": {
@@ -48,8 +48,8 @@
       "etag": "\"djEuMi4wOjE3NzkyODkzMTE2OTA=\""
     },
     "three-bean-salad": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481458,
       "etag": "\"ad38d-65f691bf395ac\"",
       "last_modified": "Wed, 04 Nov 2026 01:15:05 GMT"
     },
@@ -84,8 +84,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "budpod": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481457,
       "etag": "\"djEuMi4wOjE3OTQyNTIzODA1NDc=\""
     },
     "my-dad-wrote-a-porno": {
@@ -125,8 +125,8 @@
       "last_modified": "Tue, 10 Nov 2026 14:58:59 GMT"
     },
     "katherine-ryan": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481458,
       "etag": "\"djEuMi4wOjE3OTM5Mjg1MTA3NTM=\""
     },
     "frank-off-the-radio": {
@@ -157,8 +157,8 @@
       "last_modified": "Tue, 13 Oct 2026 10:28:55 GMT"
     },
     "a-woodturners-journey": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449751,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481446,
       "etag": "\"djEuMi4wOjE3OTM1NDY2MTQ0OTA=\""
     },
     "beyond-the-pixels": {
@@ -197,10 +197,10 @@
       "etag": "W/\"42b4d-YoBOlSXgGkt7WzrIzKX3PhqtfhI\""
     },
     "irish-celtic-music-podcast": {
-      "last_checked_at": "2026-11-05T17:23:16+00:00",
-      "last_checked_unix": 1793899405,
-      "etag": "\"db759618d30cc17c2ebe4a34a8fbabc0\"",
-      "last_modified": "Thu, 05 Nov 2026 08:36:52 GMT",
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481447,
+      "etag": "\"ca883490873b836dc1326c784d4f9493\"",
+      "last_modified": "Thu, 12 Nov 2026 08:34:25 GMT",
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449751,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481446,
       "etag": "\"djEuMi4wOjE3OTM5Njc0NTM1NTM=\""
     },
     "ramon-fears-terror-tapes": {
@@ -299,9 +299,9 @@
       "etag": "\"djEuMi4wOjE3OTQzNjk0NTk0ODA=\""
     },
     "russell-howard-jon-richardson-devotee": {
-      "last_checked_at": "2026-11-11T10:55:24+00:00",
-      "last_checked_unix": 1794394529,
-      "etag": "W/\"676df-t7lOr/i5vFbY2/9Mmk9WkkBMDh4\""
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481446,
+      "etag": "W/\"67f96-zVU1sVXREqizlKzMPQoHtPdCPdU\""
     },
     "russell-howards-five-brilliant-things": {
       "last_checked_at": "2026-11-11T10:55:24+00:00",
@@ -331,15 +331,15 @@
       "etag": "\"ccd96fbe1a3cb066b5a6fcf9939a1e55\""
     },
     "the-comedians-comedian-podcast": {
-      "last_checked_at": "2026-11-11T10:55:24+00:00",
-      "last_checked_unix": 1794394533,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481447,
       "etag": "\"djEuMi4wOjE3OTQzNzY4Mzk4ODI=\""
     },
     "the-conversation-weekly": {
-      "last_checked_at": "2026-11-05T17:23:16+00:00",
-      "last_checked_unix": 1793899412,
-      "etag": "\"26f720-65f84a8639f8d\"",
-      "last_modified": "Thu, 05 Nov 2026 10:07:05 GMT"
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481449,
+      "etag": "\"27067e-6600bd928b653\"",
+      "last_modified": "Thu, 12 Nov 2026 03:24:24 GMT"
     },
     "the-horne-section-podcast": {
       "last_checked_at": "2026-06-18T15:52:36+00:00",
@@ -347,14 +347,14 @@
       "etag": "\"djEuMi4wOjE3NjgwNjczMjU5Mzg=\""
     },
     "the-next-big-idea": {
-      "last_checked_at": "2026-11-05T17:23:16+00:00",
-      "last_checked_unix": 1793899413,
-      "last_modified": "Thu, 05 Nov 2026 15:05:59 GMT"
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481452,
+      "last_modified": "Thu, 12 Nov 2026 10:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449752,
-      "last_modified": "Wed, 11 Nov 2026 19:52:23 GMT",
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481454,
+      "last_modified": "Thu, 12 Nov 2026 10:17:05 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449753,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481456,
       "etag": "W/\"1c706-eU6L/sLqXSmq9WZhI0JT5t2NDFw\""
     },
     "the-romesh-ranganathan-show": {
@@ -383,8 +383,8 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481456,
       "etag": "\"djEuMi4wOjE3OTQxODczMjk1MzU=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTQzNTg4Mzk0MzE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449755,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481458,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -491,10 +491,10 @@
       "last_modified": "Thu, 12 Nov 2026 00:00:00 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449759,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481458,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
-      "etag": "\"djEuMi4wOjE3OTQzNjYwMzk2Nzg=\"",
+      "etag": "\"djEuMi4wOjE3OTQ0NTI0Mzk5OTM=\"",
       "consecutive_failures": 0
     },
     "skewer": {
@@ -531,10 +531,10 @@
       "last_modified": "Tue, 10 Nov 2026 05:00:00 GMT"
     },
     "pod-save-the-uk": {
-      "last_checked_at": "2026-11-05T06:43:42+00:00",
-      "last_checked_unix": 1793861036,
-      "etag": "W/\"c94e832130b5bd4ac4de49f01f07eba8\"",
-      "last_modified": "Thu, 05 Nov 2026 02:00:00 GMT"
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481458,
+      "etag": "W/\"b1f62f3aa4a93b09264d8e9b338d8fa8\"",
+      "last_modified": "Thu, 12 Nov 2026 02:00:00 GMT"
     },
     "griefcast": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -582,10 +582,10 @@
       "last_modified": "Thu, 12 Nov 2026 00:08:01 GMT"
     },
     "pottering-with-tom-allen": {
-      "last_checked_at": "2026-11-05T06:43:42+00:00",
-      "last_checked_unix": 1793861030,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481456,
       "etag": "W/\"2ca0cd599f18c18ea4bb33c49d10a511\"",
-      "last_modified": "Thu, 05 Nov 2026 05:08:13 GMT"
+      "last_modified": "Thu, 12 Nov 2026 06:33:07 GMT"
     },
     "the-harry-hill-show": {
       "last_checked_at": "2026-07-08T03:43:39+00:00",
@@ -628,8 +628,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-11-12T02:15:49+00:00",
-      "last_checked_unix": 1794449763,
+      "last_checked_at": "2026-11-12T11:04:02+00:00",
+      "last_checked_unix": 1794481456,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -638,5 +638,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-11-12T02:15:49+00:00"
+  "updated_at": "2026-11-12T11:04:02+00:00"
 }

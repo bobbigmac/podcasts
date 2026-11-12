@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-11-05T17:23:16+00:00`
-- checked_at: `2026-11-05T17:23:16+00:00`
-- last_modified: `Thu, 05 Nov 2026 15:05:59 GMT`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- last_modified: `Thu, 12 Nov 2026 10:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T17:23:16+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8ca7fddd83440b809e6a7176b84788e7ea88e8a6",
+      "title": "Ethan Mollick on Using AI Without Losing Your Edge",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "link": null,
+      "description": "When ChatGPT launched less than four years ago, it couldn’t count the r’s in “strawberry.” Today, AI is solving fabled math problems, writing software, accelerating scientific discovery, and transforming medicine. But if machines can do the hard work for us, what happens to our ability to think, learn, and create? Today on the show, Wharton professor and AI expert Ethan Mollick returns to The Next Big Idea to discuss his new book, Co-Existence . He and Rufus explore what happens as AI takes on more of our work, and how we can keep growing alongside it. They talk about using AI to sharpen our thinking without eroding our skills and why this could be a golden age for entrepreneurs. They also take on a bigger question: How much control are we willing to give up? __________ ⏪ Check out Ethan's previous appearance on the show here . 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3170199887.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4569",
+      "speakers": [
+        "Ethan Mollick",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "ethan",
+        "mollick",
+        "edge"
+      ]
+    },
     {
       "key": "14a77ebfc3c2af9a16e355dc65ad37f5d5c5e767",
       "title": "Malcolm Gladwell on What We Get Wrong About Guns",
@@ -8765,6 +8787,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Ethan Mollick on Using AI Without Losing Your Edge — speakers: Ethan Mollick, Rufus Griscom, Caleb Bissinger
 - 2026-11-05 — Malcolm Gladwell on What We Get Wrong About Guns — speakers: Malcolm Gladwell, Rufus Griscom, Caleb Bissinger
 - 2026-10-29 — Danny Meyer on "What Could Possibly Go Right" — speakers: Danny Meyer, Rufus Griscom, Caleb Bissinger
 - 2026-10-26 — Best Of: Stop Wasting Your Talent and Start Making a Difference — speakers: Rufus Griscom, Caleb Bissinger

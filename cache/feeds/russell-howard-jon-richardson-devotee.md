@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- etag: `W/"676df-t7lOr/i5vFbY2/9Mmk9WkkBMDh4"`
+- fetched_at: `2026-11-12T11:04:02+00:00`
+- checked_at: `2026-11-12T11:04:02+00:00`
+- etag: `W/"67f96-zVU1sVXREqizlKzMPQoHtPdCPdU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,51 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-12T11:04:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7f3a29531981dcdde54b447da2f074d330c91134",
+      "title": "#4 Questions for Karl with Ricky Gervais - PART 4",
+      "published_at": "2026-11-12T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/4-Questions-for-Karl-with-Ricky-Gervais---PART-4-e3s7mc8",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794422510669-61183f2437acc.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3930377955.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72856238",
+      "itunes_duration": "01:15:04",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
+    {
+      "key": "0a962ccebaa59fa8a2fddcf8cc066895f5319c05",
+      "title": "#3 Questions for Karl with Ricky Gervais - PART 3",
+      "published_at": "2026-11-11T18:36:57+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/3-Questions-for-Karl-with-Ricky-Gervais---PART-3-e3s7m0m",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794422062962-2986e5dfd8194.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6741612016.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105971410",
+      "itunes_duration": "01:49:12",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
     {
       "key": "0299c36f51f6be18985c13995255fedd8bbe1c29",
       "title": "#2 Questions for Karl with Ricky Gervais - PART 2",
@@ -6241,6 +6279,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — #4 Questions for Karl with Ricky Gervais - PART 4
+- 2026-11-11 — #3 Questions for Karl with Ricky Gervais - PART 3
 - 2026-11-11 — #2 Questions for Karl with Ricky Gervais - PART 2
 - 2026-11-10 — #1 Questions for Karl with Ricky Gervais - PART 1
 - 2026-11-10 — #56 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
