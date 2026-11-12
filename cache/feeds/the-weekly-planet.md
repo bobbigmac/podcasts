@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"djEuMi4wOjE3OTQxODczMjk1MzU="`
+- fetched_at: `2026-11-12T19:53:20+00:00`
+- checked_at: `2026-11-12T19:53:20+00:00`
+- etag: `"djEuMi4wOjE3OTQ0ODY2MzkzNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-12T19:53:20+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6d354fdac43b39e3ce54594a474be8b783612dde",
+      "title": "Maze Runner: The Death Cure - Caravan of Garbage",
+      "published_at": "2026-11-12T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/maze-runner-the-death-cure-caravan-of-garbage",
+      "description": "A terrible on-set accident involving Dylan O'Brien resulted in a three-year wait for the second and final Maze Runner film, The Death Cure. That pause in production may have resulted in a slightly better film than the last, but may have cost the film at the box office. The important thing, though, is the boys (and girl) from the maze are back! Thomas, Newt, Minho, Teresa, Frypan, Will Poulter's character, whatever his name is, Littlefinger from Game of Thrones, plus new characters like Walton Goggins' character. Thanks for watching our review and retrospective on the Maze Runner trilogy! SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6ae81155c89efe5866ff5eaa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27827950",
+      "itunes_duration": "26:17",
+      "speakers": [
+        "Maze Runner",
+        "Dylan O'Brien",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "maze",
+        "runner",
+        "death",
+        "cure",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "dba53cf815aec92b542074ebd875c16127660ed9",
       "title": "648 Godzilla Minus Zero",
@@ -23457,6 +23483,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Maze Runner: The Death Cure - Caravan of Garbage — speakers: Maze Runner, Dylan O'Brien, James Clement, Nick Mason
 - 2026-11-08 — 648 Godzilla Minus Zero — speakers: Godzilla Minus Zero Thank, Weekly Planet, James Clement, Nick Mason
 - 2026-11-05 — Maze Runner: The Scorch Trials - Caravan Of Garbage — speakers: Maze Runner, James Clement, Nick Mason
 - 2026-11-02 — 647 Rest in peace Patrick Stewart & Primetime — speakers: Patrick Stewart Primetime Very, Patrick Stewart, James Clement, Nick Mason

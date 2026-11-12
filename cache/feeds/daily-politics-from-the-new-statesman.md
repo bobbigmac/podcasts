@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-11T19:34:15+00:00`
-- checked_at: `2026-11-11T19:34:15+00:00`
-- etag: `"djEuMi4wOjE3OTQ0MjExNzM0ODQ="`
+- fetched_at: `2026-11-12T19:53:20+00:00`
+- checked_at: `2026-11-12T19:53:20+00:00`
+- etag: `"djEuMi4wOjE3OTQ1MDE5Nzg1Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-11T19:34:15+00:00",
+  "fetched_at": "2026-11-12T19:53:20+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "784e05547a242e8db064cc96a20a619a20258664",
+      "title": "How green is Burnham’s government?",
+      "published_at": "2026-11-12T16:46:18+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-green-is-burnhams-government",
+      "description": "Andy Burnham flew to Cop31 in Turkey this week promising a new era of British leadership on climate, and announcing £12 billion of private investment in offshore wind. But, he left behind a Budget that cut £700m from carbon capture and hydrogen, the end of green levies on energy bills, a looming decision on the Rosebank oil field after the Jackdaw gas field had been approved, and reports that the electric car target may be softened. Downing Street insists cost of living comes first, no exceptions. But with at least 50 Labour MPs privately warning the Prime Minister about Rosebank, and pollsters cautioning of a “greenlash” on Labour’s left, just how green is Burnham’s government really? Anoosh Chakelian is joined today by Ailbhe Rea and Tom McTague to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1794501602026-ba3c3550-bd80-4838-86d3-464e0372754b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6af5ebc3b06f09a58131819e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110558888",
+      "itunes_duration": "46:01",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "government"
+      ]
+    },
     {
       "key": "f7640695b22f9cf8dc2ace28be0e6aef6316a78c",
       "title": "US midterms: Is the Trump era over?",
@@ -32953,6 +32974,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — How green is Burnham’s government? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-11 — US midterms: Is the Trump era over? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-07 — Britain's U-turn on the white working class — speakers: Karl Bushby, Anoosh Chakelian, Oli Dugmore
 - 2026-11-06 — Nigel Farage is losing the far right — speakers: Emily Lawford, Anoosh Chakelian, Oli Dugmore
