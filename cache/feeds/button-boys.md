@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-11-05T06:43:42+00:00`
-- checked_at: `2026-11-05T06:43:42+00:00`
-- last_modified: `Thu, 05 Nov 2026 00:07:35 GMT`
+- fetched_at: `2026-11-12T02:15:49+00:00`
+- checked_at: `2026-11-12T02:15:49+00:00`
+- last_modified: `Thu, 12 Nov 2026 00:08:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-05T06:43:42+00:00",
+  "fetched_at": "2026-11-12T02:15:49+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,29 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "01a4e529c9305663a35ba63d4bc8ced9bb656def",
+      "title": "Fauna? I Barely Know Her: Wildlife in Games",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "link": null,
+      "description": "Sometimes in life we need a break from the rat race, escape our urban hellholes, head for the hills, touch grass and appreciate nature. And that's exactly what the Boys are up to this week, on a big screen from the comfort of their sofas. Gaming is replete with memorable wildlife. From blood-curdling cougars and horrifying hogs to graceful giraffes and satiating snakes, our digital David Attenboroughs explore the breadth and depth of the video game menagerie. But before all that, as always, they must discuss what they've been playing this week. Sarah's found a new cosy game that's satisfying and explicitly not like Tetris, Pierre's taken the plunge on a game he'd promised to play and Glenn's put up with the first two hours of a game only to discover it's actually great. To follow along with the Button Boys outside the podcast: ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Teeny Tiny Town Dorfromantik Minecraft Tetris Final Fantasy VII Into the Breach Please Fix the Road Final Fantasy IX The Legend of Zelda: The Wind Waker Metal Gear Solid 2 A Plague Tale: Innocence A Plague Tale: Requiem CONTROL Resonant Final Fantasy Resonance Gears of War: E-Day Dead Island 2 Alkimya: House of Wisdom Red Dead Redemption 2 The Last of Us The Last of Us Part II Horses Age of Empires II: The Age of Kings The Blood of Dawnwalker God of War Marvel's Wolverine Marvel's Spider-Man Dark Souls Bloodborne Alan Wake The Elder Scrolls V: Skyrim Divinity: Original Sin II Metal Gear Solid 3: Snake Eater No Man's Sky ABZÛ Journey Far Cry 5 Yes, Your Grace Frostpunk Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3515665726.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3110",
+      "speakers": [
+        "Games Sometimes",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "fauna",
+        "wildlife",
+        "games"
+      ]
+    },
     {
       "key": "b2f16def04f98ff9b4789f90021a5df7f0040b56",
       "title": "Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins",
@@ -1638,6 +1661,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Fauna? I Barely Know Her: Wildlife in Games — speakers: Games Sometimes, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-05 — Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins — speakers: Movie Magic, Awful Adaptations, Worst Movie Tie, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-29 — Halloween Spooktacula Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-21 — Terrible Times: Who’s Got it the Worst? — speakers: Terrible Times, Glenn Moore, Sarah Keyworth, Pierre Novellie

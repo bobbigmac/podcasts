@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- last_modified: `Mon, 09 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-12T02:15:49+00:00`
+- checked_at: `2026-11-12T02:15:49+00:00`
+- last_modified: `Thu, 12 Nov 2026 00:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-12T02:15:49+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b3212e2550a27a60fda29c33616d8a41f128f91e",
+      "title": "Shanthi’s Seating Area, Romesh’s Plastic Plant & Hypnotherapist Dating",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "link": null,
+      "description": "Why does Shanthi need a £16,000 seating area? This week, Romesh breaks the news that the podcast is moving to a new studio, which raises some important questions about the future of the controversial plastic plant, and the pair re-watch a Bob Mortimer clip to discover they’ve been misunderstanding it all along. They also play two truths and a lie and reminisce a family argument which Romesh and Shanthi remember very differently... A Ranga Bee Production. Chapters: 00:00 Intro 01:19 Why do sitcoms have laughter tracks? 05:41 Autumn vs summer debate 07:49 The plastic plant complaints 08:28 The new studio 12:30 Shanthi's £16,000 seating area 17:37 Bob Mortimer's cat clip 20:38 Two truths and a lie 25:58 Listener questions 35:32 Romesh and the miracle berry 38:46 Advice for Drew 41:52 Revealing the crew's faces 47:33 The Nottingham tickets row 52:51 Does Romesh lose his temper? 55:30 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ea9fd03a-dde9-11f1-a3f3-3f06e34a6953/image/9d90c15fbc53a477d9c914e9346f5a1f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6075279852.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3529",
+      "speakers": [
+        "Seating Area",
+        "Plastic Plant",
+        "Hypnotherapist Dating Why",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "seating",
+        "area",
+        "romesh",
+        "plastic",
+        "plant",
+        "hypnotherapist",
+        "dating"
+      ]
+    },
     {
       "key": "7806497f05ee7bb9844d976db97ed505f5b685a5",
       "title": "Bob Mortimer: Writing Novels, Gone Fishing & Last One Laughing",
@@ -2752,6 +2780,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Shanthi’s Seating Area, Romesh’s Plastic Plant & Hypnotherapist Dating — speakers: Seating Area, Plastic Plant, Hypnotherapist Dating Why, Romesh Ranganathan
 - 2026-11-09 — Bob Mortimer: Writing Novels, Gone Fishing & Last One Laughing — speakers: Bob Mortimer, Damon Albarn, Romesh Ranganathan
 - 2026-11-05 — The Traitors Special: Alan Carr is here and Shanthi plays Claudia Winkleman — speakers: Alan Carr, Claudia Winkleman, Romesh Ranganathan
 - 2026-11-02 — Riz Ahmed: Dealing with grief, Tom Cruise & trying stand-up comedy — speakers: Riz Ahmed, Tom Cruise, Romesh Ranganathan

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-11-11T01:17:27+00:00`
-- checked_at: `2026-11-11T01:17:27+00:00`
-- last_modified: `Wed, 11 Nov 2026 00:00:12 GMT`
+- fetched_at: `2026-11-12T02:15:49+00:00`
+- checked_at: `2026-11-12T02:15:49+00:00`
+- last_modified: `Thu, 12 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-11T01:17:27+00:00",
+  "fetched_at": "2026-11-12T02:15:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "ce812d39a276acca560dca767a6d8a6583ca07ec",
+      "title": "588. Is Britain Prepared for Cyber Warfare and The ‘Plot’ to Undermine the UN",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "link": null,
+      "description": "As supermarket fridges are hacked and bomb threats are called in, how is AI accelerating the rate of cyberattacks, and can Britain’s defences keep up? Who is in the running to become the next UN Secretary-General, and what will the appointment mean for the future of the organisation and the international order? Following the ANC’s worst-ever performance in South Africa’s local elections, has corruption finally caught up with the ruling party, and can it tackle the country's deepening unemployment crisis? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Paul van Zyl by searching ‘Leading’ on Spotify, Apple, or YouTube. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Give The Rest Is Politics Plus this Christmas . Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, early access, a members’ newsletter, and more. Annual gifts come with a special edition T-shirt. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Caroline Kaye, Adam Thornton Assistant Producer: Jake Preston, Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7639ddb2-ddda-11f1-be29-6f900e2fbc41/image/78cc13b1371035d13051ae6b5e949c5a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9535741510.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3624",
+      "speakers": [
+        "Cyber Warfare"
+      ],
+      "topics": [
+        "britain",
+        "cyber",
+        "warfare",
+        "plot"
+      ]
+    },
     {
       "key": "3024fa8787f73796b8822f2d674461f8aeca8148",
       "title": "587. Will a Weakened Trump Make the World More Dangerous?",
@@ -13418,6 +13439,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — 588. Is Britain Prepared for Cyber Warfare and The ‘Plot’ to Undermine the UN — speakers: Cyber Warfare
 - 2026-11-11 — 587. Will a Weakened Trump Make the World More Dangerous? — speakers: Trump Make
 - 2026-11-04 — 586. Can the Democrats Capitalise on Trump's Midterm Disaster?
 - 2026-11-03 — 585. Rory Goes to a Trump Rally and Will the Youth Protests Spread to Britain? — speakers: Rory Goes, JD Vance
