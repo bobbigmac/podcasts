@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-11T01:17:27+00:00`
-- checked_at: `2026-11-11T01:17:27+00:00`
-- etag: `"djEuMi4wOjE3OTQzNTU2NTkzMTM="`
+- fetched_at: `2026-11-13T01:49:31+00:00`
+- checked_at: `2026-11-13T01:49:31+00:00`
+- etag: `"djEuMi4wOjE3OTQ1MjkzNTkyODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-11T01:17:27+00:00",
+  "fetched_at": "2026-11-13T01:49:31+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "1318c8949cf599b78cc337fe0ba3b05906a5e026",
+      "title": "Hang It In The Louvre",
+      "published_at": "2026-11-13T00:22:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/hang-it-in-the-louvre",
+      "description": "Welcome to Part 2 of this week's Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero. Having spent Wednesday's Episode discussing their potential contribution to the world's cultural heritage, the boys turn their attention to two people who have left rather more substantial legacies. One changed the world of chess. The other changed Liverpool Football Club forever. Documentary of the Week Steff: Queen of Chess Steff brings in Netflix's extraordinary documentary Queen of Chess , telling the story of Judit Polgár , the Hungarian prodigy who challenged the male-dominated world of international chess. Raised alongside her sisters as part of her father's extraordinary experiment in producing chess geniuses, Polgár became one of the greatest players in the history of the game. But this is about considerably more than moving pieces around a board. The documentary explores the sexism, psychological pressure, extraordinary egos and deeply questionable behaviour that Polgár encountered as she battled to be taken seriously in a world where men like Garry Kasparov were regarded as almost untouchable, especially by themselves. It's a fascinating, inspiring and occasionally infuriating story which leaves you wondering whether the world of elite chess might be populated by some absolute wrong'uns. Who knew?! https://www.netflix.com/gb/title/81749912 Book of the Week Elis: The Evolution of an Empire — Volume One by Steven Scragg Elis takes us back to Liverpool in the 1960s with Steven Scragg's The Evolution of an Empire , exploring how Bill Shankly transformed Liverpool Football Club from a struggling Second Division side into the foundations of one of European football's great dynasties. It's a story of footballing philosophy, tactical change, remarkable characters and the creation of a culture that would shape the club for generations. From the changing room to the terraces, Scragg examines how Shankly's ideas reshaped not just how Liverpool played football, but how the club thought about itself. A fascinating look at what it really takes to build a sporting legacy. https://www.waterstones.com/book/the-evolution-of-an-empire-volume-one/steven-scragg/9781836802754 Judit Polgár. Bill Shankly. And three Welshmen wondering whether 'that' should be hanging in the Louvre. That's it for the regular feed this week. But if you want more, Part 3: Mike Does Mardi Gras is available exclusively to Distant Pod Bonus Club subscribers on Apple Podcasts , along with early and advert-free episodes every Tuesday. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6af1ad04ed870dba3de9d117/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84144960",
+      "itunes_duration": "35:03",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "louvre"
+      ]
+    },
     {
       "key": "8607cbcc2a4d81206696eb070c4377dbbfef641d",
       "title": "Trudge State",
@@ -16496,6 +16516,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Hang It In The Louvre — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-11 — Trudge State — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-08 — Jive Bunny: Pint Size — speakers: Jive Bunny Pint Size, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-06 — That's My Sense Of Humour — speakers: Mike Bubbins, Elis James, Steff Garrero

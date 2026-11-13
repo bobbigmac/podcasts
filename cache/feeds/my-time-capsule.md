@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"djEuMi4wOjE3OTQxODI1NTk0MTE="`
+- fetched_at: `2026-11-13T01:49:31+00:00`
+- checked_at: `2026-11-13T01:49:31+00:00`
+- etag: `"djEuMi4wOjE3OTQ1MjgxNjA1NTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-13T01:49:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9fcf1963ff4027448e021de2c94d199aa6ccac09",
+      "title": "My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera)",
+      "published_at": "2026-11-13T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-26-with-john-owen-jones-west-end",
+      "description": "John Owen-Jones was our guest in episode 60 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! John Owen-Jones remains the youngest person ever to play Jean Valjean in Les Miserables, a role he's played multiple times in the West End and on Broadway. He has also played The Phantom in The Phantom of the Opera more times than any other actor . Also, Mike and his producer and son John chat about this weeks episode with Jay James and answer listener's emails and voice notes . For John Owen-Jones tour, podcast and more, visit - https://www.johnowenjones.com . Listen to John Owen-Jones's original episode - https://mytimecapsulepodcast.com/episodes?q=60 . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1794497353975-88234da0-e3a1-4f1c-9682-5a543a46a502.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6af5dcac07d81676de10580d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64000438",
+      "itunes_duration": "53:19",
+      "speakers": [
+        "John Owen-Jones"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "john",
+        "owen",
+        "jones",
+        "west",
+        "star",
+        "miserables",
+        "phantom",
+        "opera"
+      ]
+    },
     {
       "key": "f40ccc5f66d88395314c5a16d0459803413c25d3",
       "title": "Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group",
@@ -13868,6 +13895,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera) — speakers: John Owen-Jones
 - 2026-11-09 — Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group — speakers: Jay James Singer, Jay James
 - 2026-11-06 — My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre) — speakers: Imelda Staunton
 - 2026-11-02 — Ep. 612 - Temi Wilkey - Comedian, Actor & Award-Winning Writer (Sex Education, Wedding Season) — speakers: Temi Wilkey

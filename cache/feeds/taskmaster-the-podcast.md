@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-11-05T23:38:05+00:00`
-- checked_at: `2026-11-05T23:38:05+00:00`
-- etag: `"e2349-65f8e68927a48"`
-- last_modified: `Thu, 05 Nov 2026 21:45:04 GMT`
+- fetched_at: `2026-11-13T01:49:31+00:00`
+- checked_at: `2026-11-13T01:49:31+00:00`
+- etag: `"e2c8f-6601b3979cd47"`
+- last_modified: `Thu, 12 Nov 2026 21:45:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-11-05T23:38:05+00:00",
+  "fetched_at": "2026-11-13T01:49:31+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8b4234dd21a8920428466b345abdd4094d921051",
+      "title": "Taskmaster: The People's Podcast: Falling Into the Trap of Fun - S22, Ep. 10",
+      "published_at": "2026-11-12T21:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "The series 22 fun isn't over yet, we're checking back in with the People's Podcast this week as Jenny and Jack give us their take on the Taskmaster Series 22 Grand Final! And it’s a special one, a week where we get an even fuller picture of Isy Suttie’s family, learn why you can’t have a fridge full of stinking monkeys, get a master class from Chloe Petts in how to shave the legs of someone you just met and ask ourselves - why Liz Truss? Plus, where does our series winner land in the all time leader board? Jack’s got the data. Next Jenny and Jack are joined by a very special guest to help debrief on Series 22 so make sure you get all your questions in to fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/2cbe4198-d35d-4ef5-b5ff-ac848523a3c7.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=2cbe4198-d35d-4ef5-b5ff-ac848523a3c7",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54998903",
+      "itunes_duration": "57:17",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "people",
+        "podcast",
+        "trap"
+      ]
+    },
     {
       "key": "796c199a4f618d2fbacdceb1efae14c62eea3eaf",
       "title": "*Series 22 Winner* Series 22 Ep 10",
@@ -5819,6 +5840,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — Taskmaster: The People's Podcast: Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Ed Gamble
 - 2026-11-05 — *Series 22 Winner* Series 22 Ep 10 — speakers: Ed Gamble
 - 2026-10-29 — Joel Dommett - Series 22 Ep.9 — speakers: Joel Dommett, Ed Gamble
 - 2026-10-22 — Joanna Page - Series 22 Ep.8 — speakers: Joanna Page, Ed Gamble

@@ -25,6 +25,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:fd2f66771bc9",
+        "feed_title": "Table Manners with Jessie and Lennie Ware",
+        "source_rss_url": "https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9",
+        "dedupe_key": "21495558bef7d8cc05a330547b7a7b2cbb6225d8",
+        "episode_key": "21495558bef7d8cc05a330547b7a7b2cbb6225d8",
+        "title": "James Acaster",
+        "published_at": "2026-11-11T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster is a man of many talents - he’s one of Britain’s best loved comedians, the co-host of our rival podcast (yet we love them!) Off Menu, a regular on the telly, and most recently became a very reluctant Traitor on the Celebrity Traitors. James joined us for a chat about his early days in stand-up, the story ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6af3479de73609d62c4acf8a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster/id1305228910?i=1000801111865&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -10788,6 +10810,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:d5a7e6acbb25",
+        "feed_title": "The Romesh Ranganathan Show",
+        "source_rss_url": "https://feeds.megaphone.fm/romesh",
+        "dedupe_key": "5d5afd738f5ff15cd2a9d501a3f2bdb159a3d031",
+        "episode_key": "5d5afd738f5ff15cd2a9d501a3f2bdb159a3d031",
+        "title": "Bob Mortimer: Writing Novels, Gone Fishing & Last One Laughing",
+        "published_at": "2026-11-09T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Why did Bob Mortimer never speak to Damon Albarn again?\n\nIn this episode of The Romesh Ranganathan Show, Romesh is joined by comedian, writer and national treasure Bob Mortimer, ahead of his new novel Michael.\n\nThey talk about how Bob writes a book without a plan, the surprising second series of Last One Laughing, and ",
+        "audio_url": "https://traffic.megaphone.fm/GLT2153900646.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer-writing-novels-gone-fishing-last-one-laughing/id1838594107?i=1000800641989&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
@@ -13631,6 +13675,28 @@
         "description": "Red is fresh back from his US tour. This week, Harriet Kemsley joins Red in the studio to talk about the difference between their crowds, the correct way to use bear spray and Red’s true heritage, plus much more.\n\nFollow Red on ⁠⁠Instagram⁠⁠\n\nFollow Harriet on ⁠⁠Instagram⁠⁠\n\nFind Red on ⁠⁠Tour\n\n\n\n\nLearn more about your",
         "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL7175453411.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-the-difference-between-harriet-reds/id1849405652?i=1000800641698&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4fdc5fce09a4",
+        "feed_title": "Outsiding",
+        "source_rss_url": "https://feeds.megaphone.fm/CGPL6650066774",
+        "dedupe_key": "8f5dbf87db829d5628d27824a253375c93d40e46",
+        "episode_key": "8f5dbf87db829d5628d27824a253375c93d40e46",
+        "title": "Can Adam Frost save Harriet Kemsley's garden?",
+        "published_at": "2026-11-05T05:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriet Kemsley has a confession, and Adam Frost isn’t going to like it. Comedy? Easy. Giving a pet chicken a happy and fruitful life? Done. Nurturing a garden? Ah.\n\nThe comedian describes her own garden as a ‘prison yard’, and admits that gardening to her is akin to learning a new language. But thankfully for all conc",
+        "audio_url": "https://traffic.megaphone.fm/CGPL2081433615.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/can-adam-frost-save-harriet-kemsleys-garden/id6782845808?i=1000799966034&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

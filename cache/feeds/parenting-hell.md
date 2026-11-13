@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-11-12T19:53:20+00:00`
-- checked_at: `2026-11-12T19:53:20+00:00`
-- last_modified: `Thu, 12 Nov 2026 19:51:16 GMT`
+- fetched_at: `2026-11-13T01:49:31+00:00`
+- checked_at: `2026-11-13T01:49:31+00:00`
+- last_modified: `Fri, 13 Nov 2026 00:15:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-12T19:53:20+00:00",
+  "fetched_at": "2026-11-13T01:49:31+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fba6016d20661d37ef6bd7d2b402ea1d8a414c78",
+      "title": "S13 EP34: Is this thing on?",
+      "published_at": "2026-11-13T00:15:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... This ep Rob is back from his solo parenting holiday to Antwerp with the girls, he discusses the unture Traitors rumours, and is the victim of yet another toast theft! Elsewhere Josh is planning to get a new kitten. Enjoy! xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2415632593.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2690",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "thing"
+      ]
+    },
     {
       "key": "d1d39cb817dff01e3f66766db982dc9e9269c500",
       "title": "S13 EP33: A couple of bad pun machines",
@@ -13286,6 +13305,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — S13 EP34: Is this thing on? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-10 — S13 EP33: A couple of bad pun machines — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-09 — ⚽ Old Trafford: Theatre of Nightmares⚽ — speakers: Jason Wilcox, Rob Beckett, Josh Widdicombe
 - 2026-11-06 — S13 EP32: Chance would be a fine thing — speakers: Rob Beckett, Josh Widdicombe
