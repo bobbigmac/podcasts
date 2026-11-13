@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-11-10T14:51:31+00:00`
-- checked_at: `2026-11-10T14:51:31+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RReU9UQTBNemszTXpFPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RRMU5EazJNems0TkRRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-11-10T14:51:31+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fcd11cec30b8153a4bb1a5a21bd7f52f5142e940",
+      "title": "Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/good-luck-charms-and-jordan-north-gets-a-right-telling-off",
+      "description": "Do you have any weird good luck habits? Jordan North and William Hanson dive into the G&Diva's most bizarre and wonderful good luck charms, from questionable rituals to full-blown superstitions. Turns out, Jordan has a few VERY strange northern traditions of his own. Who knew Lancashire was so superstitious?! Plus, Jordan gets a proper dressing down from a G&Diva who thinks he's absolutely MENTAL, and William gives us a masterclass in the art of fancy letter-writing equipment. Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1794500829961-68a433d2-4ab5-4d7a-9d88-279e4395804f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6af5ce82a04616074d3985ed/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=l8Qy2dg4sRx3WheqQY3OQqe8nDOJfO4cYlO-tYbx6KA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28566674",
+      "itunes_duration": "29:45",
+      "speakers": [
+        "Good Luck Charms",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "good",
+        "luck",
+        "charms",
+        "jordan",
+        "north",
+        "right",
+        "telling"
+      ]
+    },
     {
       "key": "b4ad3745ae2cf28cd74afcba30fce5b7c0ed6a1c",
       "title": "Help I Farted On A Stranger | And Where Does The Ring Go?",
@@ -15418,6 +15444,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF — speakers: Good Luck Charms, Jordan North, William Hanson
 - 2026-11-10 — Help I Farted On A Stranger | And Where Does The Ring Go? — speakers: Jordan North, William Hanson
 - 2026-11-06 — We Speak To A Chimney Sweep! | And Working Class Problems — speakers: William Hanson, Jordan North
 - 2026-11-03 — Help His Mum’s Scent Is A Turn On | And It’s Bath Season — speakers: Jordan North, William Hanson

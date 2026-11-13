@@ -30903,6 +30903,28 @@
     ],
     "lee-mack": [
       {
+        "feed_slug": "external:apple:e073d4c3b9ca",
+        "feed_title": "The Honest Drink Podcast",
+        "source_rss_url": "https://rss.libsyn.com/shows/200171/destinations/1424705.xml",
+        "dedupe_key": "db4dfb3e655459040eea8dbf3205cf4dd91de899",
+        "episode_key": "db4dfb3e655459040eea8dbf3205cf4dd91de899",
+        "title": "Lee Mack: China vs America's Education Future",
+        "published_at": "2026-11-13T08:28:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lee Mack is an education innovator, investor and researcher.  He is co-founder of Meridian Education and also writes a newsletter called Educationology.  He was previously Director of Admissions and Marketing at Wellington College International Shanghai.  Today, we discuss the enormous and innovative changes that need ",
+        "audio_url": "https://traffic.libsyn.com/secure/thehonestdrink/Lee_Mack_US.mp4?dest-id=1424705",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-china-vs-americas-education-future/id1471327566?i=1000801690227&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8ed14477e280",
         "feed_title": "THD美籍华人英语访谈秀",
         "source_rss_url": "http://www.ximalaya.com/album/24851364.xml",

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
-- etag: `"djEuMi4wOjE3OTQ0NTI0Mzk5OTM="`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"djEuMi4wOjE3OTQ1Mzg4Mzk2NDU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,32 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "95826fd6f8847ada1e40f351aedbf1d0096f0633",
+      "title": "S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email",
+      "published_at": "2026-11-13T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-921-listeners-mailbag-paxos-thongs-and-a-dodgy-email",
+      "description": "Mailbag time! And this week there’s a quip from a comedian, various sex noise stories, a cosy grandparent story from the 90s, bums on display in Paxos, a one night stand with an older woman and a message from Mathew Priest - who is none other than Dodgy’s drummer. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6aed80dc2cf7bf42448acfd5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44193750",
+      "itunes_duration": "46:02",
+      "speakers": [
+        "Paxos Thongs",
+        "Dodgy Email Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "paxos",
+        "thongs",
+        "dodgy",
+        "email"
+      ]
+    },
     {
       "key": "0961d4254b0d4302d4f39e69874d8d085b69ab11",
       "title": "S17 Ep 920: Back at the Dentists",
@@ -16673,6 +16699,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email — speakers: Paxos Thongs, Dodgy Email Mailbag, Joe Wilkinson, David Earl
 - 2026-11-12 — S17 Ep 920: Back at the Dentists — speakers: Joe Wilkinson, David Earl
 - 2026-11-11 — S17 Ep 919: Estate Agents and Money Matters — speakers: Estate Agents, Money Matters David, Joe Wilkinson, David Earl
 - 2026-11-10 — S17 Ep 918 - Fake Raps and Long Noses — speakers: Joe Marler, Joe Wilkinson, David Earl

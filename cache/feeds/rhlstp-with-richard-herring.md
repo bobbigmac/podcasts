@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- etag: `"djEuMi4wOjE3OTQzNjk0NTk0ODA="`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"djEuMi4wOjE3OTQ1NDIyNTkzNTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9385891bae2a9e56fa7d76c7d777b2050f81a41a",
+      "title": "Ian Livingstone on Tomb of the Golden Skull - Book Club",
+      "published_at": "2026-11-13T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #201 - Tomb of the Golden Skull - Richard chats to the man who co-created the Games Workshop and the amazing Fighting Fantasy book series (amongst many other successes) about his latest role-playing adventure book, Tomb of the Golden Skull. Rich is also joined by super-fan Joz Norris who is being kept in a separate location for Ian’s safety. They chat about how the Games Workshop started with very humble beginnings in Shepherd’s Bush in the early 70s, acquiring the European rights to Dungeons and Dragons, the furore over the effect that game (and the books) had on the nation’s youth and if the work was capable of making people levitate, how in fact the books led to an upsurge in literacy and became much loved memories for people like Rich who now plays them with his son, and people like Joz who despite being an adult is an avid collector of the series. Plus Ian’s mischievous attempts to make the books difficult, impossible and provide tough moral choices for his reader, the importance of the making the art in the books scary and real and his own personal favourites from the series. Buy the book here - https://uk.bookshop.org/p/books/fighting-fantasy-tomb-of-the-golden-skull-ian-livingstone/d02402a97b2c1f8d SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794259375962-13e809b9-7fb9-4905-bd61-7e3a181807d0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6af23884ce118fd5b5a39a61/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19633005",
+      "itunes_duration": "40:54",
+      "speakers": [
+        "Ian Livingstone",
+        "Richard Herring"
+      ],
+      "topics": [
+        "livingstone",
+        "tomb",
+        "golden",
+        "skull",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "c254e49e3ce8ce961f9cb1df699bad744be23910",
       "title": "David Baddiel - \"Vet Threatener\"",
@@ -24615,6 +24639,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Ian Livingstone on Tomb of the Golden Skull - Book Club — speakers: Ian Livingstone, Richard Herring
 - 2026-11-11 — David Baddiel - "Vet Threatener" — speakers: David Baddiel Vet Threatener, Richard Herring
 - 2026-11-09 — Jazz Emu (Retro) - "Judy Murray Nose Recorder" — speakers: Judy Murray Nose, Recorder Richard, Richard Herring
 - 2026-11-07 — Rich and Ally's Craven Newsround Compilation - "Jousting on Lime Bikes" — speakers: Craven Newsround Compilation, Lime Bikes, Richard Herring

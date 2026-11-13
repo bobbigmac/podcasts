@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
-- etag: `W/"67f96-zVU1sVXREqizlKzMPQoHtPdCPdU"`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `W/"68ca6-bmJtE/MGUiQ/hLJkhUcoTwB3fuA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,70 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "81f9c004f67331dfadf52055c44a20191718ca50",
+      "title": "#7 Questions for Karl with Ricky Gervais - PART 7",
+      "published_at": "2026-11-13T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/7-Questions-for-Karl-with-Ricky-Gervais---PART-7-e3s926j",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794489004061-3489bd780adda.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2728434484.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66734899",
+      "itunes_duration": "01:08:46",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
+    {
+      "key": "f65938dd1d1c9d0da7e06bc113d335918e891a9a",
+      "title": "#6 Questions for Karl with Ricky Gervais - PART 6",
+      "published_at": "2026-11-12T19:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/6-Questions-for-Karl-with-Ricky-Gervais---PART-6-e3s91v8",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794488703819-4a30f3834fd2.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5760410029.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43647067",
+      "itunes_duration": "00:44:58",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
+    {
+      "key": "869258ff48794c4c150411be2791a73f0172c3a2",
+      "title": "#5 Questions for Karl with Ricky Gervais - PART 5",
+      "published_at": "2026-11-12T13:02:37+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/5-Questions-for-Karl-with-Ricky-Gervais---PART-5-e3s91q3",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794488483037-a954672284f54.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1043298041.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66189717",
+      "itunes_duration": "01:08:12",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
     {
       "key": "7f3a29531981dcdde54b447da2f074d330c91134",
       "title": "#4 Questions for Karl with Ricky Gervais - PART 4",
@@ -6279,6 +6336,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — #7 Questions for Karl with Ricky Gervais - PART 7
+- 2026-11-12 — #6 Questions for Karl with Ricky Gervais - PART 6
+- 2026-11-12 — #5 Questions for Karl with Ricky Gervais - PART 5
 - 2026-11-12 — #4 Questions for Karl with Ricky Gervais - PART 4
 - 2026-11-11 — #3 Questions for Karl with Ricky Gervais - PART 3
 - 2026-11-11 — #2 Questions for Karl with Ricky Gervais - PART 2

@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- etag: `"4a01a8ef140eb3683f4fdcd93a71e78a"`
-- last_modified: `Fri, 06 Nov 2026 06:00:11 GMT`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"bbd30722ccde1bfac6599176c98dab48"`
+- last_modified: `Fri, 13 Nov 2026 06:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,32 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "e1ef9ec539f5881ed00a50727751ff7a0e73bda4",
+      "title": "Anne Bonny and Mary Read (Radio Edit)",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pgtbvx",
+      "description": "Greg Jenner is joined in the 18th-century Caribbean by historian and curator Hannah Cusworth and comedian Kemah Bob to learn about the swashbuckling lives of pirates Anne Bonny and Mary Read. These women and their adventures on the high seas have become the stuff of legend, helped along by the sensational account of their lives written shortly after their capture. Though they are famous for the short period they spent together on a pirate ship, dressed as men to hide their true identities, the two had very different backgrounds. Anne was the well-off and rebellious daughter of a merchant and plantation owner in Carolina, while the working-class Mary already had experience dressing in men’s clothing and working as a sailor and soldier. This episode traces their biographies, exploring their upbringings, romantic entanglements (with men and each other), and time aboard the pirate ship captained by the infamous Captain 'Calico Jack' Rackham, as well as their ultimate fate. And it looks at the wider context of the Caribbean, the transatlantic trade in enslaved Africans and the Golden Age of piracy which shaped their lives and choices, and asks what place they have in queer and trans histories of the period. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Naomi Weaver Written by: Naomi Weaver, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nyqsr2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc8v6q.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26928000",
+      "itunes_duration": "1683",
+      "speakers": [
+        "Anne Bonny",
+        "Mary Read",
+        "Greg Jenner",
+        "Hannah Cusworth"
+      ],
+      "topics": [
+        "anne",
+        "bonny",
+        "mary",
+        "read",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "72f9274ce5c3271f03917dfe68a1c46d76877e15",
       "title": "Medieval Saints (Radio Edit)",
@@ -117,28 +143,6 @@
         "fandom",
         "radio",
         "edit"
-      ]
-    },
-    {
-      "key": "9a37f6a8e753fdb600709b7aa0e90dbe950d6374",
-      "title": "New: The Hitler Diaries Scandal (from The History Podcast)",
-      "published_at": "2026-10-13T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0pg8srx",
-      "description": "When Germany's biggest magazine Stern announced in 1983 that they'd found the long-lost diaries of Adolf Hitler, the world was poised to rewrite history. Unfortunately, they were fake. In this new series of The History Podcast, The Hitler Diaries Scandal, Andrew Hunter Murray goes back to the 1980s to uncover last century’s biggest ever publishing scandal, a forgery which rocked the world and destroyed reputations. It’s a tale of greed, obsession and mass delusion. It includes Hermann Göring’s yacht, Nazi-themed honeymoons, Idi Amin’s underpants, and more details almost too unbelievable for words. This is a teaser of episode one. If you enjoy it, you can hear the full series in The History Podcast on BBC Sounds.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p8cc9g.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfnnhh.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "9824000",
-      "itunes_duration": "614",
-      "speakers": [
-        "When Germany"
-      ],
-      "topics": [
-        "hitler",
-        "diaries",
-        "scandal",
-        "history",
-        "podcast"
       ]
     },
     {
@@ -6414,11 +6418,11 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Anne Bonny and Mary Read (Radio Edit) — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth
 - 2026-11-06 — Medieval Saints (Radio Edit) — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
 - 2026-10-30 — Francis Galton (Radio Edit) — speakers: Francis Galton, Greg Jenner, Subhadra Das
 - 2026-10-23 — The Iliad and Odyssey (Radio Edit) — speakers: Greg Jenner, Emily Hauser, Kiell Sm
 - 2026-10-16 — The History of Fandom, 1700-1900 (Radio Edit) — speakers: Greg Jenner, Corin Throsby, Stuart Goldsmith
-- 2026-10-13 — New: The Hitler Diaries Scandal (from The History Podcast) — speakers: When Germany
 - 2026-10-09 — Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period — speakers: Greg Jenner, Martha McGill, Marjolein Robertson
 - 2026-10-02 — Special Episode: 1066 and the Battle of Hastings — speakers: Erin Goeres, Alison Spittle
 - 2026-09-25 — Medieval Korea: from the Goryeo to Joseon periods — speakers: Medieval Korea, Greg Jenner, John Lee, Erika Ehler

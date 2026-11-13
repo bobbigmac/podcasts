@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-13T01:49:31+00:00`
-- checked_at: `2026-11-13T01:49:31+00:00`
-- etag: `"djEuMi4wOjE3OTQ1MjY2Nzg1NTY="`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"djEuMi4wOjE3OTQ1NDM2MzkzMTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-13T01:49:31+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dbecc71f632afe1cb3b2c89d31d8b2001b28109a",
+      "title": "JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind",
+      "published_at": "2026-11-13T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with JACK LOWDEN , originally episode 453 from 2022-05-18. Original writeup: A sureshot favourite of Pip's, Jack has been in a ton of verified excellent television and film over the last decade or more, and the filmography is undeniable. Cast an eye over the IMDB and you'll surely see some bits and pieces that you've take to your own heart over the years - including the forthcoming ' Benediction ' of course... This is a great chat with loads of awesome nuggets of goodness throughout, including all sorts to do with process, creation, origins, inspiration and everything that goes into what Jack does and how he does it. A surprising amount is crammed into the running time so prepare for a wild ride! PIP'S PATREON PAGE if you're of a supporting nature JACK IMDB INSTAGRAM BENEDICTION SLOW HORSES PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1794526448535-19ec8e42-b68b-4e06-81ad-8dd33cbbe67c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6af64dd679bddcbf53975574/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100456998",
+      "itunes_duration": "41:45",
+      "speakers": [
+        "Jack Lowden"
+      ],
+      "topics": [
+        "jack",
+        "lowden",
+        "slow",
+        "horses",
+        "benediction",
+        "capone",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "f7494e5bc5f0cb3fde241cd8bec95ebbac270303",
       "title": "LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695",
@@ -19964,6 +19989,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind — speakers: Jack Lowden
 - 2026-11-11 — LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695
 - 2026-11-06 — CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind
 - 2026-11-04 — NATALIE IMBRUGLIA • 'Algorithm' out now! (Beth Brennan from Neighbours / Firebird / Torn) #694 — speakers: Beth Brennan

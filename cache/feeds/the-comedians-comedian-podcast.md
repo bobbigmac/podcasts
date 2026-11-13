@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-11-12T19:53:20+00:00`
-- checked_at: `2026-11-12T19:53:20+00:00`
-- etag: `"djEuMi4wOjE3OTQ1MDY4MzM4NzY="`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- etag: `"djEuMi4wOjE3OTQ1NDk2Mzk4MTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-11-12T19:53:20+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "26d25e44b4dd2b469c10aaa86a3b57c732612f96",
+      "title": "Luisa Omielan Returns",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/521-luisa-omielan-returns",
+      "description": "Luisa Omielan is a BAFTA Breakthrough comedian and an Edinburgh Fringe veteran who returns to show after 10 years. After travelling across America with her Bernese Mountain Dog, she’s now back with God Is a Woman : “think a Female Book of Mormon, before it got funded or found a producer. This time, it’s all about Mary Magdalene. Let’s rewrite Herstory.” We discuss: why Luisa sold everything for Austin then came home to sofa-surf how to keep believing in your work what happens when a brain injury takes away the thing you do how your audience can keep you going when the industry won’t why “you’re probably due a good one today” is the best attitude to a bad gig and why you should ignore advice that is really people giving themselves advice Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss how to die artistically and what Chicago taught her as well as her view on the comedy landscape. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Luisa: Luisa Omielan's God Is A Woman The Musical is at the Kings Head Theatre, London from the 5th - 10th January 2027. You can also keep up-to-date with Luisa on Instagram, @luisaomielan . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Luisa ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1794506438351-4d7128de-987f-4608-a49c-68a8db4f22cc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6af600519dce432809886d20/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84219264",
+      "itunes_duration": "58:29",
+      "speakers": [
+        "Luisa Omielan",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "luisa",
+        "omielan",
+        "return"
+      ]
+    },
     {
       "key": "278abf62d0e79bab5b8a1e7a938f328d1e437151",
       "title": "Remembering Dai Henwood",
@@ -11859,6 +11880,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Luisa Omielan Returns — speakers: Luisa Omielan, Stuart Goldsmith
 - 2026-11-11 — Remembering Dai Henwood — speakers: Dai Henwood, Stuart Goldsmith
 - 2026-10-30 — Paul Foot Returns — speakers: Paul Foot, Stuart Goldsmith
 - 2026-10-16 — Elf Lyons Returns — speakers: Elf Lyons Returns Elf, Stuart Goldsmith

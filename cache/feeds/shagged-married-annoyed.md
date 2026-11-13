@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- last_modified: `Wed, 11 Nov 2026 04:36:37 GMT`
+- fetched_at: `2026-11-13T10:56:56+00:00`
+- checked_at: `2026-11-13T10:56:56+00:00`
+- last_modified: `Fri, 13 Nov 2026 04:45:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-13T10:56:56+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d5988ab3c2080643266b54f08109c583ee63fd2a",
+      "title": "Friday the thirteenth, the three drain superstition and Chris gives Rosie the major ick!",
+      "published_at": "2026-11-13T04:30:00+00:00",
+      "link": null,
+      "description": "This week on Shagged Married Annoyed, Chris and Rosie get into Five Guys chips, Rosie’s beef with ultra-strength juice and a truly harrowing hotel story. Plus, Chris’s shopping trolley habits have given Rosie the ultimate ick! They tackle shopping solutions, the joy of soup and a sandwich versus a proper lunch, packed lunches and Rosie reveals who hasn’t heard of the three-drain superstition! There’s a musical voice note, a French twist on the new feature and, as always, some absolute cracking emails. Enjoy! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7634559592.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3714",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "friday",
+        "thirteenth",
+        "drain",
+        "superstition",
+        "chris",
+        "rosie"
+      ]
+    },
     {
       "key": "1f5d2b20ef74be03231f011b0a3085090dd961a5",
       "title": "Please Keep Me Anonymous with Chris Addison and Philippa Dunne",
@@ -9520,6 +9544,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Friday the thirteenth, the three drain superstition and Chris gives Rosie the major ick! — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-11 — Please Keep Me Anonymous with Chris Addison and Philippa Dunne — speakers: Chris Addison, Philippa Dunne, Chris Ad, Chris Ramsey, Rosie Ramsey
 - 2026-11-06 — Mini bar wine, a Halloween debrief and Bopit at bedtime — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-04 — Please Keep Me Anonymous with Isy Suttie — speakers: Annoyed Chris, Chris Ramsey, Rosie Ramsey
