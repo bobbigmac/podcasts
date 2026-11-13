@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-12T19:53:20+00:00`
-- checked_at: `2026-11-12T19:53:20+00:00`
-- etag: `"djEuMi4wOjE3OTQ0OTk0NDQ3NDI="`
+- fetched_at: `2026-11-13T19:40:29+00:00`
+- checked_at: `2026-11-13T19:40:29+00:00`
+- etag: `"djEuMi4wOjE3OTQ1NzQ4MzkzOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-12T19:53:20+00:00",
+  "fetched_at": "2026-11-13T19:40:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d2861299386108706b49258a1fb319bc324ced16",
+      "title": "Big Tech Is Controlling You, Don't Give In | Cecilia Rikap interview",
+      "published_at": "2026-11-13T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6af5e361d397467e34ea3d53",
+      "description": "Recorded at Sunday Papers Live, Ava speaks to Cecilia Rikap (Head of Research at UCL’s Institute for Innovation and Public Purpose) about how companies like Amazon, Google, and Microsoft have come to dominate the global digital economy. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6af5e361d397467e34ea3d53/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44036520",
+      "itunes_duration": "30:34",
+      "speakers": [
+        "Cecilia Rikap"
+      ],
+      "topics": [
+        "tech",
+        "cecilia",
+        "rikap"
+      ]
+    },
     {
       "key": "3907421297507b7fe485edcf707b8c8d2902d734",
       "title": "We Need to Talk About Reparations | Marvin Rees interview",
@@ -14108,6 +14128,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-13 — Big Tech Is Controlling You, Don't Give In | Cecilia Rikap interview — speakers: Cecilia Rikap
 - 2026-11-06 — We Need to Talk About Reparations | Marvin Rees interview — speakers: Marvin Rees
 - 2026-11-05 — Why are Labour banning porn?
 - 2026-11-04 — Is Trump about to start Nuclear War? | Scott Lucas interview — speakers: Scott Lucas, Tucker Carlson, Donald Tru
