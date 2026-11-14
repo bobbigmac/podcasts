@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-13T10:56:56+00:00`
-- checked_at: `2026-11-13T10:56:56+00:00`
-- etag: `W/"68ca6-bmJtE/MGUiQ/hLJkhUcoTwB3fuA"`
+- fetched_at: `2026-11-14T10:23:36+00:00`
+- checked_at: `2026-11-14T10:23:36+00:00`
+- etag: `W/"696e3-004WyYZnbBD4DLDxzdJMetveYNs"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-13T10:56:56+00:00",
+  "fetched_at": "2026-11-14T10:23:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "26f2b09812425d5f24df5eef7c14812ca5a05ccb",
+      "title": "#8 Questions for Karl with Ricky Gervais - PART 8",
+      "published_at": "2026-11-14T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/8-Questions-for-Karl-with-Ricky-Gervais---PART-8-e3s97h6",
+      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794495783791-90b23592c7a2b.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1123867246.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68629389",
+      "itunes_duration": "01:10:43",
+      "speakers": [],
+      "topics": [
+        "questions",
+        "karl",
+        "ricky",
+        "gervais"
+      ]
+    },
     {
       "key": "81f9c004f67331dfadf52055c44a20191718ca50",
       "title": "#7 Questions for Karl with Ricky Gervais - PART 7",
@@ -3030,6 +3049,28 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "15190256",
       "itunes_duration": "00:15:39",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "5f7f6e2633e9957b7c55fe7e1504038a0616f1ad",
+      "title": "#6 Russell Howard & Jon Richardson Podcast EP 6",
+      "published_at": "2026-08-11T19:31:59+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/6-Russell-Howard--Jon-Richardson-Podcast-EP-6-e3n9dpk",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786476575348-c405ec9703f68.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3467944280.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83973714",
+      "itunes_duration": "01:26:32",
       "speakers": [
         "Russell Howard",
         "Jon Richardson"
@@ -6336,6 +6377,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-14 — #8 Questions for Karl with Ricky Gervais - PART 8
 - 2026-11-13 — #7 Questions for Karl with Ricky Gervais - PART 7
 - 2026-11-12 — #6 Questions for Karl with Ricky Gervais - PART 6
 - 2026-11-12 — #5 Questions for Karl with Ricky Gervais - PART 5
@@ -6476,6 +6518,7 @@
 - 2026-08-12 — #9 Russell Howard & Jon Richardson Podcast Episode 9 — speakers: Russell Howard, Jon Richardson
 - 2026-08-12 — #8 Russell Howard & Jon Richardson Podcast Episode 8 — speakers: Russell Howard, Jon Richardson
 - 2026-08-12 — #7 Russell Howard & Jon Richardson Podcast Episode 7 — speakers: Russell Howard, Jon Richardson
+- 2026-08-11 — #6 Russell Howard & Jon Richardson Podcast EP 6 — speakers: Russell Howard, Jon Richardson
 - 2026-08-11 — #5 Russell Howard & Jon Richardson Podcast Episode 5 — speakers: Russell Howard, Jon Richardson
 - 2026-08-11 — #4 Russell Howard & Jon Richardson Podcast Episode 4 — speakers: Russell Howard, Jon Richardson
 - 2026-08-10 — #3 Russell Howard & Jon Richardson Podcast Episode 3 — speakers: Russell Howard, Jon Richardson

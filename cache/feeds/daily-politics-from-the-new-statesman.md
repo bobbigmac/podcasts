@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-13T19:40:29+00:00`
-- checked_at: `2026-11-13T19:40:29+00:00`
-- etag: `"djEuMi4wOjE3OTQ1ODI1MTM5MTM="`
+- fetched_at: `2026-11-14T10:23:36+00:00`
+- checked_at: `2026-11-14T10:23:36+00:00`
+- etag: `"djEuMi4wOjE3OTQ2NDY4Mzk0MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-13T19:40:29+00:00",
+  "fetched_at": "2026-11-14T10:23:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8f02fb0579957ae61d784b5513cef76315bcf24b",
+      "title": "The Jensen Huang affair",
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-jensen-huang-affair",
+      "description": "The leather jackets of rich, powerful middle-aged men, an evening with Michael Portillo and the “extreme wealth line”. Anoosh Chakelian and Will Dunn round up their stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1794582390859-b0a67bae-99d5-4ea1-9f95-9d7b42606e8e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6af722c5b06f09a58131819f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84691948",
+      "itunes_duration": "35:14",
+      "speakers": [
+        "Jensen Huang",
+        "Michael Portillo",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "jensen",
+        "huang",
+        "affair"
+      ]
+    },
     {
       "key": "784e05547a242e8db064cc96a20a619a20258664",
       "title": "How green is Burnham’s government?",
@@ -32974,6 +32997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-14 — The Jensen Huang affair — speakers: Jensen Huang, Michael Portillo, Anoosh Chakelian, Oli Dugmore
 - 2026-11-12 — How green is Burnham’s government? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-11 — US midterms: Is the Trump era over? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-07 — Britain's U-turn on the white working class — speakers: Karl Bushby, Anoosh Chakelian, Oli Dugmore
