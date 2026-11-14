@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-13T10:56:56+00:00`
-- checked_at: `2026-11-13T10:56:56+00:00`
-- etag: `"djEuMi4wOjE3OTQ1NDIyNTkzNTY="`
+- fetched_at: `2026-11-14T17:59:51+00:00`
+- checked_at: `2026-11-14T17:59:51+00:00`
+- etag: `"djEuMi4wOjE3OTQ2Njg0ODk3OTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-13T10:56:56+00:00",
+  "fetched_at": "2026-11-14T17:59:51+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "09cc6c4d94edb5060afd7665a9afeb1b38068745",
+      "title": "Rich and Ally's Craven Newsround Compilation - \"The Spiderman of History\"",
+      "published_at": "2026-11-14T15:01:30+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "10th November 2026 - The Spiderman of History - Rich and Ally are back with all the big news from the last 1099 years. Today it’s way back to 927 to discuss the first English King, Athalstan as Ed Davey, a bloke from Reform and a man who isn’t Spiderman are trying to get a bank holiday for. Rich joins this unholy triumvirate and not because he wants a day off for his birthday. 13th November 2026 - Space Probe Past Uranus - It’s Friday 13th, unlucky for some, but Rich and Ally are getting the news from the very boundaries of the solar system as they check in on the Voyager probe, almost one light day away from home. Look out for a surprise reporter. And thanks once again to the wonderful Richard Ison for his incredible work. Support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794668332856-e6cbe768-9cab-433c-9bc1-54e43cf780fe.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6af877c99d9936aaac955fc9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15635904",
+      "itunes_duration": "32:34",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "spiderman",
+        "history"
+      ]
+    },
     {
       "key": "9385891bae2a9e56fa7d76c7d777b2050f81a41a",
       "title": "Ian Livingstone on Tomb of the Golden Skull - Book Club",
@@ -24639,6 +24662,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-14 — Rich and Ally's Craven Newsround Compilation - "The Spiderman of History" — speakers: Richard Herring
 - 2026-11-13 — Ian Livingstone on Tomb of the Golden Skull - Book Club — speakers: Ian Livingstone, Richard Herring
 - 2026-11-11 — David Baddiel - "Vet Threatener" — speakers: David Baddiel Vet Threatener, Richard Herring
 - 2026-11-09 — Jazz Emu (Retro) - "Judy Murray Nose Recorder" — speakers: Judy Murray Nose, Recorder Richard, Richard Herring
