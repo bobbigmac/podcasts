@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-14T10:23:36+00:00`
-- checked_at: `2026-11-14T10:23:36+00:00`
-- etag: `W/"696e3-004WyYZnbBD4DLDxzdJMetveYNs"`
+- fetched_at: `2026-11-15T06:27:26+00:00`
+- checked_at: `2026-11-15T06:27:26+00:00`
+- etag: `W/"69288-yoyxE6Lg4/gVTMtUOIjYm1/NtPA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,32 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-14T10:23:36+00:00",
+  "fetched_at": "2026-11-15T06:27:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "26f2b09812425d5f24df5eef7c14812ca5a05ccb",
-      "title": "#8 Questions for Karl with Ricky Gervais - PART 8",
-      "published_at": "2026-11-14T06:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/8-Questions-for-Karl-with-Ricky-Gervais---PART-8-e3s97h6",
-      "description": "NEW RSK FEED : https://open.spotify.com/episode/1ekz6e9laODampDtYERSog?si=PVb0j62xSgKS4QKyylosSQ",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794495783791-90b23592c7a2b.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO1123867246.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "68629389",
-      "itunes_duration": "01:10:43",
-      "speakers": [],
-      "topics": [
-        "questions",
-        "karl",
-        "ricky",
-        "gervais"
-      ]
-    },
     {
       "key": "81f9c004f67331dfadf52055c44a20191718ca50",
       "title": "#7 Questions for Karl with Ricky Gervais - PART 7",
@@ -6377,7 +6358,6 @@
 
 ## Episodes (newest first)
 
-- 2026-11-14 — #8 Questions for Karl with Ricky Gervais - PART 8
 - 2026-11-13 — #7 Questions for Karl with Ricky Gervais - PART 7
 - 2026-11-12 — #6 Questions for Karl with Ricky Gervais - PART 6
 - 2026-11-12 — #5 Questions for Karl with Ricky Gervais - PART 5
