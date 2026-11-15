@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-15T16:20:33+00:00`
-- checked_at: `2026-11-15T16:20:33+00:00`
-- etag: `W/"6740b-sT7tz0Pmw8ddncpRz9QTSdqOFmU"`
+- fetched_at: `2026-11-15T22:48:07+00:00`
+- checked_at: `2026-11-15T22:48:07+00:00`
+- etag: `W/"678b5-5sZN9yXJFySqC5esxEk+olJMgSg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-15T16:20:33+00:00",
+  "fetched_at": "2026-11-15T22:48:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "79abd0963f26f6fdd6f247635c934a28b1d91890",
+      "title": "(REMASTED NO ADS) Fall Asleep to Ricky Gervais & Karl Pilkington 😂 | Classic XFM Series 1",
+      "published_at": "2026-11-15T18:56:51+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/REMASTED-NO-ADS-Fall-Asleep-to-Ricky-Gervais--Karl-Pilkington---Classic-XFM-Series-1-e3scvga",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/6FwgSO95sdOu0NHBeVw6qd?si=cz8gMNf6RV6wKs0pLuHD0w",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794695916361-e1f7e36771b38.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9660197882.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "411743251",
+      "itunes_duration": "07:04:19",
+      "speakers": [
+        "Karl Pilkington"
+      ],
+      "topics": [
+        "asleep",
+        "ricky",
+        "gervais",
+        "karl",
+        "pilkington",
+        "classic",
+        "series"
+      ]
+    },
     {
       "key": "9003779c385d67e7cf22fcfd5cab13bb1b5b8b44",
       "title": "#56 The Jon Richardson Edinburgh Specials with Matt Forde",
@@ -6225,6 +6249,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-15 — (REMASTED NO ADS) Fall Asleep to Ricky Gervais & Karl Pilkington 😂 | Classic XFM Series 1 — speakers: Karl Pilkington
 - 2026-11-10 — #56 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-09 — #55 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-09 — #54 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
