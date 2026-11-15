@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-11-02T00:44:04+00:00`
-- checked_at: `2026-11-02T00:44:04+00:00`
-- etag: `W/"280266afeccdb641af489df13bc2a83e"`
-- last_modified: `Sun, 01 Nov 2026 23:55:00 GMT`
+- fetched_at: `2026-11-15T16:20:33+00:00`
+- checked_at: `2026-11-15T16:20:33+00:00`
+- etag: `W/"06295a5393f559eeb9d23ab21a3b05e4"`
+- last_modified: `Fri, 13 Nov 2026 11:52:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-11-02T00:44:04+00:00",
+  "fetched_at": "2026-11-15T16:20:33+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,74 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "b46f69e819100ac6dd4d595dddb9c7da4e45be9c",
+      "title": "No Such Thing As A Necklace On A Melon",
+      "published_at": "2026-11-12T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8976293",
+      "description": "Dan, James, Anna and Andy discuss shopping, sneezing and Skiantos. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon They can't harm you, if they can't find you! Use code [FISH] at the link below and get 60% off annual plans: https://incogni.com/fish Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43936688.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8976293.mp3?modified=1794491822&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3460",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "necklace",
+        "melon"
+      ]
+    },
+    {
+      "key": "dc5eb12b098073a01283fed9631376e4a486a67c",
+      "title": "Little Fish: I'm from the future - here's a fart joke",
+      "published_at": "2026-11-08T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8973611",
+      "description": "Andy throws his mum under the bus with a dubious fact, while he, Anna and Dan discuss YOUR facts. This week's subjects include Tall Babies, Little John and Fatboy Slim. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8973611.mp3?modified=1793886500&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1841",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "future",
+        "joke"
+      ]
+    },
+    {
+      "key": "93f6d569a0feb27062c064b4414671ff57d7e18f",
+      "title": "No Such Thing As The Otters Circling",
+      "published_at": "2026-11-05T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8973602",
+      "description": "Dan, James, Anna and Andy discuss cows, crisps, spots, stripes and a very specific skunk. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43926188.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8973602.mp3?modified=1793885724&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3183",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "otter"
+      ]
+    },
     {
       "key": "dd6874ddc62877426e5190df5be5dc8f989cc767",
       "title": "Little Fish: I've never been in a human pyramid",
@@ -177,7 +245,7 @@
       "link": "https://audioboom.com/posts/8963189",
       "description": "We find out why Dan is considered to be so smooth, while he, James and Andy discuss YOUR facts . This week's subjects include Kidneys, Korea, peanuts and Peter Pan. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
       "image_url": "https://audioboom.com/i/43479177.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963189.mp3?modified=1791793334&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963189.mp3?modified=1792759144&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1824",
@@ -201,10 +269,10 @@
       "link": "https://audioboom.com/posts/8962255",
       "description": "Russell T Davies joins Dan, Anna and Andy to discuss scandalous lives, Swansea brides, and slipping through time. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by Dan Schreiber Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43875207.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1791482358&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1794569542&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3428",
+      "itunes_duration": "3280",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",
@@ -294,10 +362,10 @@
       "link": "https://audioboom.com/posts/8956693",
       "description": "Dan, James, Anna and Andy discuss Churchill, Clowns and Christopher Columbus. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
       "image_url": "https://audioboom.com/i/43853400.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956693.mp3?modified=1790270947&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956693.mp3?modified=1793788937&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3456",
+      "itunes_duration": "3352",
       "speakers": [
         "Christopher Columbus",
         "Dan Schreiber",
@@ -340,10 +408,10 @@
       "link": "https://audioboom.com/posts/8954006",
       "description": "Dan, James, Anna and Andy discuss valuable violins, validating vessels and Vincent Van Gogh. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
       "image_url": "https://audioboom.com/i/43842742.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8954006.mp3?modified=1789667151&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8954006.mp3?modified=1793788926&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3539",
+      "itunes_duration": "3450",
       "speakers": [
         "Vincent Van Gogh",
         "Dan Schreiber",
@@ -387,10 +455,10 @@
       "link": "https://audioboom.com/posts/8948958",
       "description": "Live from the Lund Comedy Festival in Sweden, Dan, James, Anna and Andy discuss toads, turf and Toxic Waste. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43822822.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948958.mp3?modified=1789035952&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948958.mp3?modified=1793788887&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3415",
+      "itunes_duration": "3226",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",
@@ -17432,6 +17500,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-12 — No Such Thing As A Necklace On A Melon — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-11-08 — Little Fish: I'm from the future - here's a fart joke — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-11-05 — No Such Thing As The Otters Circling — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-01 — Little Fish: I've never been in a human pyramid — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-29 — No Such Thing As A Sea Cucumber In A Haunted House — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-10-25 — Little Fish: Mike, can we say this? — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

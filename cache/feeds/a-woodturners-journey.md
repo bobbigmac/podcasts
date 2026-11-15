@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-11-01T19:39:12+00:00`
-- checked_at: `2026-11-01T19:39:12+00:00`
-- etag: `"djEuMi4wOjE3OTM1NDY2MTQ0OTA="`
+- fetched_at: `2026-11-15T16:20:33+00:00`
+- checked_at: `2026-11-15T16:20:33+00:00`
+- etag: `"djEuMi4wOjE3OTQ3MzM0NDk3NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-11-01T19:39:12+00:00",
+  "fetched_at": "2026-11-15T16:20:33+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -27,8 +27,28 @@
   ],
   "episodes": [
     {
+      "key": "f4fd2fd93c5ab9e5c08445827ffe57813c2a7403",
+      "title": "Ep 51 - River of Dreams",
+      "published_at": "2026-11-15T08:59:19+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-51-river-of-dreams",
+      "description": "Enjoy episode 51! Chris and Markus welcome Mike Holstrom as a permanent third host of the show! The guys talk about what they have been working on lately. Chris got laid off yet again and is turning a lot more. Markus has a “get off my lathe” topic that we delve deep into. Then we talk about entry level tools and needs as a beginner in this wonderful hobby. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert who can provide better insight. YOUTUBE CHANNEL: https://www.youtube.com/@AWoodturnersJourney Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Holstrom - bodiedesigns.shop (15% off of orders over $50 with discount code “podcast”) www.instagram.com/bodiedesignsww Please share with a friend, subscribe everywhere you can, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6af9746708be5707d18a6440/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110626521",
+      "itunes_duration": "1:16:12",
+      "speakers": [
+        "Mike Holstrom",
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "river",
+        "dreams"
+      ]
+    },
+    {
       "key": "9138eabf6917a6da84408d6435386abdda47f3d1",
-      "title": "Ep. 50 m- Victory Celebration",
+      "title": "Ep. 50 - Victory Celebration",
       "published_at": "2026-11-01T15:23:34+00:00",
       "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-50-m-victory-celebration",
       "description": "Enjoy episode 50!!! Chris and Markus hop over to a YouTube live stream and get in front of their lathes. Chris turns a piece of green Elm and Markus goes at a piece of twice turned spalted silver maple. They chat with each other about techniques they are using, tools they are using and just how much fun woodturning is. Go to their YouTube channel and subscribe. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert who can provide better insight. YOUTUBE CHANNEL: https://www.youtube.com/@AWoodturnersJourney Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Holstrom - bodiedesigns.shop www.instagram.com/bodiedesignsww Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
@@ -1004,7 +1024,8 @@
 
 ## Episodes (newest first)
 
-- 2026-11-01 — Ep. 50 m- Victory Celebration — speakers: Chris Jacobsen
+- 2026-11-15 — Ep 51 - River of Dreams — speakers: Mike Holstrom, Chris Jacobsen
+- 2026-11-01 — Ep. 50 - Victory Celebration — speakers: Chris Jacobsen
 - 2026-10-18 — Ep 49 - The Perfect Design w/ Mike Holstrom — speakers: Mike Holstrom, Mike Holmgren Holstro, Chris Jacobsen
 - 2026-10-04 — Ep 48 - The Story So Far w/ Keith Lackner — speakers: Keith Lackner, Chris Jacobsen
 - 2026-09-20 — Ep 47 - Business Casualty w/ Scott Alexander — speakers: Scott Alexander, Chris Jacobsen

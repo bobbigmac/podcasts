@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-13T01:49:31+00:00`
-- checked_at: `2026-11-13T01:49:31+00:00`
-- etag: `"djEuMi4wOjE3OTQ1MjkzNTkyODU="`
+- fetched_at: `2026-11-15T16:20:33+00:00`
+- checked_at: `2026-11-15T16:20:33+00:00`
+- etag: `"djEuMi4wOjE3OTQ3NTc5MTE1MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-13T01:49:31+00:00",
+  "fetched_at": "2026-11-15T16:20:33+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "c814ec8bdf62772cb92d8e830da8fb13aa3c5829",
+      "title": "Danny Kelly: Pint Size",
+      "published_at": "2026-11-15T15:51:51+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/danny-kelly-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. In this clip, we pay tribute to the late, great Danny Kelly who sadly passed this week at the age of 69. This clip is taken from \"Episode 262: Oh My God He's 52\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6af9d51708be5707d1a8a678/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48540480",
+      "itunes_duration": "20:13",
+      "speakers": [
+        "Danny Kelly",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "danny",
+        "kelly",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "1318c8949cf599b78cc337fe0ba3b05906a5e026",
       "title": "Hang It In The Louvre",
@@ -16516,6 +16540,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-15 — Danny Kelly: Pint Size — speakers: Danny Kelly, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-13 — Hang It In The Louvre — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-11 — Trudge State — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-08 — Jive Bunny: Pint Size — speakers: Jive Bunny Pint Size, Elis James, Mike Bubbins, Steff Garrero
