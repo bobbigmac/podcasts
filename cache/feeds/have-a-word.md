@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"djEuMi4wOjE3OTQwMzEyMzk0MDA="`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ2MzYwMzk0OTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fd429c751093c3392fc962211bb3a354567a9874",
+      "title": "#407 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-11-14T06:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/407-with-jamie-hutchinson-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.co.uk Dan's Tickets: https://dannightingale.com Carl's Stream: https://twitch.tv/senseicarl_ MAD THAT w/ Harry & Carl: madthat.com Finnlay K FINAL GIG TICKETS: https://www.skiddle.com/whats-on/Liverpool/Jacaranda-Baltic/Finnlay-K-Farewell-Show/42670455/ Film Club December: https://tinyurl.com/filmclubdecember Finnlay K - Whole Again: https://FinnlayK.lnk.to/WHOLEAGAINLIVE As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Thanks to this week's sponsors: HEXCLAD | https://hexclad.co.uk/word15 Upgrade your kitchen today! 15% off sitewide LEBOM | https://lebom.app/i/haveaword Join our Have A Word football prediction league and see if you can beat the Lids. Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6af73411a82ccb6ba549edc3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122544796",
+      "itunes_duration": "2:07:39",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "jamie",
+        "hutchinson",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "ee2fca52204b2d96024c7ef268a7c23f17a971cd",
       "title": "#406 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl",
@@ -9371,6 +9394,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-14 — #407 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-11-07 — #406 with Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-10-31 — #405 with The Boys - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-10-24 — #404 with Simon Wozniak - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe

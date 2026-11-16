@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-11-09T19:47:52+00:00`
-- checked_at: `2026-11-09T19:47:52+00:00`
-- etag: `"40f4a339143220817a22e52fbc0745a2"`
-- last_modified: `Mon, 09 Nov 2026 10:09:57 GMT`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"6b648825b80ccf0ba0fb2401e73090c8"`
+- last_modified: `Mon, 16 Nov 2026 06:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-11-09T19:47:52+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "ce6eb4b008f3fe8a445f52f395575e1580103f67",
+      "title": "Live from the UK",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pm8hby",
+      "description": "Host Angela Barnes travels to comedy clubs across the country. In this new run, Angela heads back on the road to comedy clubs across the country So if you want to know what millennial men love most, how to survive the Swansea marathon, and what Aqua’s ‘Dr Jones’ is really about, then this is the show for you. In this episode, you can hear; Felicity Ward at Chumps Comedy Club, Margate Alexandra Haddow at The Y Theatre, Leicester Leroy Brito at The Glee Club, Cardiff Rosie Jones at The Glee Club, Leeds Additional Material by Adrian Gray Recorded by David Thomas, Chris Maclean & Sean Kerwin Sound design by David Thomas Production Coordinator: Jodie Charman Executive Producer: Pete Strauss Produced by Gwyn Rhys Davies. A BBC Studios Audio Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pm8gzg.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
+      "itunes_duration": "1713",
+      "speakers": [
+        "Angela Barnes"
+      ],
+      "topics": []
+    },
     {
       "key": "3fcb06afca725e2464c71161e1bf20f0e7f41fb4",
       "title": "The Matt Forde Focus Group",
@@ -985,29 +1001,6 @@
       ]
     },
     {
-      "key": "d4927df747997370de48be7a12735e7b016adb6f",
-      "title": "Scott Bennett: Blood Sugar Baby",
-      "published_at": "2025-11-10T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0mfcrp5",
-      "description": "Scott Bennett: Blood Sugar Baby tells the amazing true story of Scott and Jemma Bennett’s infant daughter Olivia and her battle with a rare genetic condition, how she was nearly fatally misdiagnosed and how Scott challenged the hospital to improve their care - by taking his dad’s advice to “Put a tie on”. First-time parents Scott and Jemma are taken from the apparently idyllic world of having a new-born baby who sleeps through the night and suddenly plunged into months of misguided treatments, genetics, bizarre side effects and private jets. Recorded in Scott and Jemma’s home town of Nottingham - where the real-life story began - this is an emotional show about a critically ill baby but it’s also a really funny one with a happy and hopeful ending. Written and Performed by Scott Bennett Produced by Ben Walker A DLT Entertainment production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mfcp2g.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27328000",
-      "itunes_duration": "1708",
-      "speakers": [
-        "Scott Bennett",
-        "Jemma Bennett"
-      ],
-      "topics": [
-        "scott",
-        "bennett",
-        "blood",
-        "sugar",
-        "baby"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1036,6 +1029,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Live from the UK — speakers: Angela Barnes
 - 2026-11-09 — The Matt Forde Focus Group — speakers: Group Give
 - 2026-11-02 — Randy Feltface's Human Handbook — speakers: Randy Feltface
 - 2026-10-26 — Evil Animals - Crows — speakers: Russell Kane
@@ -1086,5 +1080,4 @@
 - 2025-12-01 — Rum Punch — speakers: Rum Punch
 - 2025-11-24 — It's a Fair Cop: Scam Special — speakers: Fair Cop, Scam Special Ever
 - 2025-11-17 — Tom & Lauren Are Going OOT
-- 2025-11-10 — Scott Bennett: Blood Sugar Baby — speakers: Scott Bennett, Jemma Bennett
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore

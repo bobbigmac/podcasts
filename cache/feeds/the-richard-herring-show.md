@@ -2,8 +2,8 @@
 
 - slug: `the-richard-herring-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-richard-herring-show/`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "image_url": "",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,19 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "d795bcabe40b27ebaeb42259ef5010f216d43fbe",
+      "guid": "91792e15-fc02-4c18-ac52-2b8cc4caff25",
+      "title": "The Richard Herring Show (16th November)",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-richard-herring-show-16th-november/",
+      "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
+      "image_url": "https://mm.aiircdn.com/177/865364.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1794801628-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=91792e15-fc02-4c18-ac52-2b8cc4caff25&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "1ef2de10c83d0f4796c90f892d19799a550f0371",
       "guid": "a20ca665-9b10-4890-ba34-c9b3dc5d7710",
@@ -1555,6 +1568,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — The Richard Herring Show (16th November)
 - 2026-11-09 — The Richard Herring Show (9th November)
 - 2026-11-02 — The Richard Herring Show (2nd November)
 - 2026-10-26 — The Richard Herring Show (26th October)

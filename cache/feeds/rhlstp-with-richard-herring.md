@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-14T17:59:51+00:00`
-- checked_at: `2026-11-14T17:59:51+00:00`
-- etag: `"djEuMi4wOjE3OTQ2Njg0ODk3OTY="`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ4MDE0NTkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-14T17:59:51+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5f0309c16eb098d72a7dd884a25262e5c3134cbe",
+      "title": "Mike Birbiglia (Retro) - \"Mr Moustache\"",
+      "published_at": "2026-11-16T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#463 Mr Moustache - In the last of the Edinburgh Fringe podcasts, the generous sponsor of the NextUp comedy award is proud to be joined by US stand up and actor, Mike Birbiglia. They talk about turning ailments into stand up, why Mike sleeps in a cocoon, how his shows have a very UK sensibility, how the stories you least want to tell are often the best, how Mike messed up his big scene with Tom Hanks, how he became Taylor Swift’s son and Rich recommends some kids’ shows at the Fringe and fails to remember the name of Mary King’s Close. Details of Mike’s shows here https://www.birbigs.com/ Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794259874672-463418aa-30e8-4ab9-8b7b-17e5de095e95.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6af238e07551717730feb514/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26667676",
+      "itunes_duration": "55:33",
+      "speakers": [
+        "Mike Birbiglia",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mike",
+        "birbiglia",
+        "retro",
+        "moustache"
+      ]
+    },
     {
       "key": "09cc6c4d94edb5060afd7665a9afeb1b38068745",
       "title": "Rich and Ally's Craven Newsround Compilation - \"The Spiderman of History\"",
@@ -24662,6 +24684,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Mike Birbiglia (Retro) - "Mr Moustache" — speakers: Mike Birbiglia, Richard Herring
 - 2026-11-14 — Rich and Ally's Craven Newsround Compilation - "The Spiderman of History" — speakers: Richard Herring
 - 2026-11-13 — Ian Livingstone on Tomb of the Golden Skull - Book Club — speakers: Ian Livingstone, Richard Herring
 - 2026-11-11 — David Baddiel - "Vet Threatener" — speakers: David Baddiel Vet Threatener, Richard Herring

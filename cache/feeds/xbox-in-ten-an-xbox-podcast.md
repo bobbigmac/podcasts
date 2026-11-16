@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-11-09T06:23:38+00:00`
-- checked_at: `2026-11-09T06:23:38+00:00`
-- etag: `"c0b815a2f6fac1964870917d80d5b60e"`
-- last_modified: `Mon, 09 Nov 2026 05:16:59 GMT`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"dac1f2a53f5830a604dc63c4a7cfcd30"`
+- last_modified: `Mon, 16 Nov 2026 05:19:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-11-09T06:23:38+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "044d060eb9def64fa6b79b15bd5df390930b0014",
+      "title": "XBOX Celebrates 25 Years with Announcements & Reveals - (Xbox In Ten: An Xbox Podcast - Ep. 390)",
+      "published_at": "2026-11-16T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-celebrates-25-years-with-announcements-reveals-xbox-in-ten-an-xbox-podcast-ep-390",
+      "description": "Week of: 11-9-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/b/1/4/3/b1433163abf2ee2ca04421dee9605cbd/390.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/390.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16576816",
+      "itunes_duration": "11:26",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "year",
+        "announcements",
+        "reveals",
+        "podcast"
+      ]
+    },
     {
       "key": "6f4f2452551b57c8fe38a33030fbb6200b6fc95b",
       "title": "Bethesda Confirms The Elder Scrolls 6 is Called Sentinel but it is 2+ Years Away? - (Xbox In Ten: An Xbox Podcast - Ep. 389)",
@@ -9832,6 +9854,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — XBOX Celebrates 25 Years with Announcements & Reveals - (Xbox In Ten: An Xbox Podcast - Ep. 390) — speakers: Brandon Rosa
 - 2026-11-09 — Bethesda Confirms The Elder Scrolls 6 is Called Sentinel but it is 2+ Years Away? - (Xbox In Ten: An Xbox Podcast - Ep. 389) — speakers: Elder Scrolls, Brandon Rosa
 - 2026-11-02 — The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388) — speakers: Revealed Next Month, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-10-26 — Xbox Project Helix Targeting 2028 & Could Cost up to $1,800 - (Xbox In Ten: An Xbox Podcast - Ep. 387) — speakers: Xbox Project Helix Targeting, Could Cost, Xbox Gaming News, Fun Fact, Brandon Rosa

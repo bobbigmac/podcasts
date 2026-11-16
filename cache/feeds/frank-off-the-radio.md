@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-11-13T01:49:31+00:00`
-- checked_at: `2026-11-13T01:49:31+00:00`
-- last_modified: `Fri, 13 Nov 2026 01:06:45 GMT`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- last_modified: `Mon, 16 Nov 2026 01:06:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-13T01:49:31+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "2f650bf38b952d44ebc6d519387fc9620aecb0b7",
+      "title": "Jilting Someone at The Altar",
+      "published_at": "2026-11-16T01:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em have comedian Finlay Christie on the show. The team have thoughts on the M&S and Waitrose Christmas adverts, Frank’s got something to say about tiramisu, and gather round the fire because Finlay has a brilliant story about his mum jilting a man at the altar. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3570150286.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2321",
+      "speakers": [
+        "Jilting Someone",
+        "Finlay Christie",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "altar"
+      ]
+    },
     {
       "key": "3caf21099ebaced522e7394c1f961ce0e7ff088b",
       "title": "Bob Dylan Meets The Pope",
@@ -25262,6 +25282,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Jilting Someone at The Altar — speakers: Jilting Someone, Finlay Christie, Frank Skinner
 - 2026-11-13 — Bob Dylan Meets The Pope — speakers: Bob Dylan, Finlay Christie, Frank Skinner
 - 2026-11-11 — Frank Skinner's Radio Days: Magazine Man — speakers: Frank Skinner, Victoria Beckham
 - 2026-11-09 — Prog Rock God! Steven Wilson — speakers: Steven Wilson Frank, Steven Wilson, Frank Skinner

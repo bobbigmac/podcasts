@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-14T10:23:36+00:00`
-- checked_at: `2026-11-14T10:23:36+00:00`
-- etag: `"djEuMi4wOjE3OTQ1NzM4NTI5MjU="`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ3OTgwMzk3OTI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-14T10:23:36+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "1de61e1cac351ab88510a66e7f8b814f8a47ab68",
+      "title": "S17 Ep 922 Vault Mondays: Guest - James Acaster",
+      "published_at": "2026-11-16T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-922-vault-mondays-guest-james-acaster",
+      "description": "In this Christmas archive episode, we were joined by comedian and top podcaster James Acaster. He gave David & Joe some useful podcasting pointers and a bit of a talking to. They also discuss writing sitcoms and take a trip down memory lane when they all used to do stand up together. First posted sometime during Christmas 2021, exact date unknown. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6af6fff6cc76a302c4b308b4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61509381",
+      "itunes_duration": "1:04:04",
+      "speakers": [
+        "James Acaster",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "james",
+        "acaster"
+      ]
+    },
     {
       "key": "95826fd6f8847ada1e40f351aedbf1d0096f0633",
       "title": "S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email",
@@ -16699,6 +16723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — S17 Ep 922 Vault Mondays: Guest - James Acaster — speakers: James Acaster, Joe Wilkinson, David Earl
 - 2026-11-13 — S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email — speakers: Paxos Thongs, Dodgy Email Mailbag, Joe Wilkinson, David Earl
 - 2026-11-12 — S17 Ep 920: Back at the Dentists — speakers: Joe Wilkinson, David Earl
 - 2026-11-11 — S17 Ep 919: Estate Agents and Money Matters — speakers: Estate Agents, Money Matters David, Joe Wilkinson, David Earl

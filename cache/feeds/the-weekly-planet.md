@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-13T19:40:29+00:00`
-- checked_at: `2026-11-13T19:40:29+00:00`
-- etag: `"djEuMi4wOjE3OTQ1ODY0MDM5NzI="`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ3OTk4MzkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-13T19:40:29+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "598a6954dafcd7de68385fb3ff7529c83147fa2b",
+      "title": "649 Another DC Reboot & VisionQuest Review",
+      "published_at": "2026-11-16T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/649-the-big-dcu-news-visionquest-review",
+      "description": "Another day, another DC cinematic reboot. James Gunn's tenure as head of the DC Cinematic Universe is coming to an end, and with that comes the uncertainty of what will come next. Will some of the actors and characters, like David Corenswet's Superman, stay on board? Will the Snyderverse return? Will we get another total reboot? Will it be a mix of any and all things? I don't think the heads of Paramount even know at this point. Plus, we review VisionQuest, confirmation on whether Robert Downey Jr.'s Doctor Doom is a variant of Iron Man, some interesting writing credits on Avengers: Doomsday, trailers for Ray Gunn and The Thomas Crown Affair, a Fast & Furious update, plus more! As always, thanks for listening. New episode of James & Maso's Time Crapsule podcast out now! Available exclusively to listen alongside entire back catalogue on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 04:33 Is Doctor Doom a Variant? 08:13 Reynolds & Jackman Writing Avengers: Doomsday? 11:15 Are You Watching The Lord of the Rings TV Show? 11:21 Ray Gunn New Trailer 13:46 Thomas Crown Affair Trailer 16:24 Maso's Fast & Furious Segment 21:26 The Big DCU & James Gunn Leaving News 54:40 VisionQuest Series Full Spoiler Review 01:14:34 Post Credits & Avengers: Doomsday Links 01:18:30 What We Reading, What We Gonna Read 01:26:38 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6af737239dce432809ff6f59/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146693046",
+      "itunes_duration": "1:41:52",
+      "speakers": [
+        "James Gunn",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "reboot",
+        "visionquest",
+        "review"
+      ]
+    },
     {
       "key": "6d354fdac43b39e3ce54594a474be8b783612dde",
       "title": "Maze Runner: The Death Cure - Caravan of Garbage",
@@ -23483,6 +23505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — 649 Another DC Reboot & VisionQuest Review — speakers: James Gunn, James Clement, Nick Mason
 - 2026-11-12 — Maze Runner: The Death Cure - Caravan of Garbage — speakers: Maze Runner, Dylan O'Brien, James Clement, Nick Mason
 - 2026-11-08 — 648 Godzilla Minus Zero — speakers: Godzilla Minus Zero Thank, Weekly Planet, James Clement, Nick Mason
 - 2026-11-05 — Maze Runner: The Scorch Trials - Caravan Of Garbage — speakers: Maze Runner, James Clement, Nick Mason

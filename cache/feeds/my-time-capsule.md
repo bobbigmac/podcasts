@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-13T01:49:31+00:00`
-- checked_at: `2026-11-13T01:49:31+00:00`
-- etag: `"djEuMi4wOjE3OTQ1MjgxNjA1NTc="`
+- fetched_at: `2026-11-16T06:25:45+00:00`
+- checked_at: `2026-11-16T06:25:45+00:00`
+- etag: `"djEuMi4wOjE3OTQ3ODczNTk0MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-13T01:49:31+00:00",
+  "fetched_at": "2026-11-16T06:25:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5c17703392eceda8e8f6cd796ec97674794014c",
+      "title": "Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos",
+      "published_at": "2026-11-16T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-614-fatma-said-egyptian-opera-singer-whos-one-of-the-worl",
+      "description": "Fatma Said is an internationally acclaimed Egyptian soprano who made history as the first Egyptian soprano to perform on La Scala’s famous stage in Milan. She has also performed at the Royal Albert Hall, Carnegie Hall and Berliner Philharmonie. Fatma has crossed effortlessly into the mainstream, performing alongside Elton John and Ed Sheeran at Global Citizen Live, appearing at the 2022 Royal Variety Performance, and becoming the first female artist to perform at the Grand Egyptian Museum. Her debut album, El Nour , won a Gramophone Classical Music Award, the BBC Music Magazine Vocal Award and Newcomer of the Year, and an Opus Klassik Award for Young Artist of the Year. She was also the first Egyptian opera singer to receive Egypt’s State Creativity Award and won the European Cultural Award in 2024. She sings in six languages and her repertoire ranges from opera and classical Lieder to Egyptian and Arabic music, French chanson and Whitney Houston. Fatma has just released a spectacular new album, The Pyramids Recital , recorded live at the Pyramids of Giza. It brings together opera, Arabic songs and other musical influences. Fatma Said is our guest in episode 612 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . The Pyramids Recital is available now on Warner Classics - https://www.warnerclassics.com/release/fatma-said-pyramids-recital . For all of Fatma's music and her live shows, visit - https://www.fatmasaid.com . Follow Fatma Said on Instagram : @fatmasaid.sop . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6af6f68579bddcbf53d1b026/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78388161",
+      "itunes_duration": "1:05:19",
+      "speakers": [
+        "Fatma Said Egyptian",
+        "Fatma Said"
+      ],
+      "topics": [
+        "fatma",
+        "said",
+        "opera",
+        "singer",
+        "world",
+        "soprano"
+      ]
+    },
     {
       "key": "9fcf1963ff4027448e021de2c94d199aa6ccac09",
       "title": "My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera)",
@@ -13895,6 +13919,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos — speakers: Fatma Said Egyptian, Fatma Said
 - 2026-11-13 — My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera) — speakers: John Owen-Jones
 - 2026-11-09 — Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group — speakers: Jay James Singer, Jay James
 - 2026-11-06 — My Time Capsule The Dig - Ep. 25 - With Dame Imelda Staunton (Recorded Live at Viva Youth Theatre) — speakers: Imelda Staunton
