@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-11-16T06:25:45+00:00`
-- checked_at: `2026-11-16T06:25:45+00:00`
-- etag: `"11e580-660035565a27b"`
-- last_modified: `Wed, 11 Nov 2026 17:14:54 GMT`
+- fetched_at: `2026-11-16T19:35:27+00:00`
+- checked_at: `2026-11-16T19:35:27+00:00`
+- etag: `"11ef9d-660635d5ffb28"`
+- last_modified: `Mon, 16 Nov 2026 11:49:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-11-16T06:25:45+00:00",
+  "fetched_at": "2026-11-16T19:35:27+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d53d201f58b8a76aabe3e956445b9f912bf84545",
+      "title": "*SERIES 22 DEBRIEF WITH CHLOE PETTS*",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack are joined by the series 22 champion Chloe Petts to help us get closure on another excellent series! It also gives Chloe a chance to explain why they're not actually competitive, how they became the official scoreboard for the other contestants, what it was like being on a team with Richard and Matt, the story behind Chloe and Ed's 'rat' nickname, and the TMPP-specific tattoo Chloe promises to get if they win Champion of Champions. Plus, Chloe gives us a list of dream contestants for future series and some advice for the NYT lineup. Keep your emails coming in to fans@taskmaster.tv Don't forget to follow us on the official TMPP Instagram @tm_thepeoplespodcast - where we'll post all the pictures discussed in today's episode.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3d5fc3c4-2e02-4fa5-8bde-896b13357ae2.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=3d5fc3c4-2e02-4fa5-8bde-896b13357ae2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53459559",
+      "itunes_duration": "55:41",
+      "speakers": [
+        "Chloe Petts",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "series",
+        "debrief",
+        "chloe"
+      ]
+    },
     {
       "key": "dbd4ac680f6b2574bc9e49d52762ed623effafec",
       "title": "Falling Into the Trap of Fun - S22, Ep. 10",
@@ -5053,6 +5075,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — *SERIES 22 DEBRIEF WITH CHLOE PETTS* — speakers: Chloe Petts, Jenny Eclair, Jack Bernhardt
 - 2026-11-09 — Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-11-02 — Still Looking For My X - S22, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-10-26 — Drinking Is Just Spilling Stuff Inside Yourself - S22, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt

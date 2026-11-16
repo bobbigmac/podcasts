@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-14T10:23:36+00:00`
-- checked_at: `2026-11-14T10:23:36+00:00`
-- etag: `"djEuMi4wOjE3OTQ2NDY4Mzk0MzQ="`
+- fetched_at: `2026-11-16T19:35:27+00:00`
+- checked_at: `2026-11-16T19:35:27+00:00`
+- etag: `"djEuMi4wOjE3OTQ4NDY2Mzk0Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-14T10:23:36+00:00",
+  "fetched_at": "2026-11-16T19:35:27+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "acbf8c91cff2a40acf6280e7373c52b098fae58b",
+      "title": "Britain’s violence-obsessed adolescents",
+      "published_at": "2026-11-16T16:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/britains-violence-obsessed-adolescents",
+      "description": "Are teenagers increasingly developing violent fixations? One in five children, aged 13-17, have sought out violent material or thought about harming others at least once in the past year. More worryingly, one in ten in this age group have thought about committing specific acts of violence against a person or group during the same period. Tom McTague speaks to Anoosh Chakelian about her report into Britain’s new adolescent nightmare. READ: https://www.newstatesman.com/politics/uk-politics/2026/11/inside-britains-new-adolescent-nightmare-0 LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1794839741770-b3898075-32df-4498-b0e1-06a29576988c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6afb14a7ee2d31bd086f7a74/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62746713",
+      "itunes_duration": "32:36",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "britain",
+        "violence",
+        "adolescent"
+      ]
+    },
     {
       "key": "8f02fb0579957ae61d784b5513cef76315bcf24b",
       "title": "The Jensen Huang affair",
@@ -32997,6 +33018,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Britain’s violence-obsessed adolescents — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-14 — The Jensen Huang affair — speakers: Jensen Huang, Michael Portillo, Anoosh Chakelian, Oli Dugmore
 - 2026-11-12 — How green is Burnham’s government? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-11 — US midterms: Is the Trump era over? — speakers: Anoosh Chakelian, Oli Dugmore
