@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-16T06:25:45+00:00`
-- checked_at: `2026-11-16T06:25:45+00:00`
-- etag: `"djEuMi4wOjE3OTQ3OTgwMzk3OTI="`
+- fetched_at: `2026-11-17T03:53:04+00:00`
+- checked_at: `2026-11-17T03:53:04+00:00`
+- etag: `"djEuMi4wOjE3OTQ4ODQ0Mzk1MjQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-16T06:25:45+00:00",
+  "fetched_at": "2026-11-17T03:53:04+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "f30a89f92c8f18875731e8a1f77bbdba62c92e8d",
+      "title": "S17 Ep 923: The Most Traumatic Night Ever",
+      "published_at": "2026-11-17T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-923-the-most-traumatic-night-ever",
+      "description": "David’s new puppy has recently discovered biting and after a long and traumatic night looking after her, he really needs to off-load to Joe about how stressful it’s all getting. Plus, the Russel Brand trial, David almost being in a British gangster movie, Joe’s old teacher and getting older. Then it’s back to the puppy chat - putting the work in to train your dog, being exhausted and the WhatsApp group. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6af7006e34f69b9edd465e5d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59857188",
+      "itunes_duration": "1:02:21",
+      "speakers": [
+        "Ever David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "traumatic",
+        "night"
+      ]
+    },
     {
       "key": "1de61e1cac351ab88510a66e7f8b814f8a47ab68",
       "title": "S17 Ep 922 Vault Mondays: Guest - James Acaster",
@@ -16723,6 +16744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — S17 Ep 923: The Most Traumatic Night Ever — speakers: Ever David, Joe Wilkinson, David Earl
 - 2026-11-16 — S17 Ep 922 Vault Mondays: Guest - James Acaster — speakers: James Acaster, Joe Wilkinson, David Earl
 - 2026-11-13 — S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email — speakers: Paxos Thongs, Dodgy Email Mailbag, Joe Wilkinson, David Earl
 - 2026-11-12 — S17 Ep 920: Back at the Dentists — speakers: Joe Wilkinson, David Earl

@@ -18,9 +18,9 @@
       "last_modified": "Mon, 16 Nov 2026 11:49:04 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857741,
-      "last_modified": "Fri, 13 Nov 2026 11:52:53 GMT"
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887594,
+      "last_modified": "Tue, 17 Nov 2026 02:36:34 GMT"
     },
     "films-to-be-buried-with": {
       "last_checked_at": "2026-08-19T07:05:07+00:00",
@@ -48,8 +48,8 @@
       "etag": "\"djEuMi4wOjE3NzkyODkzMTE2OTA=\""
     },
     "three-bean-salad": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857742,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887598,
       "etag": "\"ad38d-65f691bf395ac\"",
       "last_modified": "Wed, 04 Nov 2026 01:15:05 GMT"
     },
@@ -125,8 +125,8 @@
       "last_modified": "Tue, 10 Nov 2026 14:58:59 GMT"
     },
     "katherine-ryan": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857742,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887598,
       "etag": "\"djEuMi4wOjE3OTM5Mjg1MTA3NTM=\""
     },
     "frank-off-the-radio": {
@@ -326,9 +326,9 @@
       "etag": "\"djEuMi4wOjE3ODU2Nzg1NzgxMTQ=\""
     },
     "the-apocalypse-players": {
-      "last_checked_at": "2026-11-10T03:33:39+00:00",
-      "last_checked_unix": 1794281624,
-      "etag": "\"ccd96fbe1a3cb066b5a6fcf9939a1e55\""
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887589,
+      "etag": "\"12246db5345d8eafe4e0c10854097d58\""
     },
     "the-comedians-comedian-podcast": {
       "last_checked_at": "2026-11-13T10:56:56+00:00",
@@ -352,9 +352,9 @@
       "last_modified": "Thu, 12 Nov 2026 10:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857740,
-      "last_modified": "Mon, 16 Nov 2026 19:23:04 GMT",
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887592,
+      "last_modified": "Mon, 16 Nov 2026 21:33:06 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857740,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887594,
       "etag": "W/\"1c706-eU6L/sLqXSmq9WZhI0JT5t2NDFw\""
     },
     "the-romesh-ranganathan-show": {
@@ -383,8 +383,8 @@
       "consecutive_failures": 0
     },
     "the-weekly-planet": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857740,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887594,
       "etag": "\"djEuMi4wOjE3OTQ3OTk4MzkzMzg=\""
     },
     "what-did-you-do-yesterday-with-max-rushden-david-odoherty": {
@@ -394,8 +394,8 @@
       "etag": "\"djEuMi4wOjE3OTQ3MTE2NDEwMDU=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-11-11T19:34:15+00:00",
-      "last_checked_unix": 1794425659,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887594,
       "etag": "W/\"47372-8oTUYU71Wj+t8VDiN1/PMuQSFGI\""
     },
     "xbox-casuals-an-xbox-podcast": {
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3OTQzNTg4Mzk0MzE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857742,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887598,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,15 +486,15 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857742,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887598,
       "last_modified": "Sat, 14 Nov 2026 04:44:41 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-11-16T06:25:45+00:00",
-      "last_checked_unix": 1794810377,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887598,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
-      "etag": "\"djEuMi4wOjE3OTQ3OTgwMzk3OTI=\"",
+      "etag": "\"djEuMi4wOjE3OTQ4ODQ0Mzk1MjQ=\"",
       "consecutive_failures": 0
     },
     "skewer": {
@@ -542,8 +542,8 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857742,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887599,
       "etag": "\"djEuMi4wOjE3OTQ4NTQxMzMxODM=\"",
       "consecutive_failures": 0
     },
@@ -553,8 +553,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857743,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887600,
       "etag": "\"2ae208f120d053bd5e2f8dc0004dac47\"",
       "last_modified": "Sat, 31 Oct 2026 06:22:32 GMT"
     },
@@ -628,15 +628,15 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-11-16T19:35:27+00:00",
-      "last_checked_unix": 1794857741,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887599,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
-      "last_checked_at": "2026-11-16T06:25:45+00:00",
-      "last_checked_unix": 1794810382,
+      "last_checked_at": "2026-11-17T03:53:04+00:00",
+      "last_checked_unix": 1794887622,
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-11-16T19:35:27+00:00"
+  "updated_at": "2026-11-17T03:53:04+00:00"
 }

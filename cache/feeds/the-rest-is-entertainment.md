@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-16T19:35:27+00:00`
-- checked_at: `2026-11-16T19:35:27+00:00`
-- last_modified: `Mon, 16 Nov 2026 19:23:04 GMT`
+- fetched_at: `2026-11-17T03:53:04+00:00`
+- checked_at: `2026-11-17T03:53:04+00:00`
+- last_modified: `Mon, 16 Nov 2026 21:33:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-16T19:35:27+00:00",
+  "fetched_at": "2026-11-17T03:53:04+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0e7a5642aec8a2ad119faf7c0c19c6fe5bf95628",
+      "title": "Robert Pattinson: The Bond We Need?",
+      "published_at": "2026-11-16T20:00:00+00:00",
+      "link": null,
+      "description": "Is Robert Pattinson the right choice for James Bond? Is Johnny Depp making a Hollywood comeback? Will Wayne Rooney win I’m a Celeb? Robert Pattinson has been confirmed as the new James Bond. Is he the 007 the dormant franchise needs? Johnny Depp has returned to cinemas with box-office hit Ebenezer. Why has Hollywood welcomed him back into the fold? Does he still have movie star appeal? I’m A Celeb is back this week with Wayne Rooney, Joanna Page and AJ Odudu heading Down Under. Who will be crowned King or Queen of the Jungle? ⁠Give The Rest Is Entertainment this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, a members’ newsletter, and more.⁠ For more Goalhanger Podcasts, head to ⁠ ⁠www.goalhanger.com ⁠⁠ Video Editor: James Clayden & Louis Mealing Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ ⁠www.westdigitalstudios.com⁠⁠ Image credit: Jaap Buitendijk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8e400b10-e1eb-11f1-891d-2f35ace7d1b2/image/adbfb8c962522898806f128487de6af7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4515209185.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3093",
+      "speakers": [
+        "Robert Pattinson",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "robert",
+        "pattinson",
+        "bond"
+      ]
+    },
     {
       "key": "997f199cd317146070e9c29303e16a18a6563ebd",
       "title": "David Walliams: The Reckoning?",
@@ -7330,6 +7352,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-16 — Robert Pattinson: The Bond We Need? — speakers: Robert Pattinson, Richard Osman, Marina Hyde
 - 2026-11-11 — David Walliams: The Reckoning? — speakers: David Walliams, Richard Osman, Marina Hyde
 - 2026-11-09 — Russell Brand: What The Media Knew — speakers: Russell Brand, Richard Osman, Marina Hyde
 - 2026-11-05 — Sly Stallone: My Rivalry With Arnie, Being An Outsider & Hating Steven Seagal — speakers: Sly Stallone, Steven Seagal, Sly Stall, Richard Osman, Marina Hyde
