@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-11-13T10:56:56+00:00`
-- checked_at: `2026-11-13T10:56:56+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RRMU5EazJNems0TkRRPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-17T15:58:35+00:00`
+- checked_at: `2026-11-17T15:58:35+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RRNE9UVXlOREF5TmpRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-11-13T10:56:56+00:00",
+  "fetched_at": "2026-11-17T15:58:35+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0d011f04b292c97060fd833ccf31f3ee7418baa4",
+      "title": "Help He’s Giving Me Hickeys | And Our Sex Dreams",
+      "published_at": "2026-11-17T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-hes-giving-me-hickeys-and-our-sex-dreams",
+      "description": "Jordan North is in an absolute TIZZY this week because he simply cannot remember what his favourite Christmas pâté is... \"Have I changed?!\". Meanwhile, William Hanson has a beauty emergency of his own and needs some SERIOUS advice on how to stop looking like Claudia Winkleman. Plus, the boys get stuck into your trickiest conundrums, as one G&Diva attempts to dodge her boyfriend's hickeys and another wonders whether having sex dreams about celebrities is perfectly normal... or whether she needs to seek some serious help! Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1794840698040-6db18ed3-4d6f-4982-9cd4-eff3b17b551a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6afb0acdbd161c2518827304/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=-1jKM9_g9FJj9raiJR_Y03NAJqnoFjzoL1Q3kjFipAE",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41370853",
+      "itunes_duration": "43:05",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "hickeys",
+        "dream"
+      ]
+    },
     {
       "key": "fcd11cec30b8153a4bb1a5a21bd7f52f5142e940",
       "title": "Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF",
@@ -15444,6 +15464,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Help He’s Giving Me Hickeys | And Our Sex Dreams — speakers: Jordan North, William Hanson
 - 2026-11-13 — Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF — speakers: Good Luck Charms, Jordan North, William Hanson
 - 2026-11-10 — Help I Farted On A Stranger | And Where Does The Ring Go? — speakers: Jordan North, William Hanson
 - 2026-11-06 — We Speak To A Chimney Sweep! | And Working Class Problems — speakers: William Hanson, Jordan North

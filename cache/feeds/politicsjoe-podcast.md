@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-16T19:35:27+00:00`
-- checked_at: `2026-11-16T19:35:27+00:00`
-- etag: `"djEuMi4wOjE3OTQ4NTAxNTEwNTg="`
+- fetched_at: `2026-11-17T15:58:35+00:00`
+- checked_at: `2026-11-17T15:58:35+00:00`
+- etag: `"djEuMi4wOjE3OTQ5Mjk5ODkyNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-16T19:35:27+00:00",
+  "fetched_at": "2026-11-17T15:58:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1aa92b12849e9537b61c4fc61b0643c9fc8a2f04",
+      "title": "Why are Brits Obsessed with Class? With Ipsos",
+      "published_at": "2026-11-17T15:39:48+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6afc39d5228213ae4e326794",
+      "description": "What does it actually mean to be working class in Britain today? And can you ever really change your class? Richie Jones, Chief Client Officer at Ipsos, joins us to unpack the findings of new research into Britain's relationship with social class, drawing on four decades of polling data. From Oxbridge and private schools to housing, regional accents, class privilege and the peculiar British habit of pretending the class system no longer exists, this is a conversation about one of the most persistent features of British society. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6afc39d5228213ae4e326794/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71775294",
+      "itunes_duration": "1:14:45",
+      "speakers": [],
+      "topics": [
+        "brits",
+        "class",
+        "ipsos"
+      ]
+    },
     {
       "key": "285e3b2da77d4569d9eaae4db2caeaa464743ba7",
       "title": "Why is Reform's Zia Yusuf fighting a Tory in Piddington?",
@@ -14150,6 +14168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Why are Brits Obsessed with Class? With Ipsos
 - 2026-11-16 — Why is Reform's Zia Yusuf fighting a Tory in Piddington? — speakers: Zia Yusuf, Chris Philp
 - 2026-11-13 — Big Tech Is Controlling You, Don't Give In | Cecilia Rikap interview — speakers: Cecilia Rikap
 - 2026-11-06 — We Need to Talk About Reparations | Marvin Rees interview — speakers: Marvin Rees

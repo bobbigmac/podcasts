@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-11-10T14:51:31+00:00`
-- checked_at: `2026-11-10T14:51:31+00:00`
-- etag: `"djEuMi4wOjE3OTQzMTMyNjU4MjI="`
+- fetched_at: `2026-11-17T15:58:35+00:00`
+- checked_at: `2026-11-17T15:58:35+00:00`
+- etag: `"djEuMi4wOjE3OTQ4ODgxNTk0MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-11-10T14:51:31+00:00",
+  "fetched_at": "2026-11-17T15:58:35+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e00bb56761f450b5fcd4f942cd4a75032cdc3609",
+      "title": "Eli Mathewson",
+      "published_at": "2026-11-17T04:02:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/eli-mathewson",
+      "description": "Eli Mathewson is supporting Mark on tour tonight so they chat about a routine that isn't quite working yet Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6afb2d49a7a01041bb0f5427/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47074919",
+      "itunes_duration": "32:39",
+      "speakers": [
+        "Mark Simmons"
+      ],
+      "topics": [
+        "mathewson"
+      ]
+    },
     {
       "key": "45eb53cfe31ad00f5407abe8bf622e92f37b34fa",
       "title": "Tour Talk - New York Part 1",
@@ -7669,6 +7687,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Eli Mathewson — speakers: Mark Simmons
 - 2026-11-10 — Tour Talk - New York Part 1 — speakers: Tour Talk New York, Mark Simmons
 - 2026-10-29 — ComedyIQ's Tony Dunn — speakers: Tony Dunn, Mark Simmons
 - 2026-10-16 — Tour Talk - Ireland, UHT milk & a strip search — speakers: Tour Talk Ireland, Mark Simmons

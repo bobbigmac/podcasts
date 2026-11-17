@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-11-11T19:34:15+00:00`
-- checked_at: `2026-11-11T19:34:15+00:00`
-- etag: `W/"47372-8oTUYU71Wj+t8VDiN1/PMuQSFGI"`
+- fetched_at: `2026-11-17T15:58:35+00:00`
+- checked_at: `2026-11-17T15:58:35+00:00`
+- etag: `W/"47a9f-lrOFNCjqZjVmA2r4ylRdPYVoGe0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-11-11T19:34:15+00:00",
+  "fetched_at": "2026-11-17T15:58:35+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "666e686c35d0b7cc90fc997c9453d42e7471474e",
+      "title": "Do Point-and-Click Adventure Games Hold Up? | Windbreaker Podcast",
+      "published_at": "2026-11-17T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Do-Point-and-Click-Adventure-Games-Hold-Up---Windbreaker-Podcast-e3sgsga",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, Marty, and JM8 chat about the modern state of the point-and-click adventure game. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5494720681.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66545621",
+      "itunes_duration": "01:08:34",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "point",
+        "click",
+        "adventure",
+        "games",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "53193643075dc887abe5f797f08485770c350199",
       "title": "Which Games Belong on the Zelda Mount Rushmore? | Windbreaker Podcast",
@@ -3381,6 +3405,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — Do Point-and-Click Adventure Games Hold Up? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-11-10 — Which Games Belong on the Zelda Mount Rushmore? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-11-03 — What to Do When Genre Fatigue Sets In | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-10-12 — Horror Mechanics Need a Refresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
