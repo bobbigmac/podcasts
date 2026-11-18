@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-17T15:58:35+00:00`
-- checked_at: `2026-11-17T15:58:35+00:00`
-- etag: `"djEuMi4wOjE3OTQ5Mjk5ODkyNTA="`
+- fetched_at: `2026-11-18T20:29:46+00:00`
+- checked_at: `2026-11-18T20:29:46+00:00`
+- etag: `"djEuMi4wOjE3OTUwMjQyMjgyNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-17T15:58:35+00:00",
+  "fetched_at": "2026-11-18T20:29:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "95546e120b81cb77f05cbb0cd53fad6a7c663d03",
+      "title": "Labour’s Plan to Get You a Job | Going Deep on the Milburn Report",
+      "published_at": "2026-11-18T17:50:28+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6afde53120b40c3539bcc5d0",
+      "description": "The government has promised a major shake-up of how Britain tackles youth unemployment. But will Alan Milburn’s review actually improve the lives of young people or is Labour missing the bigger picture? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6afde53120b40c3539bcc5d0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65276524",
+      "itunes_duration": "45:19",
+      "speakers": [
+        "Going Deep"
+      ],
+      "topics": [
+        "labour",
+        "plan",
+        "deep",
+        "milburn",
+        "report"
+      ]
+    },
     {
       "key": "1aa92b12849e9537b61c4fc61b0643c9fc8a2f04",
       "title": "Why are Brits Obsessed with Class? With Ipsos",
@@ -14168,6 +14190,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Labour’s Plan to Get You a Job | Going Deep on the Milburn Report — speakers: Going Deep
 - 2026-11-17 — Why are Brits Obsessed with Class? With Ipsos
 - 2026-11-16 — Why is Reform's Zia Yusuf fighting a Tory in Piddington? — speakers: Zia Yusuf, Chris Philp
 - 2026-11-13 — Big Tech Is Controlling You, Don't Give In | Cecilia Rikap interview — speakers: Cecilia Rikap

@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "68cb7c6c89b5e37df12edcfe3cdd3378efabda15",
+        "episode_key": "68cb7c6c89b5e37df12edcfe3cdd3378efabda15",
+        "title": "Leo Reich",
+        "published_at": "2026-11-18T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, actor and writer Leo Reich – whose show ‘It Gets Worse’ is on Channel 4 now – has a table booked in the Dream Restaurant this week. Plus we get the debut of Ed and James’s soon-to-be-number-one ‘Body Conscious’ song.\nWatch Leo’s sitcom ‘It Gets Worse’ now, with all episodes streaming on Channel 4.\nWatch Leo’s",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6afb00bc6f359b05c3a36ac9/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/leo-reich/id1442950743?i=1000802625647&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "a7ae68b25658b8bb16df6aeae271166996d35f08",
         "episode_key": "a7ae68b25658b8bb16df6aeae271166996d35f08",
         "title": "Sara Cox",
@@ -6895,6 +6918,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "68cb7c6c89b5e37df12edcfe3cdd3378efabda15",
+        "episode_key": "68cb7c6c89b5e37df12edcfe3cdd3378efabda15",
+        "title": "Leo Reich",
+        "published_at": "2026-11-18T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, actor and writer Leo Reich – whose show ‘It Gets Worse’ is on Channel 4 now – has a table booked in the Dream Restaurant this week. Plus we get the debut of Ed and James’s soon-to-be-number-one ‘Body Conscious’ song.\nWatch Leo’s sitcom ‘It Gets Worse’ now, with all episodes streaming on Channel 4.\nWatch Leo’s",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6afb00bc6f359b05c3a36ac9/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/leo-reich/id1442950743?i=1000802625647&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

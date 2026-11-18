@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `W/"1c706-U3aOy2P73KXXOLdt2wzZs1D9GwQ"`
+- fetched_at: `2026-11-18T20:29:46+00:00`
+- checked_at: `2026-11-18T20:29:46+00:00`
+- etag: `W/"1cf98-ovCrBpOXO91yDTLIpibisPMuWI0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-18T20:29:46+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "231365c69e120a1be7e5a314500e0af02fb89c68",
+      "title": "Temperature Check on Robert Pattinson as James Bond | The Rewind Podcast",
+      "published_at": "2026-11-18T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Temperature-Check-on-Robert-Pattinson-as-James-Bond--The-Rewind-Podcast-e3skus7",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about the news that Robert Pattinson will be playing James Bond, thoughts on Nathan Fielder's You Can See Everything, and whatever else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/129710407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2Fc862b637-a872-3d73-f202-d6c68bfb8611.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "286955168",
+      "itunes_duration": "03:19:16",
+      "speakers": [
+        "Robert Pattinson",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "temperature",
+        "check",
+        "robert",
+        "pattinson",
+        "james",
+        "bond",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "3a31bf8ecb49f22c1f5e63023a2ee2d933910417",
       "title": "Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast",
@@ -1469,6 +1497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Temperature Check on Robert Pattinson as James Bond | The Rewind Podcast — speakers: Robert Pattinson, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-11-04 — Remembering Patrick Stewart + the Wonder of Wildwood | The Rewind Podcast — speakers: Patrick Stewart, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-10-14 — Digger, Carrie, and the Lanterns Finale | The Rewind Podcast — speakers: Tom Cruise, Mike Flanagan, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-30 — Chatting Resident Evil + the Top 100 TV Series of the 21st Century | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

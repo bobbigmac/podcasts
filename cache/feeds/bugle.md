@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ0Mjg1ODg1MjY="`
+- fetched_at: `2026-11-18T20:29:46+00:00`
+- checked_at: `2026-11-18T20:29:46+00:00`
+- etag: `"djEuMi4wOjE3OTUwMTc2Mzk0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-18T20:29:46+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f426c52677513d530962bfd88c2430b21455e645",
+      "title": "Functioning Planet or Total F*cking Chaos?",
+      "published_at": "2026-11-18T16:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/functioning-planet-or-total-fcking-chaos",
+      "description": "Joining Andy this week on issue 4398 of The Bugle, Sara Barron and Josie Long as the trio explore a week's news of Software Outages, Grounded Flights and CEO ousting. Plus, hoax threats to schools in Italy and Northern Ireland, report from the recent COP 31 and an update on the infamous sandpaper plot of 2018! 💻 Microsoft Outage: The Bugle reports on the news after millions affected by Microsoft service failure: 'one of the longest in history' 🌍 COP 31update: An update on the COP 31 conference 🏫 Hoax Threats: Andy, Sara and Josie report on the news of Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax Andy's Links: https://www.andyzaltzman.co.uk/ Sara Barron's Links: https://www.instagram.com/sarabarron1000000/?hl=en Josie Long's Links: https://www.instagram.com/josielong/?hl=en 👑 Become a Elite Bugler: https://thebugle.supportingcast.fm/gifts 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Get Bugle merch, including mugs, Christmas T Shirts and our exclusive 12\" vinyl record NOW! https://www.thebuglepodcast.com/store Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6afdbe4a21fa6314af3a76b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49447915",
+      "itunes_duration": "51:30",
+      "speakers": [
+        "Joining Andy",
+        "Sara Barron",
+        "Josie Long",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "functioning",
+        "planet",
+        "total",
+        "chaos"
+      ]
+    },
     {
       "key": "8fa9e152f9aa214498d9c1f436d698e63df2e029",
       "title": "Even the voices in Trump's head aren't talking to him anymore!",
@@ -14752,6 +14776,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Functioning Planet or Total F*cking Chaos? — speakers: Joining Andy, Sara Barron, Josie Long, Andy Zaltzman
 - 2026-11-11 — Even the voices in Trump's head aren't talking to him anymore! — speakers: Joining Andy, Alice Fraser, Andy Zaltzman
 - 2026-11-05 — SNAP BUGLE: Blue Wave Washes over Washington — speakers: Andy Zaltzman
 - 2026-11-04 — Global Democracy Lives? — speakers: Joining Andy, Andy Zaltzman
