@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-11-16T19:35:27+00:00`
-- checked_at: `2026-11-16T19:35:27+00:00`
-- etag: `"djEuMi4wOjE3OTQ4NTQxMzMxODM="`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NjM2Mzk1NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Lovehoney are having their biggest Black Friday sale ever, with up to 70% off EVERYTHING! Visit lovehoney.co.uk for your discounted pleasure! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-11-16T19:35:27+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "40e53e832feb971314d24043b0bf605beb942481",
+      "title": "DWSC LIVE: With Mark Steel",
+      "published_at": "2026-11-18T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-mark-steel",
+      "description": "This week the Drunk Women are coming live and direct from the wonderful Canterbury Festival, and what a night was had, as the one and only Mark Steel joined them on stage, bringing a very different perspective of the county of Kent than the one in the Canterbury Tales. This week's crimes also keep a local flavour, as Mark tells us about falling victim to a notorious local ne'er do well, before helping Hannah and Taylor suss out a historical story featuring a local perp who may have taken some inspiration from The Three Bears. Then, finally, a member of the audience told us about their parents coming home to a total sh*t show post-holiday. Next week, you'll get to hear what happened after the interval with Drea Valls! Come and see Hannah and Taylor LIVE in 2027! Don't miss out on your only chance to see them live in London, on 9th April at The Pleasance Theatre. Tickets and info here ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6afb42c31633e7cafb3c4864/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68756117",
+      "itunes_duration": "47:44",
+      "speakers": [
+        "Mark Steel",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "mark",
+        "steel"
+      ]
+    },
     {
       "key": "b4b8a06dbd98e0fecf1a1dd1efa2a185fd77f64e",
       "title": "Claire Rafferty Gets the Gist",
@@ -11767,6 +11789,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — DWSC LIVE: With Mark Steel — speakers: Mark Steel, Hannah George, Taylor Glenn
 - 2026-11-11 — Claire Rafferty Gets the Gist — speakers: Claire Rafferty, Hannah George, Taylor Glenn
 - 2026-11-04 — The Poop Deck, with Daisy Kelliher — speakers: Poop Deck, Daisy Kelliher, Below Deck, Hannah George, Taylor Glenn
 - 2026-10-28 — Ignacio Lopez & Blanche in Franche — speakers: Ignacio Lopez, Hannah George, Taylor Glenn

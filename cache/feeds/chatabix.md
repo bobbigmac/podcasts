@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-17T03:53:04+00:00`
-- checked_at: `2026-11-17T03:53:04+00:00`
-- etag: `"djEuMi4wOjE3OTQ4ODQ0Mzk1MjQ="`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NzA4Mzk1NTY="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-17T03:53:04+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "0faaea4b0eafe735acceeb30e63f8a6e0b270b6d",
+      "title": "S17 Ep 924: An Estate Agent Altercation",
+      "published_at": "2026-11-18T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-924-an-estate-agent-altercation",
+      "description": "David’s was making some enquiries with an estate agent the other day, who didn’t take kindly to some of his questioning and things turned a little frosty. So in today’s show, he tells Joe all about the altercation - and then quite quickly regrets saying so much about it. In a swift change in direction, they then discus how long ago they came up with term ‘Crunch Crunch’ for fans of the pod. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6af7009f9d9936aaac3604b1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43601502",
+      "itunes_duration": "45:25",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "estate",
+        "agent",
+        "altercation"
+      ]
+    },
     {
       "key": "f30a89f92c8f18875731e8a1f77bbdba62c92e8d",
       "title": "S17 Ep 923: The Most Traumatic Night Ever",
@@ -16744,6 +16765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — S17 Ep 924: An Estate Agent Altercation — speakers: Joe Wilkinson, David Earl
 - 2026-11-17 — S17 Ep 923: The Most Traumatic Night Ever — speakers: Ever David, Joe Wilkinson, David Earl
 - 2026-11-16 — S17 Ep 922 Vault Mondays: Guest - James Acaster — speakers: James Acaster, Joe Wilkinson, David Earl
 - 2026-11-13 — S17 Ep 921 Listener’s Mailbag: Paxos Thongs and a Dodgy Email — speakers: Paxos Thongs, Dodgy Email Mailbag, Joe Wilkinson, David Earl

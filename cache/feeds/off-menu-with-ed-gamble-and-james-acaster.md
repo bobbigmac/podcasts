@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- etag: `"djEuMi4wOjE3OTQzNjk2Mzk5Mzg="`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NzQ0Mzk1NDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "523e1ccc07eccd764dda59141e06078d49a5a482",
+      "title": "Leo Reich",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/leo-reich",
+      "description": "Comedian, actor and writer Leo Reich – whose show ‘It Gets Worse’ is on Channel 4 now – has a table booked in the Dream Restaurant this week. Plus we get the debut of Ed and James’s soon-to-be-number-one ‘Body Conscious’ song. Watch Leo’s sitcom ‘It Gets Worse’ now, with all episodes streaming on Channel 4 . Watch Leo’s special ‘Literally Who Cares?!’ on NOW . Follow Leo on Instagram and TikTok @leo_reich Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Subscribe to Craig Simons’ (the UK’s number one James Acaster tribute act) YouTube @craigsimonslive Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1794834021935-b346e96a-5672-4b1e-9c46-653382f0154d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6afb00bc6f359b05c3a36ac9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60365844",
+      "itunes_duration": "1:02:52",
+      "speakers": [
+        "Leo Reich Comedian",
+        "Leo Reich",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "reich"
+      ]
+    },
     {
       "key": "ecfdd579deea0f91a5f88e6a6d0e531de1d435df",
       "title": "Sara Cox",
@@ -9146,6 +9168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Leo Reich — speakers: Leo Reich Comedian, Leo Reich, Ed Gamble, James Acaster, Ben Williams
 - 2026-11-11 — Sara Cox — speakers: Sara Cox Author, Sara Cox, Ed Gamble, James Acaster, Ben Williams
 - 2026-11-04 — Andi Osho — speakers: Andi Osho Actor, Andi Osho, Ed Gamble, James Acaster, Ben Williams
 - 2026-10-28 — Rob Auton — speakers: Rob Auton, Ed Gamble, James Acaster, Ben Williams

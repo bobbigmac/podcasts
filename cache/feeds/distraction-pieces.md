@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-18T00:56:42+00:00`
-- checked_at: `2026-11-18T00:56:42+00:00`
-- etag: `"djEuMi4wOjE3OTQ4MjkxNTQ2NzQ="`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NzU2MzkyNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-18T00:56:42+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cc061bc9ceb818600d0d20bb3f4bc6af3691b5ad",
+      "title": "NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696",
+      "published_at": "2026-11-18T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by KATI & AMY of the incredible group/movement NOTHING BUT LOVE ! As you will have come to know through weekly episodes of DPP, yes of course some episodes will feature world (as well as locally) renowned talents in all degrees of the media and creative pockets, but some weeks you'll hear from people who might be doing work which doesn't often get illuminated in the greater scheme of things. What often happens is that those episodes can be the ones that resonate as it can feel like a personal discovery. Hopefully you already know of Nothing But Love already but if indeed this is one of those discovery moments for you, you're about to make some fast friends by way of Kati and Amy who are the forces behind this glorious movement. Through putting on music events and happenings which work in conjunction with the local community, NBL are spreading pure positivity and inclusivity throughout the country - a vision that is so honest and pure it just works. Have a listen to see how it all happens, how it all happened, and what's going to happen in the future. This is one of those episode you'll kick yourself for missing out on if you do, so absolutely jump in now and get to know how this work is manifesting and what's happening right now. PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1794826984502-43acac2b-826d-4220-880f-4634bb285cdd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6afae676abfa3ac131f3d320/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "179793208",
+      "itunes_duration": "1:14:49",
+      "speakers": [],
+      "topics": [
+        "love",
+        "event",
+        "time",
+        "link",
+        "description"
+      ]
+    },
     {
       "key": "dbecc71f632afe1cb3b2c89d31d8b2001b28109a",
       "title": "JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind",
@@ -19989,6 +20009,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696
 - 2026-11-13 — JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind — speakers: Jack Lowden
 - 2026-11-11 — LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695
 - 2026-11-06 — CHARLIE COOPER (See How They Run / This Country / Avenue 5) • Friday Rewind

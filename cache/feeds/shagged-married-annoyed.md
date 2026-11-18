@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-13T10:56:56+00:00`
-- checked_at: `2026-11-13T10:56:56+00:00`
-- last_modified: `Fri, 13 Nov 2026 04:45:50 GMT`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- last_modified: `Wed, 18 Nov 2026 04:42:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-13T10:56:56+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "654c1cb74fde26bb2e67bb60c646d25087b35e70",
+      "title": "Please Keep Me Anonymous with Katherine Ryan",
+      "published_at": "2026-11-18T04:30:00+00:00",
+      "link": null,
+      "description": "This week, Chris and Rosie are joined by the brilliant comedian, actress and writer Katherine Ryan ! And what a lot they have to get through! From periods and perimenopause to firstborn daughters, the possibility of having another baby and husbands who do sport. They also get to the bottom of a rather bizarre text Chris received from Katherine... Katherine chats about her new book and, naturally, there's plenty of discussion about The Real Housewives of London . It's a good'un! You can buy Katherine's book Confessions of a First Born Daughter wherever you get your books and you can find The Real Housewives of London here: bravotv.com/the-real-housewives-of-london If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a44d63b4-e28e-11f1-afe5-53248b8dd979/image/0e28edbfdfad8721c17e8267d34e7991.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9636239738.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3004",
+      "speakers": [
+        "Katherine Ryan",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "katherine",
+        "ryan"
+      ]
+    },
     {
       "key": "d5988ab3c2080643266b54f08109c583ee63fd2a",
       "title": "Friday the thirteenth, the three drain superstition and Chris gives Rosie the major ick!",
@@ -9544,6 +9566,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Please Keep Me Anonymous with Katherine Ryan — speakers: Katherine Ryan, Chris Ramsey, Rosie Ramsey
 - 2026-11-13 — Friday the thirteenth, the three drain superstition and Chris gives Rosie the major ick! — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-11 — Please Keep Me Anonymous with Chris Addison and Philippa Dunne — speakers: Chris Addison, Philippa Dunne, Chris Ad, Chris Ramsey, Rosie Ramsey
 - 2026-11-06 — Mini bar wine, a Halloween debrief and Bopit at bedtime — speakers: Chris Ramsey, Rosie Ramsey

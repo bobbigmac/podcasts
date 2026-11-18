@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- last_modified: `Wed, 11 Nov 2026 02:07:04 GMT`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- last_modified: `Wed, 18 Nov 2026 02:12:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "56f1426bca6dde603b6e9aff897edea19ce70784",
+      "title": "Kyla Cobbler",
+      "published_at": "2026-11-18T02:00:00+00:00",
+      "link": null,
+      "description": "She’s one of Irish Stand-up Comedy’s freshest voices who you might know from her massive Instagram reels - and this episode absolutely romps along with stories of living the free life in Barcelona, meeting your one true love and the unbeatable feeling of finding money in an old coat. Kyla is a Cork-born comic who has the ability to turn any story into a compelling epic and this podcast is jam packed with evocative tales from across the globe - it’s irresistible. If you have even a passing interest in seeing excellent, natural stand-up comedy then you need to get yourself along to one of Kyla’s shows. Her latest show is called ‘Not My Lemons’ and there are various dates across the UK and Ireland. Find show dates, watch Instagram Reels and generally immerse yourself in Kyla’s world by going to https://kylacobbler.com/ That is the end of the blurb, wrap up warm and don’t underestimate both the heat-retaining and sartorial powers of the humble scarf. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a5c54d78-e1a4-11f1-b334-cf9fad7043d9/image/867e947f174bd9452394356433365a11.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2534706906.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3544",
+      "speakers": [
+        "Kyla Cobbler",
+        "Russell Howard"
+      ],
+      "topics": [
+        "kyla",
+        "cobbler"
+      ]
+    },
     {
       "key": "82d56e6a81f7c1c1fbc66a4f87b73576a1f724b3",
       "title": "Angela Scanlon",
@@ -3657,6 +3677,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Kyla Cobbler — speakers: Kyla Cobbler, Russell Howard
 - 2026-11-11 — Angela Scanlon — speakers: Angela Scanlon, Russell Howard
 - 2026-11-07 — October's Moments of the Month — speakers: Month Welcome, Russell Howard
 - 2026-11-04 — Tez Ilyas — speakers: Tez Ilyas, Comedian Tez Ilyas, Russell Howard

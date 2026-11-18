@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- last_modified: `Tue, 10 Nov 2026 14:58:59 GMT`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- last_modified: `Tue, 17 Nov 2026 11:00:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever. Every Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified. Contains swearing because it’s really cool. “As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,57 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c335d6f1a0982887bd4d877aedccfb3aea6ae4e2",
+      "title": "The Traitors Special: James Blunt’s Banishment and The Final Fire Pit",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "link": null,
+      "description": "How Did Romesh Win The Celebrity Traitors? He trusted Bash, doubted almost everyone else and made the vote that decided the final, now Rom tells Tom exactly how he did it. The boys cover the mind games behind the fire pit and what the castle looked like from inside versus from the sofa. Elsewhere, the boys debate Ian McKellen’s greatest hit , ask why nobody in Middle-earth ever just called the eagles, and try out their glamorous new studio! Plus, Tom delivers a closing freestyle from a Northumberland listener’s three words: chicken, sewing machine and corned beef. Send your emails to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro: the new studio 03:21 Tom’s day out in London 09:41 Gandalf, the eagles and Middle-earth infrastructure 24:43 The Celebrity Traitors: Tom’s big question 25:56 When did Romesh think he’d win? 36:57 Watching it back vs living it 41:25 Ross Kemp’s surprise redemption 50:02 How the result landed with friends and family 54:22 A single with James Blunt? 55:38 The line that didn’t make the edit 1:03:08 Tom’s freestyle 1:05:49 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d13596e2-df7a-11f1-8201-9f6eb756386e/image/34019079381fb4b0e06f9afa386a0f4c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT9736198995.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4226",
+      "speakers": [
+        "James Blunt’s Banishment",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "traitors",
+        "special",
+        "james",
+        "blunt",
+        "banishment",
+        "final",
+        "fire"
+      ]
+    },
+    {
+      "key": "8ce500c4d11aa2e03b434f156e37b9e5d5b58946",
+      "title": "Wedding Invites, Celebrity DJs and Holiday Friendships",
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "link": null,
+      "description": "Would Tom & Rom go to a stranger's wedding? A listener has a proposal: they’re officiating their sister’s wedding, and they’d like both of the boys to be part of a surprise. Tom is up for it, Romesh is very much not, and a negotiation begins... Plus, the best nicknames ever sent to the pod, which holiday friendships are worth keeping, and who gets the legs, the hair and the comedic brain when the boys build their dream celebrity. Send your emails to wolfandowlpod@gmail.com A Ranga Bee Production. Chapters: 00:00 Intro 00:48 The celebrant’s wedding surprise 04:19 Do celebrity DJs actually DJ? 09:42 Nicknames from the lads’ holiday 10:55 Romesh’s Leeds arena shout-out 14:50 Should Tom meet the emailer? 17:42 Roleplay: lunch with a stranger 20:25 Building your ideal celebrity 22:06 Do holiday friendships last? 23:26 The dream celebrity line-ups 24:44 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d79154a8-dd14-11f1-ab9c-1b43c3a6a6a6/image/09960e8bcab894e0c441e35ecc529b27.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT8689011708.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1654",
+      "speakers": [
+        "Wedding Invites",
+        "Holiday Friendships Would Tom",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "wedding",
+        "invites",
+        "celebrity",
+        "holiday",
+        "friendships"
+      ]
+    },
     {
       "key": "2e30fc94619d563316cf97c9001bc33776c5fd83",
       "title": "Touring, Stand-Up Nerves and Pre-Show Routines",
@@ -7955,6 +8006,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — The Traitors Special: James Blunt’s Banishment and The Final Fire Pit — speakers: James Blunt’s Banishment, Romesh Ranganathan, Tom Davis
+- 2026-11-13 — Wedding Invites, Celebrity DJs and Holiday Friendships — speakers: Wedding Invites, Holiday Friendships Would Tom, Romesh Ranganathan, Tom Davis
 - 2026-11-10 — Touring, Stand-Up Nerves and Pre-Show Routines — speakers: Up Nerves, Show Routines What, Romesh Ranganathan, Tom Davis
 - 2026-11-06 — Jason Momoa, Bad Comebacks and A Very Awkward Transfer Bus — speakers: Jason Momoa, Romesh Ranganathan, Tom Davis
 - 2026-11-03 — Percy Pig Addiction, A Hot Baker and A Missing Arsenal Ticket — speakers: Tom’s Percy Pigs, Romesh Ranganathan, Tom Davis

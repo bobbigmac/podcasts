@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-11-18T00:56:42+00:00`
-- checked_at: `2026-11-18T00:56:42+00:00`
-- last_modified: `Tue, 17 Nov 2026 12:52:29 GMT`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- last_modified: `Wed, 18 Nov 2026 01:07:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-18T00:56:42+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "e33747c83061fb3438f098187f24d078bc223937",
+      "title": "Frank Skinner's Radio Days: Honesty Attaché",
+      "published_at": "2026-11-18T01:00:00+00:00",
+      "link": null,
+      "description": "The gang talk about the Commonwealth Games, David Beckham and his honesty attaché and what word rhymes with innocence. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6abde712-e280-11f1-b5c4-af828d8b79c6/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8364648925.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2180",
+      "speakers": [
+        "Frank Skinner",
+        "Honesty Attaché",
+        "David Beckham"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "honesty"
+      ]
+    },
     {
       "key": "2f650bf38b952d44ebc6d519387fc9620aecb0b7",
       "title": "Jilting Someone at The Altar",
@@ -25282,6 +25305,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Frank Skinner's Radio Days: Honesty Attaché — speakers: Frank Skinner, Honesty Attaché, David Beckham
 - 2026-11-16 — Jilting Someone at The Altar — speakers: Jilting Someone, Finlay Christie, Frank Skinner
 - 2026-11-13 — Bob Dylan Meets The Pope — speakers: Bob Dylan, Finlay Christie, Frank Skinner
 - 2026-11-11 — Frank Skinner's Radio Days: Magazine Man — speakers: Frank Skinner, Victoria Beckham

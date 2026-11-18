@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-11-11T10:55:24+00:00`
-- checked_at: `2026-11-11T10:55:24+00:00`
-- etag: `"djEuMi4wOjE3OTQzNTg4Mzk0MzE="`
+- fetched_at: `2026-11-18T11:39:17+00:00`
+- checked_at: `2026-11-18T11:39:17+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NjM2Mzk1NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-11-11T10:55:24+00:00",
+  "fetched_at": "2026-11-18T11:39:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "670a741d2dbf2656f7c6b3751b590574edacb557",
+      "title": "Celia Imrie",
+      "published_at": "2026-11-18T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/celia-imrie",
+      "description": "This week we have legendary actress Celia Imrie popping round for dinner! From Absolutely Fabulous and Bridget Jones to Calendar Girls, Star Wars, The Diplomat (mum's fave) and (my fave) Better Things - Celia Imrie has graced our screens in just about everything! We heard all about Celia’s extraordinary career, from her early days as a chorus girl touring the world with Glenda Jackson to her love of working with Pamela Adlon on Better Things. We chatted about her experience in the Traitors castle, her love of travelling across the Atlantic by cruise ship, her upcoming role in Tomb Raider, and a brilliant story involving Mikey Maddison & Quentin Tarantino! What a lovely treat to have Celia at the table - thank you for such a fun evening! Celia is in the Sky series 'War', which finishes on the 20th November, and her latest travel memoir, 'The Elegant Hustler: Adventures From a Life on the Move' is out now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1794939370059-55ab42d9-0d55-4c0c-b0f2-e19b372edb43.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6afc965692ab9d05d2d5d0c0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43534210",
+      "itunes_duration": "45:20",
+      "speakers": [
+        "Celia Imrie"
+      ],
+      "topics": [
+        "celia",
+        "imrie"
+      ]
+    },
     {
       "key": "9e92e10c92c6159bf20dae7ef4ba1845fd899838",
       "title": "James Acaster",
@@ -7575,6 +7594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Celia Imrie — speakers: Celia Imrie
 - 2026-11-11 — James Acaster — speakers: James Acaster
 - 2026-11-04 — Arlene Phillips — speakers: Arlene Phillips, Whitney Hou
 - 2026-10-28 — Nick Mohammed — speakers: Nick Mohammed
