@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-17T15:58:35+00:00`
-- checked_at: `2026-11-17T15:58:35+00:00`
-- etag: `W/"680f3-S0/zZKwFby/MpoGg67XlYSxFe88"`
+- fetched_at: `2026-11-18T00:56:42+00:00`
+- checked_at: `2026-11-18T00:56:42+00:00`
+- etag: `W/"699fd-xKaZYoUiFjsqzkjm70EDjrXKKfs"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,73 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-17T15:58:35+00:00",
+  "fetched_at": "2026-11-18T00:56:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "923a4a97d03a60c9e6941dab879220d46d2019ef",
+      "title": "4 Adam and Joe - XFM - 2004.03.27",
+      "published_at": "2026-11-17T19:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/4-Adam-and-Joe---XFM---2004-03-27-e3sia6f",
+      "description": "Relive the hilarious world of Adam Buxton and Joe Cornish with the best moments from their legendary radio shows. Packed with outrageous comedy, ridiculous conversations, unforgettable characters, absurd sketches and plenty of laugh-out-loud moments, this is a celebration of one of Britain's favourite comedy partnerships. Whether you're a longtime fan or discovering Adam and Joe for the first time, sit back, relax and enjoy the comedy gold. Adam & Joe – classic comedy, brilliant banter and hours of entertainment.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794929070053-73a365635d597.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4930404852.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46447613",
+      "itunes_duration": "00:47:51",
+      "speakers": [
+        "Joe Xfm",
+        "Adam Buxton",
+        "Joe Cornish"
+      ],
+      "topics": [
+        "adam"
+      ]
+    },
+    {
+      "key": "774373d8c5cdfdddae09196832dd51aff2a05d5b",
+      "title": "3 - Adam and Joe - XFM - 2003.10.04",
+      "published_at": "2026-11-17T06:25:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/3---Adam-and-Joe---XFM---2003-10-04-e3sghvt",
+      "description": "Relive the hilarious world of Adam Buxton and Joe Cornish with the best moments from their legendary radio shows. Packed with outrageous comedy, ridiculous conversations, unforgettable characters, absurd sketches and plenty of laugh-out-loud moments, this is a celebration of one of Britain's favourite comedy partnerships. Whether you're a longtime fan or discovering Adam and Joe for the first time, sit back, relax and enjoy the comedy gold. Adam & Joe – classic comedy, brilliant banter and hours of entertainment.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794854598564-593ba0aa24d51.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8472537317.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49777259",
+      "itunes_duration": "00:51:17",
+      "speakers": [
+        "Joe Xfm",
+        "Adam Buxton",
+        "Joe Cornish"
+      ],
+      "topics": [
+        "adam"
+      ]
+    },
+    {
+      "key": "18f4f49722bcd07e759e3de8d48c2287a901afa1",
+      "title": "2 - Adam and Joe - XFM - 2003.09.20",
+      "published_at": "2026-11-16T19:11:02+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/2---Adam-and-Joe---XFM---2003-09-20-e3sgim8",
+      "description": "Relive the hilarious world of Adam Buxton and Joe Cornish with the best moments from their legendary radio shows. Packed with outrageous comedy, ridiculous conversations, unforgettable characters, absurd sketches and plenty of laugh-out-loud moments, this is a celebration of one of Britain's favourite comedy partnerships. Whether you're a longtime fan or discovering Adam and Joe for the first time, sit back, relax and enjoy the comedy gold. Adam & Joe – classic comedy, brilliant banter and hours of entertainment.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794855367945-0d15f75d54c67.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9976361692.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41992668",
+      "itunes_duration": "00:43:16",
+      "speakers": [
+        "Joe Xfm",
+        "Adam Buxton",
+        "Joe Cornish"
+      ],
+      "topics": [
+        "adam"
+      ]
+    },
     {
       "key": "eececfde4def0fded5859d5eb2cd3ae6401754a1",
       "title": "1. Adam and Joe XFM - 2003.08.30",
@@ -6269,6 +6329,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — 4 Adam and Joe - XFM - 2004.03.27 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
+- 2026-11-17 — 3 - Adam and Joe - XFM - 2003.10.04 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
+- 2026-11-16 — 2 - Adam and Joe - XFM - 2003.09.20 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-16 — 1. Adam and Joe XFM - 2003.08.30 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-15 — (REMASTED NO ADS) Fall Asleep to Ricky Gervais & Karl Pilkington 😂 | Classic XFM Series 1 — speakers: Karl Pilkington
 - 2026-11-10 — #56 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub

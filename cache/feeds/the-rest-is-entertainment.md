@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-17T15:58:35+00:00`
-- checked_at: `2026-11-17T15:58:35+00:00`
-- last_modified: `Tue, 17 Nov 2026 15:57:07 GMT`
+- fetched_at: `2026-11-18T00:56:42+00:00`
+- checked_at: `2026-11-18T00:56:42+00:00`
+- last_modified: `Tue, 17 Nov 2026 17:22:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-17T15:58:35+00:00",
+  "fetched_at": "2026-11-18T00:56:42+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6af4788fe4d67d4b385a43d3542a8f52eb153efb",
+      "title": "14 Reasons Why R-Patz MUST be Bond",
+      "published_at": "2026-11-17T16:10:00+00:00",
+      "link": null,
+      "description": "Robert Pattinson is the new James Bond - and Marina Hyde has 14 reasons why he is the perfect choice to replace Daniel Craig as 007. From Twilight and Batman, to his age, existing sex appeal and refusal to discuss his thigh measurements, Marina explains why Pattinson beat Callum Turner and Jack Lowden to the role - and why Britain desperately needs this Bond film to work. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Give the gift of The Rest Is Entertainment this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, a members’ newsletter, and more. Always On is home to Marina’s original writing and YouTube show. Each week she’ll be covering politics, culture, sport, media and more. It’s free to subscribe now on marinahyde.com and YouTube. Produced by the Always On team at Goalhanger. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6454ae0a-e29f-11f1-b909-97cd17808b11/image/87d4493a533a6a0b2220e2875175818c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6831955101.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "865",
+      "speakers": [
+        "Robert Pattinson",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "reason",
+        "patz",
+        "bond"
+      ]
+    },
     {
       "key": "0e7a5642aec8a2ad119faf7c0c19c6fe5bf95628",
       "title": "Robert Pattinson: The Bond We Need?",
@@ -7352,6 +7374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-17 — 14 Reasons Why R-Patz MUST be Bond — speakers: Robert Pattinson, Richard Osman, Marina Hyde
 - 2026-11-16 — Robert Pattinson: The Bond We Need? — speakers: Robert Pattinson, Richard Osman, Marina Hyde
 - 2026-11-11 — David Walliams: The Reckoning? — speakers: David Walliams, Richard Osman, Marina Hyde
 - 2026-11-09 — Russell Brand: What The Media Knew — speakers: Russell Brand, Richard Osman, Marina Hyde

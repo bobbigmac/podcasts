@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-15T16:20:33+00:00`
-- checked_at: `2026-11-15T16:20:33+00:00`
-- etag: `"djEuMi4wOjE3OTQ3NTc5MTE1MzE="`
+- fetched_at: `2026-11-18T00:56:42+00:00`
+- checked_at: `2026-11-18T00:56:42+00:00`
+- etag: `"djEuMi4wOjE3OTQ5NjAwMzk1MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-15T16:20:33+00:00",
+  "fetched_at": "2026-11-18T00:56:42+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "962c924949c8e87f631de2bb4af8fa8817fed2c8",
+      "title": "Why Are My Jeans Covered In Curry?",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/why-are-my-jeans-covered-in-curry",
+      "description": "PART 1: WHY ARE MY JEANS COVERED IN CURRY? Another week at The Socially Distant Sports Bar , where Mike Bubbins, Elis James and Steff Garrero are confronted with a photograph so grotesque that Mike can't decide whether to delete it from the internet forever or have it blown up to enormous proportions and hung in his gym as motivation. And before you ask, not even our top-tier Patreon subscribers are getting to see it . Some things are better left to the imagination. Although in this particular case, probably not even that. Elsewhere, Elis is reminded of the time his beloved Swansea City were comprehensively trolled by the PA announcer at QPR, and we discover what happens when a collection of NFL players attempt to pronounce some of Britain's more challenging place names. Spoiler alert: badly. Eventually, sport manages to make an appearance. Mike brings in some completely mad rugby, Elis has the NFL's attempts at British geography, and Steff heads to QPR for a little bit of 5-0. Clips Elis: NFL Players Try to Pronounce English Place Names https://www.instagram.com/reel/DeAgcYSFpA6/?vrfl=MTAxcmFwd2hxN2R0Yg== Mike: Mad Rugby https://www.instagram.com/reel/DetieMmIm-s/?obrf=MTloNnI0OGk0ODBhag== Steff: Hawaii 5-0 https://www.instagram.com/reel/De48iFmuWU-/?cplk=Nms5ZjZ1djUzZnoy A deeply unpleasant photograph. Some geographical confusion. Swansea getting grief at QPR. And a question about curry-covered jeans that probably shouldn't need answering. Just another week at The Socially Distant Sports Bar. Part 2, One Team In Tallinn , will be out on Friday, featuring possibly the most one-sided international football match ever played and an unusually lengthy book discussion courtesy of Mr Mike Bubbins. And if you want the entire episode early and advert-free, including Part 3, He Just Wants To Tell You About Pools , subscribe to Distant Pod Bonus Club on Apple Podcasts . Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6afafd53b2404cde2ff6a818/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "167023680",
+      "itunes_duration": "1:09:35",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "jeans",
+        "curry"
+      ]
+    },
     {
       "key": "c814ec8bdf62772cb92d8e830da8fb13aa3c5829",
       "title": "Danny Kelly: Pint Size",
@@ -16540,6 +16561,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-18 — Why Are My Jeans Covered In Curry? — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-15 — Danny Kelly: Pint Size — speakers: Danny Kelly, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-13 — Hang It In The Louvre — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-11 — Trudge State — speakers: Elis James, Mike Bubbins, Steff Garrero
