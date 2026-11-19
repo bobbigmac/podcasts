@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-11-06T06:40:47+00:00`
-- checked_at: `2026-11-06T06:40:47+00:00`
-- etag: `"djEuMi4wOjE3OTM5Mjg1MTA3NTM="`
+- fetched_at: `2026-11-19T20:33:57+00:00`
+- checked_at: `2026-11-19T20:33:57+00:00`
+- etag: `"djEuMi4wOjE3OTUxMDQ1MzY3NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-11-06T06:40:47+00:00",
+  "fetched_at": "2026-11-19T20:33:57+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "80d3ab937ea0b8c7339de26ff7a01f2b39486ff0",
+      "title": "Low-Budget V",
+      "published_at": "2026-11-19T16:08:56+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/low-budget-v",
+      "description": "This week, Katherine's Telling Everybody Everything about having a front row seat to the cultural moment of our lifetime as Karen delivered THE peak Real Housewives READ heard round Belgravia, Chelsea, twice in Jersey and THE WORLD. Don't mess with Jamaicans. Plus, the recording of a new panel show is threatened as Katherine completely loses her voice, and Bobby seeks retribution on the neighbours by setting off his own fireworks at 7am (which is within the rules). Also, comedian Andrew Johnston (@mandrewbrawnston) joins us with a thorough run-down of the Nvidia spy cheating scandal and another one bites the dust as Jen Affleck (not that one), (or that one) divorces her fancy little candy ass gambling Mormon husband. Finally, a listener dilemma about holiday plans during BEEF with a sister in law. xx Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1795103852344-7d1f7327-b091-4c60-b46d-58d34d685080.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6aff1f182c093095d7d19010/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "795754958",
+      "itunes_duration": "50:03",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "budget"
+      ]
+    },
     {
       "key": "fc6e7d5281ca5dd9821a5f5487dc3069bb953311",
       "title": "This and That",
@@ -6629,6 +6648,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Low-Budget V — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-11-06 — This and That — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-30 — Billy Corgan Chose This — speakers: Billy Corgan, Katherine Ryan
 - 2026-10-23 — The Halloween Costume of 2026 — speakers: Telling Everybody Everything, Katherine Ryan

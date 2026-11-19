@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-16T19:35:27+00:00`
-- checked_at: `2026-11-16T19:35:27+00:00`
-- etag: `"djEuMi4wOjE3OTQ4NDY2Mzk0Nzg="`
+- fetched_at: `2026-11-19T20:33:57+00:00`
+- checked_at: `2026-11-19T20:33:57+00:00`
+- etag: `"djEuMi4wOjE3OTUxMDY3MzkzMTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-16T19:35:27+00:00",
+  "fetched_at": "2026-11-19T20:33:57+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fbb29b89c5efe65ef3187e711c29410f6a501448",
+      "title": "Can Labour save a lost generation?",
+      "published_at": "2026-11-19T16:45:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/can-labour-save-a-lost-generation",
+      "description": "Alan Milburn’s long-awaited review into the crisis of NEETs - young people not in education, employment or training - has arrived. In it, the New Labour veteran tasked by Keir Starmer’s government with looking into youth unemployment proposes radical changes to welfare, education and incentives for employers to help get 440,000 young people into work in the next ten years. Andy Burnham, in full support of the report, has said he wants this to be a \"watershed moment in how we think about welfare and how we support young people\"But are the proposals fully costed? Who will pay? And does Andy Burnham have a prospective welfare rebellion on his hands? LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6afefa48541b4369ed3b73f8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56234662",
+      "itunes_duration": "39:02",
+      "speakers": [
+        "Alan Milburn",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "labour",
+        "generation"
+      ]
+    },
     {
       "key": "acbf8c91cff2a40acf6280e7373c52b098fae58b",
       "title": "Britain’s violence-obsessed adolescents",
@@ -33018,6 +33039,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Can Labour save a lost generation? — speakers: Alan Milburn, Anoosh Chakelian, Oli Dugmore
 - 2026-11-16 — Britain’s violence-obsessed adolescents — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-14 — The Jensen Huang affair — speakers: Jensen Huang, Michael Portillo, Anoosh Chakelian, Oli Dugmore
 - 2026-11-12 — How green is Burnham’s government? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

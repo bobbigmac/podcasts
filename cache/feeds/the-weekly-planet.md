@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-19T02:32:50+00:00`
-- checked_at: `2026-11-19T02:32:50+00:00`
-- etag: `"djEuMi4wOjE3OTUwNTEyNTkxNzM="`
+- fetched_at: `2026-11-19T20:33:57+00:00`
+- checked_at: `2026-11-19T20:33:57+00:00`
+- etag: `"djEuMi4wOjE3OTUwOTE0MzkyNzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-19T02:32:50+00:00",
+  "fetched_at": "2026-11-19T20:33:57+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "26cfd810008223d5f66bfe1f0fc9b3292408b73c",
+      "title": "Virtuosity - Caravan Of Garbage",
+      "published_at": "2026-11-19T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/virtuosity-caravan-of-garbage",
+      "description": "AI is taking over our lives in the most boring and soul-destroying ways imaginable. But there was a time when we didn't know what role AI would play in our world, and movies certainly reflected that. So over the next three weeks, we're talking rogue AI movies, starting with 1995's Virtuosity, starring Denzel Washington and Russell Crowe. A compelling cat-and-mouse game where a disgraced cop with an inconsequential robot arm must go up against SID 6.7, a 3D-printed lunatic with the personality of 150 serial killers who eats glass. This film is undeniable. Thanks for watching our Caravan Of Garbage review. SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6aed3571d7ee414f9709d824/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26164678",
+      "itunes_duration": "25:19",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "virtuosity",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "598a6954dafcd7de68385fb3ff7529c83147fa2b",
       "title": "649 Another DC Reboot & VisionQuest Review",
@@ -23505,6 +23526,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Virtuosity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-11-16 — 649 Another DC Reboot & VisionQuest Review — speakers: James Gunn, James Clement, Nick Mason
 - 2026-11-12 — Maze Runner: The Death Cure - Caravan of Garbage — speakers: Maze Runner, Dylan O'Brien, James Clement, Nick Mason
 - 2026-11-08 — 648 Godzilla Minus Zero — speakers: Godzilla Minus Zero Thank, Weekly Planet, James Clement, Nick Mason
