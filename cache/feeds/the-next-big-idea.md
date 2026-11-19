@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
-- last_modified: `Thu, 12 Nov 2026 10:00:00 GMT`
+- fetched_at: `2026-11-19T11:37:10+00:00`
+- checked_at: `2026-11-19T11:37:10+00:00`
+- last_modified: `Thu, 19 Nov 2026 10:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-19T11:37:10+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,8 +28,58 @@
   ],
   "episodes": [
     {
+      "key": "1a2fb128af2a320a31338491c7f195d2d3911226",
+      "title": "Can One Person Change History? Jared Diamond Has the Data.",
+      "published_at": "2026-11-19T10:30:00+00:00",
+      "link": null,
+      "description": "In his Pulitzer Prize–winning book Guns, Germs, and Steel , Jared Diamond showed that the rise of civilizations had more to do with geography, climate, crops, and livestock than with the “great men” history books tend to credit. Now, in Profits, Prophets, Coaches, and Kings , he turns things around and asks whether, after all, one person can change the course of history. 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — Storyblocks’ best deal of the year is here for Black Friday: 20% off any annual plan, for a limited time. You get unlimited downloads from a 100% human-made library of footage, music, sound effects and templates, all pre-licensed for monetized content. Claim it at storyblocks.com/nbi Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP9916183196.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4005",
+      "speakers": [
+        "Jared Diamond",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "person",
+        "change",
+        "history",
+        "jared",
+        "diamond",
+        "data"
+      ]
+    },
+    {
+      "key": "371e51e2639ffc2f181ed6eaac12ac5f4e783c33",
+      "title": "Flash Briefing: Jensen’s Out, Anthropic IPOs and Rufus Gets a Duo",
+      "published_at": "2026-11-16T10:30:00+00:00",
+      "link": null,
+      "description": "Today’s a little different. No guest. No book. Just Rufus, Caleb, and three tech news stories they can’t stop talking about. First up: Jensen Huang, arguably the most powerful person in AI, has resigned as CEO of Nvidia following revelations that he was having two extramarital affairs — one with a subordinate and another with a woman alleged to be a Chinese spy. What’s next for the fabled chipmaker, and what does Jensen’s downfall say about the myth of the lone genius in Silicon Valley? Then we get into Anthropic’s upcoming IPO, which could value the five-year-old startup at as much as $1.4 trillion. Its own filing warns that the technology it’s building could pose “catastrophic or existential risks to humanity.” Can a safety-first AI company stay that way once it answers to shareholders? Finally, Apple may have already sold 6 million iPhone Duos — including one to Rufus. Is Apple finally making cool stuff again? What does the Duo tell us about new CEO John Ternus? And are camera-enabled AirPods next? __________ 💿 Interviews Mentioned: → Stephen Witt on Jensen Huang and Nvidia and AI going rogue → Josh Tyrangiel on Musk, Bezos, and the battle to control space → Nicholas Thompson on AI, robots, and open source → Daniel Kokotajlo on AI 2027 → David Pogue on the history and future of Apple 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5531900100.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2106",
+      "speakers": [
+        "Flash Briefing",
+        "Jensen’s Out",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "flash",
+        "briefing",
+        "jensen",
+        "ipos",
+        "rufus"
+      ]
+    },
+    {
       "key": "8ca7fddd83440b809e6a7176b84788e7ea88e8a6",
-      "title": "Ethan Mollick on Using AI Without Losing Your Edge",
+      "title": "AI Can Make You the Best in the World at Your Job. Ethan Mollick Tells Us How.",
       "published_at": "2026-11-12T10:00:00+00:00",
       "link": null,
       "description": "When ChatGPT launched less than four years ago, it couldn’t count the r’s in “strawberry.” Today, AI is solving fabled math problems, writing software, accelerating scientific discovery, and transforming medicine. But if machines can do the hard work for us, what happens to our ability to think, learn, and create? Today on the show, Wharton professor and AI expert Ethan Mollick returns to The Next Big Idea to discuss his new book, Co-Existence . He and Rufus explore what happens as AI takes on more of our work, and how we can keep growing alongside it. They talk about using AI to sharpen our thinking without eroding our skills and why this could be a golden age for entrepreneurs. They also take on a bigger question: How much control are we willing to give up? __________ ⏪ Check out Ethan's previous appearance on the show here . 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
@@ -39,14 +89,14 @@
       "enclosure_length": "0",
       "itunes_duration": "4569",
       "speakers": [
-        "Ethan Mollick",
+        "Ethan Mollick Tells",
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
       "topics": [
+        "world",
         "ethan",
-        "mollick",
-        "edge"
+        "mollick"
       ]
     },
     {
@@ -8787,7 +8837,9 @@
 
 ## Episodes (newest first)
 
-- 2026-11-12 — Ethan Mollick on Using AI Without Losing Your Edge — speakers: Ethan Mollick, Rufus Griscom, Caleb Bissinger
+- 2026-11-19 — Can One Person Change History? Jared Diamond Has the Data. — speakers: Jared Diamond, Rufus Griscom, Caleb Bissinger
+- 2026-11-16 — Flash Briefing: Jensen’s Out, Anthropic IPOs and Rufus Gets a Duo — speakers: Flash Briefing, Jensen’s Out, Rufus Griscom, Caleb Bissinger
+- 2026-11-12 — AI Can Make You the Best in the World at Your Job. Ethan Mollick Tells Us How. — speakers: Ethan Mollick Tells, Rufus Griscom, Caleb Bissinger
 - 2026-11-05 — Malcolm Gladwell on What We Get Wrong About Guns — speakers: Malcolm Gladwell, Rufus Griscom, Caleb Bissinger
 - 2026-10-29 — Danny Meyer on "What Could Possibly Go Right" — speakers: Danny Meyer, Rufus Griscom, Caleb Bissinger
 - 2026-10-26 — Best Of: Stop Wasting Your Talent and Start Making a Difference — speakers: Rufus Griscom, Caleb Bissinger

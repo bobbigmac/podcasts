@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NzA4Mzk1NTY="`
+- fetched_at: `2026-11-19T11:37:10+00:00`
+- checked_at: `2026-11-19T11:37:10+00:00`
+- etag: `"djEuMi4wOjE3OTUwODc4NzIyNDU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-19T11:37:10+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "0133291f4ea43d768b5bf0d87a14685946cf27b1",
+      "title": "S17 Ep 925: Professional Podcasting and Motorway Madness",
+      "published_at": "2026-11-19T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-925-professional-podcasting-and-motorway-madness",
+      "description": "On today’s show - after watching the some video pods recently (primarily The Rest Is Entertainment) David has some things to say about professional podcasting, having your own studio to record in and the best way to approach making adverts for them. After that, Joe tells David about his recent near-miss on the motorway and has a bit of a rant about irresponsible drivers. Then they finish things off discussing the pros and cons of living in a town centre. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6af700f934f69b9edd468776/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47201384",
+      "itunes_duration": "49:10",
+      "speakers": [
+        "Professional Podcasting",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "professional",
+        "podcasting",
+        "motorway",
+        "madness"
+      ]
+    },
     {
       "key": "0faaea4b0eafe735acceeb30e63f8a6e0b270b6d",
       "title": "S17 Ep 924: An Estate Agent Altercation",
@@ -16765,6 +16788,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — S17 Ep 925: Professional Podcasting and Motorway Madness — speakers: Professional Podcasting, Joe Wilkinson, David Earl
 - 2026-11-18 — S17 Ep 924: An Estate Agent Altercation — speakers: Joe Wilkinson, David Earl
 - 2026-11-17 — S17 Ep 923: The Most Traumatic Night Ever — speakers: Ever David, Joe Wilkinson, David Earl
 - 2026-11-16 — S17 Ep 922 Vault Mondays: Guest - James Acaster — speakers: James Acaster, Joe Wilkinson, David Earl

@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
-- etag: `"27067e-6600bd928b653"`
-- last_modified: `Thu, 12 Nov 2026 03:24:24 GMT`
+- fetched_at: `2026-11-19T11:37:10+00:00`
+- checked_at: `2026-11-19T11:37:10+00:00`
+- etag: `"271ba8-6609f095f47eb"`
+- last_modified: `Thu, 19 Nov 2026 11:00:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-19T11:37:10+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "cfae7a3df32d107c926b7fa39c2ff82e9a3bbaf8",
+      "title": "The men taking strange and extreme measures to boost their sperm quality",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "link": "https://theconversation.com/spermmaxxing-the-science-behind-ice-packs-red-light-and-abstinence-294937",
+      "description": "Some men are taking ice packs into saunas to protect their testicles from the heat. Others advocate abstinence, or shine red lights on their groins in the hope of improving their sperm. There are even organised sperm races, with competitors and spectators. Welcome to spermmaxxing, the latest online trend promising men ways to boost their sperm count and quality. It brings male fertility into the world of internet self-optimisation, where almost any part of the body can become a project. But do these techniques actually work? And what can sperm count tell someone about their chances of becoming a parent? In this episode we're running an interview from Strange Health, a podcast from The Conversation which explores the scientific evidence behind viral health and wellness trends. Strange Health co-host, Katie Edwards, a health and medicine editor at The Conversation in the UK, spoke to Michael Carroll , a reader in Reproductive Science at Manchester Metropolitan University in the UK about where online advice on sperm health gets ahead of the science and what's really happening to global sperm counts. You can follow Strange Health wherever you get your podcasts, or watch it on YouTube . Strange Health is produced by Gemma Ware with editing and mixing by Anouk Millet. Mixing for The Conversation Weekly by Michelle Macklem and theme music by Neeta Sarl. Ashlynne McGhee is our head of editorial innovation, and Gemma Ware is our head of audio. Misha Ketchell and Stephen Khan are our editors-in-chief. You can sign up for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation, an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3b9fe59f-7a27-4c16-af27-75c2e0468402.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35210804",
+      "itunes_duration": "24:27",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "measure",
+        "sperm",
+        "quality"
+      ]
+    },
     {
       "key": "f13604f7b9d8b739cb7feb38e95262137fc88a38",
       "title": "Have 30 years of global climate talks actually made a difference?",
@@ -6486,6 +6506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — The men taking strange and extreme measures to boost their sperm quality — speakers: Gemma Ware
 - 2026-11-12 — Have 30 years of global climate talks actually made a difference? — speakers: Gemma Ware
 - 2026-11-05 — Democrats won Congress. How much can they rein in Trump? — speakers: Gemma Ware
 - 2026-10-29 — How Big Porn made sexual violence mainstream — speakers: How Big Porn, Gemma Ware

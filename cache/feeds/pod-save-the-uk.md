@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
-- etag: `W/"b1f62f3aa4a93b09264d8e9b338d8fa8"`
-- last_modified: `Thu, 12 Nov 2026 02:00:00 GMT`
+- fetched_at: `2026-11-19T11:37:10+00:00`
+- checked_at: `2026-11-19T11:37:10+00:00`
+- etag: `W/"9334e5f1f39b7ca27619dbe14f210569"`
+- last_modified: `Thu, 19 Nov 2026 09:43:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-19T11:37:10+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ef4c6f0d6f88fb077288d36fbb6129a7bc679fd2",
+      "title": "“It’s a goldrush of bullsh!t”: truth and lies w/ Oobah Butler. Plus, scaling the ‘Preston Model’",
+      "published_at": "2026-11-19T02:00:00+00:00",
+      "link": "https://audioboom.com/posts/8978736",
+      "description": "This week, Nish & Coco respond to the heavily trailed benefits cuts as part of Alan Milburn’s review into youth unemployment. Will a one-stop “Youth Opportunity Service” help tackle the one million “neets”, or are we overlooking crucial context that might explain why so many young people are struggling? They’re also joined by Preston City Council leader, Matthew Brown, who talks them through the radical “Preston Model” built on community wealth building, redistribution and cooperative ownership. Wages are up, depression is down, and there’s even a council-owned cinema! So why aren’t we seeing this model replicated across the country? Andy Burnham, you listening? Also, Oobah Butler zooms in from New York ahead of his latest HBO series, “Scams for a Better Tomorrow”, sharing some of the cultural differences between the UK and the US, and the lessons he learned from making a show in which he finds out how far bullsh*t can take you with some of the world’s most powerful institutions…turns out, quite far. Send over your best festive (or non-festive) questions, queries, quizzes to podsavetheuk@crooked.com for our mailbag episode! Watch “Scams for a Better Tomorrow” on HBO on November 22nd. USEFUL LINKS UK Index on Systemic Trends: https://ukindex.democracycollaborative.org/ Further reading on the Preston Model: https://www.preston.gov.uk/article/1339/What-is-Preston-Model Further reading on Community Wealth Building: https://cles.org.uk/expertise/community-wealth-building/ Read the Spirit Level: https://www.hive.co.uk/product/kate-pickett/the-spirit-level--why-equality-is-better-for-everyone/613456 CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://auraframes.co.uk/pdp/PSTUK CODE: PSTUK HEXCLAD: https://www.hexclad.co.uk/PSTUK SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43946256/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8978736.mp3?modified=1795047508&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5369",
+      "speakers": [
+        "Oobah Butler",
+        "Alan Milburn",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "goldrush",
+        "truth",
+        "oobah",
+        "butler",
+        "preston",
+        "model"
+      ]
+    },
     {
       "key": "638fc1bab61e95d1c8a834297cc8f02175918d59",
       "title": "Russell Brand, David Walliams: media’s misogyny problem. Plus, ‘pragmatism’ and climate villains w/ Greenpeace",
@@ -678,10 +704,10 @@
       "link": "https://audioboom.com/posts/8905980",
       "description": "This week, Nish and Coco make sense of another chaotic week in Westminster, as Keir Starmer clings on in Downing Street, Wes Streeting resigns, and Andy Burnham’s route back to Parliament suddenly becomes very real. They’re joined by Nadia Whittome, Labour MP for Nottingham East and one of the earliest MPs to call for Starmer to go, to unpack the mood inside the Labour Party, whether Burnham is really the answer, and what Labour needs to do to win back progressive voters. Plus: after Stephen Christopher Yaxley-Lennon, aka Tommy Robinson’s latest rally in London, how should progressives respond to the far right without simply echoing its politics? And: Nigel Farage faces questions over a £5m gift from a crypto billionaire. Does the man of the people have some very expensive explaining to do? CHECK OUT THESE DEALS FROM OUR SPONSORS BT: Search ‘Why BT’ to find out more. VANTA: https://www.vanta.com/PSTUK INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://shopify.co.uk/podsavetheuk GUESTS Nadia Whittome MP USEFUL LINKS @Femi_Sorry: Tommy Robinson supporters expose themselves so fast! - Unite The Kingdom https://www.youtube.com/watch?v=vBdc_HsSA5Y CLIP CREDITS Femi Oluwole Nigel Farage Interview: The Sun Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43655858.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905980.mp3?modified=1779360512&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905980.mp3?modified=1794891924&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3976",
+      "itunes_duration": "3684",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4444,6 +4470,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — “It’s a goldrush of bullsh!t”: truth and lies w/ Oobah Butler. Plus, scaling the ‘Preston Model’ — speakers: Oobah Butler, Alan Milburn, Nish Kumar, Coco Khan
 - 2026-11-12 — Russell Brand, David Walliams: media’s misogyny problem. Plus, ‘pragmatism’ and climate villains w/ Greenpeace — speakers: Russell Brand, David Walliams, Nish Kumar, Coco Khan
 - 2026-11-05 — Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato — speakers: Mariana Mazzucato, Nish Kumar, Coco Khan
 - 2026-10-29 — Baked beans and bank tax: Healey’s ‘boring’ budget? Plus, Brazil boots Bolsonaro 2.0 — speakers: Zoë Grünewald, Nish Kumar, Coco Khan

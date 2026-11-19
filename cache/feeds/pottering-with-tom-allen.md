@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-11-12T11:04:02+00:00`
-- checked_at: `2026-11-12T11:04:02+00:00`
+- fetched_at: `2026-11-19T11:37:10+00:00`
+- checked_at: `2026-11-19T11:37:10+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 12 Nov 2026 06:33:07 GMT`
+- last_modified: `Thu, 19 Nov 2026 05:07:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-12T11:04:02+00:00",
+  "fetched_at": "2026-11-19T11:37:10+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e292d6f80b1eaa919a3750013223d5a0b9798b83",
+      "title": "Simon Lycett",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the utterly fabulous Simon Lycett , florist extraordinaire and a man who certainly knows a thing or two about flowers! 🌸🌿 From fashionable Chelsea flower shops to royal occasions at Westminster Abbey, Simon has had a truly remarkable career. We chat famous clients, Christmas wreaths, nature-loving neighbours and, naturally, add a little sprinkling of Dame Mary Berry! 🌷 So, dust off your best vase, gather your finest blooms and come Pottering with us. 💐 Add both of Simon’s books to your basket at simonlycett.co.uk and apply the discount code TOMSBAPS at checkout for a fabulous 2 for 1 offer! The perfect Christmas gift for the Potterer in your life! 🎁 🎧 Watch on YouTube, Apple and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! I’d love to hear from you! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a1261404-e2db-11f1-9241-9fff34fc49a4/image/c4e61eb34319fbbb6e96db0dbbc17e10.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4970363990.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4523",
+      "speakers": [
+        "Simon Lycett",
+        "Tom Allen"
+      ],
+      "topics": [
+        "simon",
+        "lycett"
+      ]
+    },
     {
       "key": "c16944824b24c070877fd18567deb0ca547a4ef3",
       "title": "Sindhu Vee",
@@ -1263,6 +1283,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Simon Lycett — speakers: Simon Lycett, Tom Allen
 - 2026-11-12 — Sindhu Vee — speakers: Sindhu Vee, Tom Allen
 - 2026-11-05 — Kieran Hodgson — speakers: Kieran Hodgson, Tom Allen
 - 2026-10-29 — Mark Gatiss — speakers: Mark Gatiss, Tom Allen
