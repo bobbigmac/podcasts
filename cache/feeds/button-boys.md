@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-11-12T02:15:49+00:00`
-- checked_at: `2026-11-12T02:15:49+00:00`
-- last_modified: `Thu, 12 Nov 2026 00:08:01 GMT`
+- fetched_at: `2026-11-19T02:32:50+00:00`
+- checked_at: `2026-11-19T02:32:50+00:00`
+- last_modified: `Thu, 19 Nov 2026 00:08:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-12T02:15:49+00:00",
+  "fetched_at": "2026-11-19T02:32:50+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,32 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "24e0824e6485fa98ceb5a9cc5ff0cbf0ac4db339",
+      "title": "Grand Theft Auto: A Button Boys Special",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "link": null,
+      "description": "It's the moment we've all been waiting for. After years in the making and several delays, the day is finally upon us. Pierre has finally used a controller to play a game. Ok that's a lie but it's finally GTA VI release day! To celebrate this historic occasion, the Boys are discussing everything Grand Theft Auto . Each of them has picked a game from the back catalogue to see how it holds up today. There's terrible car physics, frustrating timed missions and baffling dialogue but also plenty of reminders of why these games were mind-blowing in their day. The Boys also discuss their wishlist of features for the latest instalment in the series as well as their predictions. This episode was recorded before the release so enjoy listening to just how wrong they'll be. But before all that, they discuss what they've been playing this week. Sarah's finally learnt how to pronounce the game they're playing, Pierre's forgiven a franchise as he gets stuck into its latest release and Glenn's a little lost in space with a puzzle game from the publishers of Blue Prince. To follow along with the Button Boys outside the podcast: ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Star Wars: Galactic Racer Red Dead Redemption 2 Grand Theft Auto VI Call of Duty: Modern Warfare 4 Call of Duty: Black Ops 7 Dark Souls Halo: Combat Evolved Uncharted 4: A Thief's End 007 First Light Immortals Fenyx Rising Perky Little Things The Legend of Zelda: Breath of the Wild The Legend of Zelda: Ocarina of Time Kynseed The Séance of Blake Manor Blue Prince Grand Theft Auto V Grand Theft Auto IV Grand Theft Auto: Vice City Grand Theft Auto III Grand Theft Auto: San Andreas WipEout Bully Kingdom Come: Deliverance II Dragon's Dogma II Produced and edited by Ben Drayton Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2289347706.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3539",
+      "speakers": [
+        "Grand Theft Auto",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "button",
+        "boys",
+        "special"
+      ]
+    },
     {
       "key": "01a4e529c9305663a35ba63d4bc8ced9bb656def",
       "title": "Fauna? I Barely Know Her: Wildlife in Games",
@@ -1661,6 +1687,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Grand Theft Auto: A Button Boys Special — speakers: Grand Theft Auto, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-12 — Fauna? I Barely Know Her: Wildlife in Games — speakers: Games Sometimes, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-05 — Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins — speakers: Movie Magic, Awful Adaptations, Worst Movie Tie, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-10-29 — Halloween Spooktacula Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

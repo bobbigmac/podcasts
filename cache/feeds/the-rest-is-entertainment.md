@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-18T00:56:42+00:00`
-- checked_at: `2026-11-18T00:56:42+00:00`
-- last_modified: `Tue, 17 Nov 2026 17:22:07 GMT`
+- fetched_at: `2026-11-19T02:32:50+00:00`
+- checked_at: `2026-11-19T02:32:50+00:00`
+- last_modified: `Thu, 19 Nov 2026 00:15:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-18T00:56:42+00:00",
+  "fetched_at": "2026-11-19T02:32:50+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "863f976262e5763bcfd700ec1c352c1240f17ebe",
+      "title": "How Hollywood Ruined The Cotswolds",
+      "published_at": "2026-11-19T00:05:00+00:00",
+      "link": null,
+      "description": "How would an all-star Traitors series work? Have Celebrities & Soho Farmhouse killed the English countryside idyll? Is The Pitt in legal trouble? Richard Osman and Marina Hyde answer your questions on the world of TV, celebrity and much much more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud Technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. Give The Rest Is Entertainment this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, a members’ newsletter, and more. For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Louis Mealing Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bf9462b0-e281-11f1-bc30-2b431989526e/image/8dbc8e9d0e2c6dede285937bc0792290.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9910219733.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1914",
+      "speakers": [
+        "Cotswolds How",
+        "Soho Farmhouse",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "hollywood",
+        "cotswolds"
+      ]
+    },
     {
       "key": "6af4788fe4d67d4b385a43d3542a8f52eb153efb",
       "title": "14 Reasons Why R-Patz MUST be Bond",
@@ -7374,6 +7396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — How Hollywood Ruined The Cotswolds — speakers: Cotswolds How, Soho Farmhouse, Richard Osman, Marina Hyde
 - 2026-11-17 — 14 Reasons Why R-Patz MUST be Bond — speakers: Robert Pattinson, Richard Osman, Marina Hyde
 - 2026-11-16 — Robert Pattinson: The Bond We Need? — speakers: Robert Pattinson, Richard Osman, Marina Hyde
 - 2026-11-11 — David Walliams: The Reckoning? — speakers: David Walliams, Richard Osman, Marina Hyde
