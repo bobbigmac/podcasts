@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-18T00:56:42+00:00`
-- checked_at: `2026-11-18T00:56:42+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NjAwMzk1MzA="`
+- fetched_at: `2026-11-20T02:18:09+00:00`
+- checked_at: `2026-11-20T02:18:09+00:00`
+- etag: `"djEuMi4wOjE3OTUxMzMyNTkzNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-18T00:56:42+00:00",
+  "fetched_at": "2026-11-20T02:18:09+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ae626c831ee0f3192ac6fc5ad6f9808facc4b5f8",
+      "title": "One Team in Tallinn",
+      "published_at": "2026-11-20T00:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/one-team-in-tallinn",
+      "description": "PART 2: ONE TEAM IN TALLINN Welcome to the second half of this week's Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero. This week we've got what might genuinely be the most one-sided international football match in history, followed by the longest book discussion we've had in ages. And the book was chosen by Mike Bubbins . Yes. Really. Documentary of the Week Elis: One Team in Tallinn Elis brings in the brilliant BBC documentary One Team in Tallinn , telling the extraordinary story of Scotland's 1996 World Cup qualifier against Estonia. It's one of the strangest matches in international football history. After concerns about the floodlights at the stadium in Tallinn, FIFA ordered the kick-off to be brought forward by several hours. Scotland turned up. Estonia didn't. And so, in front of hundreds of travelling Scottish supporters, Scotland kicked off against absolutely nobody. Three seconds later, the referee blew the final whistle. One team. Eleven players. No opposition. And a football match that immediately descended into one of the greatest administrative farces the sport has ever seen. It's a glorious story of international football, questionable decision-making and the sort of bureaucratic nonsense that could only happen when FIFA gets involved. https://www.bbc.co.uk/iplayer/episode/m00334mw/one-team-in-tallinn Book of the Week Mike: The Steps by Sylvester Stallone This week's book choice comes from Mike, who has been getting stuck into Sylvester Stallone's autobiography, The Steps . And when we say getting stuck into it, we obviously mean listening to Stallone read it on Audible . The book charts Stallone's extraordinary journey from a difficult childhood and years of struggling to make it as an actor to the creation of Rocky , one of the greatest underdog stories ever told. There are tales of rejection, poverty, determination and the stubborn refusal to give up on a dream, even when Hollywood seemed determined to make sure it never happened. It's an entertaining look at the man behind Rocky Balboa, and what it actually took to get the film made. And, perhaps most surprisingly of all, it prompts one of the longest book discussions in Distant Pod history . From Mike. We don't know what's happening either. https://link.amazon/B064rqnoZ Scotland playing football against nobody. Sylvester Stallone refusing to give up. And Mike Bubbins reviewing an entire book. Three remarkable sporting achievements. That's it for the regular feed this week. But if you want more, Part 3 — He Just Wants To Tell You About Pools — is available exclusively to Distant Pod Bonus Club subscribers on Apple Podcasts , along with early and advert-free episodes every Tuesday. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6afb0022abfa3ac1310520fe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97224960",
+      "itunes_duration": "40:30",
+      "speakers": [
+        "One Team",
+        "Socially Distant Sports Bar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "team",
+        "tallinn"
+      ]
+    },
     {
       "key": "962c924949c8e87f631de2bb4af8fa8817fed2c8",
       "title": "Why Are My Jeans Covered In Curry?",
@@ -16561,6 +16584,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — One Team in Tallinn — speakers: One Team, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-18 — Why Are My Jeans Covered In Curry? — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-15 — Danny Kelly: Pint Size — speakers: Danny Kelly, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-13 — Hang It In The Louvre — speakers: Mike Bubbins, Elis James, Steff Garrero

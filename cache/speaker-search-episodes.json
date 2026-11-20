@@ -6965,6 +6965,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:74fa0980a57e",
+        "feed_title": "Where There's A Will, There's A Wake",
+        "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
+        "dedupe_key": "c61a2d8b19d0b476148841bd7a9210a64e75eec1",
+        "episode_key": "c61a2d8b19d0b476148841bd7a9210a64e75eec1",
+        "title": "Here Lies Ed Gamble",
+        "published_at": "2026-11-10T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "R.I.P me, satanic bowels and is Mel going into the Traitors castle?\n\n \n\nIt's stand up comedian and podcast host of Off Menu and Traitors Uncloaked, Ed Gamble!\n\n \n\nHave a story for us? Send it over to mel@deathpodcast.co.ukA Sony Music Entertainment production.\n\n \n\nSave 50% off your first three months when you subscribe",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY3328747662.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/here-lies-ed-gamble/id1654059310?i=1000800774091&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -17559,6 +17581,50 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:f78d92b08def",
+        "feed_title": "The Royal Kennel Club - Crufts 2027 Show Interviews and Highlights",
+        "source_rss_url": "https://rss.buzzsprout.com/1073239.rss",
+        "dedupe_key": "e9285d23af2742ff0187602968c7a86da8aaffaa",
+        "episode_key": "e9285d23af2742ff0187602968c7a86da8aaffaa",
+        "title": "Pete Lewin & Sally Phillips with Bob  - 2022 Hero Dog Winner",
+        "published_at": "2022-03-13T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Pete Lewin & Sally Phillips with Bob  - 2022 Hero Dog Winner",
+        "audio_url": "https://www.buzzsprout.com/1073239/episodes/10241087-pete-lewin-sally-phillips-with-bob-2022-hero-dog-winner.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/pete-lewin-sally-phillips-with-bob-2022-hero-dog-winner/id6836685478?i=1000802885319&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f78d92b08def",
+        "feed_title": "The Royal Kennel Club - Crufts 2027 Show Interviews and Highlights",
+        "source_rss_url": "https://rss.buzzsprout.com/1073239.rss",
+        "dedupe_key": "24ab95250be4b49c140eb9e44fd1b213ffd62d64",
+        "episode_key": "24ab95250be4b49c140eb9e44fd1b213ffd62d64",
+        "title": "The 2022 award ambassador and actress Sally Phillips - The Kennel Club Hero Dog Awards",
+        "published_at": "2022-02-25T14:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Kennel Club will announce the finalists for its prestigious Hero Dog Award (formerly Friends for Life) 2022, and open the public vote, ahead of the final taking place at Crufts. \nThe 2022 finalists include: A special Guide Dog who gave an ex-dairy farmer his life and family back and set him on a path to support oth",
+        "audio_url": "https://www.buzzsprout.com/1073239/episodes/10142200-the-2022-award-ambassador-and-actress-sally-phillips-the-kennel-club-hero-dog-awards.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-2022-award-ambassador-and-actress-sally/id6836685478?i=1000802885398&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bc8f69ea9fda",
         "feed_title": "Second in Command: A Veep Rewatch",
         "source_rss_url": "https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/4fd831e0-f4a1-4b51-9fc6-aefa015b0fc2/5c147b1c-cade-4df1-9f79-aefa015b0fe3/podcast.rss",
@@ -17925,6 +17991,28 @@
         "description": "When actress Sally Phillips first saw Myrna Loy, she burst into tears. \nIt was in a film called The Best Years of Our Lives, about three veterans returning to their wives after the Second World War.   \nMyrna Loy was most famous for the Thin Man series, and she also played voluptuous baddies in flicks like The Mask of F",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08d1zx1.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/sally-phillips-on-hollywood-star-myrna-loy/id261779765?i=1000474464729&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f78d92b08def",
+        "feed_title": "The Royal Kennel Club - Crufts 2027 Show Interviews and Highlights",
+        "source_rss_url": "https://rss.buzzsprout.com/1073239.rss",
+        "dedupe_key": "c475ed9895903b3fd1bb5256b2a107d0fdda39bf",
+        "episode_key": "c475ed9895903b3fd1bb5256b2a107d0fdda39bf",
+        "title": "Sally Phillips & Roni Ancona - Scruffts",
+        "published_at": "2020-03-07T09:08:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "[[:encoded, \"Sally Phillips and Roni Ancona, judges for Scruffts 2020\"]]",
+        "audio_url": "https://www.buzzsprout.com/1073239/episodes/8910327-sally-phillips-roni-ancona-scruffts.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sally-phillips-roni-ancona-scruffts/id6836685478?i=1000802885700&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -21069,6 +21157,28 @@
         "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week Fr",
         "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1452688167.mp3?updated=1738173689",
         "link_url": "https://podcasts.apple.com/gb/podcast/wasps-in-windows/id308800732?i=1000468397591&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d727e05c2e7a",
+        "feed_title": "Hear Every Nuance Through Audiobooks",
+        "source_rss_url": "https://eu2.contabostorage.com/cb2fc04bbe2a4cb7a76f0e69bff59865:feed/it/ids/464/index.xml",
+        "dedupe_key": "7e10b176b65cec519ca1d29de4f8e639a05815e9",
+        "episode_key": "7e10b176b65cec519ca1d29de4f8e639a05815e9",
+        "title": "Tim Key's Late Night Poetry Programme: The Complete Series 1-4 Audiobook by Tim Key",
+        "published_at": "2018-11-01T22:02:11Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: Tim Key's Late Night Poetry Programme: The Complete Series 1-4Subtitle: The BBC Radio 4 ComedyCategories: Fiction, Funny, PoetryAuthor: Tim KeyNarrator: Tim Key, Tom BasdenPublisher: BBC AudioRelease date: 11-01-2018Language: EnglishSummary:Ever wond",
+        "audio_url": "https://samples.audible.de/bk/rhuk/003970/bk_rhuk_003970_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/tim-keys-late-night-poetry-programme-the-complete/id6821684225?i=1000795722314&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

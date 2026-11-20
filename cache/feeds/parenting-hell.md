@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-11-19T20:33:57+00:00`
-- checked_at: `2026-11-19T20:33:57+00:00`
-- last_modified: `Thu, 19 Nov 2026 18:32:20 GMT`
+- fetched_at: `2026-11-20T02:18:09+00:00`
+- checked_at: `2026-11-20T02:18:09+00:00`
+- last_modified: `Fri, 20 Nov 2026 00:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "Parenting Hell",
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
-  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-19T20:33:57+00:00",
+  "image_url": "https://megaphone-images.spotifycdn.com/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-11-20T02:18:09+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "132bc821f330fef5c67fbab3caadfd8fba9fe1f4",
+      "title": "S13 EP36: It's the life we lead",
+      "published_at": "2026-11-20T00:15:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6117887379.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2956",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "60a9a6ee10c3985395e109fcb726a5b3bc893606",
       "title": "S13 EP35: Have you been scrumping?",
@@ -402,7 +421,7 @@
       "published_at": "2026-10-05T16:55:00+00:00",
       "link": null,
       "description": "The endless internatioanl break rumbles on... England smash Croatia 7-0 but honestly, does anyone really care? And elsewhere we discuss whether Pep Guardiola is actually a goodd manager in light of the rampant cheating? Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8fe63572-c0dd-11f1-bcb1-7333f323a077/image/962203508399420bbd8d7871a5876a3f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/8fe63572-c0dd-11f1-bcb1-7333f323a077/image/962203508399420bbd8d7871a5876a3f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT5025058802.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -527,7 +546,7 @@
       "published_at": "2026-09-21T21:00:00+00:00",
       "link": null,
       "description": "This week we discuss the latest Jose Mourinho circus - including him bringing printed pictures of referee decisions to his post match press conference. Big news elsewhere as Andros Townsend somehow gets run over by a pitch steam roller?!? And is it too ealry to be Carrick out? Michael went to the game at Craven Cottage at the weekend and gives us his verdict. And Bill's upbeat approach to live as a Spurs fan gets tested... Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com (N) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/584da324-b5fd-11f1-aba3-8b9b0bc1b71d/image/962203508399420bbd8d7871a5876a3f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/584da324-b5fd-11f1-aba3-8b9b0bc1b71d/image/962203508399420bbd8d7871a5876a3f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT9600931090.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -586,7 +605,7 @@
       "published_at": "2026-09-14T17:06:00+00:00",
       "link": null,
       "description": "Welcome to Footballing Hell... Rob and Josh discuss the weekend football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week the question everyone has been asking - what is Tony Mowbray's favourite chocolate bar? The Manchester derby. How much Rob loves a massive bast*ard. How is Donnarumma only 27 years old? Should Maresca get a haircut like Gerry Francis? Why nobody will ever like Wrexham. And is Florian Wirtz good at football yet? Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a809a312-b05e-11f1-83ac-cf724bc78074/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/a809a312-b05e-11f1-83ac-cf724bc78074/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT9954935158.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -647,7 +666,7 @@
       "published_at": "2026-09-07T17:34:00+00:00",
       "link": null,
       "description": "Welcome to episode four of Footballing Hell... where every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week we (sort of) discuss the stories from the weekend of football that have interested us. Including a deep dive into why Josh doesn't like teams who play in blue, and the new Michael Owen reality TV show. Enjoy!! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠Footballing Hell ⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6729cb46-aae2-11f1-a234-83d7fae763c1/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/6729cb46-aae2-11f1-a234-83d7fae763c1/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT7109594605.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -683,7 +702,7 @@
       "published_at": "2026-09-03T05:12:00+00:00",
       "link": null,
       "description": "In the 2nd of a series of special interviews with leading experts (and lets face it, people far more qualified than us!) to discuss important and relevant topics that impact and inform modern parenting - we had the pleasure to sit down again with the brillaint ⁠Dr. Martha Deiros Collado⁠ to discuss online safety, device and screen usage - this time amongst teenagers and also parents, and what they can do to help. We loved speaking with Dr Martha in collaboration with @Tescomobile. If you’re looking for advice on how to have that chat or tools to help keep your family safer online, visit the Tesco Mobile Online Safety Hub. ⁠ https://www.tescomobile.com/online-safety ⁠ @Tescomobile - Keeping up keeps them safe. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/17ba3d8c-a756-11f1-aa64-332d59da368d/image/536eba6ce2e6f0bf89070286c359fec4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/17ba3d8c-a756-11f1-aa64-332d59da368d/image/536eba6ce2e6f0bf89070286c359fec4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT2669574627.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -731,7 +750,7 @@
       "published_at": "2026-08-31T15:14:00+00:00",
       "link": null,
       "description": "Welcome to episode three of Footballing Hell... where every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week we (sort of) discuss the stories from the weekend of football that have interested us. Including; Haaland's hair // Pep documentary // Spurs are rubbish. Why? (Cameo by Rhys James) // FPL update - Josh has a great week // De Zerbi looks like a sad hamster // Embarrassing football icks // Harry Maguire - yes or no? // Do I now like Chelsea? Enjoy!! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett ⁠⁠Footballing Hell ⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/2012670a-a546-11f1-bdaf-9332b002407c/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/2012670a-a546-11f1-bdaf-9332b002407c/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT9617400686.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -772,7 +791,7 @@
       "published_at": "2026-08-26T23:30:00+00:00",
       "link": null,
       "description": "In the first of a series of special interviews with leading experts (and lets face it, people far more qualified than us!) to discuss important and relevant topics that impact and inform modern parenting - we had the pleasure to sit down with the brillaint Dr. Martha Deiros Collado to discuss online safety, device and screen usage amongst pre-teens, and much much more. In the 2nd ep next week we discuss teenagers. We loved speaking with Dr Martha in collaboration with @Tescomobile. If you’re looking for advice on how to have that chat or tools to help keep your family safer online, visit the Tesco Mobile Online Safety Hub. https://www.tescomobile.com/online-safety @Tescomobile - Keeping up keeps them safe. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/99ec38f0-a198-11f1-8250-bf0f896f3ef1/image/536eba6ce2e6f0bf89070286c359fec4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/99ec38f0-a198-11f1-8250-bf0f896f3ef1/image/536eba6ce2e6f0bf89070286c359fec4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT4529111956.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -819,7 +838,7 @@
       "published_at": "2026-08-24T13:44:00+00:00",
       "link": null,
       "description": "Welcome to episode two of Footballing Hell... where every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week we (sort of) discuss (some of) the opening fixtures of the PL season. Including Arsenal's win against newly promoted Coventry and why a football season should not start on a Friday night. Elsewhere, is it always funny when a big team is rubbish? And did Alan Shearer get that new top on MOTD as a birthday present? Enjoy!! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett ⁠Footballing Hell ⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/f1d79498-9fc1-11f1-836a-dbf2edd41934/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/f1d79498-9fc1-11f1-836a-dbf2edd41934/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT3175418291.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -879,7 +898,7 @@
       "published_at": "2026-08-17T19:28:00+00:00",
       "link": null,
       "description": "Sutton and Shearer. Heskey and Owen. Yeboah and Masinga. The history of football is dominated by great duos who elevated and transformed the game... With that in mind, welcome to Footballing Hell... where the duo you know and love undo all that heritage with their footballing knowledge, as every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett In the first ever episode we discuss... Plymouth versus Exeter The Milk Cup / What is Caribou? / Neil Warnock's hair / Community shield (one of us didn't watch it) / What’s the sexy Nigerian Gk been up to? / Predictions for the season including who will win what cups and finish where? / FPL team - join the Footballing / Parenting Hell mini league LEAGUE CODE: 1a5fc7 If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell Leave us a 5* review and subscribe to the podcast please. You know the score by now. Footballing Hell is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/8a0a85b2-9a6e-11f1-842d-ebcce6565b2e/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/8a0a85b2-9a6e-11f1-842d-ebcce6565b2e/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT3851536045.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1000,7 +1019,7 @@
       "published_at": "2026-07-28T05:29:00+00:00",
       "link": null,
       "description": "More adventures in life and parenting with Rob and Josh. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dcdff01c-8a40-11f1-8928-f734f2a2f2b5/image/2c9980ea34e8089c33c43a9da8ab899f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/dcdff01c-8a40-11f1-8928-f734f2a2f2b5/image/2c9980ea34e8089c33c43a9da8ab899f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT8315483871.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -13346,6 +13365,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — S13 EP36: It's the life we lead — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-17 — S13 EP35: Have you been scrumping? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-16 — ⚽ He's Magic, You Know, Mauricio Pochettino ⚽ — speakers: Mauricio Pochettino, Rob Beckett, Josh Widdicombe
 - 2026-11-13 — S13 EP34: Is this thing on? — speakers: Rob Beckett, Josh Widdicombe

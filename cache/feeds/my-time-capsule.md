@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-16T06:25:45+00:00`
-- checked_at: `2026-11-16T06:25:45+00:00`
-- etag: `"djEuMi4wOjE3OTQ3ODczNTk0MTM="`
+- fetched_at: `2026-11-20T02:18:09+00:00`
+- checked_at: `2026-11-20T02:18:09+00:00`
+- etag: `"djEuMi4wOjE3OTUxMzI5NjA0ODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-16T06:25:45+00:00",
+  "fetched_at": "2026-11-20T02:18:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "40fcacfc503340029476c41226e41dff1c59562f",
+      "title": "My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks)",
+      "published_at": "2026-11-20T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-27-with-charlie-baker-the-last-le",
+      "description": "Charlie Baker was our guest in episode 236 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Charlie Baker is a versatile comedian, actor, jazz singer and presenter. He has appeared on The Last Leg, Never Mind the Buzzcocks, Richard Osman’s House of Games and The IT Crowd, and won Let’s Dance for Comic Relief as a tap dancer. Charlie is a regular on talkSPORT, including GameDay Warm-Up and Hawksbee & Jacobs. His stage credits include Harry Hill's musicals: Tony! The Tony Blair Rock Opera and I Can’t Sing at the London Palladium . Also, Mike and his producer and son John chat about this weeks episode with Fatma Said and answer listener's emails and voice notes . Tickets for Charlie's tour available here - https://linktr.ee/charliebakercomedian . Listen to Charlie Baker's original episode - https://mytimecapsulepodcast.com/episodes?q=236 . Follow Charlie Baker on Instagram : @charliebakercomedian . Get involved! Send The Dig an email or voice memo via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1795106216534-5ce1636a-bd3e-49f2-a5be-47d8f61979f6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aff28788f8ad2908f9fe2e9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60730430",
+      "itunes_duration": "50:36",
+      "speakers": [
+        "Charlie Baker",
+        "Harry Hill"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "charlie",
+        "baker",
+        "harry",
+        "hill",
+        "buzzcocks"
+      ]
+    },
     {
       "key": "c5c17703392eceda8e8f6cd796ec97674794014c",
       "title": "Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos",
@@ -13919,6 +13944,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks) — speakers: Charlie Baker, Harry Hill
 - 2026-11-16 — Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos — speakers: Fatma Said Egyptian, Fatma Said
 - 2026-11-13 — My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera) — speakers: John Owen-Jones
 - 2026-11-09 — Ep. 613 - Jay James - Singer with The Overtones, the multi-platinum harmony group — speakers: Jay James Singer, Jay James

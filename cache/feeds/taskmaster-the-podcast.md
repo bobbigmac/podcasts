@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-11-13T01:49:31+00:00`
-- checked_at: `2026-11-13T01:49:31+00:00`
-- etag: `"e2c8f-6601b3979cd47"`
-- last_modified: `Thu, 12 Nov 2026 21:45:04 GMT`
+- fetched_at: `2026-11-20T02:18:09+00:00`
+- checked_at: `2026-11-20T02:18:09+00:00`
+- etag: `"e3dab-660a7d4bbe646"`
+- last_modified: `Thu, 19 Nov 2026 21:30:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-11-13T01:49:31+00:00",
+  "fetched_at": "2026-11-20T02:18:09+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e935df78c6e7131d9c9d207b713bb7c244e9d841",
+      "title": "Taskmaster the Podcast *Best of Series 22* Part One",
+      "published_at": "2026-11-19T21:30:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "Series 22 of Taskmaster is over. Sad trombone. It’s been another brilliant series, and Ed’s had some hilarious caravan conversations with some of your favourite contestants along the way. Here’s Part One of Taskmaster Best Bits, featuring Reece Shearsmith, Chloe Petts, Lou Sanders, Isy Suttie and Richard Ayoade. Expect howling winds of anxiety, dead make-up artists?! And plenty of unexpected rabbit holes, including Ellis James’s lucky pants... Join us next week for more Taskmaster highlights. In the meantime, visit Taskmaster.tv for all the latest news, and head to Channel 4 to catch up on any episodes you might have missed. For even more Taskmaster content and behind-the-scenes action, check out the Taskmaster YouTube channel.",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9377dcc7-8fa5-4885-9e56-f2ee4c2fc997.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=9377dcc7-8fa5-4885-9e56-f2ee4c2fc997",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57145541",
+      "itunes_duration": "59:32",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "podcast",
+        "best",
+        "series"
+      ]
+    },
     {
       "key": "8b4234dd21a8920428466b345abdd4094d921051",
       "title": "Taskmaster: The People's Podcast: Falling Into the Trap of Fun - S22, Ep. 10",
@@ -5840,6 +5860,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-19 — Taskmaster the Podcast *Best of Series 22* Part One — speakers: Ed Gamble
 - 2026-11-12 — Taskmaster: The People's Podcast: Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Ed Gamble
 - 2026-11-05 — *Series 22 Winner* Series 22 Ep 10 — speakers: Ed Gamble
 - 2026-10-29 — Joel Dommett - Series 22 Ep.9 — speakers: Joel Dommett, Ed Gamble
