@@ -11921,6 +11921,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:3e536c52b853",
+        "feed_title": "My Time Capsule",
+        "source_rss_url": "https://feeds.acast.com/public/shows/e524e6f9-e52d-4fde-83a6-236625eaafaa",
+        "dedupe_key": "a724c6658f0dcfa5518df83a8864afe2c3b261a7",
+        "episode_key": "a724c6658f0dcfa5518df83a8864afe2c3b261a7",
+        "title": "My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks)",
+        "published_at": "2026-11-20T00:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Charlie Baker was our guest in episode 236 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Charlie Baker is a versatile comedian, actor, jazz singer and presenter. He has appeared on The Last Leg, Never Mind the Buzzcocks, Richard Osman’s House of Games and The IT Cro",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aff28788f8ad2908f9fe2e9/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/my-time-capsule-the-dig-ep-27-with-charlie-baker-the/id1506937544?i=1000803026196&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f4eabd81e4e3",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
@@ -27409,6 +27431,28 @@
       }
     ],
     "stewart-lee": [
+      {
+        "feed_slug": "external:apple:4fdc5fce09a4",
+        "feed_title": "Outsiding",
+        "source_rss_url": "https://feeds.megaphone.fm/CGPL6650066774",
+        "dedupe_key": "90215d5f03623193a63725356d58bd3ec8346f4f",
+        "episode_key": "90215d5f03623193a63725356d58bd3ec8346f4f",
+        "title": "Stewart Lee, the theoretical gardener who has hiked with Napalm Death",
+        "published_at": "2026-11-19T05:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Can Adam and Caitlin reduce his level of garden shame?\n\nStewart Lee should be a great gardener. One of his early jobs saw him take on the role of fact-checker, helping to build an encyclopedia for the Royal Horticultural Society. His brain quickly absorbed all there was to know about plants, flowers and trees, only for",
+        "audio_url": "https://traffic.megaphone.fm/CGPL3433101563.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-the-theoretical-gardener-who-has-hiked/id6782845808?i=1000802864699&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:d8cdfe77ad22",
         "feed_title": "RockandRoll Confessions",

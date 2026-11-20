@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-11-13T19:40:29+00:00`
-- checked_at: `2026-11-13T19:40:29+00:00`
-- etag: `"30bc77ed3c36ab9945a0446f15242385"`
-- last_modified: `Fri, 13 Nov 2026 19:00:10 GMT`
+- fetched_at: `2026-11-20T20:15:13+00:00`
+- checked_at: `2026-11-20T20:15:13+00:00`
+- etag: `"350cca59c92017bb302df936db8f2073"`
+- last_modified: `Fri, 20 Nov 2026 19:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-11-13T19:40:29+00:00",
+  "fetched_at": "2026-11-20T20:15:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "5a783709263f61bdb884b1d409ca8c4f40c11148",
+      "title": "The Naked Week 2. I'm A Celebrity Get Me Into Jail",
+      "published_at": "2026-11-20T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pmxkly",
+      "description": "From host Andrew Hunter Murray and The Skewer's Jon Holmes, The Naked Week team are back with their satirical mischievous machinations on the week's news. This week they're joined by Guest Correspondent Alana Jackson who probably wishes she hadn't answered the phone. This week - we liberate an island and commit a crime against literature. Host: Andrew Hunter Murray Guest Correspondent: Alana Jackson Guest Primary School Teacher: Miss Dungworth. Investigations Team: Cat Neilan Valmira Gjoni Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Alice Bright Kevin Smith David Riffkin Joe Topping Cooper Mawhinney Sweryt Clip Wrangler: David Riffkin Production Coordinator: Josie Orr Assistant Producer: Katie Sayer Executive Producer: Richard Danbury Live Sound: Jerry Peal Post Sound: Tony Churnside Produced and Directed by Jon Holmes An unusual production for BBC Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pmxpj3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "naked",
+        "week",
+        "celebrity",
+        "jail"
+      ]
+    },
     {
       "key": "6baf678245f7a29132c6b3810cb8a9a239e368c2",
       "title": "The Naked Week 1. Up The Injunction",
@@ -5477,29 +5499,6 @@
         "huge",
         "davy"
       ]
-    },
-    {
-      "key": "b6d3f070af780f2e356de8731fbebdedbf8deb9c",
-      "title": "The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman",
-      "published_at": "2021-11-19T19:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0b583ft",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Ria Lina taking on back-seat scientists, Josh Pugh pondering on dinosaur discoveries, and Beardyman playing us out with a jazzy ode to staying calm. Voice Actors: Luke Kempner and Natasha Hodgson Producer: Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b57z3r.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26768000",
-      "itunes_duration": "1673",
-      "speakers": [
-        "Josh Pugh",
-        "Beardyman Steve Punt"
-      ],
-      "topics": [
-        "november",
-        "lina",
-        "josh",
-        "pugh",
-        "beardyman"
-      ]
     }
   ]
 }
@@ -5508,6 +5507,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — The Naked Week 2. I'm A Celebrity Get Me Into Jail — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-13 — The Naked Week 1. Up The Injunction — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-06 — The Matt Forde Focus Group: The Politics of Trick-or-Treat (Halloween Special) — speakers: Halloween Special
 - 2026-10-30 — The News Quiz: Ep8. 'Everyday fixes'
@@ -5768,4 +5768,3 @@
 - 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials
 - 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt
 - 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt
-- 2021-11-19 — The Now Show - 19th November ft Ria Lina, Josh Pugh and Beardyman — speakers: Josh Pugh, Beardyman Steve Punt
