@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-11-13T10:56:56+00:00`
-- checked_at: `2026-11-13T10:56:56+00:00`
-- etag: `"bbd30722ccde1bfac6599176c98dab48"`
-- last_modified: `Fri, 13 Nov 2026 06:00:07 GMT`
+- fetched_at: `2026-11-20T11:36:09+00:00`
+- checked_at: `2026-11-20T11:36:09+00:00`
+- etag: `"ae30c1b920d845591d3d02656d3837e2"`
+- last_modified: `Fri, 20 Nov 2026 06:00:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-11-13T10:56:56+00:00",
+  "fetched_at": "2026-11-20T11:36:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "861741c522eefc970b994a19a082a1fb5ce0da76",
+      "title": "Akhenaten and Nefertiti (Radio Edit)",
+      "published_at": "2026-11-20T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pj1d06",
+      "description": "Greg Jenner is joined in ancient Egypt by historian and curator Dr Campbell Price and comedian Sikisa to learn all about Tutankhamun’s parents, Nefertiti and Akhenaten. As well as their famous son, this ancient Egyptian power couple are best known in the modern age for two reasons. Firstly, Nefertiti’s legendary beauty – her portrait bust is instantly recognisable around the world. Secondly, Akhenaten’s religious radicalism, which saw him reorient Egyptian belief towards the sun god Aten and build an entirely new capital away from the traditional seat of power at Thebes. This episode traces their lives as members of the 18th dynasty, often regarded as the ‘Golden Age’ of pharaonic Egypt. We look at Akhenaten’s murky childhood and Nefertiti’s even murkier origins, exploring their family life and the children they had, the religious revolution that Akhenaten drove, the unique architecture and art styles developed during their reign, and the fate of Aten worship after Akhenaten’s death. Along the way, we dig into the archaeological evidence and the many uncertainties surrounding their lives, and ask whether they really were Tutankhamun’s parents after all. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Siobhan-Michelle Smith Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0czzs.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbblrj.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26992000",
+      "itunes_duration": "1687",
+      "speakers": [
+        "Greg Jenner"
+      ],
+      "topics": [
+        "nefertiti",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "e1ef9ec539f5881ed00a50727751ff7a0e73bda4",
       "title": "Anne Bonny and Mary Read (Radio Edit)",
@@ -6418,6 +6438,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — Akhenaten and Nefertiti (Radio Edit) — speakers: Greg Jenner
 - 2026-11-13 — Anne Bonny and Mary Read (Radio Edit) — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth
 - 2026-11-06 — Medieval Saints (Radio Edit) — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
 - 2026-10-30 — Francis Galton (Radio Edit) — speakers: Francis Galton, Greg Jenner, Subhadra Das

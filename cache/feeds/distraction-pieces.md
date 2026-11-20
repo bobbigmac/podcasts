@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NzU2MzkyNTM="`
+- fetched_at: `2026-11-20T11:36:09+00:00`
+- checked_at: `2026-11-20T11:36:09+00:00`
+- etag: `"djEuMi4wOjE3OTUxNDg0Mzk0MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-20T11:36:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "aeaaf31aa81dd73a31d06e2aca9e9c9bdd94d3a1",
+      "title": "ROBERT EGGERS (Nosferatu / The Lighthouse / The VVitch) • Friday Rewind",
+      "published_at": "2026-11-20T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with ROBERT EGGERS , originally episode 309 from 2020-01-29. Original writeup: A real nice locked on an locked in chat with Robert, which goes in deep as you would want about all things Lighthouse, his latest directorial gem featuring Willem Defoe and Robert Pattinson. It’s a proper film-nerd paradise, as Robert opens up about his VVitch backgrounds, acting under environmental duress, the importance of casting, attitudes to rehearsal and how that informed performances, cinematography (thanks to Jarin Blaschke - pronounced ‘Jah-Rinn Blash-key’), the collaborative nature of the whole endeavour, aspect ratio and cinematic intention, the local history of a location, theatre vs film, flatulence (it’s in context) and all manner of movie magic. You’ll dig it and your intrigue for The Lighthouse will certainly be piqued - keep an eye out for that and ENJOY THIS CONVERSATION! ••• BIT OF A SPOILER MAYBE, at 44:30 - 45:20 ••• WATCH OUT! ••• PIP'S PATREON PAGE if you're of a supporting nature ROBERT in VICE THE LIGHTHOUSE on IMDB THE LIGHTHOUSE trailer THE VVITCH trailer PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1794828782900-3d7b0972-cbeb-4cad-87fc-33154a0ef4e1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6afaeb6277e39bab67bb2e59/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115477016",
+      "itunes_duration": "48:01",
+      "speakers": [
+        "Robert Eggers"
+      ],
+      "topics": [
+        "robert",
+        "eggers",
+        "nosferatu",
+        "lighthouse",
+        "vvitch",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "cc061bc9ceb818600d0d20bb3f4bc6af3691b5ad",
       "title": "NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696",
@@ -20009,6 +20033,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — ROBERT EGGERS (Nosferatu / The Lighthouse / The VVitch) • Friday Rewind — speakers: Robert Eggers
 - 2026-11-18 — NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696
 - 2026-11-13 — JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind — speakers: Jack Lowden
 - 2026-11-11 — LA ROUX • 'Old Flames' out now! (Quicksand / Bulletproof / In For The Kill) #695

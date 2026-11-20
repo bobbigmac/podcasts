@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-11-17T15:58:35+00:00`
-- checked_at: `2026-11-17T15:58:35+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RRNE9UVXlOREF5TmpRPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-20T11:36:09+00:00`
+- checked_at: `2026-11-20T11:36:09+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RVeE5UUTBNems0TVRJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-11-17T15:58:35+00:00",
+  "fetched_at": "2026-11-20T11:36:09+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f3889cc3981721e7748a776eba74e86b964423a2",
+      "title": "YOU’RE NOT MY MOTHER! | And Natalie Cassidy Tells William Off",
+      "published_at": "2026-11-20T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/youre-not-my-mother-and-natalie-cassidy-tells-william-off",
+      "description": "YOU AIN’T MY MUVAAAA!!! Jordan North and William Hanson are heading to Albert Square as they welcome bona fide soap royalty Natalie Cassidy from the Life with Nat podcast! Nat and William go head to head on some VERY important matters, including when the Christmas tree should go up and the correct etiquette for washing your feet in the shower. But we also get to the question that’s been keeping the nation awake at night… CAN NATALIE CASSIDY ACTUALLY PLAY THE TRUMPET?! 🎺 -- Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette Natalie Cassidy Life With Nat Podcast: lifewithnatpod.komi.io If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1795085928496-bd588f5c-be7e-48c4-8f4e-c9e360fb1469.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6afec0d315681bd0156dfa1f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=6XQ9-kEJi-q3oA7p2OiudhsX-O6pskjk_CggwgN22hA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33849678",
+      "itunes_duration": "35:15",
+      "speakers": [
+        "Natalie Cassidy Tells",
+        "William Off",
+        "Jordan North",
+        "William Hanson",
+        "Albert Square"
+      ],
+      "topics": [
+        "mother",
+        "natalie",
+        "cassidy",
+        "william"
+      ]
+    },
     {
       "key": "0d011f04b292c97060fd833ccf31f3ee7418baa4",
       "title": "Help He’s Giving Me Hickeys | And Our Sex Dreams",
@@ -15464,6 +15489,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — YOU’RE NOT MY MOTHER! | And Natalie Cassidy Tells William Off — speakers: Natalie Cassidy Tells, William Off, Jordan North, William Hanson, Albert Square
 - 2026-11-17 — Help He’s Giving Me Hickeys | And Our Sex Dreams — speakers: Jordan North, William Hanson
 - 2026-11-13 — Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF — speakers: Good Luck Charms, Jordan North, William Hanson
 - 2026-11-10 — Help I Farted On A Stranger | And Where Does The Ring Go? — speakers: Jordan North, William Hanson

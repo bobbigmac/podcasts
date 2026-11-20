@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-20T02:18:09+00:00`
-- checked_at: `2026-11-20T02:18:09+00:00`
-- etag: `"djEuMi4wOjE3OTUwODkwNDM4NzM="`
+- fetched_at: `2026-11-20T11:36:09+00:00`
+- checked_at: `2026-11-20T11:36:09+00:00`
+- etag: `"djEuMi4wOjE3OTUxNjMyNDg5NTQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-20T02:18:09+00:00",
+  "fetched_at": "2026-11-20T11:36:09+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "8d81d180c51ced144615304d0e59d004896d0d4f",
+      "title": "S17 Ep 926 Friday Repeat: The First Listener's Mailbag",
+      "published_at": "2026-11-20T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/vault-friday-our-very-first-listeners-mailbag-episode",
+      "description": "As we don't have a new Mailbag show for you today (sorry about that), we're putting out the very first one we recorded - which was originally posted on Friday 30th August 2024. And the synopsis read: In an exciting new addition to our Friday Treat shows, David and Joe open up the Chatabix mailbag (well, email account actually) and read out a selection of your recent messages. And some not so recent too, as its been while since they last checked. So you can expect a right mixed bag of suggestions, questions, praise, criticisms and advice from some of our lovely listeners out there. This week’s topics include rollercoasters, mudlarking, American fans and mystery football matches. We hope you enjoy this little walk back down the Mailbag memory lane! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6afed9e0785ec24811585ea2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58002368",
+      "itunes_duration": "24:10",
+      "speakers": [
+        "Friday Repeat",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "friday",
+        "repeat",
+        "listener",
+        "mailbag"
+      ]
+    },
     {
       "key": "0133291f4ea43d768b5bf0d87a14685946cf27b1",
       "title": "S17 Ep 925: Professional Podcasting and Motorway Madness",
@@ -16788,6 +16811,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — S17 Ep 926 Friday Repeat: The First Listener's Mailbag — speakers: Friday Repeat, Joe Wilkinson, David Earl
 - 2026-11-19 — S17 Ep 925: Professional Podcasting and Motorway Madness — speakers: Professional Podcasting, Joe Wilkinson, David Earl
 - 2026-11-18 — S17 Ep 924: An Estate Agent Altercation — speakers: Joe Wilkinson, David Earl
 - 2026-11-17 — S17 Ep 923: The Most Traumatic Night Ever — speakers: Ever David, Joe Wilkinson, David Earl

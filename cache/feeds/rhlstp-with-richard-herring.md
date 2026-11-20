@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NzQyNTkyMzM="`
+- fetched_at: `2026-11-20T11:36:09+00:00`
+- checked_at: `2026-11-20T11:36:09+00:00`
+- etag: `"djEuMi4wOjE3OTUxNDcwNTk0MjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-20T11:36:09+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -27,11 +27,35 @@
   ],
   "episodes": [
     {
+      "key": "022dd30e049b3f4cfd64e5ea956dd07d74956bb7",
+      "title": "Robin Ince on The Future of Jokes - Book Club",
+      "published_at": "2026-11-20T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #202 - The Future of Comedy - Robin Ince comes to Hitchin and on the way to an event pops in to see Rich to talk about his book, The Future of Comedy and the past and future of comedy in general. As expected it’s a wide-ranging conversation taking in when laughter began and when it will end, jokes that work for centuries and jokes that work for an instant, how some performers elevate material beyond what’s on the page, being a product versus being inventive, not turning into your a fuddy daddy, how the internet and AI might change comedy and whether you need a human being in the equation to make anything meaningful, what it’s like to play arenas and why both Robin and Richard create way too much stuff but why the Hell not? Buy the book here - https://uk.bookshop.org/p/books/the-future-of-jokes-robin-ince/b3c82a2d9e5c02f1 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1795037102617-503e756d-cd4c-4246-b26f-b9ad09ef8893.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6afe179d4312344565d7f26b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28432927",
+      "itunes_duration": "59:14",
+      "speakers": [
+        "Robin Ince",
+        "Richard Herring"
+      ],
+      "topics": [
+        "robin",
+        "ince",
+        "future",
+        "jokes",
+        "book",
+        "club"
+      ]
+    },
+    {
       "key": "da529b146af1b4f799935cf5fbf8009af560d7e6",
       "title": "Mathew Baynton and Jim Howick - \"Distracted by Nipples\"",
       "published_at": "2026-11-18T03:57:00+00:00",
       "link": "https://rhlstp.co.uk",
-      "description": "RHLSTP #636 - Distracted by Nipples - Rich is back at Leicester Square for his penultimate record (I mean fourth last, we only do one a week) and is worried about what Jesus did in his twenties. His guests are two of the geniuses behind the fantastic Ghosts (and much more) Jim Howick and Mathew Baynton. They talk about the number box office smash movie, “Ghosts - The Possession of Button Hall”, how it’s hard to know who to thank when you’ve seen a good film and how the team has put in more effort than they needed and created a film that is hilarious and moving. Plus who they nicked stuff off. Also how Rich is now an expert on Horrible Histories thanks to his son, why we all support women coming out, which of the pair has eaten dog food and Mat’s Harry Hill lies and Jim’s part in the brilliant “Here We Go!” SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "RHLSTP #636 - Distracted by Nipples - Rich is back at Leicester Square for his penultimate record (I mean fourth last, we only do one a week) and is worried about what Jesus did in his twenties. His guests are two of the geniuses behind the fantastic Ghosts (and much more) Jim Howick and Mathew Baynton. They talk about the number box office smash movie, “Ghosts - The Possession of Button House”, how it’s hard to know who to thank when you’ve seen a good film and how the team has put in more effort than they needed and created a film that is hilarious and moving. Plus who they nicked stuff off. Also how Rich is now an expert on Horrible Histories thanks to his son, why we all support women coming out, which of the pair has eaten dog food and Mat’s Harry Hill lies and Jim’s part in the brilliant “Here We Go!” SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1794259620935-bddb9f8f-7c01-4e9c-886f-ecb1058f043e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6af238aece118fd5b5a3a7d1/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -24707,6 +24731,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — Robin Ince on The Future of Jokes - Book Club — speakers: Robin Ince, Richard Herring
 - 2026-11-18 — Mathew Baynton and Jim Howick - "Distracted by Nipples" — speakers: Mathew Baynton, Jim Howick, Richard Herring
 - 2026-11-16 — Mike Birbiglia (Retro) - "Mr Moustache" — speakers: Mike Birbiglia, Richard Herring
 - 2026-11-14 — Rich and Ally's Craven Newsround Compilation - "The Spiderman of History" — speakers: Richard Herring
