@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-11-14T17:59:51+00:00`
-- checked_at: `2026-11-14T17:59:51+00:00`
-- etag: `W/"43397-Irr3O1UjoSqF1c/J//PuuRa0aoI"`
+- fetched_at: `2026-11-21T10:59:05+00:00`
+- checked_at: `2026-11-21T10:59:05+00:00`
+- etag: `W/"43b7a-Z9f2j4Nja4gRNI6lyNKH1puaEEw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-11-14T17:59:51+00:00",
+  "fetched_at": "2026-11-21T10:59:05+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,34 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "373e58c41ead481ab0e08b603483bcda250db296",
+      "title": "Grand Theft Auto VI First Impressions + Game Award Nominations | Firelink Podcast",
+      "published_at": "2026-11-20T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Grand-Theft-Auto-VI-First-Impressions--Game-Award-Nominations--Firelink-Podcast-e3snam3",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about their early hours in Grand Theft Auto VI as well as thoughts on the 2026 Game Award nominations. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/129788035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Ff5aa0082-fe8e-a1f8-ee64-8d6b2d7c03b6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125658464",
+      "itunes_duration": "01:27:15",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "impressions",
+        "game",
+        "award",
+        "nominations",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "3388e3462080cf3b9cb6b1860c010e02dbd2ee34",
       "title": "Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast",
@@ -3431,6 +3459,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-20 — Grand Theft Auto VI First Impressions + Game Award Nominations | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-11-14 — Another PlayStation Live-Service Game Bites the Dust | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-11-06 — The Elder Scrolls VI Has a Name and God of War Laufey Has a Delay | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-10-30 — Pouring One Out For BioWare | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu

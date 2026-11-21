@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- etag: `W/"6c271-gUsLIFTbBmmC94Vlk2OUvUkeQUg"`
+- fetched_at: `2026-11-21T10:59:05+00:00`
+- checked_at: `2026-11-21T10:59:05+00:00`
+- etag: `W/"6d706-0/+PXcJoxmXxuqmXNR9KeiQtuVo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,57 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-21T10:59:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "70c9b1ec289a6406bb3eaba0850e96fe5728664e",
+      "title": "12 Adam and Joe - XFM - 2004.11.06",
+      "published_at": "2026-11-21T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/12-Adam-and-Joe---XFM---2004-11-06-e3so23n",
+      "description": "more adam and joe",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795187561477-1d6111bf4c43e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9732275573.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50443133",
+      "itunes_duration": "00:51:59",
+      "speakers": [
+        "Joe Xfm"
+      ],
+      "topics": [
+        "adam"
+      ]
+    },
+    {
+      "key": "2b664740c51e8668fd5ecb9a03177de16a5d273c",
+      "title": "Fall Asleep to All of Karl Pilkington's Diary From The Ricky Gervais Podcast (REMASTERED AUDIO)",
+      "published_at": "2026-11-20T18:49:52+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Fall-Asleep-to-All-of-Karl-Pilkingtons-Diary-From-The-Ricky-Gervais-Podcast-REMASTERED-AUDIO-e3sodv2",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/5hDl37dS7wp6PHApXWngpi?si=mAb3IQMWTiOkqksdbSFvuA",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795200445923-20c242c987ef7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3585747903.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "184486351",
+      "itunes_duration": "03:10:07",
+      "speakers": [
+        "Karl Pilkington"
+      ],
+      "topics": [
+        "asleep",
+        "karl",
+        "pilkington",
+        "diary",
+        "ricky",
+        "gervais",
+        "podcast",
+        "remastered",
+        "audio"
+      ]
+    },
     {
       "key": "d4d69b1802c4f34c9cd879bc56aad9dd32392447",
       "title": "11 Adam and Joe - XFM - 2004.10.30",
@@ -180,6 +224,26 @@
       ]
     },
     {
+      "key": "febab6423a37d868b7bd3bbadb802242ca6fe7f7",
+      "title": ".2. Adam and Joe - XFM - 2003.09.20",
+      "published_at": "2026-11-16T19:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/2--Adam-and-Joe---XFM---2003-09-20-e3sghof",
+      "description": "Relive the hilarious world of Adam Buxton and Joe Cornish with the best moments from their legendary radio shows. Packed with outrageous comedy, ridiculous conversations, unforgettable characters, absurd sketches and plenty of laugh-out-loud moments, this is a celebration of one of Britain's favourite comedy partnerships. Whether you're a longtime fan or discovering Adam and Joe for the first time, sit back, relax and enjoy the comedy gold. Adam & Joe – classic comedy, brilliant banter and hours of entertainment.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794854292370-2daafffa42a39.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6503457694.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46790698",
+      "itunes_duration": "00:48:13",
+      "speakers": [
+        "Joe Xfm",
+        "Adam Buxton",
+        "Joe Cornish"
+      ],
+      "topics": [
+        "adam"
+      ]
+    },
+    {
       "key": "18f4f49722bcd07e759e3de8d48c2287a901afa1",
       "title": "2 - Adam and Joe - XFM - 2003.09.20",
       "published_at": "2026-11-16T19:11:02+00:00",
@@ -220,27 +284,23 @@
       ]
     },
     {
-      "key": "79abd0963f26f6fdd6f247635c934a28b1d91890",
-      "title": "(REMASTED NO ADS) Fall Asleep to Ricky Gervais & Karl Pilkington 😂 | Classic XFM Series 1",
-      "published_at": "2026-11-15T18:56:51+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/REMASTED-NO-ADS-Fall-Asleep-to-Ricky-Gervais--Karl-Pilkington---Classic-XFM-Series-1-e3scvga",
-      "description": "NEW RSK FEED: https://open.spotify.com/episode/6FwgSO95sdOu0NHBeVw6qd?si=cz8gMNf6RV6wKs0pLuHD0w",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794695916361-e1f7e36771b38.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO9660197882.mp3",
+      "key": "d8eaf9b5f032ceef8b0ba597b5c2dc6fd899df0a",
+      "title": "1. Adam and Joe XFM - 2003.08.30",
+      "published_at": "2026-11-16T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/1--Adam-and-Joe-XFM---2003-08-30-e3se7gt",
+      "description": "Relive the hilarious world of Adam Buxton and Joe Cornish with the best moments from their legendary radio shows. Packed with outrageous comedy, ridiculous conversations, unforgettable characters, absurd sketches and plenty of laugh-out-loud moments, this is a celebration of one of Britain's favourite comedy partnerships. Whether you're a longtime fan or discovering Adam and Joe for the first time, sit back, relax and enjoy the comedy gold. Adam & Joe – classic comedy, brilliant banter and hours of entertainment.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1794766833526-6fea7a1db621c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3812130199.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "411743251",
-      "itunes_duration": "07:04:19",
+      "enclosure_length": "53510408",
+      "itunes_duration": "00:55:08",
       "speakers": [
-        "Karl Pilkington"
+        "Joe Xfm",
+        "Adam Buxton",
+        "Joe Cornish"
       ],
       "topics": [
-        "asleep",
-        "ricky",
-        "gervais",
-        "karl",
-        "pilkington",
-        "classic",
-        "series"
+        "adam"
       ]
     },
     {
@@ -6444,6 +6504,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-21 — 12 Adam and Joe - XFM - 2004.11.06 — speakers: Joe Xfm
+- 2026-11-20 — Fall Asleep to All of Karl Pilkington's Diary From The Ricky Gervais Podcast (REMASTERED AUDIO) — speakers: Karl Pilkington
 - 2026-11-20 — 11 Adam and Joe - XFM - 2004.10.30 — speakers: Joe Xfm
 - 2026-11-19 — 10 Adam and Joe - XFM - 2004.10.23 — speakers: Joe Xfm
 - 2026-11-19 — 9 - Adam and Joe - XFM - 2004.06.12 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
@@ -6452,9 +6514,10 @@
 - 2026-11-18 — 6 - Adam and Joe - XFM - 2004.05.01 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-17 — 4 Adam and Joe - XFM - 2004.03.27 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-17 — 3 - Adam and Joe - XFM - 2003.10.04 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
+- 2026-11-16 — .2. Adam and Joe - XFM - 2003.09.20 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-16 — 2 - Adam and Joe - XFM - 2003.09.20 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-16 — 1. Adam and Joe XFM - 2003.08.30 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
-- 2026-11-15 — (REMASTED NO ADS) Fall Asleep to Ricky Gervais & Karl Pilkington 😂 | Classic XFM Series 1 — speakers: Karl Pilkington
+- 2026-11-16 — 1. Adam and Joe XFM - 2003.08.30 — speakers: Joe Xfm, Adam Buxton, Joe Cornish
 - 2026-11-10 — #56 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-09 — #55 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
 - 2026-11-09 — #54 The Jon Richardson Edinburgh Specials with Matt Forde — speakers: Matt Forde Sub
