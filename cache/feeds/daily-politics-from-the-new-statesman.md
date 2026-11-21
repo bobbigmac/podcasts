@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-20T20:15:13+00:00`
-- checked_at: `2026-11-20T20:15:13+00:00`
-- etag: `"djEuMi4wOjE3OTUxODc1ODA5MTA="`
+- fetched_at: `2026-11-21T19:14:13+00:00`
+- checked_at: `2026-11-21T19:14:13+00:00`
+- etag: `"djEuMi4wOjE3OTUyODA0Mzk0NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-20T20:15:13+00:00",
+  "fetched_at": "2026-11-21T19:14:13+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b8030747c695db3a5ebd27b04b6b180e5f5d759a",
+      "title": "The wreckage of cut-price Britain",
+      "published_at": "2026-11-21T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-wreckage-of-cut-price-britain",
+      "description": "A pilgrimage to England’s biggest Poundland, a celebration of Parliament’s “sitting Fridays” and the GB News presenter who thought Robert Pattinson wasn’t British. Anoosh Chakelian and Will Dunn round up the stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1795187297640-12e7fabc-59f8-4d57-a83a-9f1d63f23f56.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6b00624cbf2fd3a5d909e379/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69438030",
+      "itunes_duration": "36:04",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "wreckage",
+        "price",
+        "britain"
+      ]
+    },
     {
       "key": "fbb29b89c5efe65ef3187e711c29410f6a501448",
       "title": "Can Labour save a lost generation?",
@@ -33039,6 +33060,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-21 — The wreckage of cut-price Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-19 — Can Labour save a lost generation? — speakers: Alan Milburn, Anoosh Chakelian, Oli Dugmore
 - 2026-11-16 — Britain’s violence-obsessed adolescents — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-14 — The Jensen Huang affair — speakers: Jensen Huang, Michael Portillo, Anoosh Chakelian, Oli Dugmore

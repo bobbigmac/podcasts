@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- etag: `"djEuMi4wOjE3OTUxNDcwNTk0MjQ="`
+- fetched_at: `2026-11-21T19:14:13+00:00`
+- checked_at: `2026-11-21T19:14:13+00:00`
+- etag: `"djEuMi4wOjE3OTUyODExNTg3MjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-21T19:14:13+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1a7aa1ba162a7c6084e833ced47a733c2c5a5d22",
+      "title": "Rich and Ally's Craven Newsround Compilation - \"Papal Bean\"",
+      "published_at": "2026-11-21T17:12:35+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "18th November 2026 - Papal Bean - Rich and Ally are back and now with RHLSTP over we can really concentrate on bringing you a 24 hour rolling news channel. For now it’s just the usual 5 minutes as the pair discuss the accident prone Pope in Peru and why God is letting him being mildly tormented. With a special report from the Vatican and some stuff about testicle chairs. It’s everything you want from a news show. 19th November 2026 - Three Stalins - It’s International Men’s Day so let’s celebrate the men currently carving up the world for their own brand of evil and a man show is definitely not MAGA and can’t imagine why anyone ever thought he was. Plus a report from China. This show has everything. 20th November 2026 - Knit Hat Hippo-astrophy- Final Newsround of the week and prepare yourself for some very bad news, delicately and professionally handled by a man (and a puppet) that we hope one day will be presenting all TV news. The Hippo community is in mourning and as the only news programme with an actual hippopotamus on the staff we are in the perfect place to provide a beautiful tribute. Support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1795280439112-40758e5b-7f9b-4716-aa24-cb5fb6460f38.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6b01d1069870152240ae8592/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24846528",
+      "itunes_duration": "51:45",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "papal",
+        "bean"
+      ]
+    },
     {
       "key": "022dd30e049b3f4cfd64e5ea956dd07d74956bb7",
       "title": "Robin Ince on The Future of Jokes - Book Club",
@@ -24731,6 +24754,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-21 — Rich and Ally's Craven Newsround Compilation - "Papal Bean" — speakers: Richard Herring
 - 2026-11-20 — Robin Ince on The Future of Jokes - Book Club — speakers: Robin Ince, Richard Herring
 - 2026-11-18 — Mathew Baynton and Jim Howick - "Distracted by Nipples" — speakers: Mathew Baynton, Jim Howick, Richard Herring
 - 2026-11-16 — Mike Birbiglia (Retro) - "Mr Moustache" — speakers: Mike Birbiglia, Richard Herring
