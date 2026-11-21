@@ -10878,6 +10878,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:a940e8e8f575",
+        "feed_title": "Joe Marler Will See You Now",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9033701265",
+        "dedupe_key": "30bdeab893fbfc7aad0ab07cb90b0a8dc7e3eb76",
+        "episode_key": "30bdeab893fbfc7aad0ab07cb90b0a8dc7e3eb76",
+        "title": "Bob Mortimer and Joe Marler Come To Blows Over PIE",
+        "published_at": "2026-11-17T17:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Bob Mortimer enters Dr Marler’s office, and Joe has decided there’s one thing he needs to get to the bottom of: just how much control does Bob actually have over his own unpredictability?\n\nWhat follows is exactly the kind of conversation you’d expect from Bob Mortimer: strong opinions on pies, a surprisingly heated dis",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/GLT1212569235.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer-and-joe-marler-come-to-blows-over-pie/id1850736713?i=1000802518765&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d5a7e6acbb25",
         "feed_title": "The Romesh Ranganathan Show",
         "source_rss_url": "https://feeds.megaphone.fm/romesh",
@@ -39576,6 +39598,28 @@
       }
     ],
     "richard-ayoade": [
+      {
+        "feed_slug": "external:apple:e271a58b7702",
+        "feed_title": "Train-ing It with Joe Wilkinson",
+        "source_rss_url": "https://feeds.megaphone.fm/CFTC4121910151",
+        "dedupe_key": "994b5bc224a571819e7c234be8918491d8b19156",
+        "episode_key": "994b5bc224a571819e7c234be8918491d8b19156",
+        "title": "Richard Ayoade",
+        "published_at": "2026-11-20T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "\"What do you get when you combine Joe Wilkinson, his love of trains and famous faces that he admires? A sort of train based podcast thing… that’s kind of it, really. Let’s witness Joe as he tags-along their train journeys and gets all the inside scoop. Train-ing It with Joe Wilkinson is back for Season 2, and in this f",
+        "audio_url": "https://traffic.megaphone.fm/CFTC3453473274.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-ayoade/id6827942905?i=1000803032103&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:72a05d4f5513",
         "feed_title": "Daily News Quiz UK",
