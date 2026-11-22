@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-20T02:18:09+00:00`
-- checked_at: `2026-11-20T02:18:09+00:00`
-- etag: `"djEuMi4wOjE3OTUxMzMyNTkzNTA="`
+- fetched_at: `2026-11-22T01:16:59+00:00`
+- checked_at: `2026-11-22T01:16:59+00:00`
+- etag: `"djEuMi4wOjE3OTUzMDYwNTkzMDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-20T02:18:09+00:00",
+  "fetched_at": "2026-11-22T01:16:59+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,32 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "40338b56d0819d06f0b262c6d89365cade63a32c",
+      "title": "Eddie Abbew: Pint Size",
+      "published_at": "2026-11-22T00:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/eddie-abbew-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 249: Exiting The Raglax Era\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6b00263711cce4ba96487aea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11357622",
+      "itunes_duration": "11:49",
+      "speakers": [
+        "Eddie Abbew",
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "eddie",
+        "abbew",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "ae626c831ee0f3192ac6fc5ad6f9808facc4b5f8",
       "title": "One Team in Tallinn",
@@ -16584,6 +16610,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — Eddie Abbew: Pint Size — speakers: Eddie Abbew, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-20 — One Team in Tallinn — speakers: One Team, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-18 — Why Are My Jeans Covered In Curry? — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-15 — Danny Kelly: Pint Size — speakers: Danny Kelly, Elis James, Mike Bubbins, Steff Garrero
