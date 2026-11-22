@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-11-22T01:16:59+00:00`
-- checked_at: `2026-11-22T01:16:59+00:00`
+- fetched_at: `2026-11-22T11:20:57+00:00`
+- checked_at: `2026-11-22T11:20:57+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-11-22T01:16:59+00:00",
+  "fetched_at": "2026-11-22T11:20:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9691a7b5ca63c25fe37372daa19d475f1c857922",
+      "guid": "f3335b65-4941-4662-ac0c-763d67869214",
+      "title": "The Ellie Taylor Show (22nd November)",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-22nd-november/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1795334471-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=f3335b65-4941-4662-ac0c-763d67869214&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "31ac2012d31e76a12d025d840fb616b8791830cc",
       "guid": "9ed55705-0dc4-4410-bbc2-891e90b14f5b",
@@ -1760,6 +1773,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — The Ellie Taylor Show (22nd November)
 - 2026-11-15 — The Ellie Taylor Show (15th November)
 - 2026-11-08 — The Ellie Taylor Show (8th November)
 - 2026-11-01 — The Ellie Taylor Show (1st November)

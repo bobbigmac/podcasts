@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NjcyMzk2Nzc="`
+- fetched_at: `2026-11-22T11:20:57+00:00`
+- checked_at: `2026-11-22T11:20:57+00:00`
+- etag: `"djEuMi4wOjE3OTUzMTY0Mzk1MTk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-22T11:20:57+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b1d347918587de5028051260c6a966dc5d357f69",
+      "title": "S6 EP11: Rachel Parris",
+      "published_at": "2026-11-22T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s6-ep11-rachel-parris",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian, musician and actress - Rachel Parris. We asked Rachel what she did yesterday? She told us. That's it... enjoy! Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1793882517350-e43ebc59-8e72-4dfc-956d-56ac32492443.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6aec7d6f8ebf2f2ca1c7e94b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "174997286",
+      "itunes_duration": "1:12:47",
+      "speakers": [
+        "Rachel Parris",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "rachel",
+        "parris"
+      ]
+    },
     {
       "key": "9acc0eafa8270d6ca70f7c156512c3b73238b314",
       "title": "WDWDY #96.1: Huel-y Lewis and the News (David's Yesterday)",
@@ -4480,6 +4501,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — S6 EP11: Rachel Parris — speakers: Rachel Parris, Max Rushden, David O'Doherty
 - 2026-11-18 — WDWDY #96.1: Huel-y Lewis and the News (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-11-15 — S6 EP10: Olga Koch — speakers: Olga Koch, Max Rushden, David O'Doherty
 - 2026-11-11 — WDWDY #95.1: Racing a tram (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
