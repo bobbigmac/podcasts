@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-22T11:20:57+00:00`
-- checked_at: `2026-11-22T11:20:57+00:00`
-- etag: `W/"6db5f-MBE9/dA6hiNg/S5nkakN8wK3lnE"`
+- fetched_at: `2026-11-22T19:37:07+00:00`
+- checked_at: `2026-11-22T19:37:07+00:00`
+- etag: `W/"6dfe3-JCNQo1NfHvHkxXz3D1OZmuUNcLY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-22T11:20:57+00:00",
+  "fetched_at": "2026-11-22T19:37:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d9115bf91e8c9de270b2d353769b8f049c7f5801",
+      "title": "Fall Asleep to All of Rockbusters with Karl Pilkington & Ricky Gervais",
+      "published_at": "2026-11-22T19:15:06+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Fall-Asleep-to-All-of-Rockbusters-with-Karl-Pilkington--Ricky-Gervais-e3sr3ps",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/47IBW7aeWlaBarGpi0RlpJ?si=Wmy9nJoPTym25IBE-0TptQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795374826031-be6433c2182d9.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2016651429.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "216703988",
+      "itunes_duration": "03:43:19",
+      "speakers": [
+        "Ricky Gervais"
+      ],
+      "topics": [
+        "asleep",
+        "rockbusters",
+        "karl",
+        "pilkington",
+        "ricky",
+        "gervais"
+      ]
+    },
     {
       "key": "2f732621bb7ea6d24cb175a5dd388e42d37543a9",
       "title": "Fall Asleep to Karl Pilkingtons Funniest Conspiracy Theories with Ricky Gervais",
@@ -6530,6 +6553,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — Fall Asleep to All of Rockbusters with Karl Pilkington & Ricky Gervais — speakers: Ricky Gervais
 - 2026-11-21 — Fall Asleep to Karl Pilkingtons Funniest Conspiracy Theories with Ricky Gervais — speakers: Conspiracy Theories, Ricky Gervais
 - 2026-11-21 — 12 Adam and Joe - XFM - 2004.11.06 — speakers: Joe Xfm
 - 2026-11-20 — Fall Asleep to All of Karl Pilkington's Diary From The Ricky Gervais Podcast (REMASTERED AUDIO) — speakers: Karl Pilkington

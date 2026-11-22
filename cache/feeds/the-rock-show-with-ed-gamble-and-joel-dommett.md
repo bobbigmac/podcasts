@@ -2,8 +2,8 @@
 
 - slug: `the-rock-show-with-ed-gamble-and-joel-dommett`
 - source: `https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/`
-- fetched_at: `2026-11-22T11:20:57+00:00`
-- checked_at: `2026-11-22T11:20:57+00:00`
+- fetched_at: `2026-11-22T19:37:07+00:00`
+- checked_at: `2026-11-22T19:37:07+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "image_url": "",
-  "fetched_at": "2026-11-22T11:20:57+00:00",
+  "fetched_at": "2026-11-22T19:37:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "11e166a9dcaf3872b9d117cead58802ce0d11b3f",
+      "guid": "82131550-67cc-4961-9207-cc43d25f7547",
+      "title": "The Rock Show with Ed Gamble and Joel Dommett (22nd November)",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-rock-show-with-ed-gamble-and-joel-dommett-22nd-november/",
+      "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
+      "image_url": "https://mm.aiircdn.com/177/173528.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1795356277-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=82131550-67cc-4961-9207-cc43d25f7547&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "75e80e8baabffddbbd65f1742ea6a1662b82da73",
       "guid": "6375dfae-d746-40a0-b8db-64c6509fb107",
@@ -1383,6 +1396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — The Rock Show with Ed Gamble and Joel Dommett (22nd November)
 - 2026-11-15 — The Rock Show with Ed Gamble and Joel Dommett (15th November)
 - 2026-11-08 — The Rock Show with Ed Gamble and Joel Dommett (8th November)
 - 2026-11-01 — The Rock Show with Ed Gamble and Joel Dommett (1st November)

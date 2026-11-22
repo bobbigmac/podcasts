@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-11-16T06:25:45+00:00`
-- checked_at: `2026-11-16T06:25:45+00:00`
-- etag: `"6b648825b80ccf0ba0fb2401e73090c8"`
-- last_modified: `Mon, 16 Nov 2026 06:00:05 GMT`
+- fetched_at: `2026-11-22T19:37:07+00:00`
+- checked_at: `2026-11-22T19:37:07+00:00`
+- etag: `"0fddbe99b7f30c8f58aa674af31e147e"`
+- last_modified: `Tue, 17 Nov 2026 05:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-11-16T06:25:45+00:00",
+  "fetched_at": "2026-11-22T19:37:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -985,22 +985,6 @@
       ]
     },
     {
-      "key": "ed24cbf0bce307168dccbdb6afe77d0283596fdc",
-      "title": "Tom & Lauren Are Going OOT",
-      "published_at": "2025-11-17T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0mgr62l",
-      "description": "Tom and Lauren are getting ready to go on holiday together. Unfortunately Tom has never flown with a budget airline before and doesn't realise that suitcases and carry-on are extras. Lauren is struggling to choose which clothes to leave behind, because she's worried about being judged by other women and she refuses to do laundry while she's on holiday. Tom is mortified to discover that he needs to pay extra for them to be seated together while Lauren is dismayed at the prospect of hours in a middle seat with a giant on one side and chronic B.O. on the other. Neil drops by to ask Tom to sort out some cardboard that Lauren has left in the bin store because \"she's not a great Greta\", so Tom asks him to water Lauren's plants while they're away - much to Lauren's horror. Cast: Tom Machell as Tom Lauren Pattison as Lauren Julian Clary as Neil Writers: Tom Machell & Lauren Pattison Director: Katharine Armitage Recording Engineer: Philip Quinton Sound Design: Philip Quinton Theme Music: Scrannabis Producers: Maria Caruana Galizia & Zahra Zomorrodian A Candle & Bell production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mgqz8y.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14016000",
-      "itunes_duration": "876",
-      "speakers": [],
-      "topics": [
-        "lauren"
-      ]
-    },
-    {
       "key": "686f4b61a41fc0f4c64d509d2ad4e447407a0d7b",
       "title": "John Finnemore's Souvenir Programme: 2025 Special",
       "published_at": "2025-09-15T04:00:00+00:00",
@@ -1079,5 +1063,4 @@
 - 2025-12-08 — One Person Found This Helpful — speakers: Dee Allum, Hasan Al-Habib
 - 2025-12-01 — Rum Punch — speakers: Rum Punch
 - 2025-11-24 — It's a Fair Cop: Scam Special — speakers: Fair Cop, Scam Special Ever
-- 2025-11-17 — Tom & Lauren Are Going OOT
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
