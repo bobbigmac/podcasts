@@ -2,8 +2,8 @@
 
 - slug: `the-andy-parsons-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/`
-- fetched_at: `2026-11-22T19:37:07+00:00`
-- checked_at: `2026-11-22T19:37:07+00:00`
+- fetched_at: `2026-11-23T01:41:23+00:00`
+- checked_at: `2026-11-23T01:41:23+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "image_url": "",
-  "fetched_at": "2026-11-22T19:37:07+00:00",
+  "fetched_at": "2026-11-23T01:41:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c0fe92fce2fd0ecc1de69e32c5ccbdfdb8c1c0b5",
+      "guid": "fec8ab72-700a-4aad-93ae-51cc41aafcf4",
+      "title": "The Andy Parsons Show (22nd November)",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-andy-parsons-show-22nd-november/",
+      "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
+      "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1795392047-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=fec8ab72-700a-4aad-93ae-51cc41aafcf4&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "d3f2ebdc66fa51242e9ff0ba60307138fc87417c",
       "guid": "0d92d768-d4f3-4685-aafd-ab3bcc775453",
@@ -1760,6 +1773,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-22 — The Andy Parsons Show (22nd November)
 - 2026-11-15 — The Andy Parsons Show (15th November)
 - 2026-11-08 — The Andy Parsons Show (8th November)
 - 2026-11-01 — The Andy Parsons Show (1st November)

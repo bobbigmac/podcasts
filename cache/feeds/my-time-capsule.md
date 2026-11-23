@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-20T02:18:09+00:00`
-- checked_at: `2026-11-20T02:18:09+00:00`
-- etag: `"djEuMi4wOjE3OTUxMzI5NjA0ODU="`
+- fetched_at: `2026-11-23T01:41:23+00:00`
+- checked_at: `2026-11-23T01:41:23+00:00`
+- etag: `"djEuMi4wOjE3OTUzOTIxNTkzMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-20T02:18:09+00:00",
+  "fetched_at": "2026-11-23T01:41:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ceccfa511f15e9e91eb451bf9e633fe7c576be99",
+      "title": "Ep. 615 - Gautier Capuçon - The world-renowned cellist behind Danny Elfman’s new concerto",
+      "published_at": "2026-11-23T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-615-gautier-capucon-the-world-renowned-cellist-behind-dan",
+      "description": "Gautier Capuçon is one of the foremost cello ambassadors of the 21st century, performing on some of the world’s biggest stages and bringing classical music to new audiences. He performed at the arrival of the Olympic Torch at the 2024 Paris Olympics, having also been chosen as a torch-bearer. He is about to release the world premiere recording of Danny Elfman’s Cello Concerto, a work the pair created together and premiered in 2022. The album also features music from Elfman’s iconic scores, including Edward Scissorhands , The Nightmare Before Christmas , Alice in Wonderland , Batman and Spider-Man , alongside The Simpsons theme, featuring a vocal cameo from Elfman himself. Gautier’s albums have reached audiences far beyond the classical world, with Émotions achieving gold status in France and selling more than 100,000 copies worldwide, while its follow-up, Sensations , became the first classical recording to reach No. 1 in the French all-genre charts. His most recent album, Gaïa , featured an extraordinary music video in which he performed his cello nearly 4,000 metres above sea level in the French Alps. Gautier Capuçon is our guest in episode 615 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Listen to Gautier’s new album with Dany Elfman here - https://warnerclassics.lnk.to/dannyelfman . For Gautier’s concerts and all music, visit - https://www.gautiercapucon.com . Follow Gautier Capuçon on Instagram : @gautiercapucon . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by boxallstudio.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6b0348cb61907e875b860953/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54776602",
+      "itunes_duration": "45:38",
+      "speakers": [
+        "Danny Elfman",
+        "Gautier Capuçon"
+      ],
+      "topics": [
+        "gautier",
+        "world",
+        "cellist",
+        "danny",
+        "elfman",
+        "concerto"
+      ]
+    },
     {
       "key": "40fcacfc503340029476c41226e41dff1c59562f",
       "title": "My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks)",
@@ -13944,6 +13968,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Ep. 615 - Gautier Capuçon - The world-renowned cellist behind Danny Elfman’s new concerto — speakers: Danny Elfman, Gautier Capuçon
 - 2026-11-20 — My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks) — speakers: Charlie Baker, Harry Hill
 - 2026-11-16 — Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos — speakers: Fatma Said Egyptian, Fatma Said
 - 2026-11-13 — My Time Capsule The Dig - Ep. 26 - With John Owen-Jones (West End star from Les Miserables & The Phantom of the Opera) — speakers: John Owen-Jones

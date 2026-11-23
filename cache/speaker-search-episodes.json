@@ -30188,6 +30188,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4395c88a0d56",
+        "feed_title": "Making The Cut with Davina McCall & Michael Douglas",
+        "source_rss_url": "https://feeds.acast.com/public/shows/7efdc598-9786-558e-9a1a-c1ae4b17a8af",
+        "dedupe_key": "b9a2ef04a182a4568c4fd1c1151d7cee51b49461",
+        "episode_key": "b9a2ef04a182a4568c4fd1c1151d7cee51b49461",
+        "title": "SERIES 2: Episode 3 - Fever Tree, Chipper, Exit Here, Social Dilemma, Stewart Lee, KoronaGadget",
+        "published_at": "2020-09-25T04:00:02Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What's made the cut this week?! Michael and Davina discuss a range of topics including Fever Tree tonic, the best kinds of gin, a charity-shop treasure, a new documentary and a handy gadget for the pandemic. Find us @makingthecutpodcast on  Instagram where you can send us your recommendations! Hosted on Acast. See acas",
+        "audio_url": "https://sphinx.acast.com/making-the-cut-with-davina-mccall-and-michael-douglas/series2-episode3-fevertree-chipper-exithere-socialdilemma-stewartlee-koronagadget/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/series-2-episode-3-fever-tree-chipper-exit-here-social/id1496602892?i=1000492458823&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3b7cd840b0a1",
         "feed_title": "Rock's Backpages",
         "source_rss_url": "https://feeds.megaphone.fm/rocksbackpages",
