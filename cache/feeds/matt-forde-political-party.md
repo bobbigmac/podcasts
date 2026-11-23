@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-11-23T01:41:23+00:00`
-- checked_at: `2026-11-23T01:41:23+00:00`
-- etag: `"djEuMi4wOjE3OTUwMDc5MTExOTE="`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"djEuMi4wOjE3OTUzOTkzNTk0ODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-11-23T01:41:23+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0745393add7811fde35dd3b5410c20a6abdab532",
+      "title": "Mishal Husain LIVE: Tucker Carlson, Nigel Farage and Why I Left the BBC",
+      "published_at": "2026-11-23T02:02:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/mishal-husain-live",
+      "description": "Mishal Husain is a star. She's one of the greatest interviewers of politicians and reveals where her unique approach comes from. In this fascinating and entertaining chat, Mishal takes us behind-the-scenes of the 2024 Leader's Debates she chaired. We also get the inside track on what it was like in THOSE interviews with Tucker Carlson and Nigel Farage. Mishal is a rare talent. Absolutely on top of her game, but totally humble about it. This is a masterclass. See the Political Party Live on Stage: 21 December: Christmas Special with Wes Streeting and Jess Phillips 22 February: Morgan McSweeney 17 May: Lindsay Hoyle https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 3 SALFORD Lowry - EXTRA DATE 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 17 LONDON Bloomsbury - EXTRA DATE 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6afd9948448067aaa271f8b7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90642612",
+      "itunes_duration": "1:02:56",
+      "speakers": [
+        "Tucker Carlson",
+        "Mishal Husain",
+        "Matt Forde"
+      ],
+      "topics": [
+        "mishal",
+        "husain",
+        "tucker",
+        "carlson",
+        "nigel",
+        "farage"
+      ]
+    },
     {
       "key": "62e95130790f1a9463ddc286a452e0f646ae0589",
       "title": "Liz Kendall LIVE: What really happened with THAT welfare vote",
@@ -10939,6 +10964,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Mishal Husain LIVE: Tucker Carlson, Nigel Farage and Why I Left the BBC — speakers: Tucker Carlson, Mishal Husain, Matt Forde
 - 2026-11-16 — Liz Kendall LIVE: What really happened with THAT welfare vote — speakers: Liz Kendall, Matt Forde
 - 2026-11-09 — 'This is what Andy Burnham MUST include in his 10 Year Plan' with Co-Op Party General Secretary, Caitlin Prowle — speakers: Andy Burnham, Caitlin Prowle, Matt Forde
 - 2026-11-02 — Jeffrey Archer - REPLAY — speakers: Jeffrey Archer Replay, Jeffrey Archer, Matt Forde

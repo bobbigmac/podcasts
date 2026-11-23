@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-11-22T19:37:07+00:00`
-- checked_at: `2026-11-22T19:37:07+00:00`
-- etag: `"0fddbe99b7f30c8f58aa674af31e147e"`
-- last_modified: `Tue, 17 Nov 2026 05:00:03 GMT`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"f7433cbf3f3e71359ef579c929637e58"`
+- last_modified: `Mon, 23 Nov 2026 06:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-11-22T19:37:07+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "fb65a5df36ef25ca2ff2e51c64ed0b1818ebba61",
+      "title": "The Naked Week",
+      "published_at": "2026-11-23T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pp4m8w",
+      "description": "From host Andrew Hunter Murray and The Skewer's Jon Holmes, The Naked Week team are back with their satirically mischievous machinations on the week's news. This week, they're joined by Guest Correspondent Katie Norris who only agreed because we told her it was The News Quiz. This week we hit the gym, throw a party, and send Britain’s children down the salt mines. Host: Andrew Hunter Murray Guest Correspondent: Katie Norris Guest Party Planner: Tilly Sutherland-Young Investigations Team: Cat Neilan Mark Little With thanks to Dr Annie de Bray (University of Birmingham) Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Alice Bright Kevin Smith Cooper Mawhinny Sweryt Joe Topping Clip Wrangler: David Riffkin Production Coordinator: Eddie Atkinson Assistant Producer: Katie Sayer Executive Producer: Richard Danbury Live Sound: Jerry Peal Post Sound: Tony Churnside Produced and Directed by Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp4l37.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27440000",
+      "itunes_duration": "1715",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "naked",
+        "week"
+      ]
+    },
     {
       "key": "ce6eb4b008f3fe8a445f52f395575e1580103f67",
       "title": "Live from the UK",
@@ -1013,6 +1033,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — The Naked Week — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-16 — Live from the UK — speakers: Angela Barnes
 - 2026-11-09 — The Matt Forde Focus Group — speakers: Group Give
 - 2026-11-02 — Randy Feltface's Human Handbook — speakers: Randy Feltface

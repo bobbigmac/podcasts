@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- etag: `"djEuMi4wOjE3OTUxNjMyNDg5NTQ="`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"djEuMi4wOjE3OTU0MDI4Mzk3Mjg="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "6f3c1c0c4ab1a24a9fe0630897f930e0851bef65",
+      "title": "S17 Ep 927 Vault Mondays: House Snoopers #1",
+      "published_at": "2026-11-23T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-927-vault-mondays-house-snoopers-1",
+      "description": "It’s time to head back into our archive of episodes from the early days of the pod. And in this one, we presented the pilot of our new Chatabix idea, 'House Snoopers’. Which didn’t become a thing, in case you hadn’t noticed. First posted on 16th September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6afff6d0357d3a43adf24513/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36401319",
+      "itunes_duration": "37:55",
+      "speakers": [
+        "Vault Mondays",
+        "House Snoopers",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "house",
+        "snoopers"
+      ]
+    },
     {
       "key": "8d81d180c51ced144615304d0e59d004896d0d4f",
       "title": "S17 Ep 926 Friday Repeat: The First Listener's Mailbag",
@@ -16811,6 +16835,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — S17 Ep 927 Vault Mondays: House Snoopers #1 — speakers: Vault Mondays, House Snoopers, Joe Wilkinson, David Earl
 - 2026-11-20 — S17 Ep 926 Friday Repeat: The First Listener's Mailbag — speakers: Friday Repeat, Joe Wilkinson, David Earl
 - 2026-11-19 — S17 Ep 925: Professional Podcasting and Motorway Madness — speakers: Professional Podcasting, Joe Wilkinson, David Earl
 - 2026-11-18 — S17 Ep 924: An Estate Agent Altercation — speakers: Joe Wilkinson, David Earl

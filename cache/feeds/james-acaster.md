@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-11-23T01:41:23+00:00`
-- checked_at: `2026-11-23T01:41:23+00:00`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-11-23T01:41:23+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f562d309eeca714ca752ebf0d2f9d17268f34cd2",
+      "guid": "37de10d8-5cfd-41f1-8451-9574cdebad88",
+      "title": "James Acaster (23rd November)",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-23rd-november/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1795432043-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=37de10d8-5cfd-41f1-8451-9574cdebad88&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "0543614294af248d7f74c631238247504c94afde",
       "guid": "8873b2c8-38d6-4ceb-a7e5-d9240dcefabc",
@@ -2865,6 +2878,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — James Acaster (23rd November)
 - 2026-11-16 — James Acaster (16th November)
 - 2026-11-09 — James Acaster (9th November)
 - 2026-11-02 — James Acaster (2nd November)

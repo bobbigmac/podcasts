@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-22T19:37:07+00:00`
-- checked_at: `2026-11-22T19:37:07+00:00`
-- etag: `W/"6dfe3-JCNQo1NfHvHkxXz3D1OZmuUNcLY"`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `W/"6f446-Eh8KeTOxZjyw7sIgGzNm3Y/eNFo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,55 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-22T19:37:07+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "601a3effda686e9a4ebdd0dbc9076a2009be86b8",
+      "title": "15 Adam and Joe - XFM - 2004.12.11 (Adam Buxton & Joe Cornish)",
+      "published_at": "2026-11-23T06:31:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-Adam-and-Joe---XFM---2004-12-11-Adam-Buxton--Joe-Cornish-e3sr27n",
+      "description": "more adam buxton joe cornish",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795373345547-fa674d6a3f268.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2935763980.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38745367",
+      "itunes_duration": "00:39:55",
+      "speakers": [
+        "Joe Xfm",
+        "joe cornish"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "cornish"
+      ]
+    },
+    {
+      "key": "e466eabf1d9256f476cbc5e51922e53332eda3a2",
+      "title": "14 Adam and Joe - XFM - 2004.11.20 (Adam Buxton & Joe Cornish)",
+      "published_at": "2026-11-23T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/14-Adam-and-Joe---XFM---2004-11-20-Adam-Buxton--Joe-Cornish-e3sr254",
+      "description": "more adam buxton joe cornish",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795373190119-1a8b284a14619.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1844702277.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23153073",
+      "itunes_duration": "00:23:51",
+      "speakers": [
+        "Joe Xfm",
+        "joe cornish"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "cornish"
+      ]
+    },
     {
       "key": "d9115bf91e8c9de270b2d353769b8f049c7f5801",
       "title": "Fall Asleep to All of Rockbusters with Karl Pilkington & Ricky Gervais",
@@ -3061,6 +3103,50 @@
       ]
     },
     {
+      "key": "fd84bf5fa28a4100de873b55978a7aafcee7b6e6",
+      "title": "#15 Russell Howard & Jon Richardson Podcast Episode 15",
+      "published_at": "2026-08-14T19:05:40+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-Russell-Howard--Jon-Richardson-Podcast-Episode-15-e3ndppa",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786734233405-f54ed3f635fb8.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6222862678.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76854628",
+      "itunes_duration": "01:19:12",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "ceb0fbf5c7890130af28a8af33640476219980f2",
+      "title": "#15 Russell Howard & Jon Richardson Podcast Episode 15",
+      "published_at": "2026-08-14T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-Russell-Howard--Jon-Richardson-Podcast-Episode-15-e3ncbkb",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786647394141-61fcc30581ce9.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8960984399.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76854628",
+      "itunes_duration": "01:19:12",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
       "key": "08428df103e6586e24e82b49beb4f09f02959825",
       "title": "#14 Russell Howard & Jon Richardson Podcast Episode 14",
       "published_at": "2026-08-14T10:30:00+00:00",
@@ -3936,32 +4022,6 @@
       ],
       "topics": [
         "asleep",
-        "winner",
-        "play",
-        "complete",
-        "collection",
-        "elis",
-        "james",
-        "john",
-        "robins"
-      ]
-    },
-    {
-      "key": "43c0e6873dbbebec921157903b87f3798c3194e4",
-      "title": "#1 Winner Plays On The Complete Collection PART 1 - with Elis James and John Robins",
-      "published_at": "2026-07-29T05:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/1-Winner-Plays-On-The-Complete-Collection-PART-1---with-Elis-James-and-John-Robins-e3mm1kp",
-      "description": "Are you on email?",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785276337035-bde253ea038ab.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO2575413412.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "688198634",
-      "itunes_duration": "11:56:52",
-      "speakers": [
-        "Elis James",
-        "John Robins"
-      ],
-      "topics": [
         "winner",
         "play",
         "complete",
@@ -5169,6 +5229,28 @@
         "classic",
         "scrape",
         "lyons",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "3cb8228e2e0a725133f2927d0b5ed494da06ea0e",
+      "title": "Josh Widdicombe XFM #54 – Ed Gamble, Iain Stirling, Nish Kumar",
+      "published_at": "2026-07-01T18:24:04+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-54--Ed-Gamble--Iain-Stirling--Nish-Kumar-e3lhgtb",
+      "description": "Ed Gamble and Iain Stirling join Josh in the studio. Nish shares another instalment of Nishipedia.Broadcast on 1st July 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782930204883-8d9e68b561a79.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3596631596.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43577172",
+      "itunes_duration": "00:44:54",
+      "speakers": [],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "gamble",
+        "iain",
+        "stirling",
         "nish",
         "kumar"
       ]
@@ -6553,6 +6635,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — 15 Adam and Joe - XFM - 2004.12.11 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm, joe cornish
+- 2026-11-23 — 14 Adam and Joe - XFM - 2004.11.20 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm, joe cornish
 - 2026-11-22 — Fall Asleep to All of Rockbusters with Karl Pilkington & Ricky Gervais — speakers: Ricky Gervais
 - 2026-11-21 — Fall Asleep to Karl Pilkingtons Funniest Conspiracy Theories with Ricky Gervais — speakers: Conspiracy Theories, Ricky Gervais
 - 2026-11-21 — 12 Adam and Joe - XFM - 2004.11.06 — speakers: Joe Xfm
@@ -6694,6 +6778,8 @@
 - 2026-08-17 — #17 Russell Howard & Jon Richardson Podcast Episode 17 — speakers: Russell Howard, Jon Richardson
 - 2026-08-16 — #16 Russell Howard & Jon Richardson Podcast Episode 16 — speakers: Russell Howard, Jon Richardson
 - 2026-08-15 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
+- 2026-08-14 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
+- 2026-08-14 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
 - 2026-08-14 — #14 Russell Howard & Jon Richardson Podcast Episode 14 — speakers: Russell Howard, Jon Richardson
 - 2026-08-14 — #13 Russell Howard & Jon Richardson Podcast Episode 13 — speakers: Russell Howard, Jon Richardson
 - 2026-08-13 — #12 Russell Howard & Jon Richardson Podcast Episode 12 — speakers: Russell Howard, Jon Richardson
@@ -6734,7 +6820,6 @@
 - 2026-08-01 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-07-31 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
 - 2026-07-29 — Fall Asleep to ALL of Winner Plays On The Complete Collection - with Elis James and John Robins — speakers: Elis James, John Robins
-- 2026-07-29 — #1 Winner Plays On The Complete Collection PART 1 - with Elis James and John Robins — speakers: Elis James, John Robins
 - 2026-07-27 — Fall Asleep To All of JAMES ACASTERS SCRAPES from the Josh Widdicombe XFM SHOW — speakers: Josh Widdicombe
 - 2026-07-27 — Best of James Acaster Podcast - Fubar Radio — speakers: Fubar Radio
 - 2026-07-26 — Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar — speakers: Edinburgh Fringe, James Acaster, Ed Gamble, Joe Lycett, Joe Ly
@@ -6784,6 +6869,7 @@
 - 2026-07-07 — Josh Widdicombe XFM #57 – Acaster Phones In, Adam Hills & Alex Brooker, Nish Kumar — speakers: Alex Brooker
 - 2026-07-02 — Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell — speakers: James Acaster, Suzi Ruffell
 - 2026-07-02 — Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar — speakers: James Acaster Classic Scrape, James Acaster, Nish Kum
+- 2026-07-01 — Josh Widdicombe XFM #54 – Ed Gamble, Iain Stirling, Nish Kumar
 - 2026-07-01 — Josh Widdicombe XFM #53 – Romesh Ranganathan, Harriet Kemsley — speakers: Harriet Kemsley
 - 2026-07-01 — Josh Widdicombe XFM #52 – James Acaster Returns, Tim Key — speakers: James Acaster Returns, Tim Key, James Acaster
 - 2026-07-01 — Josh Widdicombe XFM #51 – James Bannon, Tom Parry, Nish Kumar — speakers: James Bannon, Tom Parry, Tom Pary

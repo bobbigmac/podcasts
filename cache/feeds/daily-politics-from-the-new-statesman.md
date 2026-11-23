@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-21T19:14:13+00:00`
-- checked_at: `2026-11-21T19:14:13+00:00`
-- etag: `"djEuMi4wOjE3OTUyODA0Mzk0NjY="`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"djEuMi4wOjE3OTU0MzUwNzc0MDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-21T19:14:13+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2c6526cd329a2d6d455b73b485fc1eba33547499",
+      "title": "Andy Burnham's rejoin dilemma",
+      "published_at": "2026-11-23T10:59:29+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/andy-burnhams-rejoin-dilemma",
+      "description": "The Europe question has plagued every British Prime Minister since Clement Attlee… and none of them seem to have found the right answer. Now it’s Andy Burnham’s turn. At the EU-UK summit in Brussels, he tabled a youth mobility scheme, an agreement on carbon emissions pricing and a deal on food trade. Tougher talks are expected to follow. Is the plan to rejoin by stealth: creeping back into bed with Europe through a series of sector by sector deals? Or will Labour go with the advice of ex Foreign Secretary David Lammy and put rejoining the EU on the ballot for the next general election? Anoosh Chakelian is joined by editor Tom McTague. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1795430981727-f560dfbc-5a01-48eb-9a35-9387092fd366.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6b04197b784ac8b998a42815/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72356956",
+      "itunes_duration": "37:36",
+      "speakers": [
+        "Andy Burnham",
+        "Clement Attlee",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "rejoin",
+        "dilemma"
+      ]
+    },
     {
       "key": "b8030747c695db3a5ebd27b04b6b180e5f5d759a",
       "title": "The wreckage of cut-price Britain",
@@ -33060,6 +33084,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Andy Burnham's rejoin dilemma — speakers: Andy Burnham, Clement Attlee, Anoosh Chakelian, Oli Dugmore
 - 2026-11-21 — The wreckage of cut-price Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-19 — Can Labour save a lost generation? — speakers: Alan Milburn, Anoosh Chakelian, Oli Dugmore
 - 2026-11-16 — Britain’s violence-obsessed adolescents — speakers: Anoosh Chakelian, Oli Dugmore

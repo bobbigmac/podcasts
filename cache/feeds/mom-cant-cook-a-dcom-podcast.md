@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-11-09T19:47:52+00:00`
-- checked_at: `2026-11-09T19:47:52+00:00`
-- last_modified: `Mon, 09 Nov 2026 19:38:46 GMT`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- last_modified: `Mon, 23 Nov 2026 07:30:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-11-09T19:47:52+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "26f75aae2586927891054c0d47ea4a7045ce060f",
+      "title": "The Lizzie McGuire Movie",
+      "published_at": "2026-11-23T07:30:00+00:00",
+      "link": null,
+      "description": "The City of Rome has seen its fair share of disasters during its 2800 years of existence, including the great fire of Rome in 54 AD, the sacking of the City by Visigoths in 410 AD, and of course, the arrival of American teen Lizzie McGuire and her weirdo friend Gordo on a school trip in 2003. Lizzie and Gordo resolve to say yes to adventure while in la Città Eterna, but before long Lizzie has been swept up by Paolo, an Italian pop star who tells Lizzie she bears an uncanny resemblance to his singing partner Isabella, who is currently incommunicado on an island for some reason. Will Lizzie agree to take Isabella's place and sing at the International Video Music Awards? Why is Lizzie's brother such a creep? And would all of this make sense if we'd actually seen the Lizzie McGuire TV series? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, a shoutout at the end of the show, or now, the chance to propose a movie for us to watch, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched The Lizzie McGuire Movie and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2022's Haul Out the Holly: Lit Up! See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/tracking.swap.fm/track/IVPmvUWSCISCVAzWNnnJ/rss.art19.com/episodes/f7852b2a-36e2-4258-9da7-43549b69c669.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140312659",
+      "itunes_duration": "02:26:09",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "lizzie",
+        "mcguire",
+        "movie"
+      ]
+    },
     {
       "key": "eea06caed76f9685ec6c8ca1f482bd2ffbf62d90",
       "title": "Return to Halloweentown",
@@ -2391,6 +2412,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — The Lizzie McGuire Movie — speakers: Luke Westaway, Andy Farrant
 - 2026-11-09 — Return to Halloweentown — speakers: Luke Westaway, Andy Farrant
 - 2026-10-26 — Zombies — speakers: Luke Westaway, Andy Farrant
 - 2026-10-12 — My Babysitter's a Vampire — speakers: Luke Westaway, Andy Farrant

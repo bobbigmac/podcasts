@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-21T19:14:13+00:00`
-- checked_at: `2026-11-21T19:14:13+00:00`
-- etag: `"djEuMi4wOjE3OTUyODExNTg3MjY="`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"djEuMi4wOjE3OTU0MDYyNTk0NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-21T19:14:13+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cf26affc5288c0f0522bc8cb5cff29eb15ae9cf0",
+      "title": "Ben Willbond and Larry Rickard (Retro) - \"Missing Mr Tod\"",
+      "published_at": "2026-11-23T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#464 Missing Mr Tod - Richard has been at his kids’ sports day, reminding himself of his greatest sporting triumph. His guests are Ghosts, not literally, Ben Willbond and Larry Rickard. They discuss how the pair met and their initial thoughts about each other, how they plan to prove that ghosts have bumholes, why the next series of Ghosts will be the last, why Robin is trapped within the bounds of Button Hall, why a helicopter came to Ben’s school, what happened when Larry turned up to write for Peter Rabbit with a hangover, the different speech rhythms when working on American comedy shows and doing a comedy version of V. Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1795387158401-8616c798-d9ff-4d8a-8c1f-ecce36301185.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6b03714398701522404645bf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30641423",
+      "itunes_duration": "1:03:50",
+      "speakers": [
+        "Ben Willbond",
+        "Larry Rickard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "willbond",
+        "larry",
+        "rickard",
+        "retro",
+        "missing"
+      ]
+    },
     {
       "key": "1a7aa1ba162a7c6084e833ced47a733c2c5a5d22",
       "title": "Rich and Ally's Craven Newsround Compilation - \"Papal Bean\"",
@@ -24754,6 +24778,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Ben Willbond and Larry Rickard (Retro) - "Missing Mr Tod" — speakers: Ben Willbond, Larry Rickard, Richard Herring
 - 2026-11-21 — Rich and Ally's Craven Newsround Compilation - "Papal Bean" — speakers: Richard Herring
 - 2026-11-20 — Robin Ince on The Future of Jokes - Book Club — speakers: Robin Ince, Richard Herring
 - 2026-11-18 — Mathew Baynton and Jim Howick - "Distracted by Nipples" — speakers: Mathew Baynton, Jim Howick, Richard Herring

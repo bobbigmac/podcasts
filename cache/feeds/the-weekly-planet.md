@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-22T19:37:07+00:00`
-- checked_at: `2026-11-22T19:37:07+00:00`
-- etag: `"djEuMi4wOjE3OTUzNjM5MTU5NjU="`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"djEuMi4wOjE3OTU0MTk2MTUyNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-22T19:37:07+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ba7be08e6f208fbf386eccca07afae61a020833a",
+      "title": "650 GTA6, Robert Pattinson is Bond & Another Hunger Games Prequel",
+      "published_at": "2026-11-23T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/650-robert-pattinson-is-james-bond-the-hunger-games-sunrise",
+      "description": "So it turns out video games are still the most popular entertainment avenue of all time with the release of Grand Theft Auto VI. We discuss what's considered the media launch of all time, Robert Pattinson being cast as James Bond and what that means for The Batman Part 3, Skydance potentially losing The Matrix to the Wachowskis, news on Michael Bay's next Transformers movie, we review the latest Hunger Games prequel, Sunrise on the Reaping, and more! Thanks for listening. New episode of We Got 'We Got This Covered' Covered out now! The bonus clickbait show with James & Maso available to watch and listen on bigsandwich.co, patreon.com/mrsundaymovies and via 'YouTube Memberships' on youtube.com/mrsundaymovies PLEASE be aware time-codes below may shift due to any inserted ads. 00:00 The Start 04:47 GTA VI Success, Big Movie next? 14:04 Robert Pattinson is James Bond 32:30 Skydance Latest, The Matrix Bid & Ebenezer Crap 40:52 Michael Bay Transformers Casting Rumours 44:19 Hunger Games: Sunrise on the Reaping Movie Review 01:00:58 Hunger Games: Sunrise on the Reaping Spoilers 01:09:43 What We Reading, What We Gonna Read 01:15:38 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6b02fd558e8174f9836d9d9a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130323675",
+      "itunes_duration": "1:30:30",
+      "speakers": [
+        "Robert Pattinson",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "robert",
+        "pattinson",
+        "bond",
+        "hunger",
+        "games",
+        "prequel"
+      ]
+    },
     {
       "key": "26cfd810008223d5f66bfe1f0fc9b3292408b73c",
       "title": "Virtuosity - Caravan Of Garbage",
@@ -23526,6 +23551,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — 650 GTA6, Robert Pattinson is Bond & Another Hunger Games Prequel — speakers: Robert Pattinson, James Clement, Nick Mason
 - 2026-11-19 — Virtuosity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-11-16 — 649 Another DC Reboot & VisionQuest Review — speakers: James Gunn, James Clement, Nick Mason
 - 2026-11-12 — Maze Runner: The Death Cure - Caravan of Garbage — speakers: Maze Runner, Dylan O'Brien, James Clement, Nick Mason

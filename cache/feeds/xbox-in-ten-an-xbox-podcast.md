@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-11-16T06:25:45+00:00`
-- checked_at: `2026-11-16T06:25:45+00:00`
-- etag: `"dac1f2a53f5830a604dc63c4a7cfcd30"`
-- last_modified: `Mon, 16 Nov 2026 05:19:40 GMT`
+- fetched_at: `2026-11-23T12:34:33+00:00`
+- checked_at: `2026-11-23T12:34:33+00:00`
+- etag: `"14d29c6c602155654be80b1f2d00617f"`
+- last_modified: `Mon, 23 Nov 2026 05:12:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-11-16T06:25:45+00:00",
+  "fetched_at": "2026-11-23T12:34:33+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6a6417406d0e8c9f52da0943958fde5c593cc465",
+      "title": "GTA 6 Makes $3.79 Billion in First-Day Sales - (Xbox In Ten: An Xbox Podcast - Ep. 391)",
+      "published_at": "2026-11-23T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/gta-6-makes-379-billion-in-first-day-sales-xbox-in-ten-an-xbox-podcast-ep-391",
+      "description": "Week of: 11-16-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/5/a/a/c/5aac4ec25c3e497b5f2e77a3093c12a1/391.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/391.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11954896",
+      "itunes_duration": "08:34",
+      "speakers": [
+        "Day Sales",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "sales",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "044d060eb9def64fa6b79b15bd5df390930b0014",
       "title": "XBOX Celebrates 25 Years with Announcements & Reveals - (Xbox In Ten: An Xbox Podcast - Ep. 390)",
@@ -9854,6 +9877,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — GTA 6 Makes $3.79 Billion in First-Day Sales - (Xbox In Ten: An Xbox Podcast - Ep. 391) — speakers: Day Sales, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-11-16 — XBOX Celebrates 25 Years with Announcements & Reveals - (Xbox In Ten: An Xbox Podcast - Ep. 390) — speakers: Brandon Rosa
 - 2026-11-09 — Bethesda Confirms The Elder Scrolls 6 is Called Sentinel but it is 2+ Years Away? - (Xbox In Ten: An Xbox Podcast - Ep. 389) — speakers: Elder Scrolls, Brandon Rosa
 - 2026-11-02 — The Elder Scrolls 6...Sentinel...Revealed Next Month? - (Xbox In Ten: An Xbox Podcast - Ep. 388) — speakers: Revealed Next Month, Xbox Gaming News, Fun Fact, Brandon Rosa
