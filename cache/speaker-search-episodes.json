@@ -34467,6 +34467,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5b707c818a78",
+        "feed_title": "Top Stories!",
+        "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
+        "dedupe_key": "8b516d34eed092d6edaaba0d1ee4766eada6fdd4",
+        "episode_key": "8b516d34eed092d6edaaba0d1ee4766eada6fdd4",
+        "title": "HUSH hush",
+        "published_at": "2026-11-17T00:07:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome back to Top Stories! The show where we delve into the archives of a previous The Bugle, this episode, we’re going back to April 1, 2023, and episode 4258. As Andy was joined by Nish Kumar and Felicity Ward as they reported on, the Manhattan grand jury voted to indict Trump over hush money payments—making him th",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6310d4dfae5d1300124c4e12/e/6afb8f210975422c59419c97/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/hush-hush/id1647976369?i=1000802365572&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
