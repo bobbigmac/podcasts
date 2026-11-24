@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-11-15T16:20:33+00:00`
-- checked_at: `2026-11-15T16:20:33+00:00`
-- etag: `W/"06295a5393f559eeb9d23ab21a3b05e4"`
-- last_modified: `Fri, 13 Nov 2026 11:52:06 GMT`
+- fetched_at: `2026-11-24T02:12:11+00:00`
+- checked_at: `2026-11-24T02:12:11+00:00`
+- etag: `W/"231fe702511da07d24e5f8d00d4dc281"`
+- last_modified: `Mon, 23 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-11-15T16:20:33+00:00",
+  "fetched_at": "2026-11-24T02:12:11+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,74 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "27c229e3f6e7736c0abd06e5583172caa0d88875",
+      "title": "Little Fish: Star-crossed blubber",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "link": "https://audioboom.com/posts/8979709",
+      "description": "Andy makes a prediction about life in 100 years, while he, Anna and James discuss YOUR facts. This week's subjects include Montreal, magnesium and Mexican miners. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8979709.mp3?modified=1795222166&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2033",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "star",
+        "blubber"
+      ]
+    },
+    {
+      "key": "90c42dd27a2fd310dba24177800d1b3b7ae72a5e",
+      "title": "No Such Thing As An Oat Milk Newspaper",
+      "published_at": "2026-11-19T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8978941",
+      "description": "Maddie Moate joins Dan, James and Anna to discuss digital faeces, television forensics and radiopharmaceuticals. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia It’s HexClad’s Biggest Sale of the Year — Save up to £589 off until 1 December at hexclad.co.uk/FISH . Plus 15% off everything not already on sale with the same link. #hexcladpartner Learn a new Language and get up to 60% off your subscription at Babbel.com/ FISH",
+      "image_url": "https://audioboom.com/i/43947124.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8978941.mp3?modified=1795102228&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3713",
+      "speakers": [
+        "Maddie Moate",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "milk",
+        "newspaper"
+      ]
+    },
+    {
+      "key": "5db7bb0e6c30a4f531e2ba0676dc52fd66247a54",
+      "title": "Little Fish: I'm glad you asked",
+      "published_at": "2026-11-15T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8976674",
+      "description": "Anna tests us all with an impossible moral dilemma, while she, Dan and Andy discuss YOUR facts. This week's subjects include Sagan, sinuses and South Detroit (South Dakota). And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8976674.mp3?modified=1794568541&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1789",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish"
+      ]
+    },
     {
       "key": "b46f69e819100ac6dd4d595dddb9c7da4e45be9c",
       "title": "No Such Thing As A Necklace On A Melon",
@@ -17500,6 +17568,9 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Little Fish: Star-crossed blubber — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-11-19 — No Such Thing As An Oat Milk Newspaper — speakers: Maddie Moate, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-11-15 — Little Fish: I'm glad you asked — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-12 — No Such Thing As A Necklace On A Melon — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-08 — Little Fish: I'm from the future - here's a fart joke — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-05 — No Such Thing As The Otters Circling — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

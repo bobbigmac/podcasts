@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-11-16T19:35:27+00:00`
-- checked_at: `2026-11-16T19:35:27+00:00`
-- etag: `"11ef9d-660635d5ffb28"`
-- last_modified: `Mon, 16 Nov 2026 11:49:04 GMT`
+- fetched_at: `2026-11-24T02:12:11+00:00`
+- checked_at: `2026-11-24T02:12:11+00:00`
+- etag: `"11f74a-660f1c25b7f07"`
+- last_modified: `Mon, 23 Nov 2026 13:42:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-11-16T19:35:27+00:00",
+  "fetched_at": "2026-11-24T02:12:11+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f5d7a16578fe64dcc951a9d43ce3015a113b1e18",
+      "title": "Fart in a Jar - S8, Ep.1",
+      "published_at": "2026-11-23T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Last week Chloe Petts set Jenny and Jack back to Series 8 for their homework, and so this week they revisit a 'very brave start' of a series to enjoy the unique delights of Lou in a bin, Sian as a fox, food meeting feet and the concept of marionette lines. Plus, Jack finally gets to reveal his hack for the baby monitor task, and Jenny is introduced to \"just normal men\" thanks to Hacker T. Send us your goofs, bloops, and homework suggestions: fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/a25877fc-c327-49d7-be48-81ddcc842767.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=a25877fc-c327-49d7-be48-81ddcc842767",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54906534",
+      "itunes_duration": "57:12",
+      "speakers": [
+        "Chloe Petts",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": []
+    },
     {
       "key": "d53d201f58b8a76aabe3e956445b9f912bf84545",
       "title": "*SERIES 22 DEBRIEF WITH CHLOE PETTS*",
@@ -5075,6 +5093,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-23 — Fart in a Jar - S8, Ep.1 — speakers: Chloe Petts, Jenny Eclair, Jack Bernhardt
 - 2026-11-16 — *SERIES 22 DEBRIEF WITH CHLOE PETTS* — speakers: Chloe Petts, Jenny Eclair, Jack Bernhardt
 - 2026-11-09 — Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-11-02 — Still Looking For My X - S22, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt

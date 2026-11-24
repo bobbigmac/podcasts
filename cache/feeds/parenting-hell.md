@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-11-20T02:18:09+00:00`
-- checked_at: `2026-11-20T02:18:09+00:00`
-- last_modified: `Fri, 20 Nov 2026 00:15:00 GMT`
+- fetched_at: `2026-11-24T02:12:11+00:00`
+- checked_at: `2026-11-24T02:12:11+00:00`
+- last_modified: `Tue, 24 Nov 2026 00:30:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-20T02:18:09+00:00",
+  "fetched_at": "2026-11-24T02:12:11+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,47 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c32f3f6093d3abd66e83b1c3b52a539634a5f28b",
+      "title": "S13 EP37: Josh gets stuck behind a circus",
+      "published_at": "2026-11-24T00:30:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1806240443.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3339",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "josh",
+        "circus"
+      ]
+    },
+    {
+      "key": "ee3a7a40425fcd327aead1cf24568b8d6f5a6ddb",
+      "title": "⚽ I've always rated Florian Wirtz ⚽",
+      "published_at": "2026-11-23T16:44:00+00:00",
+      "link": null,
+      "description": "New manager bounce? Not at Old Trafford.... Manchester United are still rubbish and get smashed 4-0 by Liverpool. Is this the most boring title race ever? What do footballers do with their time off? All this and more... If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2784978257.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3216",
+      "speakers": [
+        "Manchester United",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "florian",
+        "wirtz"
+      ]
+    },
     {
       "key": "132bc821f330fef5c67fbab3caadfd8fba9fe1f4",
       "title": "S13 EP36: It's the life we lead",
@@ -13365,6 +13406,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — S13 EP37: Josh gets stuck behind a circus — speakers: Rob Beckett, Josh Widdicombe
+- 2026-11-23 — ⚽ I've always rated Florian Wirtz ⚽ — speakers: Manchester United, Rob Beckett, Josh Widdicombe
 - 2026-11-20 — S13 EP36: It's the life we lead — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-17 — S13 EP35: Have you been scrumping? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-16 — ⚽ He's Magic, You Know, Mauricio Pochettino ⚽ — speakers: Mauricio Pochettino, Rob Beckett, Josh Widdicombe

@@ -11965,6 +11965,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "11126ba0309e726b858cb2bede2de78e9106127b",
+        "episode_key": "11126ba0309e726b858cb2bede2de78e9106127b",
+        "title": "Deborah Meaden: Death-fetti, 63 Dragon’s Den Deals and an Owl Masterclass",
+        "published_at": "2026-11-23T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on The Harry Hill Show, Dragon’s Den star Deborah Meaden gets the full pitch treatment from Harry - The Harry Hill Bin Key, Death-fetti funeral confetti and The Andy Burnham Spaghetti Dispenser all go under the microscope, and none of them survive. Sarah the AI Bot runs through Deborah’s path from leaving sch",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6afb398dd73a2397eb9d951f/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/deborah-meaden-death-fetti-63-dragons-den-deals-and/id1742178595?i=1000803536417&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3e536c52b853",
         "feed_title": "My Time Capsule",
         "source_rss_url": "https://feeds.acast.com/public/shows/e524e6f9-e52d-4fde-83a6-236625eaafaa",
