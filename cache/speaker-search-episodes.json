@@ -44283,6 +44283,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:a3df8300f96c",
+        "feed_title": "Bottoms Up! With Alan Carr and Lee Peart",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2696747469",
+        "dedupe_key": "ce4e35324a70be344a6feee9b0849a2f63884b6a",
+        "episode_key": "ce4e35324a70be344a6feee9b0849a2f63884b6a",
+        "title": "Jack Dee: Last One Laughing, Alan's Awkward Kiss & Halloween",
+        "published_at": "2026-10-28T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Bottoms Up! It’s Halloween and our special guest Jack Dee gets a fright when he discovers Alan and Lee dressed as their favourite wicked witches…\n\nJack joins the boys to talk about his brand-new stand-up tour, the latest series of Last One Laughing: Halloween and his trip to the Northern Lights with Alan (",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/kj8g9/traffic.megaphone.fm/GLT6391324372.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee-last-one-laughing-alans-awkward-kiss-halloween/id1853058074?i=1000798472350&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Another Day Ruined",
         "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",

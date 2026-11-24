@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RVeE5UUTBNems0TVRJPTo6c2F4ZXNz"`
+- fetched_at: `2026-11-24T13:40:39+00:00`
+- checked_at: `2026-11-24T13:40:39+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RVMU1EQXdNems1TWprPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-24T13:40:39+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "485856b4ba2df08832fb6fba9fcdc5f05ebae7fd",
+      "title": "Help He’s Weeing In The Shower | And A Snot Rocket Landing!!",
+      "published_at": "2026-11-24T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-hes-weeing-in-the-shower-and-a-snot-rocket-is-incoming",
+      "description": "William Hanson has some controversial opinions this week as he reveals his serious issues with a certain themed afternoon tea. Meanwhile, Jordan North takes a trip down memory lane, reminiscing about the days when painting his face was more important than playing Grand Theft Auto. Plus, your Dilemma Daddies are back to tackle your burning questions, including whether a snot rocket is EVER acceptable in public and the all-important etiquette of peeing in the shower when you have company! Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon -- Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ -- FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1795443957355-d6ece8cc-2c3d-43c5-b63a-60b3a24988af.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6b042d3d3fe63a15cd7107ec/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=daPz2RBYNkaOIVofSL5kWdDYamZgq6uv9GG2nz-Z_Po",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43219905",
+      "itunes_duration": "45:01",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "shower",
+        "snot",
+        "rocket",
+        "landing"
+      ]
+    },
     {
       "key": "f3889cc3981721e7748a776eba74e86b964423a2",
       "title": "YOU’RE NOT MY MOTHER! | And Natalie Cassidy Tells William Off",
@@ -15489,6 +15511,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-24 — Help He’s Weeing In The Shower | And A Snot Rocket Landing!! — speakers: William Hanson, Jordan North
 - 2026-11-20 — YOU’RE NOT MY MOTHER! | And Natalie Cassidy Tells William Off — speakers: Natalie Cassidy Tells, William Off, Jordan North, William Hanson, Albert Square
 - 2026-11-17 — Help He’s Giving Me Hickeys | And Our Sex Dreams — speakers: Jordan North, William Hanson
 - 2026-11-13 — Good Luck Charms | And Jordan North Gets A RIGHT TELLING OFF — speakers: Good Luck Charms, Jordan North, William Hanson
