@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-11-18T11:39:17+00:00`
-- checked_at: `2026-11-18T11:39:17+00:00`
-- etag: `"djEuMi4wOjE3OTQ5NjM2Mzk1NDk="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1Njg0Mzk0NDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-11-18T11:39:17+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0ee37f9f366545d3892bfc5ccc9bca6ad951fc39",
+      "title": "Mo Gilligan",
+      "published_at": "2026-11-25T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/mo-gilligan",
+      "description": "This week we’re joined by comedy star Mo Gilligan for lunch. From his viral impressions and Netflix comedy specials, to judging The Masked Singer, hosting his own chat show, and taking on the world of fried chicken for his latest documentary, Mo is one of the busiest men in the biz. We chatted about his upcoming big arena tour, growing up in South London, his mum vaping at Buckingham Palace, his very funny encounter with Seal and the time he accidentally set fire to his mum’s kitchen while cooking chips (with the family parrot nearly cooked too!). Plus you won’t want to miss his secret ingredient to the perfect Mac and Cheese! Mo was such a gorgeous guest, thank you for coming round and sharing such fab stories. You can catch Mo on his upcoming comedy tour across the UK in 2027, but first he’ll be at London’s O2 on the 10th December. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1795536619860-9f39b668-1ec5-48e1-b0de-70ae9d01ef12.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6b05b597b67cafa450ebebf7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56987062",
+      "itunes_duration": "59:21",
+      "speakers": [
+        "Mo Gilligan"
+      ],
+      "topics": [
+        "gilligan"
+      ]
+    },
     {
       "key": "670a741d2dbf2656f7c6b3751b590574edacb557",
       "title": "Celia Imrie",
@@ -7594,6 +7612,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — Mo Gilligan — speakers: Mo Gilligan
 - 2026-11-18 — Celia Imrie — speakers: Celia Imrie
 - 2026-11-11 — James Acaster — speakers: James Acaster
 - 2026-11-04 — Arlene Phillips — speakers: Arlene Phillips, Whitney Hou

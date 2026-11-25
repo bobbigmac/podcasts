@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- etag: `"djEuMi4wOjE3OTUxNDg0Mzk0MzQ="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1ODAxMzkyOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9685b96e3746fd514377b8ad68c487cb78483537",
+      "title": "BEST XMAS FILMS EVER • with JACK SPRING & JOHN BRADLEY! (Merry Christmas Aubrey Flint) #697",
+      "published_at": "2026-11-25T04:15:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by JACK & JOHN, director and star respectively MERRY CHRISTMAS AUBREY FLINT ! You will certainly know John through his previous appearances on the show of course but perhaps more likely via his many very huge TV and film appearances over the years (Game Of Thrones being one, in case you're unfamiliar), and while Jack isn't a previous guest he very much takes the \"act like you've been here before\" path and fits right in from the start. It helps that these two have directed and starred in a Xmas movie which looks set to revive the genre for the masses (or at least carry the torch), so they are well placed to chime in on the chosen specialist subject for this episode, which is Xmas movies! Woven into the chat focusing on all of their choices is a lot of very interesting and revealing talk about the film they've made, and what their inspirational touchpoints were. Not only that - what are the key ingredients of a successful Xmas movie? Do those ingredients involve forgetting a child who has the mind of a fully trained soldier, or maybe tactically clearing out a building full of enemies while barefoot? We'll find out together. PIP'S PATREON PAGE if you're of a supporting nature IMDB MERRY CHRISTMAS AUBREY FLINT SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1795448729502-6bb4fd77-176c-481a-8116-a7477163dc69.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6b04633a794e824f620b339a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "194389338",
+      "itunes_duration": "1:20:54",
+      "speakers": [
+        "Merry Christmas Aubrey Flint"
+      ],
+      "topics": [
+        "best",
+        "xmas",
+        "films",
+        "jack",
+        "spring",
+        "john",
+        "bradley",
+        "merry",
+        "christmas",
+        "aubrey"
+      ]
+    },
     {
       "key": "aeaaf31aa81dd73a31d06e2aca9e9c9bdd94d3a1",
       "title": "ROBERT EGGERS (Nosferatu / The Lighthouse / The VVitch) • Friday Rewind",
@@ -20033,6 +20060,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — BEST XMAS FILMS EVER • with JACK SPRING & JOHN BRADLEY! (Merry Christmas Aubrey Flint) #697 — speakers: Merry Christmas Aubrey Flint
 - 2026-11-20 — ROBERT EGGERS (Nosferatu / The Lighthouse / The VVitch) • Friday Rewind — speakers: Robert Eggers
 - 2026-11-18 — NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696
 - 2026-11-13 — JACK LOWDEN (Slow Horses / Benediction / Capone) • Friday Rewind — speakers: Jack Lowden

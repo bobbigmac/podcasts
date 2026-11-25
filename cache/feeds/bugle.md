@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-11-18T20:29:46+00:00`
-- checked_at: `2026-11-18T20:29:46+00:00`
-- etag: `"djEuMi4wOjE3OTUwMTc2Mzk0ODY="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU0ODA5NDI4OTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790614989559-b25d72a9-7a17-4c6a-9490-434b5f66f093.jpeg",
-  "fetched_at": "2026-11-18T20:29:46+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -255,8 +255,8 @@
       "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1789568509100-9f3855cf-537b-4744-a6cf-6a3b26aedb7b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6aaaa1e42fc2e13f78ef8fd4/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "52358582",
+      "itunes_duration": "54:32",
       "speakers": [
         "Nish Kumar",
         "Sara Barron",

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-23T12:34:33+00:00`
-- checked_at: `2026-11-23T12:34:33+00:00`
-- etag: `"djEuMi4wOjE3OTU0MDYyNTk0NTA="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1NzkwNTk1MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-23T12:34:33+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e068d0b0700657debde8a1d433b196893e748dd4",
+      "title": "James Acaster - \"Unlikely Sex Symbol\"",
+      "published_at": "2026-11-25T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #637 - Unlikely Sex Symbol - Rich returns to Leicester Square for nearly the final time and he’s wondering if today’s guest can help him with a conundrum about the deity. That guest is all conquering podcast winner who is also all elbows, James Acaster. Recorded before the final week of Traitors, the pair discuss some of the highlights and lowlights of James’ experience and some of the jokes that didn’t make it to the screen, plus being rescued by Richard E Grant (of all people) and why he was doomed even without his infamous balls-up. They also chat about James (or rather Craig’s) new special (free on Craig’s YouTube channel - no we’re not going to help you find it), \"Craig Simons is James Acaster” and Rich reluctantly plugs James’ serious music career with the brilliantly named “The Wow! Scenario”. The usual badgering and rudeness and badinage, but perhaps underneath it a tiny bit of professional regard (mainly in one direction!) I’ll miss this. Buy The Wow! Scenario’s album here - https://bfan.link/thewowscenario SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1795388253549-ce3cfcde-d481-4f4b-9380-76d261c77310.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6b03715d8e8174f9839b535d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33288568",
+      "itunes_duration": "1:09:21",
+      "speakers": [
+        "James Acaster",
+        "Leicester Square",
+        "Richard Herring"
+      ],
+      "topics": [
+        "james",
+        "acaster",
+        "unlikely",
+        "symbol"
+      ]
+    },
     {
       "key": "cf26affc5288c0f0522bc8cb5cff29eb15ae9cf0",
       "title": "Ben Willbond and Larry Rickard (Retro) - \"Missing Mr Tod\"",
@@ -24778,6 +24801,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — James Acaster - "Unlikely Sex Symbol" — speakers: James Acaster, Leicester Square, Richard Herring
 - 2026-11-23 — Ben Willbond and Larry Rickard (Retro) - "Missing Mr Tod" — speakers: Ben Willbond, Larry Rickard, Richard Herring
 - 2026-11-21 — Rich and Ally's Craven Newsround Compilation - "Papal Bean" — speakers: Richard Herring
 - 2026-11-20 — Robin Ince on The Future of Jokes - Book Club — speakers: Robin Ince, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-11-22T11:20:57+00:00`
-- checked_at: `2026-11-22T11:20:57+00:00`
-- etag: `"djEuMi4wOjE3OTUzMTY0Mzk1MTk="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1ODI4NDA0NTI="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-11-22T11:20:57+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bc0aaa6ad6c23d1adaccdd04f4516822ff9755c1",
+      "title": "WDWDY #97.1: Me Interviewing Me (Max's Yesterday)",
+      "published_at": "2026-11-25T05:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-971-me-interviewing-me-maxs-yesterday",
+      "description": "On this midweek mayhem we find out what Max did with his yesterday... He's back in London and of course things have gone haywire back home. The day starts mid-air on the flight from Australia... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1795562960498-38113e6f-8501-4a23-8e58-74d5a25410e4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6b061d8938d4dce527080cd3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146936845",
+      "itunes_duration": "1:01:13",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "yesterday"
+      ]
+    },
     {
       "key": "b1d347918587de5028051260c6a966dc5d357f69",
       "title": "S6 EP11: Rachel Parris",
@@ -4501,6 +4520,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — WDWDY #97.1: Me Interviewing Me (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-11-22 — S6 EP11: Rachel Parris — speakers: Rachel Parris, Max Rushden, David O'Doherty
 - 2026-11-18 — WDWDY #96.1: Huel-y Lewis and the News (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-11-15 — S6 EP10: Olga Koch — speakers: Olga Koch, Max Rushden, David O'Doherty

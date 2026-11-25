@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-24T23:53:34+00:00`
-- checked_at: `2026-11-24T23:53:34+00:00`
-- etag: `"djEuMi4wOjE3OTU0NTAzMjg3MzM="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1NjY3NTkyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-24T23:53:34+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "47a5eaa38b67a70a0ea7d8441040542539ae4b1d",
+      "title": "The Last Refuge of the Scoundrel",
+      "published_at": "2026-11-25T00:32:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-last-refuge-of-the-scoundrel",
+      "description": "Another week at The Socially Distant Sports Bar , where Elis James, Mike Bubbins and Steff Garrero tackle one of the biggest questions facing the podcast. Has Mike Bubbins finally discovered the benefits of preparation? After years of taking a fairly relaxed approach to planning, preview shows and other forms of basic life organisation, Mike appears to have seen the light. Or has he? Naturally, he responds with the sort of quick-fire humour and wit that would be absolutely perfect for a live show. If only he could be bothered to write any of it down. Eventually, some sport makes an appearance. Steff introduces us to Iestyn Williams , a distance runner from Llanddeusant in Carmarthenshire, whose extraordinary homemade gym features atlas stones and enough heavy lifting equipment to make most commercial gyms look a bit inadequate. Mike brings in Jonny being Jonny , while Elis takes us back to an era when footballers were proper footballers, with George Best showing what he could do in a five-a-side tournament . No GPS vests. No complicated tactical systems. Just some of the greatest players in the game turning up and having a kickabout. Clips Steff: Iestyn Williams — The Incredible Home Gym https://www.instagram.com/iestyniwilliams?exln=MWVuenl3eTJxeGV2dg== Mike: Jonny Being Jonny https://www.instagram.com/reel/DfXk0EhREUn/?xtok=ZGd1YWd1d3B5emFz Elis: George Best Playing Five-a-Side https://www.facebook.com/share/v/1JfCDFcHJh/?mibextid=wwXIfr Home gyms. George Best. The concept of preparation. And Mike Bubbins discovering that sometimes it's worth having a plan. Possibly. Part 2, Can I Shock You? I Love Chess! , will be out on Friday, featuring a documentary that Mike reckons is worth your BBC licence fee on its own, and a book about one of the biggest scandals in modern chess. And if you want the entire episode early and advert-free, including Part 3, Thank Christ For The Flaming Goat , subscribe to Distant Pod Bonus Club on Apple Podcasts . Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6b04639cfd8dab7e157bc33a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74920855",
+      "itunes_duration": "1:18:02",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "refuge",
+        "scoundrel"
+      ]
+    },
     {
       "key": "40338b56d0819d06f0b262c6d89365cade63a32c",
       "title": "Eddie Abbew: Pint Size",
@@ -16610,6 +16631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — The Last Refuge of the Scoundrel — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-22 — Eddie Abbew: Pint Size — speakers: Eddie Abbew, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-20 — One Team in Tallinn — speakers: One Team, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-18 — Why Are My Jeans Covered In Curry? — speakers: Elis James, Mike Bubbins, Steff Garrero

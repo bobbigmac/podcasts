@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-20T11:36:09+00:00`
-- checked_at: `2026-11-20T11:36:09+00:00`
-- last_modified: `Fri, 20 Nov 2026 04:39:13 GMT`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- last_modified: `Wed, 25 Nov 2026 05:01:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-20T11:36:09+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e408872fab541efb2aaa52b284e61b1e388e221e",
+      "title": "Please Keep Me Anonymous with Anton Du Beke",
+      "published_at": "2026-11-25T04:55:00+00:00",
+      "link": null,
+      "description": "On this week’s Shagged Married Annoyed, Chris and Rosie are joined by the national treasure himself and Strictly star, Anton Du Beke! Listeners will know just how much Chris loves an Anton, and this chat certainly doesn’t disappoint! They discuss golf (obvs), panto, Christmas tree quantities and how Anton helped Chris on his Strictly Come Dancing journey. Plus, Anton gets stuck into a brilliant Please Keep Me Anonymous story! Anton is on to chat about his new book, Steps in Time: The Moments That Made Me , available to buy now. He also tells us all about his new Christmas single, Dance My Way to Christmas , and his live show, Anton at Christmas ! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/fbeb2132-e753-11f1-ba3b-bff14b9ea4fc/image/4c5f5014806306ac8e8c19a0c2e9bada.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4754778486.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2655",
+      "speakers": [
+        "Anton Du Beke",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "anton",
+        "beke"
+      ]
+    },
     {
       "key": "3e8801ed954cdfae8f6201da246034e6ed14e222",
       "title": "Hasta Leugo B*tches",
@@ -9587,6 +9609,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — Please Keep Me Anonymous with Anton Du Beke — speakers: Anton Du Beke, Chris Ramsey, Rosie Ramsey
 - 2026-11-20 — Hasta Leugo B*tches — speakers: Hasta Leugo, Chris Ramsey, Rosie Ramsey
 - 2026-11-18 — Please Keep Me Anonymous with Katherine Ryan — speakers: Katherine Ryan, Chris Ramsey, Rosie Ramsey
 - 2026-11-13 — Friday the thirteenth, the three drain superstition and Chris gives Rosie the major ick! — speakers: Chris Ramsey, Rosie Ramsey

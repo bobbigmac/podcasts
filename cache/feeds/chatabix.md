@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-24T13:40:39+00:00`
-- checked_at: `2026-11-24T13:40:39+00:00`
-- etag: `"djEuMi4wOjE3OTU0ODkyMzk1MTc="`
+- fetched_at: `2026-11-25T08:30:35+00:00`
+- checked_at: `2026-11-25T08:30:35+00:00`
+- etag: `"djEuMi4wOjE3OTU1NzU2Mzk1OTQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-24T13:40:39+00:00",
+  "fetched_at": "2026-11-25T08:30:35+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "87f85d05dd0eace099f6bc44d7a2a12e84f4ebbb",
+      "title": "S17 Ep 929: Two Good Moods - Part 2",
+      "published_at": "2026-11-25T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-929-two-good-moods-part-2",
+      "description": "Picking things up from yesterday’s show, Joe suddenly remembers the name of his brother’s cricketer friend, David gives us a quick update on Martha and there’s news of an email reply from Dodgy’s drummer. Then David mentions that he recently drove past the farm near his house that hosts swingers parties. And quite understandably, the rest of the show is taken up with a lot more discussion about that. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6afffdf18cc2ad58c756d10e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41953489",
+      "itunes_duration": "43:42",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "good",
+        "moods"
+      ]
+    },
     {
       "key": "81ee003225d2291056f18fb4fbec60686f62e601",
       "title": "S17 Ep 928: Two Good Moods - Part 1",
@@ -16855,6 +16875,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — S17 Ep 929: Two Good Moods - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-11-24 — S17 Ep 928: Two Good Moods - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-11-23 — S17 Ep 927 Vault Mondays: House Snoopers #1 — speakers: Vault Mondays, House Snoopers, Joe Wilkinson, David Earl
 - 2026-11-20 — S17 Ep 926 Friday Repeat: The First Listener's Mailbag — speakers: Friday Repeat, Joe Wilkinson, David Earl
