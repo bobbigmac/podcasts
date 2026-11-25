@@ -12693,6 +12693,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e3e516d0d8b6",
+        "feed_title": "RED TALKS",
+        "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
+        "dedupe_key": "44c39f119dcaa14a9372c0b9b1e1024c4e72661b",
+        "episode_key": "44c39f119dcaa14a9372c0b9b1e1024c4e72661b",
+        "title": "HARRY HILL: Comedian, Doctor, Man",
+        "published_at": "2026-03-29T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedy Legend Harry Hill joins Red Richardson and shares stories from his early days winning the very first Edinburgh Best Newcomer Award, his competitiveness with contemporaries like Lee Evans and Jack Dee and shares some behind the scenes stories from You've Been Framed about a naughty producer and he tells a story a",
+        "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/p38422/traffic.megaphone.fm/APL8200581865.mp3?updated=1775818570",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-comedian-doctor-man/id1849405652?i=1000758105998&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f20fa26374f3",
         "feed_title": "Music News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/music-news-the-daily-news-now.xml",
@@ -27519,6 +27542,28 @@
       }
     ],
     "stewart-lee": [
+      {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "a678919d3915de6a14b76b281a01cb7e5d7a9117",
+        "episode_key": "a678919d3915de6a14b76b281a01cb7e5d7a9117",
+        "title": "He's My Friend! (with Stewart Lee and Cody Dahler)",
+        "published_at": "2026-11-25T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In a week of summits, Stewart Lee and Cody Dahler join Armando for a trilateral meeting.\nWe look at what friendship means, why COP fell apart because of language, and how an EU/UK deal can be 'done' if 'talks continue'?\nElsewhere, Stewart bores a petrol station attendant, Cody explains why 'cost of living crisis' is a ",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ppwr3p.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/hes-my-friend-with-stewart-lee-and-cody-dahler/id1774462541?i=1000804049120&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:4fdc5fce09a4",
         "feed_title": "Outsiding",
@@ -44651,6 +44696,29 @@
         "feed_image_url": null,
         "description": "Comedy Legend Harry Hill joins Red Richardson and shares stories from his early days winning the very first Edinburgh Best Newcomer Award, his competitiveness with contemporaries like Lee Evans and Jack Dee and shares some behind the scenes stories from You've Been Framed about a naughty producer and he tells a story a",
         "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL8200581865.mp3?updated=1775818570",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-comedian-doctor-man/id1849405652?i=1000758105998&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e3e516d0d8b6",
+        "feed_title": "RED TALKS",
+        "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
+        "dedupe_key": "44c39f119dcaa14a9372c0b9b1e1024c4e72661b",
+        "episode_key": "44c39f119dcaa14a9372c0b9b1e1024c4e72661b",
+        "title": "HARRY HILL: Comedian, Doctor, Man",
+        "published_at": "2026-03-29T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedy Legend Harry Hill joins Red Richardson and shares stories from his early days winning the very first Edinburgh Best Newcomer Award, his competitiveness with contemporaries like Lee Evans and Jack Dee and shares some behind the scenes stories from You've Been Framed about a naughty producer and he tells a story a",
+        "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/p38422/traffic.megaphone.fm/APL8200581865.mp3?updated=1775818570",
         "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-comedian-doctor-man/id1849405652?i=1000758105998&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-11-19T20:33:57+00:00`
-- checked_at: `2026-11-19T20:33:57+00:00`
-- etag: `"djEuMi4wOjE3OTUxMDQ1MzY3NDA="`
+- fetched_at: `2026-11-25T19:14:59+00:00`
+- checked_at: `2026-11-25T19:14:59+00:00`
+- etag: `"djEuMi4wOjE3OTU2MjMzNjAyMTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-11-19T20:33:57+00:00",
+  "fetched_at": "2026-11-25T19:14:59+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "eefde2fd8f6a9d829e6c829bed6bef4dacd7df38",
+      "title": "You Can See Everything",
+      "published_at": "2026-11-25T16:15:59+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/you-can-see-everything",
+      "description": "This week, Katherine's Telling Everybody Everything about Bobby's 7am fireworks fallout as he joins to defend his rebellious morning blasts. Katherine describes going for a CT scan and why you should avoid taking a decongestant before having one. Terrible news about the 'fashion tits' we had planned for 2027 but we appreciate an honest doctor who isn't afraid to say no. Listener dilemmas today about whether to tell your partner you were already married when you met and you continue to see other people, a perfect man with an imperfect nose, a late-in-life lesbian who isn't sure about dating as a single mother, and a woman who might be put off the idea of having kids all together. Plus, we went to see Nathan Fielder's 'You Can See Everything' about Elizabeth Holmes going to prison for tech fraud and while we can't diagnose her, we worry that autistic women in particular are more vulnerable to being love-bombed by narcissists. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1795622540180-fe30848b-4455-47ff-8003-ede62de713ef.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6b0709c0f82f6a279cf9e1b9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "906754924",
+      "itunes_duration": "57:02",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "everything"
+      ]
+    },
     {
       "key": "80d3ab937ea0b8c7339de26ff7a01f2b39486ff0",
       "title": "Low-Budget V",
@@ -6648,6 +6666,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — You Can See Everything — speakers: Katherine Ryan
 - 2026-11-19 — Low-Budget V — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-11-06 — This and That — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-10-30 — Billy Corgan Chose This — speakers: Billy Corgan, Katherine Ryan
