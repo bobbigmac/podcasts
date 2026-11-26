@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-11-19T11:37:10+00:00`
-- checked_at: `2026-11-19T11:37:10+00:00`
-- last_modified: `Thu, 19 Nov 2026 10:30:00 GMT`
+- fetched_at: `2026-11-26T16:52:24+00:00`
+- checked_at: `2026-11-26T16:52:24+00:00`
+- last_modified: `Thu, 26 Nov 2026 10:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "The Next Big Idea",
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
-  "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-19T11:37:10+00:00",
+  "image_url": "https://megaphone-images.spotifycdn.com/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-11-26T16:52:24+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,11 +28,56 @@
   ],
   "episodes": [
     {
+      "key": "839fb99edb1636a0e02b0a7b846653610a4c56bd",
+      "title": "Best Of: The Art and Science of Feeling Alive",
+      "published_at": "2026-11-26T10:30:00+00:00",
+      "link": null,
+      "description": "What does it mean to flourish? According to author Daniel Coyle, flourishing is “joyful, meaningful growth — shared.” But how do you achieve that enviable state? The answer lies in Dan’s book “Flourish,” which you can buy it now on ⁠Amazon⁠ , ⁠Audible⁠ , or ⁠Bookshop.org⁠ . (This episode first aired in December 2026.) Highlights: (5:11) Life isn't a treasure hunt; it’s more like treasure creation (14:15) The $90 million deli that said no to Disney (20:40) Your brain’s two attention systems (58:00) The rule of the beautiful mess (65:07) Why you should open yellow doors Sponsored By: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — Storyblocks’ best deal of the year is here for Black Friday: 20% off any annual plan, for a limited time. You get unlimited downloads from a 100% human-made library of footage, music, sound effects and templates, all pre-licensed for monetized content. Claim it at storyblocks.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2494783137.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4615",
+      "speakers": [
+        "Daniel Coyle",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "key": "9bac0bf48d3755aa6c654e3adaeac117f64dace7",
+      "title": "Adam Grant Reveals the Secrets of Strong Connections",
+      "published_at": "2026-11-23T10:30:00+00:00",
+      "link": null,
+      "description": "Adam Grant returns to show to discuss his new book, Vibe: The Secrets of Strong Connections in a Lonely World. He and Rufus dig into the art of forging new friendships, the science of maintaining old ones, and the necessity of prioritizing human connection in the age of AI. 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — Storyblocks’ best deal of the year is here for Black Friday: 20% off any annual plan, for a limited time. You get unlimited downloads from a 100% human-made library of footage, music, sound effects and templates, all pre-licensed for monetized content. Claim it at storyblocks.com/nbi Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2359034326.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3305",
+      "speakers": [
+        "Adam Grant Reveals",
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "adam",
+        "grant",
+        "secrets",
+        "strong",
+        "connections"
+      ]
+    },
+    {
       "key": "1a2fb128af2a320a31338491c7f195d2d3911226",
       "title": "Can One Person Change History? Jared Diamond Has the Data.",
       "published_at": "2026-11-19T10:30:00+00:00",
       "link": null,
-      "description": "In his Pulitzer Prize–winning book Guns, Germs, and Steel , Jared Diamond showed that the rise of civilizations had more to do with geography, climate, crops, and livestock than with the “great men” history books tend to credit. Now, in Profits, Prophets, Coaches, and Kings , he turns things around and asks whether, after all, one person can change the course of history. 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — Storyblocks’ best deal of the year is here for Black Friday: 20% off any annual plan, for a limited time. You get unlimited downloads from a 100% human-made library of footage, music, sound effects and templates, all pre-licensed for monetized content. Claim it at storyblocks.com/nbi Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
+      "description": "In his Pulitzer Prize–winning book Guns, Germs, and Steel , Jared Diamond showed that the rise of civilizations had more to do with geography, climate, crops, and livestock than with the “great men” history books tend to credit. Now, in Profits, Prophets, Coaches, and Kings , he turns things around and asks whether, after all, one person can change the course of history. 💿 Check out Rufus's interview with David Wengrow about The Dawn of Everything here . 🎥 The Next Big Idea is on YouTube! You can find our episodes ⁠here⁠ . 📱 Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🤝 Support us by supporting our sponsors: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months — just head to granola.ai/idea Hostinger — Describe the website you want and Hostinger’s AI agent builds it in minutes, with plans starting at $3/month. Go to hostinger.com/nbi and use code NBI for 10% off NYU Stern — The leaders who stand out today are those who can turn data into better business outcomes with AI expertise. NYU Stern's one-year, part-time MS in Business Analytics and AI is built for working professionals who want to do exactly that. Apply today to join the class beginning May 2027 at stern.nyu.edu/msbai Sequencing — Go to sequencing.com and use promo code IDEA for 10% off Storyblocks — Storyblocks’ best deal of the year is here for Black Friday: 20% off any annual plan, for a limited time. You get unlimited downloads from a 100% human-made library of footage, music, sound effects and templates, all pre-licensed for monetized content. Claim it at storyblocks.com/nbi Talkiatry — A 100% online psychiatry practice that's in-network with major insurers. Complete a short assessment and get matched with a psychiatrist in minutes at talkiatry.com/idea",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP9916183196.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8837,6 +8882,8 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Best Of: The Art and Science of Feeling Alive — speakers: Daniel Coyle, Rufus Griscom, Caleb Bissinger
+- 2026-11-23 — Adam Grant Reveals the Secrets of Strong Connections — speakers: Adam Grant Reveals, Adam Grant, Rufus Griscom, Caleb Bissinger
 - 2026-11-19 — Can One Person Change History? Jared Diamond Has the Data. — speakers: Jared Diamond, Rufus Griscom, Caleb Bissinger
 - 2026-11-16 — Flash Briefing: Jensen’s Out, Anthropic IPOs and Rufus Gets a Duo — speakers: Flash Briefing, Jensen’s Out, Rufus Griscom, Caleb Bissinger
 - 2026-11-12 — AI Can Make You the Best in the World at Your Job. Ethan Mollick Tells Us How. — speakers: Ethan Mollick Tells, Rufus Griscom, Caleb Bissinger

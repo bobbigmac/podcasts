@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-11-19T11:37:10+00:00`
-- checked_at: `2026-11-19T11:37:10+00:00`
-- etag: `"271ba8-6609f095f47eb"`
-- last_modified: `Thu, 19 Nov 2026 11:00:33 GMT`
+- fetched_at: `2026-11-26T16:52:24+00:00`
+- checked_at: `2026-11-26T16:52:24+00:00`
+- etag: `"2732b0-66127c75ff529"`
+- last_modified: `Thu, 26 Nov 2026 06:08:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-11-19T11:37:10+00:00",
+  "fetched_at": "2026-11-26T16:52:24+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "616b2c1cbfeb8be19ddcd12d0ec3b87d7f31a1da",
+      "title": "Can the International Criminal Court survive Trump's attacks?",
+      "published_at": "2026-11-25T10:10:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "As former Philippine President Rodrigo Duterte faces trial in The Hague over alleged crimes against humanity, the International Criminal Court is facing escalating attacks from the Trump administration. The US has imposed sweeping sanctions on the court, threatening its ability to operate, and is pressuring countries to withdraw from it. So why is the US so opposed to the ICC? Why has the court been able to bring Duterte to trial, while other leaders wanted by the court, including Vladimir Putin and Benjamin Netanyahu, have not been arrested? In this episode of The Conversation Weekly, international affairs editor Justin Bergman speaks to Carrie McDougall, an associate professor at Melbourne Law School and an expert in international criminal law, about the court’s powers and limitations, its complicated relationship with the US, and what the threats to its survival mean for the future of international justice. This episode of The Conversation Weekly was produced by Justin Bergman, Gemma Ware and executive producer Grace Jennings-Edquist. Sound mixing is by Michelle Macklem, and our theme music is by Neeta Sarl. Ashylnne McGhee is head of editorial innovation. Gemma Ware is head of audio at The Conversation UK. Misha Ketchell and Stephen Khan are our editors-in-chief. Newsclips in this episode from BBC News , Associated Press , DW News , Robert H Jackson Centre , AP Archive , Channel 4 news and Al Jazeera English . Donation Mentioned in this episode: Donation",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/e4807f70-6fdb-429d-821a-0181154ea00b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36272211",
+      "itunes_duration": "25:11",
+      "speakers": [
+        "Rodrigo Duterte",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "international",
+        "criminal",
+        "court",
+        "trump",
+        "attack"
+      ]
+    },
     {
       "key": "cfae7a3df32d107c926b7fa39c2ff82e9a3bbaf8",
       "title": "The men taking strange and extreme measures to boost their sperm quality",
@@ -6506,6 +6529,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-25 — Can the International Criminal Court survive Trump's attacks? — speakers: Rodrigo Duterte, Gemma Ware
 - 2026-11-19 — The men taking strange and extreme measures to boost their sperm quality — speakers: Gemma Ware
 - 2026-11-12 — Have 30 years of global climate talks actually made a difference? — speakers: Gemma Ware
 - 2026-11-05 — Democrats won Congress. How much can they rein in Trump? — speakers: Gemma Ware

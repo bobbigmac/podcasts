@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-11-25T19:14:59+00:00`
-- checked_at: `2026-11-25T19:14:59+00:00`
-- etag: `"djEuMi4wOjE3OTU2MjIzMzMzNDA="`
+- fetched_at: `2026-11-26T16:52:24+00:00`
+- checked_at: `2026-11-26T16:52:24+00:00`
+- etag: `"djEuMi4wOjE3OTU2OTYyMzk0NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-11-25T19:14:59+00:00",
+  "fetched_at": "2026-11-26T16:52:24+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "486f4a9c7fc62e2ca5f3da3d95aa686d7ba01491",
+      "title": "Bicentennial Man - Caravan Of Garbage",
+      "published_at": "2026-11-26T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/bicentennial-man-caravan-of-garbage",
+      "description": "Bicentennial Man took a straight shot all the way back in 1999 at a future world where machines became a part of everyday life. Living among us. Learning. Listening. Loving. And a film directed by Chris Columbus, starring Robin Williams as Andrew the Android, trying to edge his way towards becoming a real human man, makes for an intriguing watch, sometimes in a good way and sometimes very much not. But it's certainly worth discussing in this week's Caravan Of Garbage review. Thanks for watching. Check out Patreon.com/MrSundayMovies & bigsandwich.co for early videos, bonus podcasts, movie commentaries and video game let's plays James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Edited by ► @BenFromCanada https://www.instagram.com/benchinapen SUBSCRIBE HERE ►► http://bit.ly/1IQB3kh TWP iTunes ► https://podcasts.apple.com/au/podcast/the-weekly-planet/id718158767 TWP Direct Download ► https://play.acast.com/s/theweeklyplanet TWP YouTube Channel ► https://goo.gl/1ZQFGH Patreon ► https://patreon.com/mrsundaymovies Amazon Affiliate Link ► https://amzn.to/2nc12P4 T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6afe4e42b4e29f4217fae383/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24090749",
+      "itunes_duration": "25:05",
+      "speakers": [
+        "Bicentennial Man",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "bicentennial",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "ba7be08e6f208fbf386eccca07afae61a020833a",
       "title": "650 GTA6, Robert Pattinson is Bond & Another Hunger Games Prequel",
@@ -23551,6 +23573,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Bicentennial Man - Caravan Of Garbage — speakers: Bicentennial Man, James Clement, Nick Mason
 - 2026-11-23 — 650 GTA6, Robert Pattinson is Bond & Another Hunger Games Prequel — speakers: Robert Pattinson, James Clement, Nick Mason
 - 2026-11-19 — Virtuosity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-11-16 — 649 Another DC Reboot & VisionQuest Review — speakers: James Gunn, James Clement, Nick Mason

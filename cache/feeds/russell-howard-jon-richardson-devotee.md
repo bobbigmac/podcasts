@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- etag: `W/"6e81f-/IlABmL6oEWatYZXNFQ7Z8pUUJQ"`
+- fetched_at: `2026-11-26T16:52:24+00:00`
+- checked_at: `2026-11-26T16:52:24+00:00`
+- etag: `W/"6fe32-2RB34w3ily9C9mZMEHzAg5Jw1rs"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,101 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-26T16:52:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8edcc1477496dac5993c57a4878b301c86737f71",
+      "title": "24 Adam and Joe - XFM - 2005.03.12 (Adam Buxton & Joe Cornish)",
+      "published_at": "2026-11-26T07:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-Adam-and-Joe---XFM---2005-03-12-Adam-Buxton--Joe-Cornish-e3t1m2h",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/47IBW7aeWlaBarGpi0RlpJ?si=Wmy9nJoPTym25IBE-0TptQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795649403870-22d9564b48ca1.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8868386145.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43226417",
+      "itunes_duration": "00:44:32",
+      "speakers": [
+        "Joe Xfm",
+        "Joe Cornish"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "cornish"
+      ]
+    },
+    {
+      "key": "c662ec99f2384163eb6700380d6fff5705f9ac14",
+      "title": "23 Adam and Joe - XFM - 2005.03.05 (Adam Buxton & Joe Cornish)",
+      "published_at": "2026-11-26T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-Adam-and-Joe---XFM---2005-03-05-Adam-Buxton--Joe-Cornish-e3t1alg",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/47IBW7aeWlaBarGpi0RlpJ?si=Wmy9nJoPTym25IBE-0TptQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795634123705-a3a6f001a1bc4.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5753109564.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43479253",
+      "itunes_duration": "00:44:48",
+      "speakers": [
+        "Joe Xfm"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "cornish"
+      ]
+    },
+    {
+      "key": "05e812e481eea0b9a4bddbcc6bcfa2477617b9bb",
+      "title": "Fall Asleep to Karl Pilkington, Ricky Gervais & Stephen Merchant - Level Audio",
+      "published_at": "2026-11-25T20:15:50+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Fall-Asleep-to-Karl-Pilkington--Ricky-Gervais--Stephen-Merchant---Level-Audio-e3t1co3",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/3TXbeK5shQe2oPWO9W3ttX?si=MFJRN_muS3GovLJFPozK5A",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795637693691-0e395d6c8de43.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6765603965.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "643144306",
+      "itunes_duration": "11:09:56",
+      "speakers": [
+        "Karl Pilkington",
+        "Stephen Merchant Level Audio"
+      ],
+      "topics": [
+        "asleep",
+        "karl",
+        "pilkington",
+        "ricky",
+        "gervais",
+        "stephen",
+        "merchant",
+        "level",
+        "audio"
+      ]
+    },
+    {
+      "key": "0a756c8d3e669b1b0f42a273669b840e8a7180e3",
+      "title": "22 Adam and Joe - XFM - 2005.02.26 (Adam Buxton & Joe Cornish)",
+      "published_at": "2026-11-25T19:10:23+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/22-Adam-and-Joe---XFM---2005-02-26-Adam-Buxton--Joe-Cornish-e3t0la4",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/47IBW7aeWlaBarGpi0RlpJ?si=Wmy9nJoPTym25IBE-0TptQ",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795614855770-f26d640119d8a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4918814023.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34073285",
+      "itunes_duration": "00:35:29",
+      "speakers": [
+        "Joe Xfm"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "cornish"
+      ]
+    },
     {
       "key": "1b0bde7089af49f72914a00d048316b9b5bf40b0",
       "title": "21 Adam and Joe - XFM - 2005.02.19 (Adam Buxton & Joe Cornish)",
@@ -3916,6 +4004,30 @@
       ]
     },
     {
+      "key": "7c29166f65b8752c627ba2ed56c5803312b9242a",
+      "title": "BetaBet The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-08-03T05:20:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/BetaBet-The-Complete-Collection---Elis-James-and-John-Robins-e3moutc",
+      "description": "BetaBet The Complete Collection - Elis James and John Robins",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785443243300-e700d75a45cfe.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3892703172.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165722188",
+      "itunes_duration": "02:50:47",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "betabet",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
+    {
       "key": "cc61dc72cf3f29b25c1c264820f3154a295953ba",
       "title": "John's Gig Diaries The Complete Collection - Elis James and John Robins",
       "published_at": "2026-08-02T05:59:00+00:00",
@@ -6618,6 +6730,10 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — 24 Adam and Joe - XFM - 2005.03.12 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm, Joe Cornish
+- 2026-11-26 — 23 Adam and Joe - XFM - 2005.03.05 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
+- 2026-11-25 — Fall Asleep to Karl Pilkington, Ricky Gervais & Stephen Merchant - Level Audio — speakers: Karl Pilkington, Stephen Merchant Level Audio
+- 2026-11-25 — 22 Adam and Joe - XFM - 2005.02.26 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
 - 2026-11-25 — 21 Adam and Joe - XFM - 2005.02.19 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
 - 2026-11-24 — 20 Adam and Joe - XFM - 2005.02.05 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
 - 2026-11-24 — 19 Adam and Joe - XFM - 2005.01.29 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
@@ -6799,6 +6915,7 @@
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 3 — speakers: Sean Lock
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 2 — speakers: Sean Lock
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 1 — speakers: Sean Lock
+- 2026-08-03 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-08-02 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-08-01 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-07-31 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins

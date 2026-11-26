@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-11-19T11:37:10+00:00`
-- checked_at: `2026-11-19T11:37:10+00:00`
-- etag: `W/"9334e5f1f39b7ca27619dbe14f210569"`
-- last_modified: `Thu, 19 Nov 2026 09:43:53 GMT`
+- fetched_at: `2026-11-26T16:52:24+00:00`
+- checked_at: `2026-11-26T16:52:24+00:00`
+- etag: `W/"13dd8e28b3a79e7942ad7bc9d2d544c2"`
+- last_modified: `Thu, 26 Nov 2026 02:00:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-11-19T11:37:10+00:00",
+  "fetched_at": "2026-11-26T16:52:24+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -30,13 +30,40 @@
   ],
   "episodes": [
     {
+      "key": "006caebd3a86c81adaaad8044c93b54e755c0482",
+      "title": "The Timms Review and TikTok troublemakers…Plus: who’s making a killing from war? w/ Andrew Feinstein",
+      "published_at": "2026-11-26T02:00:00+00:00",
+      "link": "https://audioboom.com/posts/8981718",
+      "description": "This week, as the government publishes the final instalment of their benefits review, Nish & Coco speak to disability rights journalist Rachel Charlton-Dailey to unpick what this could mean for PIP going forward. They also tackle Burnham might strike a not-so-delicate balance between the Timms and Milburn reviews… Plus, Andrew Feinstein joins us to untangle the global network of arms deals, defence companies, governments, and all the enablers in between making a profit from war–with a whole lot of household names mentioned. He highlights British complicity in the Gaza genocide and shares the staggering story of the most corrupt arms deal in history, which arguably set a precedent for years to come. How much longer are we–as taxpayers, as citizens–willing to allow this to continue? His new book’s tagline says it all: Read, weep, act. And, we couldn’t finish the week without discussing the bomboclat and the balegde of it all… P.S. Send over your best festive (or non-festive) questions, queries, quizzes to podsavetheuk@crooked.com for our mailbag episode! USEFUL LINKS Buy Andrew’s book, Making a Killing - How the West profits from Slaughter in Gaza and Yemen : https://www.hive.co.uk/product/andrew-feinstein/making-a-killing--how-the-west-profits-from-slaughter-in-gaza-and-yemen/33462607 Watch the Shadow World Film: https://www.youtube.com/watch?v=MSznehCQBqI Email your MP to protest the proposed UC + PIP cuts: https://docs.google.com/document/d/1ELZbjnB-h6ti_bXihMqvhX9iyG985Fs99DlFTU9uqjc/edit?tab=t.0 CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://www.shopify.co.uk VANTA: https://www.vanta.com/PSTUK AURA FRAMES: https://auraframes.co.uk/pdp/PSTUK CODE: PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43961323/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8981718.mp3?modified=1795647269&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5132",
+      "speakers": [
+        "Andrew Feinstein",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "timms",
+        "review",
+        "tiktok",
+        "troublemaker",
+        "plus",
+        "killing",
+        "andrew",
+        "feinstein"
+      ]
+    },
+    {
       "key": "ef4c6f0d6f88fb077288d36fbb6129a7bc679fd2",
       "title": "“It’s a goldrush of bullsh!t”: truth and lies w/ Oobah Butler. Plus, scaling the ‘Preston Model’",
       "published_at": "2026-11-19T02:00:00+00:00",
       "link": "https://audioboom.com/posts/8978736",
       "description": "This week, Nish & Coco respond to the heavily trailed benefits cuts as part of Alan Milburn’s review into youth unemployment. Will a one-stop “Youth Opportunity Service” help tackle the one million “neets”, or are we overlooking crucial context that might explain why so many young people are struggling? They’re also joined by Preston City Council leader, Matthew Brown, who talks them through the radical “Preston Model” built on community wealth building, redistribution and cooperative ownership. Wages are up, depression is down, and there’s even a council-owned cinema! So why aren’t we seeing this model replicated across the country? Andy Burnham, you listening? Also, Oobah Butler zooms in from New York ahead of his latest HBO series, “Scams for a Better Tomorrow”, sharing some of the cultural differences between the UK and the US, and the lessons he learned from making a show in which he finds out how far bullsh*t can take you with some of the world’s most powerful institutions…turns out, quite far. Send over your best festive (or non-festive) questions, queries, quizzes to podsavetheuk@crooked.com for our mailbag episode! Watch “Scams for a Better Tomorrow” on HBO on November 22nd. USEFUL LINKS UK Index on Systemic Trends: https://ukindex.democracycollaborative.org/ Further reading on the Preston Model: https://www.preston.gov.uk/article/1339/What-is-Preston-Model Further reading on Community Wealth Building: https://cles.org.uk/expertise/community-wealth-building/ Read the Spirit Level: https://www.hive.co.uk/product/kate-pickett/the-spirit-level--why-equality-is-better-for-everyone/613456 CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://auraframes.co.uk/pdp/PSTUK CODE: PSTUK HEXCLAD: https://www.hexclad.co.uk/PSTUK SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43946256/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8978736.mp3?modified=1795047508&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8978736.mp3?modified=1795081755&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "5369",
@@ -682,10 +709,10 @@
       "link": "https://audioboom.com/posts/8908534",
       "description": "This week, Nish and Coco head back to Makerfield, where the by-election campaign is already turning into a political demolition derby; Andy Burnham is just ahead of Reform, the far right is fighting itself, Elon Musk has wandered into the discourse, and Nigel Farage has reappeared after questions over his £5 million gift. Plus: they’re joined by Hettie O’Brien, journalist and author of The Asset Class, to break down how private equity quietly bought up the services we rely on, from nurseries and care homes to vets and water companies, and why that matters for the broken economy we’re all living in. GUESTS Hettie O'Brien, journalist and author of The Asset Class: How Private Equity Turned Capitalism Against Itself USEFUL LINKS Amnesty Report | Like a snowball: the growth and impact of the gender critical movement in the UK Tony Blair Article | The Labour Party Is Playing With Fire Over Its Future and the Future of the Country by CLIP CREDITS Carol Vorderman via Instagram, (@carolvorders) CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk AURA FRAMES: https://www.auraframes.com Code: PSTUK BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43676651.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908534.mp3?modified=1780499234&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908534.mp3?modified=1795496689&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4001",
+      "itunes_duration": "3720",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4470,6 +4497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — The Timms Review and TikTok troublemakers…Plus: who’s making a killing from war? w/ Andrew Feinstein — speakers: Andrew Feinstein, Nish Kumar, Coco Khan
 - 2026-11-19 — “It’s a goldrush of bullsh!t”: truth and lies w/ Oobah Butler. Plus, scaling the ‘Preston Model’ — speakers: Oobah Butler, Alan Milburn, Nish Kumar, Coco Khan
 - 2026-11-12 — Russell Brand, David Walliams: media’s misogyny problem. Plus, ‘pragmatism’ and climate villains w/ Greenpeace — speakers: Russell Brand, David Walliams, Nish Kumar, Coco Khan
 - 2026-11-05 — Reparations, immigration reform, and regulating a ‘common good economy’ w/ Mariana Mazzucato — speakers: Mariana Mazzucato, Nish Kumar, Coco Khan
