@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-11-19T02:32:50+00:00`
-- checked_at: `2026-11-19T02:32:50+00:00`
-- last_modified: `Thu, 19 Nov 2026 00:08:40 GMT`
+- fetched_at: `2026-11-26T03:32:52+00:00`
+- checked_at: `2026-11-26T03:32:52+00:00`
+- last_modified: `Thu, 26 Nov 2026 00:06:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "Button Boys",
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
-  "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-19T02:32:50+00:00",
+  "image_url": "https://megaphone-images.spotifycdn.com/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-11-26T03:32:52+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,29 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "aa038f894d3ef6d26fcf31cfe5fbddfe33ddcf88",
+      "title": "Gameception: Minigames, Maxi Distractions",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "link": null,
+      "description": "The topic this week is minigames, the games inside games that we've loved and hated. I have a confession. When we initially decided to discuss this topic I thought, great! How simple. We all know what a minigame is. I did not expect such a deep and prolonged existential debate that threatened to tear the Button Boys apart and leave their relationship in tatters. So strap in for some derailment, alongside collectible cards, mobile games and in-game kids' toys. But before all that controversy, the Boys discuss what they've been playing this week. Sarah's found themself in an open-world cousin (positive) game that is pure joy, Glenn's been revisiting one of the greatest games of all time and Pierre's made a sneaky Steam discovery. Listen to the very end to hear Sarah and Glenn's thoughts after a week of GTA VI and be sure to check out our Black Friday sale this weekend to get your first month of Patreon for half price! To follow along with the Button Boys outside the podcast: ⁠ ⁠⁠Pierre⁠⁠ ⁠ ⁠⁠Sarah⁠⁠ ⁠ ⁠⁠Glenn⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠, where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Elden Ring Big Walk Batman: The Telltale Series Call of Duty: Modern Warfare 4 The Legend of Zelda: Ocarina of Time The Legend of Zelda: Breath of the Wild The Legend of Zelda: Tears of the Kingdom The Legend of Zelda: Link's Awakening The Legend of Zelda: Echoes of Wisdom Final Fantasy VII Final Fantasy IX Legacy of Kain: Soul Reaver As Dusk Falls 007 First Light Resident Evil 4 Red Dead Redemption 2 Final Fantasy VII Remake It Takes Two Split Fiction Ghost of Yōtei Kingdom Come: Deliverance Animal Crossing Like a Dragon: Infinite Wealth Stardew Valley World of Warcraft Dragon Quest VIII Track & Field Mario Party Blue Prince Arcade Paradise Horizon Zero Dawn Star Wars Outlaws Marvel's Spider-Man: Miles Morales Heavy Rain Grand Theft Auto VI The Blood of Dawnwalker Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6566198687.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3769",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "gameception",
+        "minigames",
+        "maxi",
+        "distractions"
+      ]
+    },
     {
       "key": "24e0824e6485fa98ceb5a9cc5ff0cbf0ac4db339",
       "title": "Grand Theft Auto: A Button Boys Special",
@@ -1599,7 +1622,7 @@
       "published_at": "2025-08-07T12:29:00+00:00",
       "link": null,
       "description": "This week the Button Boys will be visited by ghosts of video games past as they confess the games that they gave up on but never forgot. The itches that were never scratched. The ones they left behind... They'll also be planning the launch of their first game under the Button Boys label, and Glenn has perhaps the smallest gripe that has ever been grippen. You can find the video of each week's podcast on ⁠⁠⁠YouTube⁠⁠⁠ . Follow along with the Button Boys on ⁠⁠⁠Instagram⁠⁠⁠ or ⁠⁠⁠TikTok⁠⁠⁠ for highlights, behind the scenes and future podcast announcements. Don't forget to join our Discord server through Patreon and head over to our Hidden Cache episode to catch up with the Boys' Dark Souls progress and hear more gripes and recommendations! Games Mentioned in this week's episode: Dark Souls James Bond: First Light Call of Duty: Warzone Unpacking Star Wars: Jedi Survivor Stasis: Bone Totem Katamari Damacy Wallace and Gromit: Project Zoo Spyro the Dragon Kelly Slater's Pro Surfer Getting Over It with Bennet Foddy Baby Steps QWOP Steel Division Crusader Kings South Park Garfield Dizzy Shinobi Golden Axe Streets of Rage Subnautica Metroid Prime Sekiro Famous Five: Treasure Island Discworld Matrix Awakens A Bug's Life Muppets Inside Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/55cdbc04-7311-11f0-a7bf-d3abb823d716/image/9329758ccf22958d28056453864d313e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/55cdbc04-7311-11f0-a7bf-d3abb823d716/image/9329758ccf22958d28056453864d313e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR5401133256.mp3?updated=1754521467",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1687,6 +1710,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Gameception: Minigames, Maxi Distractions — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-19 — Grand Theft Auto: A Button Boys Special — speakers: Grand Theft Auto, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-12 — Fauna? I Barely Know Her: Wildlife in Games — speakers: Games Sometimes, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-11-05 — Movie Magic or Awful Adaptations: The Best and Worst Movie Tie-Ins — speakers: Movie Magic, Awful Adaptations, Worst Movie Tie, Glenn Moore, Sarah Keyworth, Pierre Novellie

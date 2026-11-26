@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-11-23T01:41:23+00:00`
-- checked_at: `2026-11-23T01:41:23+00:00`
-- last_modified: `Mon, 23 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-26T03:32:52+00:00`
+- checked_at: `2026-11-26T03:32:52+00:00`
+- last_modified: `Thu, 26 Nov 2026 00:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/d99779e912fb6c8ed3de21cfef6b58fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-23T01:41:23+00:00",
+  "fetched_at": "2026-11-26T03:32:52+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6cceff7c4ba6c16d673b236a6714f566b0865392",
+      "title": "Shanthi's Ribbon-Cutting, Romesh's Traitors Fluke & A Festive TV Debate",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "link": null,
+      "description": "What does Shanthi really think of the new studio? This week, Romesh is joined by his mum, Shanthi, for the first Thursday episode in the brand new studio. Shanthi gives her honest review, there's an official ribbon-cutting, and the team deals with some very harsh feedback about the set. They also get stuck into a few old grievances and catch up on The Traitors from a mum's point of view. Plus, a festive TV debate, a listener who's been ghosted, a steak tartare family story, and some very questionable facts about Joan Rivers. A Ranga Bee Production. Chapters: 00:00 Intro 01:35 Shanthi reviews the new studio 05:19 The old studio and the microwave ban 08:23 The induction hob row 09:54 Shanthi officially opens the studio 12:10 Welcome to the show 12:50 Interior design and the hob (again) 20:40 Shanthi on Romesh winning The Traitors 27:10 Does Romesh have swag? 29:15 Festive TV debate (Sky) 36:15 Listener questions 46:20 The steak tartare incident 52:25 Why Shanthi doesn't like stand-up 54:30 Apple Podcasts' Best of 2026 55:40 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/f45cc2fa-e83d-11f1-a7a4-b380a73d6e4a/image/11c691b34354de9c0e18ecd42a0042f7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4563657733.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3571",
+      "speakers": [
+        "Traitors Fluke",
+        "Debate What",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "ribbon",
+        "cutting",
+        "romesh",
+        "traitors",
+        "fluke",
+        "festive",
+        "debate"
+      ]
+    },
     {
       "key": "d61f1f1c9b4a103c2e279719005eaa98bfb4af48",
       "title": "Alan Carr: Castle Life, Chatty Man & a Great Big Bucket List",
@@ -2857,6 +2884,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Shanthi's Ribbon-Cutting, Romesh's Traitors Fluke & A Festive TV Debate — speakers: Traitors Fluke, Debate What, Romesh Ranganathan
 - 2026-11-23 — Alan Carr: Castle Life, Chatty Man & a Great Big Bucket List — speakers: Alan Carr, Romesh Ranganathan
 - 2026-11-19 — Shanthi’s Lie Detector Test, Romesh’s Mr Blobby Rant & Brown Panther — speakers: Romesh Ranganathan
 - 2026-11-16 — Jon Richardson: Teenage Diaries, 8 Out of 10 Cats & Remembering Sean Lock — speakers: Jon Richardson, Sean Lock, Romesh Ranganathan

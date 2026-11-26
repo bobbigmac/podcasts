@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-11-24T02:12:11+00:00`
-- checked_at: `2026-11-24T02:12:11+00:00`
-- last_modified: `Tue, 24 Nov 2026 00:15:11 GMT`
+- fetched_at: `2026-11-26T03:32:52+00:00`
+- checked_at: `2026-11-26T03:32:52+00:00`
+- last_modified: `Thu, 26 Nov 2026 00:10:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-24T02:12:11+00:00",
+  "fetched_at": "2026-11-26T03:32:52+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "491b1ebcfebb0996b70d1f87ff34b1651f0a258d",
+      "title": "Dark Reality: The Real-Life Truman Show",
+      "published_at": "2026-11-26T00:10:00+00:00",
+      "link": null,
+      "description": "How did a Danish TV channel pull off a real-life Truman Show? What’s the best order to watch Taskmaster? What will happen to movies starring Russell Brand? How come Hollywood is obsessed with high school? Richard Osman & Marina Hyde (and a very special guest) answer your questions on the world of TV, movies and much more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. For your chance to win in Postcode Lottery’s December draws, sign up here . Give The Rest Is Entertainment this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, a members’ newsletter, and more. For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com ⁠ Video Editor: Josh Smith Assistant Producer: Imee Marriott & Orla Phelan Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠ www.westdigitalstudios.com⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/9679fb96-e8e5-11f1-91ce-53a9b93a48d8/image/5449245694037ffaf1f5f718bcbe8acd.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7875188634.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2104",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "dark",
+        "reality",
+        "life",
+        "truman"
+      ]
+    },
     {
       "key": "3c4cfee3ab6d75c9056ea5ea4e1014c4563c8f9c",
       "title": "GTA6: History's Greatest Work of Art?",
@@ -7418,6 +7440,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Dark Reality: The Real-Life Truman Show — speakers: Richard Osman, Marina Hyde
 - 2026-11-24 — GTA6: History's Greatest Work of Art? — speakers: Jeff Bez, Richard Osman, Marina Hyde
 - 2026-11-19 — How Hollywood Ruined The Cotswolds — speakers: Cotswolds How, Soho Farmhouse, Richard Osman, Marina Hyde
 - 2026-11-17 — 14 Reasons Why R-Patz MUST be Bond — speakers: Robert Pattinson, Richard Osman, Marina Hyde

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- etag: `"djEuMi4wOjE3OTU1NzU2Mzk1OTQ="`
+- fetched_at: `2026-11-26T03:32:52+00:00`
+- checked_at: `2026-11-26T03:32:52+00:00`
+- etag: `"djEuMi4wOjE3OTU2NjIwMzk2Mzk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-26T03:32:52+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "264020337e720bacc142d7177c3f53f34b291363",
+      "title": "S17 Ep 930: Small Dogs and Short Films",
+      "published_at": "2026-11-26T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-930-small-dogs-and-short-films",
+      "description": "On today’s very meandering show, there’s some chat about a mysterious cat appearance, small dogs vs big dogs, Tomorrow’s World, parking problems, what David liked about Brighton when he lived there, going to film school and feeling out of place at the Virgin Media Short Film Awards. Chatabix chatting at its very finest! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6afffe3411cce4ba9636a667/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54833319",
+      "itunes_duration": "57:07",
+      "speakers": [
+        "Small Dogs",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "dogs",
+        "short",
+        "films"
+      ]
+    },
     {
       "key": "87f85d05dd0eace099f6bc44d7a2a12e84f4ebbb",
       "title": "S17 Ep 929: Two Good Moods - Part 2",
@@ -16875,6 +16897,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — S17 Ep 930: Small Dogs and Short Films — speakers: Small Dogs, Joe Wilkinson, David Earl
 - 2026-11-25 — S17 Ep 929: Two Good Moods - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-11-24 — S17 Ep 928: Two Good Moods - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-11-23 — S17 Ep 927 Vault Mondays: House Snoopers #1 — speakers: Vault Mondays, House Snoopers, Joe Wilkinson, David Earl
