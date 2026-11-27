@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-11-25T19:14:59+00:00`
-- checked_at: `2026-11-25T19:14:59+00:00`
-- etag: `"djEuMi4wOjE3OTU2MTY5MjQ1NzU="`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- etag: `"djEuMi4wOjE3OTU3MTgwNTc4NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-11-25T19:14:59+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1a54c41c5bf0448d97167f5bb66ebebd1666236f",
+      "title": "When will Burnham’s honeymoon end?",
+      "published_at": "2026-11-26T17:06:14+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/when-will-burnhams-honeymoon-end",
+      "description": "Energy bills are set to rise by 26% for millions of households from January. Andy Burnham and Chancellor John Healey have promised to give £100 to 20 million homes on 4 January. Will this be enough? Also, the PM has been striking a new deal with the EU, and welcoming influencers to Number 10. Tom McTague is joined by Ailbhe Rea to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1795712623592-0830f910-25d1-47ce-8550-b94a4e638903.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6b0860d5eebe11ac67722cba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47088117",
+      "itunes_duration": "49:02",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "honeymoon"
+      ]
+    },
     {
       "key": "2c6526cd329a2d6d455b73b485fc1eba33547499",
       "title": "Andy Burnham's rejoin dilemma",
@@ -33084,6 +33105,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — When will Burnham’s honeymoon end? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-11-23 — Andy Burnham's rejoin dilemma — speakers: Andy Burnham, Clement Attlee, Anoosh Chakelian, Oli Dugmore
 - 2026-11-21 — The wreckage of cut-price Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-11-19 — Can Labour save a lost generation? — speakers: Alan Milburn, Anoosh Chakelian, Oli Dugmore

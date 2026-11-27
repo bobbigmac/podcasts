@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-11-26T03:32:52+00:00`
-- checked_at: `2026-11-26T03:32:52+00:00`
-- last_modified: `Thu, 26 Nov 2026 00:00:06 GMT`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- last_modified: `Fri, 27 Nov 2026 01:34:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Assistant Producer: Jake Preston Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-26T03:32:52+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,33 @@
   ],
   "episodes": [
     {
+      "key": "0d4c454c06757558f121f3d855b087bb26e87e0f",
+      "title": "Inside JD Vance Country With Rory Stewart",
+      "published_at": "2026-11-27T00:05:00+00:00",
+      "link": null,
+      "description": "This week, Rory sits down to re-visit his discussion on JD Vance, following his Midterm trip through the factory towns of Ohio to the Appalachian Hills, where JD Vance was raised. He reflects on how these regions shaped the possible future President, what went wrong for the communities there and why it’s more important now than ever to understand Vance’s worldview, motivations and ambitions. You can listen to The Real JD Vance miniseries (recorded in June 2025) by joining the TRIP+ Club at therestispolitics.com . Find the rest of the series below: Episode One Episode Two Episode Three Episode Four Episode Five Episode Six _______________________________________ Executive Producer: Bella Soames Producer: India Dunkley Assistant Producer: Evie Townend Video Editor: Kieron Leslie _______________________________________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/007fa478-e9b3-11f1-b2f6-ffe3428430b9/image/5e352fb13098c9290f2f145b562751ef.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5697205698.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "684",
+      "speakers": [
+        "Rory Stewart",
+        "JD Vance"
+      ],
+      "topics": [
+        "vance",
+        "country",
+        "rory",
+        "stewart"
+      ]
+    },
+    {
       "key": "a2f06a95c80e365e3d47b87b61aaeb4a9b8a754e",
       "title": "592. The COP31 Farce, Social Media vs. Centrism, and the Return of Jensen Huang",
       "published_at": "2026-11-26T00:00:00+00:00",
       "link": null,
-      "description": "With COP31 ending without a major deal, does this signal a wider crisis for the UN and its consensus-based approach to international diplomacy? How has social media transformed the way we consume news, and how has Mishal’s experience of working in the media changed since leaving the BBC? How did Mishal keep her cool when Nigel Farage called her ‘love’, and what did she make of Elon Musk branding her an ‘NPC’? Rory is joined by Bloomberg’s editor-at-large, Mishal Husian to answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Thant Myint-U by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Give The Rest Is Politics Plus this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, early access, a members’ newsletter, and more. Annual gifts come with a special edition T-shirt. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: James Clayden, Bruno Di Castri Assistant Producer: Jake Preston Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With COP31 ending without a major deal, does this signal a wider crisis for the UN and its consensus-based approach to international diplomacy? How has social media transformed the way we consume news, and how has Mishal’s experience of working in the media changed since leaving the BBC? How did Mishal keep her cool when Nigel Farage called her ‘love’, and what did she make of Elon Musk branding her an ‘NPC’? Rory is joined by Mishal Husain, host of the Mishal Husain Show podcast, to answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Thant Myint-U by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Give The Rest Is Politics Plus this Christmas. Treat yourself or a fellow fan to a membership: bonus episodes, ad-free listening, early access, a members’ newsletter, and more. Annual gifts come with a special edition T-shirt. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: James Clayden, Bruno Di Castri Assistant Producer: Jake Preston Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone-images.spotifycdn.com/podcasts/784256e8-e8bb-11f1-9be8-b7fed31f6d24/image/79b0f4c4cbc18d9b5645456a4a70d6b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3503387897.mp3",
       "enclosure_type": "audio/mpeg",
@@ -13567,6 +13589,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Inside JD Vance Country With Rory Stewart — speakers: Rory Stewart, JD Vance
 - 2026-11-26 — 592. The COP31 Farce, Social Media vs. Centrism, and the Return of Jensen Huang — speakers: Jensen Huang
 - 2026-11-25 — 591. Burnham’s Brexit Rethink and the Return of the Rwanda Scheme
 - 2026-11-20 — What the West Got Wrong About Afghanistan and Syria — speakers: West Got Wrong About, Syria What

@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-11-26T16:52:24+00:00`
-- checked_at: `2026-11-26T16:52:24+00:00`
-- last_modified: `Thu, 26 Nov 2026 03:34:21 GMT`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- last_modified: `Fri, 27 Nov 2026 00:45:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-26T16:52:24+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0a30a1afca8b66d22b888fc32d20f6279e529de9",
+      "title": "S13 EP38: Grand Theft Auto VI",
+      "published_at": "2026-11-27T00:45:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... It's the release of grand Theft Auto VI and it's safe to say the guys have differing opinions on the game. If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. And now Footballing Hell is also available every Monday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7402445639.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2781",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto"
+      ]
+    },
     {
       "key": "c32f3f6093d3abd66e83b1c3b52a539634a5f28b",
       "title": "S13 EP37: Josh gets stuck behind a circus",
@@ -13406,6 +13427,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — S13 EP38: Grand Theft Auto VI — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-24 — S13 EP37: Josh gets stuck behind a circus — speakers: Rob Beckett, Josh Widdicombe
 - 2026-11-23 — ⚽ I've always rated Florian Wirtz ⚽ — speakers: Manchester United, Rob Beckett, Josh Widdicombe
 - 2026-11-20 — S13 EP36: It's the life we lead — speakers: Rob Beckett, Josh Widdicombe

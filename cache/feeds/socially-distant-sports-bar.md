@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- etag: `"djEuMi4wOjE3OTU1NjY3NTkyNDE="`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- etag: `"djEuMi4wOjE3OTU3Mzg4MzkyODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "9bac17091044ba7c44f3ff8179313dc06a2de113",
+      "title": "Can I Shock You? I love Chess!",
+      "published_at": "2026-11-27T00:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/can-i-shock-you-i-love-chess",
+      "description": "Welcome to the second half of this week's Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero. This week we're heading across the Irish Sea for a documentary that Mike reckons is worth the BBC licence fee on its own, before diving into a book about a world of sporting scandal, extraordinary egos and allegations of cheating. And it's all about chess. Yes, chess. And wait until you hear why Mike has suddenly developed such an interest in it. Documentary of the Week Mike: Hell for Leather — The Story of Gaelic Football Mike brings in the brilliant BBC documentary series Hell for Leather , exploring the extraordinary history of Gaelic football and its place in Irish life. From its rough-and-tumble origins to becoming one of Ireland's most beloved sports, the documentary explores the players, rivalries, communities and cultural identity that have shaped the game. But this is about much more than football. It's about Ireland, its history, its people and the extraordinary emotional connection between a sport and the communities that follow it. It's powerful, moving and occasionally completely bonkers. And according to Mike, it's worth the BBC licence fee on its own . Which is quite the endorsement from a man who has spent much of this week's podcast explaining why he doesn't need to prepare for things. https://www.bbc.co.uk/iplayer/episode/m002kt2b/hell-for-leather-the-story-of-gaelic-football-series-1-episode-1 Book of the Week Steff: Checkmate by Ben Mezrich Steff's choice is Checkmate , Ben Mezrich's extraordinary account of one of the biggest controversies in modern chess. In 2022, teenage American chess player Hans Niemann stunned the sporting world by defeating world champion Magnus Carlsen . What followed was an extraordinary scandal involving allegations of cheating, furious accusations, online investigations and some of the biggest personalities in the game. Niemann denied cheating in the match, but the controversy opened up an entire world of rivalry, money, power and technological intrigue. Mezrich explores how chess has transformed from a relatively niche pursuit into a global industry worth enormous sums of money, fuelled by streaming, sponsorship and online platforms. It's a remarkable story about ambition, obsession and the lengths people will go to in pursuit of victory. And for reasons that will become apparent during the discussion, Mike Bubbins has developed a sudden and quite unexpected interest in chess . Make of that what you will. https://www.amazon.co.uk/Checkmate-Scandal-Cheating-Billion-Dollar-Chess/dp/1035070456 Gaelic football. Chess scandals. And Mike Bubbins discovering a new passion. An unusually intellectual second half of The Socially Distant Sports Bar. That's it for the regular feed this week. But if you want more, Part 3, Thank Christ For The Flaming Goat , is available exclusively to Distant Pod Bonus Club subscribers on Apple Podcasts , along with early and advert-free episodes every Tuesday. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6b046468236627a44729fcc7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31535020",
+      "itunes_duration": "32:50",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "chess"
+      ]
+    },
     {
       "key": "47a5eaa38b67a70a0ea7d8441040542539ae4b1d",
       "title": "The Last Refuge of the Scoundrel",
@@ -16631,6 +16651,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Can I Shock You? I love Chess! — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-11-25 — The Last Refuge of the Scoundrel — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-22 — Eddie Abbew: Pint Size — speakers: Eddie Abbew, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-11-20 — One Team in Tallinn — speakers: One Team, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero

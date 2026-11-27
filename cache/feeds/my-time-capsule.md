@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-11-23T01:41:23+00:00`
-- checked_at: `2026-11-23T01:41:23+00:00`
-- etag: `"djEuMi4wOjE3OTUzOTIxNTkzMTM="`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- etag: `"djEuMi4wOjE3OTU3Mzc3NTkzMzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-11-23T01:41:23+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4c0e203ed093fff6a575e82aac8d34c1fa12d190",
+      "title": "My Time Capsule The Dig - Ep. 28 - With Rosie Holt (The Last Leg, The Russell Howard Hour, The News Quiz)",
+      "published_at": "2026-11-27T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-28-with-rosie-holt-the-last-leg-t",
+      "description": "Rosie Holt was our guest in episode 353 and she returns to have a chat about her old time capsule and let us know where she wants it buried! Rosie is a comedian, actor and writer best known for her viral internet videos skewering the political landscape since the pandemic, which have achieved more than 9 million views. She is the winner of the Chortle Social Media Award 2022 and her credits include Bridget Jones: Mad About the Boy, The Last Leg, The Russell Howard Hour and The News Quiz. Earlier this year she wrote and starred in the play Churchill's Urinal at The Kings Head, Islington, and her book Why We Were Right was published by Penguin in 2024. Also, Mike and his producer and son John discuss the Gautier Capuçon episode and interact with listeners via email and voice memos . Tickets for Rosie's tour, The Illegal Aliens Have Landed!, which runs across the UK between October 2026 and March 2027, are available here - https://rosieholt.co.uk/live . For everything else Rosie Holt, visit - rosieholt.co.uk . Listen to Rosie Holt's original episode - https://mytimecapsulepodcast.com/episodes?q=353 . Follow Rosie Holt on Instagram: @rosieisaholt . Get involved! Send The Dig an email or voice memo via https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram: @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people. To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1795696243695-003a2a01-4cf5-436f-9db4-c5efe27c6350.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6b082766f37086a127eefe01/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58580553",
+      "itunes_duration": "48:48",
+      "speakers": [
+        "Howard Hour",
+        "Rosie Holt"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "rosie",
+        "holt",
+        "russell",
+        "howard",
+        "hour",
+        "news",
+        "quiz"
+      ]
+    },
     {
       "key": "ceccfa511f15e9e91eb451bf9e633fe7c576be99",
       "title": "Ep. 615 - Gautier Capuçon - The world-renowned cellist behind Danny Elfman’s new concerto",
@@ -13968,6 +13995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — My Time Capsule The Dig - Ep. 28 - With Rosie Holt (The Last Leg, The Russell Howard Hour, The News Quiz) — speakers: Howard Hour, Rosie Holt
 - 2026-11-23 — Ep. 615 - Gautier Capuçon - The world-renowned cellist behind Danny Elfman’s new concerto — speakers: Danny Elfman, Gautier Capuçon
 - 2026-11-20 — My Time Capsule The Dig - Ep. 27 - With Charlie Baker (The Last Leg, Harry Hill’s Tea Time, Never Mind the Buzzcocks) — speakers: Charlie Baker, Harry Hill
 - 2026-11-16 — Ep. 614 - Fatma Said - Egyptian opera singer who’s one of the world’s top sopranos — speakers: Fatma Said Egyptian, Fatma Said

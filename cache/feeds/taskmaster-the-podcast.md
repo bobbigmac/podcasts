@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-11-20T02:18:09+00:00`
-- checked_at: `2026-11-20T02:18:09+00:00`
-- etag: `"e3dab-660a7d4bbe646"`
-- last_modified: `Thu, 19 Nov 2026 21:30:05 GMT`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- etag: `"e4e60-66134db462789"`
+- last_modified: `Thu, 26 Nov 2026 21:45:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-11-20T02:18:09+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5ecf1e857d66310c6db66775bafec352951bd821",
+      "title": "Taskmaster the Podcast *Best of Series 22* Part Two",
+      "published_at": "2026-11-26T21:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "Series 22 of Taskmaster has come to an end, so why not relive some of the best moments from the Taskmaster podcast with Ed! Here’s Part Two of our Series 22 highlights, featuring Armando Iannucci, Joanna Page, Joel Dommett, Nina Conti and, of course, our series winner, Chloe Petts! This compilation has all the best bits, including muffs that don’t fit and a hilarious revelation about Lewis Hamilton and Kim Kardashian. Join us next week for more Taskmaster highlights. In the meantime, visit Taskmaster.tv for all the latest news, and head to Channel 4 to catch up on any missed episodes. For even more Taskmaster content and behind-the-scenes action, head over to the Taskmaster YouTube channel.",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f69275e1-2fa6-4b83-aacd-b654b059f6f8.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=f69275e1-2fa6-4b83-aacd-b654b059f6f8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65099304",
+      "itunes_duration": "01:07:49",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "podcast",
+        "best",
+        "series"
+      ]
+    },
     {
       "key": "e935df78c6e7131d9c9d207b713bb7c244e9d841",
       "title": "Taskmaster the Podcast *Best of Series 22* Part One",
@@ -5860,6 +5880,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — Taskmaster the Podcast *Best of Series 22* Part Two — speakers: Ed Gamble
 - 2026-11-19 — Taskmaster the Podcast *Best of Series 22* Part One — speakers: Ed Gamble
 - 2026-11-12 — Taskmaster: The People's Podcast: Falling Into the Trap of Fun - S22, Ep. 10 — speakers: Ed Gamble
 - 2026-11-05 — *Series 22 Winner* Series 22 Ep 10 — speakers: Ed Gamble

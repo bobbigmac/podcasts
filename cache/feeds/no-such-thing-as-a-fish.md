@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-11-24T02:12:11+00:00`
-- checked_at: `2026-11-24T02:12:11+00:00`
-- etag: `W/"231fe702511da07d24e5f8d00d4dc281"`
-- last_modified: `Mon, 23 Nov 2026 00:00:00 GMT`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- etag: `W/"28e1f253d985e429bfd6144442e55bde"`
+- last_modified: `Thu, 26 Nov 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-11-24T02:12:11+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "31bed130d47a77d25e3f8373334f296ffcd33f2c",
+      "title": "No Such Thing As Mummery Mia",
+      "published_at": "2026-11-26T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8982005",
+      "description": "Isy Suttie joins James, Anna and Andy to discuss mumming, mapping and mausoleums. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43962509.png",
+      "enclosure_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8982005.mp3?modified=1795713193&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3613",
+      "speakers": [
+        "Mia Isy Suttie",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "mummery"
+      ]
+    },
     {
       "key": "27c229e3f6e7736c0abd06e5583172caa0d88875",
       "title": "Little Fish: Star-crossed blubber",
@@ -17568,6 +17591,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-26 — No Such Thing As Mummery Mia — speakers: Mia Isy Suttie, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-23 — Little Fish: Star-crossed blubber — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-19 — No Such Thing As An Oat Milk Newspaper — speakers: Maddie Moate, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-11-15 — Little Fish: I'm glad you asked — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

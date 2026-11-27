@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- last_modified: `Tue, 24 Nov 2026 11:33:21 GMT`
+- fetched_at: `2026-11-27T01:43:49+00:00`
+- checked_at: `2026-11-27T01:43:49+00:00`
+- last_modified: `Fri, 27 Nov 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Tom Davis and Romesh Ranganathan host the comedy podcast with no format whatsoever. Every Tuesday and Friday, Tom (The Wolf) and Romesh (The Owl) shoot the breeze about parenting, food and whatever is annoying them that week, then tackle your listener problems with advice that’s funny, occasionally useful and never qualified. Contains swearing because it’s really cool. “As shooting the breeze goes, Tom and Romesh are as good as it gets” - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-27T01:43:49+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9c79a3b08b00fb94930e52f9e2e4852fb237e63c",
+      "title": "Surprise Parties, Christmas Memories and A Guildford Show",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "link": null,
+      "description": "Why did Romesh want to renew his vows with Leesa? A listener got married ten years ago, but the day belonged to everyone except the couple. Now they want it back. Romesh has two ideas, and one of them is how he and Leesa did it: invite everyone to a party, then tell them what it really is. Tom and Rom also take on a Guildford fan who wants to know why Rom hates their town, and decide whether a calzone is a pizza or just a folded pie. Plus, in partnership with Argos, the boys and their listeners go back to the Christmas gifts they circled in the catalogue as kids, from the disposable camera to the waterproof Walkman. Find the full Christmas range at argos.co.uk or in the Argos app. A Ranga Bee Production. Chapters: 00:00 Intro 01:29 The great cauliflower steak debate 03:17 Why does Romesh hate Guildford? 06:29 Calzone vs pizza 11:53 Argos: nostalgic Christmas gifts 15:19 The waterproof Walkman 16:55 Nose blowing in restaurants 23:36 The wedding do-over 29:48 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone-images.spotifycdn.com/podcasts/33104a42-e7dc-11f1-90f9-6bb562aeba83/image/86da81dd92d867fca87927d174c6880f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT6433813586.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1958",
+      "speakers": [
+        "Guildford Show",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "surprise",
+        "parties",
+        "christmas",
+        "memories",
+        "guildford"
+      ]
+    },
     {
       "key": "6f1b49599a64c3396db8e38c12799d96a72c6636",
       "title": "Inside The Mind Of Romesh, Christmas Catalogue Memories and Why Johnny Vegas Is A Genius",
@@ -8057,6 +8081,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Surprise Parties, Christmas Memories and A Guildford Show — speakers: Guildford Show, Romesh Ranganathan, Tom Davis
 - 2026-11-24 — Inside The Mind Of Romesh, Christmas Catalogue Memories and Why Johnny Vegas Is A Genius — speakers: Tom Made, Romesh Ranganathan, Tom Davis
 - 2026-11-20 — Traitors Q&A: Celeb Tactics, Olbas Oil & Ross Kemp — speakers: Romesh Ranganathan, Tom Davis
 - 2026-11-17 — The Traitors Special: James Blunt’s Banishment and The Final Fire Pit — speakers: James Blunt’s Banishment, Romesh Ranganathan, Tom Davis
