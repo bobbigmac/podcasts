@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- etag: `"djEuMi4wOjE3OTU1ODAxMzkyOTc="`
+- fetched_at: `2026-11-27T12:14:54+00:00`
+- checked_at: `2026-11-27T12:14:54+00:00`
+- etag: `"djEuMi4wOjE3OTU3NTMyMzkyOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-27T12:14:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3a4e0855e5f808ff1963cc8f82c5693ad2fd85cf",
+      "title": "MICHAEL VENOM PAGE (MMA free agent) • Friday Rewind",
+      "published_at": "2026-11-27T04:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with MICHAEL VENOM PAGE , originally episode 239 from 2018-11-14. Original writeup: Of course, MMA heads by now will just be clicking or tapping that download button without reading any further, but for those of you perhaps less familiar, you are also in for a real treat. MVP is an awe inspiring fighter, and for even the fairest weather fans of mixed martial arts his skill will dazzle you. With a unique style and mad victory set pieces, he’s become full on notorious in the sport and here he gets a good chance to catch up with Pip on all aspects, including the swiftness of the MMA universe, how he wants people to stick around for the whole thing - not just him, how you can enjoy and absorb so much more in MMA when you educate yourself on the moves, his family being into early kung fu film classics (must be some Wu Tang or 36 Chambers action in there somewhere), how hard it would be to transition to MMA from boxing, focusing on his strengths in training to catapult him to success, sprawl and brawl, having faith in his coach, being present in a fight and not studying tapes, how trash talk only works if it’s your true self talking it, being true to your personality, and everything else in between - including those amazing victory set pieces (as well as the full background behind the Pokemon one!). Inspiring talk from a positive and encouraging voice - a whole lot to enjoy. • NOTE! The sound isn't quite as sparkly as it could be, due to this being a backup recording. It's as polished as possible, but there are intrusive noises at points... PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM (links within) PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1795449720251-f0f6bb9b-2205-4561-89a5-f55120a7c848.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6b046563236627a4472ab1fa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "211229384",
+      "itunes_duration": "1:27:55",
+      "speakers": [],
+      "topics": [
+        "michael",
+        "venom",
+        "page",
+        "agent",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "9685b96e3746fd514377b8ad68c487cb78483537",
       "title": "BEST XMAS FILMS EVER • with JACK SPRING & JOHN BRADLEY! (Merry Christmas Aubrey Flint) #697",
@@ -20060,6 +20081,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — MICHAEL VENOM PAGE (MMA free agent) • Friday Rewind
 - 2026-11-25 — BEST XMAS FILMS EVER • with JACK SPRING & JOHN BRADLEY! (Merry Christmas Aubrey Flint) #697 — speakers: Merry Christmas Aubrey Flint
 - 2026-11-20 — ROBERT EGGERS (Nosferatu / The Lighthouse / The VVitch) • Friday Rewind — speakers: Robert Eggers
 - 2026-11-18 — NOTHING BUT LOVE • Spreading joy and love, one event at a time (links in description!) #696

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-11-26T03:32:52+00:00`
-- checked_at: `2026-11-26T03:32:52+00:00`
-- etag: `"djEuMi4wOjE3OTU2NjIwMzk2Mzk="`
+- fetched_at: `2026-11-27T12:14:54+00:00`
+- checked_at: `2026-11-27T12:14:54+00:00`
+- etag: `"djEuMi4wOjE3OTU3NjU3Mjg0MDY="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-11-26T03:32:52+00:00",
+  "fetched_at": "2026-11-27T12:14:54+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,31 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "722adb1d61dc52dde6bdd495e8338b2b365fb71c",
+      "title": "S17 Ep 931 Listener’s Mailbag: A Japanese Chatabiscuit & Dog Crate Advice",
+      "published_at": "2026-11-27T03:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s17-ep-931-listeners-mailbag-a-japanese-chatabiscuit-dog-cra",
+      "description": "We kick off today’s Mailbag with a question about Joe’s thoughts on the footballer James Brophy and an update from a lovely Japanese Chatabiscuit. Then there’s messages about nightclubs, rented offices, swingers venues, Padel courts, some well-meaning dog crate advice and a load more funny names. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6b07027fda97641065ea790a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32961515",
+      "itunes_duration": "34:20",
+      "speakers": [
+        "James Brophy",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "japanese",
+        "chatabiscuit",
+        "crate",
+        "advice"
+      ]
+    },
     {
       "key": "264020337e720bacc142d7177c3f53f34b291363",
       "title": "S17 Ep 930: Small Dogs and Short Films",
@@ -16897,6 +16922,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — S17 Ep 931 Listener’s Mailbag: A Japanese Chatabiscuit & Dog Crate Advice — speakers: James Brophy, Joe Wilkinson, David Earl
 - 2026-11-26 — S17 Ep 930: Small Dogs and Short Films — speakers: Small Dogs, Joe Wilkinson, David Earl
 - 2026-11-25 — S17 Ep 929: Two Good Moods - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-11-24 — S17 Ep 928: Two Good Moods - Part 1 — speakers: Joe Wilkinson, David Earl

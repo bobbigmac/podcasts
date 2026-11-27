@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- etag: `"djEuMi4wOjE3OTU1NzkwNTk1MDg="`
+- fetched_at: `2026-11-27T12:14:54+00:00`
+- checked_at: `2026-11-27T12:14:54+00:00`
+- etag: `"djEuMi4wOjE3OTU3NTE4NTkyNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-27T12:14:54+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,36 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7e72b6a20d1db191801f4d26c5cd4ce145f31c31",
+      "title": "Laurence Marks and Maurice Gran on Goodnight Sweetheart - Many Happy Returns - Book Club",
+      "published_at": "2026-11-27T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #203 - Goodnight Sweetheart - Many Happy Returns - Rich chats to the men behind some of the country’s best loved sitcoms, Marks and Gran, about their new novelisation of Goodnight Sweetheart. They talk about how the book came about, why the BBC might not have gone ahead with a new series when they had the chance and how they kickstarted this book, the challenge of getting all the backers’ names into the story (including Richard’s) and the serendipity of Gary having to travel from the early 60s to 2016 and back in this incarnation. They also chat about the differences between writing a sitcom and a novel, why this lets us delve further into the brain of Gary Sparrow, whether Gary is a baddie or we forgive him because we’re all lying our way through our lives, will there will be more novels in the future and if so how will they get out of the substantial cliffhanger and some lovely writerly griping about the state of the industry from all participants. Buy the book here - https://idiotboxbooks.com/product/goodnight-sweetheart-many-happy-returns-paperback/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1795697933208-e4236a73-7112-46d9-a597-4cab1eb6af30.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6b082ce837fa8fa0c40c8c8f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22085799",
+      "itunes_duration": "46:00",
+      "speakers": [
+        "Laurence Marks",
+        "Maurice Gran",
+        "Goodnight Sweetheart Many Happy",
+        "Goodnight Sweetheart",
+        "Richard Herring"
+      ],
+      "topics": [
+        "laurence",
+        "marks",
+        "maurice",
+        "gran",
+        "goodnight",
+        "sweetheart",
+        "returns",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "e068d0b0700657debde8a1d433b196893e748dd4",
       "title": "James Acaster - \"Unlikely Sex Symbol\"",
@@ -24801,6 +24831,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Laurence Marks and Maurice Gran on Goodnight Sweetheart - Many Happy Returns - Book Club — speakers: Laurence Marks, Maurice Gran, Goodnight Sweetheart Many Happy, Goodnight Sweetheart, Richard Herring
 - 2026-11-25 — James Acaster - "Unlikely Sex Symbol" — speakers: James Acaster, Leicester Square, Richard Herring
 - 2026-11-23 — Ben Willbond and Larry Rickard (Retro) - "Missing Mr Tod" — speakers: Ben Willbond, Larry Rickard, Richard Herring
 - 2026-11-21 — Rich and Ally's Craven Newsround Compilation - "Papal Bean" — speakers: Richard Herring

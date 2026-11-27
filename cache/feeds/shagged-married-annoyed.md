@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-11-25T08:30:35+00:00`
-- checked_at: `2026-11-25T08:30:35+00:00`
-- last_modified: `Wed, 25 Nov 2026 05:01:34 GMT`
+- fetched_at: `2026-11-27T12:14:54+00:00`
+- checked_at: `2026-11-27T12:14:54+00:00`
+- last_modified: `Fri, 27 Nov 2026 04:36:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone-images.spotifycdn.com/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-11-25T08:30:35+00:00",
+  "fetched_at": "2026-11-27T12:14:54+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7601af0c2ef9d56fb462058f5b41be0601d35661",
+      "title": "If you can't have a laugh in a marriage, what's the point?",
+      "published_at": "2026-11-27T04:30:00+00:00",
+      "link": null,
+      "description": "On this week’s Shagged Married Annoyed, Chris and Rosie are joined by a very special third host… Bear the Dog! They get into steamed-up windscreens, backseat drivers and Chris’s genius life hack for getting out of social plans. Rosie adds an unnecessary L to a well-known word, there are tour tales, Rafe has given himself a superhero name, and we have proof that Chris’s catchphrase is finally catching on! All this, plus some brilliant stories from you lovely SMAs and DAs that include juice measuring, safety announcements, an injury at Chris's gig and some crazy homemade remedies! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2020431409.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3241",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "laugh",
+        "marriage",
+        "point"
+      ]
+    },
     {
       "key": "e408872fab541efb2aaa52b284e61b1e388e221e",
       "title": "Please Keep Me Anonymous with Anton Du Beke",
@@ -9609,6 +9630,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — If you can't have a laugh in a marriage, what's the point? — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-11-25 — Please Keep Me Anonymous with Anton Du Beke — speakers: Anton Du Beke, Chris Ramsey, Rosie Ramsey
 - 2026-11-20 — Hasta Leugo B*tches — speakers: Hasta Leugo, Chris Ramsey, Rosie Ramsey
 - 2026-11-18 — Please Keep Me Anonymous with Katherine Ryan — speakers: Katherine Ryan, Chris Ramsey, Rosie Ramsey

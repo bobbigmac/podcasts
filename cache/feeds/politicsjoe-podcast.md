@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-20T20:15:13+00:00`
-- checked_at: `2026-11-20T20:15:13+00:00`
-- etag: `"djEuMi4wOjE3OTUxNzk2MzkzNjQ="`
+- fetched_at: `2026-11-27T12:14:54+00:00`
+- checked_at: `2026-11-27T12:14:54+00:00`
+- etag: `"djEuMi4wOjE3OTU3ODAxNTQxOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-20T20:15:13+00:00",
+  "fetched_at": "2026-11-27T12:14:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
