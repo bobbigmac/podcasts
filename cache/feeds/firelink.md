@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-11-21T10:59:05+00:00`
-- checked_at: `2026-11-21T10:59:05+00:00`
-- etag: `W/"43b7a-Z9f2j4Nja4gRNI6lyNKH1puaEEw"`
+- fetched_at: `2026-11-27T21:18:59+00:00`
+- checked_at: `2026-11-27T21:18:59+00:00`
+- etag: `W/"43b7a-GHY1FpLqFlMu1MllDsEePXqd9F8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-11-21T10:59:05+00:00",
+  "fetched_at": "2026-11-27T21:18:59+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",

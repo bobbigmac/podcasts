@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-11-27T12:14:54+00:00`
-- checked_at: `2026-11-27T12:14:54+00:00`
-- etag: `"djEuMi4wOjE3OTU3ODAxNTQxOTQ="`
+- fetched_at: `2026-11-27T21:18:59+00:00`
+- checked_at: `2026-11-27T21:18:59+00:00`
+- etag: `"djEuMi4wOjE3OTU3ODQ0Mzk0Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
-  "fetched_at": "2026-11-27T12:14:54+00:00",
+  "fetched_at": "2026-11-27T21:18:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c9bedd4c97ac1c9088d42c5db391b6daccd81dff",
+      "title": "Save The NHS From Palantir | Martin Wrigley interview",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6b096d62079ab0810c12a479",
+      "description": "Is Palantir failing to deliver on its promises to the NHS and police, and why is the UK government so determined to keep using the controversial American tech company? Martin Wrigley, Lib Dem MP and a long-standing campaigner against Palantir, joins PoliticsJOE to examine the company's growing influence over Britain's public services, its controversial NHS Federated Data Platform contract and the questions surrounding its relationship with successive UK governments. We also discuss Peter Thiel's close connections to Donald Trump and JD Vance, the secret 2019 meeting between Thiel, Boris Johnson and Dominic Cummings, and the unanswered questions surrounding the company's growing access to British government. Plus, what does Tom Watson's appointment to Palantir mean for the relationship between big tech, the Labour Party and Westminster? And should the NHS renew its contract with Palantir? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1793119209864-c86cf94d-e840-4066-bd7e-622222d75212.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6b096d62079ab0810c12a479/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37562053",
+      "itunes_duration": "26:04",
+      "speakers": [
+        "Martin Wrigley"
+      ],
+      "topics": [
+        "palantir",
+        "martin",
+        "wrigley"
+      ]
+    },
     {
       "key": "d2e14a12fdff809e3a932060b22eca1ece3816d3",
       "title": "Britain’s working class has been erased | Alexei Sayle interview",
@@ -14211,6 +14231,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Save The NHS From Palantir | Martin Wrigley interview — speakers: Martin Wrigley
 - 2026-11-20 — Britain’s working class has been erased | Alexei Sayle interview — speakers: Alexei Sayle
 - 2026-11-18 — Labour’s Plan to Get You a Job | Going Deep on the Milburn Report — speakers: Going Deep
 - 2026-11-17 — Why are Brits Obsessed with Class? With Ipsos

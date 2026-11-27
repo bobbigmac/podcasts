@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-11-27T12:14:54+00:00`
-- checked_at: `2026-11-27T12:14:54+00:00`
-- etag: `W/"6f392-XSQnQx1T9VLzSBrZoMrNa/R9BJg"`
+- fetched_at: `2026-11-27T21:18:59+00:00`
+- checked_at: `2026-11-27T21:18:59+00:00`
+- etag: `W/"6f1f8-Ka2s6sdHSraoMRBP96rLupZDxe0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-11-27T12:14:54+00:00",
+  "fetched_at": "2026-11-27T21:18:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "413a3847cac553c766019c94fb6f7b7c99fe995c",
+      "title": "Karl Pilkington's Funniest Theories Compilation",
+      "published_at": "2026-11-27T19:57:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Karl-Pilkingtons-Funniest-Theories-Compilation-e3t4meo",
+      "description": "NEW RSK FEED: https://open.spotify.com/episode/5r5JQIrfaRe7Oal3aLQYqq?si=sf0fwObJTXK8ku-ZOJ7wfw",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1795802589491-1f4b22debc619.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7427298064.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69873828",
+      "itunes_duration": "01:12:00",
+      "speakers": [
+        "Karl Pilkington"
+      ],
+      "topics": [
+        "karl",
+        "pilkington",
+        "funniest",
+        "theories",
+        "compilation"
+      ]
+    },
     {
       "key": "8edcc1477496dac5993c57a4878b301c86737f71",
       "title": "24 Adam and Joe - XFM - 2005.03.12 (Adam Buxton & Joe Cornish)",
@@ -3162,28 +3184,6 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "75756581",
       "itunes_duration": "01:18:04",
-      "speakers": [
-        "Russell Howard",
-        "Jon Richardson"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "ceb0fbf5c7890130af28a8af33640476219980f2",
-      "title": "#15 Russell Howard & Jon Richardson Podcast Episode 15",
-      "published_at": "2026-08-14T14:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/15-Russell-Howard--Jon-Richardson-Podcast-Episode-15-e3ncbkb",
-      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786647394141-61fcc30581ce9.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO8960984399.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "76854628",
-      "itunes_duration": "01:19:12",
       "speakers": [
         "Russell Howard",
         "Jon Richardson"
@@ -6686,6 +6686,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — Karl Pilkington's Funniest Theories Compilation — speakers: Karl Pilkington
 - 2026-11-26 — 24 Adam and Joe - XFM - 2005.03.12 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm, Joe Cornish
 - 2026-11-26 — 23 Adam and Joe - XFM - 2005.03.05 (Adam Buxton & Joe Cornish) — speakers: Joe Xfm
 - 2026-11-25 — Fall Asleep to Karl Pilkington, Ricky Gervais & Stephen Merchant - Level Audio — speakers: Karl Pilkington, Stephen Merchant Level Audio
@@ -6833,7 +6834,6 @@
 - 2026-08-17 — #17 Russell Howard & Jon Richardson Podcast Episode 17 — speakers: Russell Howard, Jon Richardson
 - 2026-08-16 — #16 Russell Howard & Jon Richardson Podcast Episode 16 — speakers: Russell Howard, Jon Richardson
 - 2026-08-15 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
-- 2026-08-14 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
 - 2026-08-14 — #14 Russell Howard & Jon Richardson Podcast Episode 14 — speakers: Russell Howard, Jon Richardson
 - 2026-08-14 — #13 Russell Howard & Jon Richardson Podcast Episode 13 — speakers: Russell Howard, Jon Richardson
 - 2026-08-13 — #12 Russell Howard & Jon Richardson Podcast Episode 12 — speakers: Russell Howard, Jon Richardson

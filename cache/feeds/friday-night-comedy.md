@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-11-20T20:15:13+00:00`
-- checked_at: `2026-11-20T20:15:13+00:00`
-- etag: `"350cca59c92017bb302df936db8f2073"`
-- last_modified: `Fri, 20 Nov 2026 19:00:04 GMT`
+- fetched_at: `2026-11-27T21:18:59+00:00`
+- checked_at: `2026-11-27T21:18:59+00:00`
+- etag: `"5f4ec2ee97d0eb98dcbb32f2a442b713"`
+- last_modified: `Fri, 27 Nov 2026 19:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-11-20T20:15:13+00:00",
+  "fetched_at": "2026-11-27T21:18:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "920d4b5284cb7a2e6b01e12efc4cb407e21f2a86",
+      "title": "The Naked Week 3. Milburn's Mines and a Shenzhen Shindig",
+      "published_at": "2026-11-27T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pp1bhl",
+      "description": "From host Andrew Hunter Murray and The Skewer's Jon Holmes, The Naked Week team are back with their satirically mischievous machinations on the week's news. This week, they're joined by Guest Correspondent Katie Norris who only agreed because we told her it was The News Quiz. This week we hit the gym, throw a party, and send Britain’s children down the salt mines. Host: Andrew Hunter Murray Guest Correspondent: Katie Norris Guest Party Planner: Tilly Sutherland-Young Investigations Team: Cat Neilan Mark Little With thanks to Dr Annie de Bray (University of Birmingham) Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Alice Bright Kevin Smith Cooper Mawhinny Sweryt Joe Topping Clip Wrangler: David Riffkin Production Coordinator: Eddie Atkinson Assistant Producer: Katie Sayer Executive Producer: Richard Danbury Live Sound: Jerry Peal Post Sound: Tony Churnside Produced and Directed by Jon Holmes An unusual production for BBC Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pp4bz2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26848000",
+      "itunes_duration": "1678",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "naked",
+        "week",
+        "milburn",
+        "mines",
+        "shenzhen",
+        "shindig"
+      ]
+    },
     {
       "key": "5a783709263f61bdb884b1d409ca8c4f40c11148",
       "title": "The Naked Week 2. I'm A Celebrity Get Me Into Jail",
@@ -5473,32 +5497,6 @@
         "sooz",
         "kempner"
       ]
-    },
-    {
-      "key": "5de969fa0d8b3114e8639e1ba2d7a8105d73d9d4",
-      "title": "The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies",
-      "published_at": "2021-11-26T19:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0b6lj0x",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in the BBC's Radio Theatre in front of a remote audience. Joining them from a safe distance is Athena Kugblenu taking on MPs wages, and Geoff Norcott on must-see TV. This week's music is supplied by Huge Davies. Voice Actors: Emma Sidi and Jason Forbes Producer: Rajiv Karia Production Co-Ordinator: Sarah Sharpe BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b6ldt9.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26720000",
-      "itunes_duration": "1670",
-      "speakers": [
-        "Geoff Norcott",
-        "Steve Punt"
-      ],
-      "topics": [
-        "november",
-        "feat",
-        "athena",
-        "kugblenu",
-        "geoff",
-        "norcott",
-        "huge",
-        "davy"
-      ]
     }
   ]
 }
@@ -5507,6 +5505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-11-27 — The Naked Week 3. Milburn's Mines and a Shenzhen Shindig — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-20 — The Naked Week 2. I'm A Celebrity Get Me Into Jail — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-13 — The Naked Week 1. Up The Injunction — speakers: Andrew Hunter Murray, Jon Holmes
 - 2026-11-06 — The Matt Forde Focus Group: The Politics of Trick-or-Treat (Halloween Special) — speakers: Halloween Special
@@ -5767,4 +5766,3 @@
 - 2021-12-17 — Dead Ringers - Christmas Specials 2021 - Episode 2 — speakers: Dead Ringers Christmas Specials
 - 2021-12-10 — Dead Ringers - Christmas Specials 2021 - Episode 1 — speakers: Dead Ringers Christmas Specials
 - 2021-12-03 — The Now Show - 3rd December - feat Janine Harouni, Jamie MacDonald, Tim Sutton and Sooz Kempner — speakers: Janine Harouni, Jamie MacDonald, Tim Sutton, Steve Punt
-- 2021-11-26 — The Now Show - 26th November - feat Athena Kugblenu, Geoff Norcott, and Huge Davies — speakers: Geoff Norcott, Steve Punt
